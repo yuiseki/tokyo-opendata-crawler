@@ -1,0 +1,1 @@
+curl -s https://catalog.data.metro.tokyo.lg.jp/api/3/action/package_list|jq ".result[`shuf -i 0-4069 -n 1`]" | xargs -I{} curl -s "https://catalog.data.metro.tokyo.lg.jp/api/3/action/package_show?id={}" | jq '.result.title'
