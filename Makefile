@@ -14,4 +14,4 @@ $(DATADIR)/resource_list.json:
 	curl -s $(CATALOG_ENDPOINT)/action/resource_search?query=name: | jq . > $(DATADIR)/resource_list.json
 
 $(DATADIR)/resource_url_list.csv:
-	cat $(DATADIR)/resource_list.json | jq -r '.result.results[] | [.package_id, .url, .name, .description] | @csv' > $(DATADIR)/resource_url_list.csv
+	cat $(DATADIR)/resource_list.json | jq -r '.result.results[] | [.id, .package_id, .url, .name, .description] | @csv' > $(DATADIR)/resource_url_list.csv
