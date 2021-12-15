@@ -22,8 +22,8 @@ $(DATADIR)/404_url_list.csv:
 $(DATADIR)/404_resource_list.csv:
 	cat $(DATADIR)/404_url_list.csv | cut -d ',' -f 2 | xargs -I{} grep {} $(DATADIR)/resource_url_list.csv > $(DATADIR)/404_resource_list.csv
 
-# 動作未確認
+# TODO: groupsやtagsも適切に保存したい
 $(DATADIR)/404_package_info.csv:
-	cat $(DATADIR)/404_resource_list.csv | head -n 10 | cut -d ',' -f 2 | xargs -t -I{} curl -s $(CATALOG_ENDPOINT)/action/package_show?id={} | \
-		jq -r '.result | [.id, (.organization.title|gsub("\r\n"; " ")), (.maintainer|gsub("\r\n"; " ")), (.organization.description|gsub("\r\n"; " ")), (if .groups then .groups |= join(":") else .groups = "," end), if .tags then .tags |= join(":") else .tags = "," end | @csv' > $(DATADIR)/404_package_info_10000.csv
+	cat $(DATADIR)/404_resource_list.csv | cut -d ',' -f 2 | xargs -t -I{} curl -s $(CATALOG_ENDPOINT)/action/package_show?id={} | \
+		jq -r '.result | [.id, (.organization.title|gsub("\r\n"; " ")), (.maintainer|gsub("\r\n"; " ")), (.organization.description|gsub("\r\n"; " "))] | @csv' > $(DATADIR)/404_package_info.csv
 
