@@ -23,7 +23,6 @@ $(DATADIR)/packages.txt:
 $(DATADIR)/domains.txt:
 	cat $(DATADIR)/resource_url_list.csv | cut -d ',' -f 3 | cut -d/ -f 3 | sort | uniq > $(DATADIR)/domains.txt
 
-# TODO: groupsやtagsも適切に保存したい
 # 全packageのid, organization, maintainer
 data/packages/finished.txt:
 	mkdir -p data/packages
