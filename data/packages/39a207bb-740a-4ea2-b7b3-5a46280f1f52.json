@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "総合調整部",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "39a207bb-740a-4ea2-b7b3-5a46280f1f52",
+    "metadata_created": "2019-11-01T04:53:26.128910",
+    "metadata_modified": "2019-11-01T05:44:30.030658",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "リオ大会における出張経費の内訳です。",
+        "name": "リオ大会における出張経費の内訳について＜オリンピック期間　平成28年7月31日～8月26日＞",
+        "format": "CSV",
+        "url": "http://www.2020games.metro.tokyo.jp/962859d3d8c28032a2201300d2e1c8db_1.csv",
+        "cache_last_updated": null,
+        "package_id": "39a207bb-740a-4ea2-b7b3-5a46280f1f52",
+        "created": "2018-10-04T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-10-04T15:00:00",
+        "position": 0,
+        "revision_id": "16536a9a-088b-4a1a-ad90-3da332c7b803",
+        "url_type": null,
+        "id": "e945dd87-c787-468e-8a89-d5528018284a",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "リオ大会における出張経費の内訳です。",
+        "name": "リオ大会における出張経費の内訳について＜パラリンピック期間　平成28年9月2日～21日＞",
+        "format": "CSV",
+        "url": "http://www.2020games.metro.tokyo.jp/962859d3d8c28032a2201300d2e1c8db_2.csv",
+        "cache_last_updated": null,
+        "package_id": "39a207bb-740a-4ea2-b7b3-5a46280f1f52",
+        "created": "2018-10-04T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-10-04T15:00:00",
+        "position": 1,
+        "revision_id": "bd11cea7-5184-469c-8a2c-c46b5fe6782e",
+        "url_type": null,
+        "id": "7266c712-d260-4bea-8554-982bc1a29268",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "オリンピック・パラリンピック",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c009.png",
+        "title": "オリンピック・パラリンピック",
+        "id": "4e11ae7b-55ad-44ce-8ec3-dc7205cc78f6",
+        "name": "c009"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.2020games.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.403001",
+      "title": "東京都オリンピック・パラリンピック準備局",
+      "name": "t000007",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000007.jpg",
+      "revision_id": "90a115f6-e18a-495c-a51b-39ca62c7108c",
+      "type": "organization",
+      "id": "1a6c3963-f987-4d8a-9a29-eafa99c7a0f1",
+      "approval_status": "approved"
+    },
+    "name": "t000007d1700000004",
+    "isopen": true,
+    "url": "",
+    "notes": "【東京都オリンピック・パラリンピック準備局]リオ2016大会での取組についての資料です。",
+    "owner_org": "1a6c3963-f987-4d8a-9a29-eafa99c7a0f1",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "リオ2016大会での取組について",
+    "revision_id": "996b4da6-ac3e-4f2b-b5cc-b33042eacd76"
+  }
+}

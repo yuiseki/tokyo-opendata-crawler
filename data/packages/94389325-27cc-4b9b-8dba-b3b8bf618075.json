@@ -1,0 +1,122 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "環境改善部自動車環境課 ",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "94389325-27cc-4b9b-8dba-b3b8bf618075",
+    "metadata_created": "2019-11-01T04:53:46.851897",
+    "metadata_modified": "2021-02-03T08:59:31.837999",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "○実施箇所：８４箇所（主要幹線道路、市場付近、都庁周辺等）",
+        "name": "平成３１年度_路上・物流拠点等での取締り調査結果（令和２年３月末日現在）",
+        "format": "CSV",
+        "url": "https://www.kankyo.metro.tokyo.lg.jp/vehicle/air_pollution/diesel/index.files/H31torishimari_1.csv",
+        "cache_last_updated": null,
+        "package_id": "94389325-27cc-4b9b-8dba-b3b8bf618075",
+        "created": "2019-04-11T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-04-11T15:00:00",
+        "position": 0,
+        "revision_id": "5ce9d82d-aa5d-4994-b830-513507cbc82b",
+        "url_type": null,
+        "id": "e1d45fe4-492d-4916-b3e4-6c3975cf6516",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "○取締期間 平成１５年１０月１日～平成３０年３月３１日　○延べ実施箇所 １，４９２箇所（主要幹線道路、市場付近、都庁周辺等）",
+        "name": "（参考）述べ調査台数等",
+        "format": "CSV",
+        "url": "https://www.kankyo.metro.tokyo.lg.jp/vehicle/air_pollution/diesel/index.files/H31torishimari_2.csv",
+        "cache_last_updated": null,
+        "package_id": "94389325-27cc-4b9b-8dba-b3b8bf618075",
+        "created": "2019-04-11T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-04-11T15:00:00",
+        "position": 1,
+        "revision_id": "f7f63525-990c-45e8-9821-bf4a07923ee2",
+        "url_type": null,
+        "id": "98931fc2-7ea7-4ca5-be25-25ff256bb9cb",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "交通情報",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c013.png",
+        "title": "交通情報",
+        "id": "38323541-753d-4230-b2dd-d9eb367ae5ed",
+        "name": "c013"
+      },
+      {
+        "display_name": "環境",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c012.png",
+        "title": "環境",
+        "id": "427f3ee0-b28a-4fd2-b7dc-980507f154d2",
+        "name": "c012"
+      },
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.kankyo.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.710014",
+      "title": "東京都環境局",
+      "name": "t000009",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "a0bf6c30-64dc-48fe-9782-e38ae248a38d",
+      "type": "organization",
+      "id": "c8b93db3-9754-48d3-8b50-5cbe78d679e7",
+      "approval_status": "approved"
+    },
+    "name": "t000009d1800000009",
+    "isopen": true,
+    "url": "http://www.kankyo.metro.tokyo.jp/vehicle/air_pollution/diesel/index.html",
+    "notes": "【東京都環境局】（参考）述べ調査台数等",
+    "owner_org": "c8b93db3-9754-48d3-8b50-5cbe78d679e7",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": ""
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "違反ディーゼル車取締りの状況",
+    "revision_id": "6627c2c4-282f-4eda-ac29-6319cb371cce"
+  }
+}

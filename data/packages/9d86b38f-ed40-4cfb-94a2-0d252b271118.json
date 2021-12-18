@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "選挙課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "9d86b38f-ed40-4cfb-94a2-0d252b271118",
+    "metadata_created": "2019-11-01T04:56:15.334421",
+    "metadata_modified": "2019-11-01T08:32:00.569155",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "年代別・選挙別推定投票率一覧（昭和51年12月5日以降）（Excelファイル）",
+        "format": "XLS",
+        "url": "http://www.senkyo.metro.tokyo.jp/uploads/senkyobetsu_suitei_ichiran.xls",
+        "cache_last_updated": null,
+        "package_id": "9d86b38f-ed40-4cfb-94a2-0d252b271118",
+        "created": "2017-09-28T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-09-28T15:00:00",
+        "position": 0,
+        "revision_id": "25d29f78-729f-444f-8a8f-844a3bcc1b12",
+        "url_type": null,
+        "id": "1016b21a-a108-4a1f-9e0b-4a158d1879b6",
+        "resource_type": null,
+        "size": 50176
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "年代別・選挙別推定投票率一覧（昭和51年12月5日以降）（CSVファイル）",
+        "format": "CSV",
+        "url": "http://www.senkyo.metro.tokyo.jp/uploads/senkyobetsu_suitei_ichiran.csv",
+        "cache_last_updated": null,
+        "package_id": "9d86b38f-ed40-4cfb-94a2-0d252b271118",
+        "created": "2017-09-28T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-09-28T15:00:00",
+        "position": 1,
+        "revision_id": "91d0ff53-d3f3-4d8d-abea-0e6ce161a2e1",
+        "url_type": null,
+        "id": "2f28a585-9973-40ef-94c8-cee50eea0e2f",
+        "resource_type": null,
+        "size": 8192
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.senkyo.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:22.908491",
+      "title": "東京都選挙管理委員会事務局",
+      "name": "t000023",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "51e026be-6d4c-43bd-ae76-d84805440a07",
+      "type": "organization",
+      "id": "86f1375a-d3c8-4eef-9df0-c4864ee7e3af",
+      "approval_status": "approved"
+    },
+    "name": "t000023d0000000001",
+    "isopen": true,
+    "url": "http://www.senkyo.metro.tokyo.jp/election/nendaibetuchousa/",
+    "notes": "【東京都選挙管理委員会事務局】",
+    "owner_org": "86f1375a-d3c8-4eef-9df0-c4864ee7e3af",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "年代別・選挙別推定投票率一覧（昭和51年12月5日以降）",
+    "revision_id": "d1662f87-a46c-4283-a949-c43487b3ecfb"
+  }
+}

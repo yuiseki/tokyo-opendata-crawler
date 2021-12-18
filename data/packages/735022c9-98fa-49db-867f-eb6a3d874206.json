@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "都市基盤部都市計画課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "735022c9-98fa-49db-867f-eb6a3d874206",
+    "metadata_created": "2021-12-15T00:22:47.664678",
+    "metadata_modified": "2021-12-15T00:23:01.678763",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "生産緑地地区一覧",
+        "format": "CSV",
+        "url": "https://www.city.tokyo-nakano.lg.jp/dept/107000/d027582_d/fil/131148_seisanryokuti.csv",
+        "cache_last_updated": null,
+        "package_id": "735022c9-98fa-49db-867f-eb6a3d874206",
+        "created": "2021-11-16T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-11-16T15:00:00",
+        "position": 0,
+        "revision_id": "0e99637b-79d7-4f71-a5a9-a4a985e8cce9",
+        "url_type": null,
+        "id": "9875726d-f232-4256-9e63-4f665d8dca90",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.tokyo-nakano.lg.jp/",
+      "created": "2019-11-01T03:27:25.195268",
+      "title": "中野区",
+      "name": "t131148",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131148.jpg",
+      "revision_id": "6d6159b5-afb0-416b-b34f-be8cfa10c02c",
+      "type": "organization",
+      "id": "5e5b6123-ee7e-4097-9e26-dae0bcdb457c",
+      "approval_status": "approved"
+    },
+    "name": "t131148d0000000044",
+    "isopen": true,
+    "url": "https://www.city.tokyo-nakano.lg.jp/dept/212500/d027582.html",
+    "notes": "中野区内にある生産緑地地区の一覧です。",
+    "owner_org": "5e5b6123-ee7e-4097-9e26-dae0bcdb457c",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": ""
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "生産緑地地区一覧",
+    "revision_id": "da9f816d-22ba-4164-89db-6142c7c5bdc2"
+  }
+}

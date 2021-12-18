@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "総務部主計課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "4f53acb6-73df-4ea3-bc61-4f91dd544b78",
+    "metadata_created": "2019-11-01T04:55:36.857051",
+    "metadata_modified": "2019-11-01T08:11:54.133521",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "平成27年度東京都水道事業連結貸借対照表（平成28年３月31日現在）",
+        "format": "CSV",
+        "url": "https://www.waterworks.metro.tokyo.jp/kouhou/pip/opendata/csv/20161222-01_1.csv",
+        "cache_last_updated": null,
+        "package_id": "4f53acb6-73df-4ea3-bc61-4f91dd544b78",
+        "created": "2018-07-29T14:19:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-07-28T15:00:00",
+        "position": 0,
+        "revision_id": "d9b1ec27-8c70-471a-b837-80461e5d62a3",
+        "url_type": null,
+        "id": "4f2da819-9700-452f-a0a3-0bff2fcbe80c",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "平成27年度 東京都水道事業連結損益計算書（自平成27年4月1日 至平成28年3月31日）",
+        "format": "CSV",
+        "url": "https://www.waterworks.metro.tokyo.jp/kouhou/pip/opendata/csv/20161222-01_2.csv",
+        "cache_last_updated": null,
+        "package_id": "4f53acb6-73df-4ea3-bc61-4f91dd544b78",
+        "created": "2018-07-28T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-07-28T15:00:00",
+        "position": 1,
+        "revision_id": "a7560811-239c-4a4d-8490-a79c3c62af6c",
+        "url_type": null,
+        "id": "9326812e-c94b-4d74-8c4d-f46b6bc19e19",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.waterworks.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:22.280579",
+      "title": "東京都水道局",
+      "name": "t000019",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000019.jpg",
+      "revision_id": "6f93ebbd-34d2-48da-9305-0c1de5e96c27",
+      "type": "organization",
+      "id": "df3e208c-40a5-4f30-b0f2-491ceffa6423",
+      "approval_status": "approved"
+    },
+    "name": "t000019d1700000044",
+    "isopen": true,
+    "url": "http://www.waterworks.metro.tokyo.jp/suidojigyo/torikumi/kanridantai/",
+    "notes": "【東京都水道局】監理団体（東京都監理団体）とは、東京都が出資又は出えんをおこなっている団体及び継続的な財政支出、人的支援等を行っている団体のうち、全庁的に指導監督を行う必要があるもの。水道局所管の監理団体には、東京水道サービス株式会社（ＴＳＳ）及び株式会社ＰＵＣの２社がある。\n",
+    "owner_org": "df3e208c-40a5-4f30-b0f2-491ceffa6423",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "監理団体の概要等 「平成28年度決算」",
+    "revision_id": "5672cc9d-f003-45ca-8faf-2495ff9262db"
+  }
+}

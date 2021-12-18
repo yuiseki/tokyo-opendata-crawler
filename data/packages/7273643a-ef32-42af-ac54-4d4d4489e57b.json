@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "健康安全研究センター企画調整部健康危機管理情報課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "7273643a-ef32-42af-ac54-4d4d4489e57b",
+    "metadata_created": "2019-11-01T04:54:32.938468",
+    "metadata_modified": "2019-11-01T06:11:22.893858",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "P.20 舌下免疫療法の有効性（研究最終年の効果判定）（CSV）",
+        "format": "CSV",
+        "url": "http://www.fukushihoken.metro.tokyo.jp/allergy/pdf/pri06_2b_01.csv",
+        "cache_last_updated": null,
+        "package_id": "7273643a-ef32-42af-ac54-4d4d4489e57b",
+        "created": "2019-01-10T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-01-17T15:00:00",
+        "position": 0,
+        "revision_id": "543b4bb5-7b93-4c90-bebe-1f72b88cbd82",
+        "url_type": null,
+        "id": "bee2c180-61b8-4ec5-be28-d39e3ade3f0a",
+        "resource_type": null,
+        "size": 1024
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "P.11 調査対象区市及び都内のスギ花粉推定有病率（CSV）",
+        "format": "CSV",
+        "url": "http://www.fukushihoken.metro.tokyo.jp/allergy/pdf/pri06_2a_01.csv",
+        "cache_last_updated": null,
+        "package_id": "7273643a-ef32-42af-ac54-4d4d4489e57b",
+        "created": "2019-01-10T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-01-17T15:00:00",
+        "position": 1,
+        "revision_id": "57e23143-8934-4d1b-8ecf-9333a0a38417",
+        "url_type": null,
+        "id": "48b564d6-1939-43ed-9e8c-910c0061e1e7",
+        "resource_type": null,
+        "size": 1024
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "医療・福祉",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c005.png",
+        "title": "医療・福祉",
+        "id": "0d3cd956-612c-45c5-b1ee-75c1a5835c0e",
+        "name": "c005"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.fukushihoken.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.864364",
+      "title": "東京都福祉保健局",
+      "name": "t000010",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000010.jpg",
+      "revision_id": "8d3da6a9-bfe7-4cd1-9d5d-9737b2293939",
+      "type": "organization",
+      "id": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+      "approval_status": "approved"
+    },
+    "name": "t000010d1800000040",
+    "isopen": true,
+    "url": "http://www.fukushihoken.metro.tokyo.jp/allergy/publications/print_allergy.html",
+    "notes": "【東京都福祉保健局】",
+    "owner_org": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "１回/年度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "東京都発行（アレルギー疾患関連）_花粉症一口メモ ＊2019年版",
+    "revision_id": "80405a5e-be5c-4414-be72-43bfc90c4b2e"
+  }
+}

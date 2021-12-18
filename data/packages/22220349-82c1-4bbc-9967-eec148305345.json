@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "選挙管理委員会事務局",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "22220349-82c1-4bbc-9967-eec148305345",
+    "metadata_created": "2020-03-17T01:43:12.224894",
+    "owner_org": "beddb482-adb4-4e03-9c25-f229c2a0b028",
+    "metadata_modified": "2021-08-19T00:04:23.650655",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "",
+        "format": "XLSX",
+        "url": "https://www.city.chuo.lg.jp/kusei/statisticaldata/opendata.files/tohyojyo.xlsx",
+        "created": "2017-10-10T15:00:00",
+        "state": "active",
+        "package_id": "22220349-82c1-4bbc-9967-eec148305345",
+        "last_modified": "2020-07-01T15:00:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "3d6a817d-a182-4030-a3d4-ef9f6d89ae85",
+        "size": 12288,
+        "id": "6228b367-7617-46ab-ab30-ad358a036e24",
+        "resource_type": null,
+        "name": "投票所及び投票区域一覧"
+      },
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "",
+        "format": "CSV",
+        "url": "https://www.city.chuo.lg.jp/kusei/statisticaldata/opendata.files/tohyojyo.csv",
+        "created": "2017-10-10T15:00:00",
+        "state": "active",
+        "package_id": "22220349-82c1-4bbc-9967-eec148305345",
+        "last_modified": "2020-07-01T15:00:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 1,
+        "revision_id": "13b0b85a-a3d9-4d47-a984-8172ae77616a",
+        "size": 2048,
+        "id": "f546247f-571e-4abd-afef-16614c3c07ef",
+        "resource_type": null,
+        "name": "投票所及び投票区域一覧"
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "title": "その他",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      }
+    ],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t131024d0000000005",
+    "isopen": true,
+    "url": "http://www.city.chuo.lg.jp/kurasi/senkyo/tohyozyo.html",
+    "notes": "区内投票区ごとの投票所名、所在地、緯度、経度、投票区域などを掲載しています。",
+    "title": "投票所及び投票区域一覧",
+    "extras": [
+      {
+        "value": "随時",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "https://www.city.chuo.lg.jp/",
+      "title": "中央区",
+      "created": "2020-03-16T08:15:28.901611",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131024.png",
+      "revision_id": "fd4c096b-7319-43d7-a1a4-d2411b6beaee",
+      "type": "organization",
+      "id": "beddb482-adb4-4e03-9c25-f229c2a0b028",
+      "name": "t131024"
+    },
+    "revision_id": "d5e7b593-5081-4d0c-90f8-e14cb29c3021"
+  }
+}

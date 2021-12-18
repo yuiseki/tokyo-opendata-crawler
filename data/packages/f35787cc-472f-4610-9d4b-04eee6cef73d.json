@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "f35787cc-472f-4610-9d4b-04eee6cef73d",
+    "metadata_created": "2019-11-01T04:54:49.115199",
+    "metadata_modified": "2021-02-03T07:25:25.155071",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "東京都中央卸売市場 市場別廃棄物発生割合(平成28年度)",
+        "format": "CSV",
+        "url": "http://www.shijou.metro.tokyo.jp/csv/310308/29-04.csv",
+        "cache_last_updated": null,
+        "package_id": "f35787cc-472f-4610-9d4b-04eee6cef73d",
+        "created": "2019-04-15T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-04-15T15:00:00",
+        "position": 0,
+        "revision_id": "f699ebad-6d70-46ea-9fa1-2cdf85a4fb47",
+        "url_type": null,
+        "id": "65095645-1c1e-490d-b688-b17a35c8efa6",
+        "resource_type": null,
+        "size": 1024
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "環境",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c012.png",
+        "title": "環境",
+        "id": "427f3ee0-b28a-4fd2-b7dc-980507f154d2",
+        "name": "c012"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.shijou.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:21.341618",
+      "title": "東京都中央卸売市場",
+      "name": "t000013",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "a14a39f1-b5cb-4e72-8d6d-bd986509b203",
+      "type": "organization",
+      "id": "327220fa-dbe9-453c-89b2-ce303b471a71",
+      "approval_status": "approved"
+    },
+    "name": "t000013d1800000012",
+    "isopen": true,
+    "url": "http://www.shijou.metro.tokyo.jp/gyosei/taisaku/haikidata/28/",
+    "notes": "【東京都中央卸売市場】",
+    "owner_org": "327220fa-dbe9-453c-89b2-ce303b471a71",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "1年ごと"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "東京都中央卸売市場 市場別廃棄物発生割合",
+    "revision_id": "e0a83ca1-043d-47fe-9ebb-990301e4b655"
+  }
+}

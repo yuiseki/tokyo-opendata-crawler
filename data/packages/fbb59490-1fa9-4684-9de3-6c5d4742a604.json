@@ -1,0 +1,130 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "道路管理部安全施設課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 1,
+    "id": "fbb59490-1fa9-4684-9de3-6c5d4742a604",
+    "metadata_created": "2019-11-01T04:54:55.444507",
+    "metadata_modified": "2019-11-01T08:04:41.947338",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "東京2020大会の競技会場や主要な観光地の周辺７地区を対象に、国道・都道・区市道等の区別なく、自転車が走行しやすい空間を連続させ、より安全に回遊することを目的に推奨ルートを設定しています。（平成27年4月）",
+        "name": "自転車推奨ルート（シェープファイル）",
+        "format": "ZIP",
+        "url": "http://www.kensetsu.metro.tokyo.jp/content/000035730.zip",
+        "cache_last_updated": null,
+        "package_id": "fbb59490-1fa9-4684-9de3-6c5d4742a604",
+        "created": "2018-09-24T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-09-24T15:00:00",
+        "position": 0,
+        "revision_id": "332c6699-74fe-4ffb-9596-926f1032ce41",
+        "url_type": null,
+        "id": "b9ea8a16-eb0e-46d8-817e-f1d2991f2770",
+        "resource_type": null,
+        "size": 28672
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "東京都自転車走行空間整備推進計画に基づき、歩行者、自転車が共に安全で快適に通行できる自転車走行空間の整備を効果的かつ効率的に推進していくため、優先して整備する区間です。（平成24年10月）  \n\nなお、本データは平成31年２月18日以降、内容の修正を予定しています。\n",
+        "name": "優先整備区間（シェープファイル）",
+        "format": "ZIP",
+        "url": "http://www.kensetsu.metro.tokyo.jp/content/000035729.zip",
+        "cache_last_updated": null,
+        "package_id": "fbb59490-1fa9-4684-9de3-6c5d4742a604",
+        "created": "2018-09-24T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-09-24T15:00:00",
+        "position": 1,
+        "revision_id": "268dd703-a090-42f4-b8c1-9983f671ba84",
+        "url_type": null,
+        "id": "bfdd0707-6c69-4327-b484-07e2bca0c9a7",
+        "resource_type": null,
+        "size": 50176
+      }
+    ],
+    "num_resources": 2,
+    "tags": [
+      {
+        "vocabulary_id": null,
+        "state": "active",
+        "display_name": "サイクリング",
+        "id": "9cc91ed7-cbcd-4f54-9a3a-65adea4dd362",
+        "name": "サイクリング"
+      }
+    ],
+    "groups": [
+      {
+        "display_name": "まちづくり",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c003.png",
+        "title": "まちづくり",
+        "id": "dc897c44-8153-4219-bfeb-6110fb85fb99",
+        "name": "c003"
+      },
+      {
+        "display_name": "交通情報",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c013.png",
+        "title": "交通情報",
+        "id": "38323541-753d-4230-b2dd-d9eb367ae5ed",
+        "name": "c013"
+      },
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.kensetsu.metro.tokyo.jp/index.html\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:21.496451",
+      "title": "東京都建設局",
+      "name": "t000014",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000014.jpg",
+      "revision_id": "06a19049-68df-4566-aae1-4c7d52e3a2dc",
+      "type": "organization",
+      "id": "c6763312-f089-4659-8c88-8b67ec9dc4dd",
+      "approval_status": "approved"
+    },
+    "name": "t000014d0000000026",
+    "isopen": true,
+    "url": "http://www.kensetsu.metro.tokyo.jp/jigyo/road/kanri/gaiyo/jitensya/jitensya.html",
+    "notes": "【東京都建設局】都内の自転車推奨ルート及び、東京都自転車走行空間整備推進計画に基づく優先整備区間",
+    "owner_org": "c6763312-f089-4659-8c88-8b67ec9dc4dd",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "自転車走行空間について",
+    "revision_id": "8a53c70b-3794-415c-ac57-8e7854db4f7d"
+  }
+}

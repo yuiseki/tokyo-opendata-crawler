@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "健康安全部感染症対策課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "cfb4e0a9-fb33-418e-bf17-7840f3b3a0ed",
+    "metadata_created": "2019-11-01T04:54:34.416821",
+    "metadata_modified": "2019-11-01T06:11:35.884006",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "＜備考＞ 特別区部は２００１年、市町村部は２００４年の数値",
+        "name": " ＢＣＧ接種状況（特別区部・市町村部） ",
+        "format": "CSV",
+        "url": "http://www.fukushihoken.metro.tokyo.jp/iryo/kansen/toushin.files/k_keikaku_1.csv",
+        "cache_last_updated": null,
+        "package_id": "cfb4e0a9-fb33-418e-bf17-7840f3b3a0ed",
+        "created": "2019-06-24T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-06-24T15:00:00",
+        "position": 0,
+        "revision_id": "a334389f-81e6-431d-9c34-9f39cf4767f9",
+        "url_type": null,
+        "id": "7d0cf268-ac2b-4bba-bc70-99ba5121b874",
+        "resource_type": null,
+        "size": 1024
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "医療・福祉",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c005.png",
+        "title": "医療・福祉",
+        "id": "0d3cd956-612c-45c5-b1ee-75c1a5835c0e",
+        "name": "c005"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.fukushihoken.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.864364",
+      "title": "東京都福祉保健局",
+      "name": "t000010",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000010.jpg",
+      "revision_id": "8d3da6a9-bfe7-4cd1-9d5d-9737b2293939",
+      "type": "organization",
+      "id": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+      "approval_status": "approved"
+    },
+    "name": "t000010d1800000047",
+    "isopen": true,
+    "url": "",
+    "notes": "【東京都福祉保健局】",
+    "owner_org": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "東京都結核予防計画_東京都結核予防計画（全文） （PDF：783KB）",
+    "revision_id": "f9c33ff3-f086-4165-a6dc-96d76a0fbdb9"
+  }
+}

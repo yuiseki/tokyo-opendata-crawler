@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "経済課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "566b6b0d-93bd-4278-865d-e3eb1beff304",
+    "metadata_created": "2019-11-01T04:59:01.328750",
+    "metadata_modified": "2021-10-06T08:11:27.056481",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "農地転用の用途別の件数及び面積を公表しています。",
+        "name": "農地転用の用途別件数及び面積（EXCELファイル）",
+        "format": "XLSX",
+        "url": "https://www.city.inagi.tokyo.jp/shisei/gyosei/opendata/opendata_catalogpage/sangyou.files/047.xlsx",
+        "cache_last_updated": null,
+        "package_id": "566b6b0d-93bd-4278-865d-e3eb1beff304",
+        "created": "2021-10-04T00:58:32.879284",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": null,
+        "position": 0,
+        "revision_id": "86ef96e0-632b-42b3-936c-2ffa67508f20",
+        "url_type": null,
+        "id": "8410daa5-a16c-4a90-b86f-ae63523a2c7b",
+        "resource_type": null,
+        "size": 14336
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "農地転用の用途別の件数及び面積を公表しています。",
+        "name": "農地転用の用途別件数及び面積（CSVファイル）",
+        "format": "CSV",
+        "url": "https://www.city.inagi.tokyo.jp/shisei/gyosei/opendata/opendata_catalogpage/sangyou.files/047.csv",
+        "cache_last_updated": null,
+        "package_id": "566b6b0d-93bd-4278-865d-e3eb1beff304",
+        "created": "2021-10-04T00:58:33.186910",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": null,
+        "position": 1,
+        "revision_id": "86ef96e0-632b-42b3-936c-2ffa67508f20",
+        "url_type": null,
+        "id": "9ad754e9-02f1-4f4a-9859-5b853b525f31",
+        "resource_type": null,
+        "size": 1024
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "産業雇用創出",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c011.png",
+        "title": "産業雇用創出",
+        "id": "bb1c42ce-dc7e-48cf-91d4-05cab59db4bd",
+        "name": "c011"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.inagi.tokyo.jp/",
+      "created": "2019-11-01T03:27:27.462971",
+      "title": "稲城市",
+      "name": "t132250",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t132250.jpg",
+      "revision_id": "f68dd2e1-e0a9-41bc-a7b4-2a1138104a3f",
+      "type": "organization",
+      "id": "457d0f12-2dd5-4b86-a227-fb4e01ef0ebc",
+      "approval_status": "approved"
+    },
+    "name": "t132250d0000000013",
+    "isopen": true,
+    "url": "",
+    "notes": "【稲城市】",
+    "owner_org": "457d0f12-2dd5-4b86-a227-fb4e01ef0ebc",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "１年ごと"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "農地転用の用途別件数及び面積",
+    "revision_id": "3b7f0344-7360-4fa3-8d31-5421eb40d728"
+  }
+}

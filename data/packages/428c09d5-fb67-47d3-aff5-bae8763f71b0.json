@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "総合対策部 交通安全課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "428c09d5-fb67-47d3-aff5-bae8763f71b0",
+    "metadata_created": "2019-11-01T04:52:16.741637",
+    "metadata_modified": "2019-11-01T05:08:00.696041",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "第4章　対策の方向性　2. 放置自転車の改善　図4-2-1　東京都における自転車放置台数・駐車可能台数等の推移（19p） ",
+        "format": "CSV",
+        "url": "http://www.seisyounen-chian.metro.tokyo.jp/csv/koutsu/jitenshahoukokusyo/07_jitenshakentohokokusho.csv",
+        "cache_last_updated": null,
+        "package_id": "428c09d5-fb67-47d3-aff5-bae8763f71b0",
+        "created": "2018-03-04T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-03-04T15:00:00",
+        "position": 0,
+        "revision_id": "9e0cc7af-e347-4946-9a0a-3664921b60b8",
+        "url_type": null,
+        "id": "25eda90e-d4c8-40da-9c6d-d0fe8e4e8898",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.tomin-anzen.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:19.596374",
+      "title": "東京都都民安全推進本部",
+      "name": "t000002",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "f682f39e-31cf-419a-98eb-d960bdc02238",
+      "type": "organization",
+      "id": "ce1debcd-3c6c-40b5-9ade-461164a64820",
+      "approval_status": "approved"
+    },
+    "name": "t000002d1700000009",
+    "isopen": true,
+    "url": "http://www.seisyounen-chian.metro.tokyo.jp/kotsu/kakusyutaisaku/jitensha/seisaku-jyourei/jitensha-2/index.html",
+    "notes": "【東京都青少年・治安対策本部】　",
+    "owner_org": "ce1debcd-3c6c-40b5-9ade-461164a64820",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "1年ごと"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "東京都自転車総合政策検討委員会報告書",
+    "revision_id": "530ed67f-453b-45c9-a136-c8b9acf6ec70"
+  }
+}

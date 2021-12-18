@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "危機管理部防災課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "023e21a9-e5da-42e0-8694-506c905a8971",
+    "metadata_created": "2021-11-04T00:38:24.333386",
+    "owner_org": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
+    "metadata_modified": "2021-12-13T06:15:05.784430",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "目黒区内の防火水槽の一覧",
+        "format": "CSV",
+        "url": "https://data.bodik.jp/dataset/ea70676f-6741-4d62-aa74-5fb790f98c43/resource/ff1f8c2c-5490-4502-9bb5-8cb6373a4b7b/download/131105_fire_hydrant_20201231.csv",
+        "created": "2021-08-11T00:50:00",
+        "state": "active",
+        "package_id": "023e21a9-e5da-42e0-8694-506c905a8971",
+        "last_modified": "2021-08-17T00:45:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "00fed47c-fb20-4f23-bc99-67a11ab335f9",
+        "size": 23867,
+        "id": "fce91cd4-272c-4426-9466-db61569727c1",
+        "resource_type": null,
+        "name": "防火水槽"
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "防災・災害計画",
+        "description": "",
+        "title": "防災・災害計画",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c001.png",
+        "id": "8eb52f8e-0d10-44f4-8bb4-2a488d0f8465",
+        "name": "c001"
+      }
+    ],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t131105d0000000032",
+    "isopen": true,
+    "url": "https://www.city.meguro.tokyo.jp/gyosei/soshiki/somu_kikikanri/bosai.html",
+    "notes": "目黒区内の防火水槽の一覧",
+    "title": "防火水槽",
+    "extras": [
+      {
+        "value": "1年",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "https://odcs.bodik.jp/131105/",
+      "title": "目黒区",
+      "created": "2021-11-01T02:12:22.338293",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131105.png",
+      "revision_id": "e3dc243f-e3a2-4b2b-a319-4e145bb63383",
+      "type": "organization",
+      "id": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
+      "name": "t131105"
+    },
+    "revision_id": "6451c7d6-76b9-4ef8-aa4a-57641580c6ca"
+  }
+}

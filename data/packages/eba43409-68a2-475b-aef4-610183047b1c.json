@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "杉並保健所健康推進課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "eba43409-68a2-475b-aef4-610183047b1c",
+    "metadata_created": "2019-11-01T04:57:15.535644",
+    "metadata_modified": "2019-11-01T08:40:07.125208",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "心筋梗塞などの救急時に利用できるAED（自動体外式除細動器）を設置している場所です。",
+        "name": "設置場所 ",
+        "format": "ZIP",
+        "url": "http://www2.wagmap.jp/suginami/opendata/?type=shp&ly=168",
+        "cache_last_updated": null,
+        "package_id": "eba43409-68a2-475b-aef4-610183047b1c",
+        "created": "2018-05-13T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-05-13T15:00:00",
+        "position": 0,
+        "revision_id": "663cb069-19b1-4639-aa6e-4c01db15a23d",
+        "url_type": null,
+        "id": "8d1b4dc0-9076-427e-8247-3e8d32cbef91",
+        "resource_type": null,
+        "size": 10240
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "医療・福祉",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c005.png",
+        "title": "医療・福祉",
+        "id": "0d3cd956-612c-45c5-b1ee-75c1a5835c0e",
+        "name": "c005"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.suginami.tokyo.jp/",
+      "created": "2019-11-01T03:27:25.355056",
+      "title": "杉並区",
+      "name": "t131156",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131156.png",
+      "revision_id": "be68f112-909f-46c2-b180-014c0a879593",
+      "type": "organization",
+      "id": "a5be9683-373e-440b-ae39-4e73317a417b",
+      "approval_status": "approved"
+    },
+    "name": "t131156d0000000037",
+    "isopen": true,
+    "url": "",
+    "notes": "【杉並区】",
+    "owner_org": "a5be9683-373e-440b-ae39-4e73317a417b",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "AEDマップ",
+    "revision_id": "1ba5f7e2-cd67-46fe-99ea-e99faa0418fd"
+  }
+}

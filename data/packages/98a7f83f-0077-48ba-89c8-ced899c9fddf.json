@@ -1,0 +1,101 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "東京都デジタルサービス局デジタルサービス推進部ネットワーク推進課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "98a7f83f-0077-48ba-89c8-ced899c9fddf",
+    "metadata_created": "2020-09-18T06:00:57.405804",
+    "metadata_modified": "2021-07-13T04:53:29.416674",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "都保有アセットデータベース【令和3年7月5日更新】",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/digitalservice/toitsuDB_0705.csv",
+        "cache_last_updated": null,
+        "package_id": "98a7f83f-0077-48ba-89c8-ced899c9fddf",
+        "created": "2021-07-04T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-07-04T15:00:00",
+        "position": 0,
+        "revision_id": "1b9b7b75-9eb2-48ae-a075-65d3ad838241",
+        "url_type": null,
+        "id": "97aecd5a-ec38-4bb3-913d-c99fd086ec8d",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      },
+      {
+        "display_name": "まちづくり",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c003.png",
+        "title": "まちづくり",
+        "id": "dc897c44-8153-4219-bfeb-6110fb85fb99",
+        "name": "c003"
+      },
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "所属:東京都",
+      "created": "2019-11-01T03:27:23.895580",
+      "title": "東京都デジタルサービス局",
+      "name": "t000029",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://www.digitalservice.metro.tokyo.lg.jp/images/logo.png",
+      "revision_id": "6f0a3e84-39eb-4b71-a006-8585de2d0f10",
+      "type": "organization",
+      "id": "366cc7cd-3038-4e5b-b0a1-170690d29024",
+      "approval_status": "approved"
+    },
+    "name": "t000029d0000000002",
+    "isopen": true,
+    "url": "https://www.digitalservice.metro.tokyo.lg.jp/tokyodatahighway/assetdb.html",
+    "notes": "【東京都デジタルサービス局】　５Ｇアンテナ基地局等の設置促進に向けて、東京都が保有するアセット（財産）を公開しています。掲載局等、更新履歴については、『掲載情報』データをご参照ください。",
+    "owner_org": "366cc7cd-3038-4e5b-b0a1-170690d29024",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "東京都保有アセットデータベース",
+    "revision_id": "a9fe8760-4432-46c1-b944-ace7edaa219d"
+  }
+}

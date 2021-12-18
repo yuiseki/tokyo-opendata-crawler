@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "港湾整備部技術管理課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "68f86080-6f5f-4034-8521-fa9e76ea1d8e",
+    "metadata_created": "2019-11-01T04:55:03.905081",
+    "metadata_modified": "2019-11-01T08:06:04.492577",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "観測井一覧表（表1-1）",
+        "format": "CSV",
+        "url": "http://www.kouwan.metro.tokyo.jp/business/H28jibantinkakansokunenpou_1.csv",
+        "cache_last_updated": null,
+        "package_id": "68f86080-6f5f-4034-8521-fa9e76ea1d8e",
+        "created": "2018-03-11T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-03-11T15:00:00",
+        "position": 0,
+        "revision_id": "57a460fa-6eee-4b07-94bc-f8edfbc3ffa4",
+        "url_type": null,
+        "id": "5e3d7dbf-a6b4-4b29-82aa-d0697109b9f1",
+        "resource_type": null,
+        "size": 8192
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "環境",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c012.png",
+        "title": "環境",
+        "id": "427f3ee0-b28a-4fd2-b7dc-980507f154d2",
+        "name": "c012"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.kouwan.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:21.661622",
+      "title": "東京都港湾局",
+      "name": "t000015",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000015.jpg",
+      "revision_id": "0ae0b754-9704-453d-a632-4097dcdb2ebf",
+      "type": "organization",
+      "id": "4a51054b-f927-4a44-902b-889a0a1fa75d",
+      "approval_status": "approved"
+    },
+    "name": "t000015d1700000002",
+    "isopen": true,
+    "url": "http://www.kouwan.metro.tokyo.jp/business/keiyaku/kisojoho/index.html",
+    "notes": "【東京都港湾局】　",
+    "owner_org": "4a51054b-f927-4a44-902b-889a0a1fa75d",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "1年ごと"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "平成28年度地盤沈下観測",
+    "revision_id": "2f41e1a3-cf15-4804-b494-28a435a49a82"
+  }
+}

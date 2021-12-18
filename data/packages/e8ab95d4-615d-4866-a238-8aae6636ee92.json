@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "都市づくり政策部緑地景観課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "e8ab95d4-615d-4866-a238-8aae6636ee92",
+    "metadata_created": "2019-11-01T04:53:41.965311",
+    "metadata_modified": "2019-11-01T05:51:36.056964",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "都内農地面積内訳（島しょを除く。）",
+        "format": "CSV",
+        "url": "http://www.toshiseibi.metro.tokyo.jp/seisaku/midori_kakuho/pdf/honbun_kaitei_01.csv",
+        "cache_last_updated": null,
+        "package_id": "e8ab95d4-615d-4866-a238-8aae6636ee92",
+        "created": "2019-03-07T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-03-07T15:00:00",
+        "position": 0,
+        "revision_id": "99719fdb-ff64-4662-a770-2335cf4e2f2f",
+        "url_type": null,
+        "id": "129c20d2-8506-48e3-bae5-b97d040dbd10",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "都内農地面積内訳（島しょを除く。）【注釈等】",
+        "format": "TXT",
+        "url": "http://www.toshiseibi.metro.tokyo.jp/seisaku/midori_kakuho/pdf/honbun_kaitei_01.txt",
+        "cache_last_updated": null,
+        "package_id": "e8ab95d4-615d-4866-a238-8aae6636ee92",
+        "created": "2019-03-07T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-03-07T15:00:00",
+        "position": 1,
+        "revision_id": "f59c4c6d-222e-4ffd-b868-f25edf27d492",
+        "url_type": null,
+        "id": "59f67f28-6a30-407f-bc66-239e1558e603",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "まちづくり",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c003.png",
+        "title": "まちづくり",
+        "id": "dc897c44-8153-4219-bfeb-6110fb85fb99",
+        "name": "c003"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.toshiseibi.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.560358",
+      "title": "東京都都市整備局",
+      "name": "t000008",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "9c234f0e-ff7d-4e2d-8ba4-ea80f312405b",
+      "type": "organization",
+      "id": "16d81025-a2ca-4002-8129-9906c94a4732",
+      "approval_status": "approved"
+    },
+    "name": "t000008d1800000046",
+    "isopen": true,
+    "url": "http://www.toshiseibi.metro.tokyo.jp/seisaku/midori_kakuho/honbun.html",
+    "notes": "【東京都都市整備局】",
+    "owner_org": "16d81025-a2ca-4002-8129-9906c94a4732",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "「緑確保の総合的な方針」（改定）の本文及び図面　第２章 東京の緑の現状と課題",
+    "revision_id": "9f6d0955-6f0c-4910-a7bc-a74bdd749cd3"
+  }
+}

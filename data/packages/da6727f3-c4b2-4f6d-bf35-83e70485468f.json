@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "健康部健康政策課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "da6727f3-c4b2-4f6d-bf35-83e70485468f",
+    "metadata_created": "2021-10-07T04:58:54.035139",
+    "owner_org": "dae20c75-717a-45a5-91e9-ca6e6530178c",
+    "metadata_modified": "2021-10-07T04:59:55.763449",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "新宿区の公共施設情報(保健所等)です。",
+        "format": "RDF",
+        "url": "https://data.odp.jig.jp/rdf/jp/tokyo/shinjuku/772.rdf",
+        "created": "2017-02-27T15:00:00",
+        "state": "active",
+        "package_id": "da6727f3-c4b2-4f6d-bf35-83e70485468f",
+        "last_modified": "2021-02-09T15:00:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "4796837e-0511-4ee1-a4e0-ce9b6ea470df",
+        "size": 23552,
+        "id": "1ca084d8-8b45-4ccf-8c96-52635060bb54",
+        "resource_type": null,
+        "name": "公共施設情報(保健所等)"
+      },
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "新宿区の公共施設情報(保健所等)です。",
+        "format": "CSV",
+        "url": "https://data.odp.jig.jp/viewcsv/jp/tokyo/shinjuku/772.csv",
+        "created": "2017-02-27T15:00:00",
+        "state": "active",
+        "package_id": "da6727f3-c4b2-4f6d-bf35-83e70485468f",
+        "last_modified": "2021-02-09T15:00:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 1,
+        "revision_id": "df21f445-ef41-4201-839b-62c855eeb747",
+        "size": 3072,
+        "id": "3537c8dd-d289-46ed-8145-bb4e895b6fd2",
+        "resource_type": null,
+        "name": "公共施設情報(保健所等)"
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "医療・福祉",
+        "description": "",
+        "title": "医療・福祉",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c005.png",
+        "id": "0d3cd956-612c-45c5-b1ee-75c1a5835c0e",
+        "name": "c005"
+      }
+    ],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t131041d0000000064",
+    "isopen": true,
+    "url": "",
+    "notes": "【新宿区】公共施設情報です。",
+    "title": "新宿区の公共施設情報",
+    "extras": [
+      {
+        "value": "随時",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "",
+      "title": "新宿区",
+      "created": "2019-11-01T03:27:24.390617",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131041.jpg",
+      "revision_id": "32114732-e02e-4a21-95ea-57f0bde433bb",
+      "type": "organization",
+      "id": "dae20c75-717a-45a5-91e9-ca6e6530178c",
+      "name": "t131041"
+    },
+    "revision_id": "ad3885d1-f7d1-4927-b8df-33bc3af18625"
+  }
+}

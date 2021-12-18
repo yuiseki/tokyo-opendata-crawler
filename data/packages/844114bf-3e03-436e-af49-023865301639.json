@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "健康安全部環境保健衛生課動物管理担当",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "844114bf-3e03-436e-af49-023865301639",
+    "metadata_created": "2019-11-01T04:54:17.274594",
+    "metadata_modified": "2019-11-01T06:05:48.305641",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "動物病院における動物由来感染症サンプリング調査1",
+        "format": "CSV",
+        "url": "http://www.fukushihoken.metro.tokyo.jp/kankyo/aigo/jinchiku/ah_smp_1.files/ah_smp_1.csv",
+        "cache_last_updated": null,
+        "package_id": "844114bf-3e03-436e-af49-023865301639",
+        "created": "2018-08-30T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-08-30T15:00:00",
+        "position": 0,
+        "revision_id": "71e30a7b-e4fa-4a5f-81d3-350e596399cd",
+        "url_type": null,
+        "id": "d4c4f41f-e4e7-4508-a8dc-9ca61b5fb44c",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.fukushihoken.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.864364",
+      "title": "東京都福祉保健局",
+      "name": "t000010",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000010.jpg",
+      "revision_id": "8d3da6a9-bfe7-4cd1-9d5d-9737b2293939",
+      "type": "organization",
+      "id": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+      "approval_status": "approved"
+    },
+    "name": "t000010d1700000090",
+    "isopen": true,
+    "url": "http://www.fukushihoken.metro.tokyo.jp/kankyo/aigo/jinchiku/ah_smp_1.html",
+    "notes": "【東京都福祉保健局】  東京都は、平成21年度から平成28年度まで、一般家庭で飼養されている動物における動物由来感染症の発生動向を把握するため、公益社団法人東京都獣医師会と協力し、動物病院における動物由来感染症のモニタリング調査を実施した。\n",
+    "owner_org": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "動物病院における動物由来感染症サンプリング調査1",
+    "revision_id": "4861adaf-b04f-485c-be85-8b791d6c444f"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "統計部社会統計課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "a54b95fa-377d-4f40-8299-2ed687676703",
+    "metadata_created": "2021-12-02T01:21:50.219908",
+    "owner_org": "5987f8a3-dfbe-4f96-b3cc-e1f3ea0a2717",
+    "metadata_modified": "2021-12-02T02:19:42.571084",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "就業状態別の１５歳以上の人口と、産業別の就業者数及び完全失業者数等の数値です。\n\n＊一部修正しました。（令和3年5月31日）\n",
+        "format": "CSV",
+        "url": "http://www.toukei.metro.tokyo.jp/roudou/2020/rd20hv0100.csv",
+        "created": "2021-12-02T01:21:52.647232",
+        "state": "active",
+        "package_id": "a54b95fa-377d-4f40-8299-2ed687676703",
+        "last_modified": null,
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "5a608385-8229-4beb-bb45-c452605d5194",
+        "size": 7168,
+        "id": "c3d438ad-11a3-4d6d-9112-523d2357db03",
+        "resource_type": null,
+        "name": "第１表　就業状態別１５歳以上人口、産業別就業者数及び完全失業者数"
+      },
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "従業上の地位別の就業者数の数値です。\n\n＊一部修正しました。（令和3年5月31日）\n",
+        "format": "CSV",
+        "url": "http://www.toukei.metro.tokyo.jp/roudou/2020/rd20hv0300.csv",
+        "created": "2021-12-02T02:19:42.235346",
+        "state": "active",
+        "package_id": "a54b95fa-377d-4f40-8299-2ed687676703",
+        "last_modified": null,
+        "mimetype": null,
+        "url_type": null,
+        "position": 1,
+        "revision_id": "30679c3c-0570-44bf-b57f-869afd59872d",
+        "size": 8192,
+        "id": "82d6c271-ece2-44ef-9623-8a039c120717",
+        "resource_type": null,
+        "name": "第２表　従業上の地位別就業者数"
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "産業雇用創出",
+        "description": "",
+        "title": "産業雇用創出",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c011.png",
+        "id": "bb1c42ce-dc7e-48cf-91d4-05cab59db4bd",
+        "name": "c011"
+      }
+    ],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t000003d0000000108",
+    "isopen": true,
+    "url": "https://www.toukei.metro.tokyo.lg.jp/roudou/rd-index.htm",
+    "notes": "【東京都総務局】総務省統計局が実施している「労働力調査」のうち、総務省統計局から提供された東京都分の調査票データの集計結果です。統計データの数値のうち、増減数及び増減率は提供を受けた数値により都において算出しています。総務省統計局においては都道府県ごとの標本設計は行っておらず、また標本規模も小さいことから全国結果に比べ標本誤差が大きくなる可能性があるため、利用にあたっては注意が必要です。",
+    "title": "東京の労働力 統計データ（令和２年１０～１２月期平均）",
+    "extras": [
+      {
+        "value": "3か月ごと",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "http://www.soumu.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "title": "東京都総務局",
+      "created": "2019-11-01T03:27:19.763566",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000003.png",
+      "revision_id": "c4e16dd4-cb3f-42dc-8be2-2eed0f9e0175",
+      "type": "organization",
+      "id": "5987f8a3-dfbe-4f96-b3cc-e1f3ea0a2717",
+      "name": "t000003"
+    },
+    "revision_id": "80140bfa-46ac-4847-9d4c-ed5fc976aff8"
+  }
+}

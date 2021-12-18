@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "企画部企画課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "e62143b7-de77-4b1d-900b-38dab45c2055",
+    "metadata_created": "2020-04-09T06:06:29.273468",
+    "metadata_modified": "2021-12-15T01:02:38.405589",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "2005年度(平成17年度)国勢調査による人口と世帯（年齢別）",
+        "format": "CSV",
+        "url": "https://www.city.tokyo-nakano.lg.jp/dept/107000/d027582_d/fil/131148_kokusei_2005_nenre.csv",
+        "cache_last_updated": null,
+        "package_id": "e62143b7-de77-4b1d-900b-38dab45c2055",
+        "created": "2020-04-01T10:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2020-04-01T10:00:00",
+        "position": 0,
+        "revision_id": "c9483f7c-b5c3-4556-8908-92a68647e8bb",
+        "url_type": null,
+        "id": "1893a63c-20e1-435c-a81c-f633313e9a5e",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.tokyo-nakano.lg.jp/",
+      "created": "2019-11-01T03:27:25.195268",
+      "title": "中野区",
+      "name": "t131148",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131148.jpg",
+      "revision_id": "6d6159b5-afb0-416b-b34f-be8cfa10c02c",
+      "type": "organization",
+      "id": "5e5b6123-ee7e-4097-9e26-dae0bcdb457c",
+      "approval_status": "approved"
+    },
+    "name": "t131148d0000000021",
+    "isopen": true,
+    "url": "https://www.city.tokyo-nakano.lg.jp/dept/212500/d027582.html",
+    "notes": "【中野区】中野区の2005年度(平成17年度)国勢調査による人口と世帯（年齢別）の一覧です。",
+    "owner_org": "5e5b6123-ee7e-4097-9e26-dae0bcdb457c",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "5年に1回"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "国勢調査による人口と世帯（年齢別）【2005年度（平成17年度）】",
+    "revision_id": "3b25b893-0c3c-4280-933e-5a19ea9d4c4a"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "子ども家庭部子育て支援課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "eee3eec2-7c1d-44c0-8ac1-fbf113cd0c01",
+    "metadata_created": "2019-11-01T04:56:50.809648",
+    "metadata_modified": "2019-11-01T09:36:22.275296",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "文京区の子どもショートステイ・乳幼児ショートステイの一覧です。（EXCELファイル）",
+        "name": "子ども・乳幼児ショートステイ",
+        "format": "XLSX",
+        "url": "https://www.city.bunkyo.lg.jp/library/opendata-bunkyo/02kosodate-kyouiku/09shortstay/shortstay.xlsx",
+        "cache_last_updated": null,
+        "package_id": "eee3eec2-7c1d-44c0-8ac1-fbf113cd0c01",
+        "created": "2017-11-06T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-11-06T15:00:00",
+        "position": 0,
+        "revision_id": "5be7492a-d2ca-4af0-a514-48168599a028",
+        "url_type": null,
+        "id": "10ac0f31-7933-4258-ba93-9622680ba9ef",
+        "resource_type": null,
+        "size": 12288
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "文京区の子どもショートステイ・乳幼児ショートステイの一覧です。（CSVファイル）",
+        "name": "子ども・乳幼児ショートステイ",
+        "format": "CSV",
+        "url": "https://www.city.bunkyo.lg.jp/library/opendata-bunkyo/02kosodate-kyouiku/09shortstay/shortstay.csv",
+        "cache_last_updated": null,
+        "package_id": "eee3eec2-7c1d-44c0-8ac1-fbf113cd0c01",
+        "created": "2017-11-06T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-11-06T15:00:00",
+        "position": 1,
+        "revision_id": "13516bdd-ddc1-46ae-b437-cf9ab4321c00",
+        "url_type": null,
+        "id": "98616fd9-b82c-4cc1-a311-dd662021575f",
+        "resource_type": null,
+        "size": 2048
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "人口減少・少子高齢化",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c004.png",
+        "title": "人口減少・少子高齢化",
+        "id": "802d7d18-3543-4e8b-a8f5-82b5f1aa752e",
+        "name": "c004"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.bunkyo.lg.jp/",
+      "created": "2019-11-01T03:27:24.573898",
+      "title": "文京区",
+      "name": "t131059",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131059.png",
+      "revision_id": "66ab70ed-369f-4eda-b72a-eacf3f7c8095",
+      "type": "organization",
+      "id": "201cae13-e069-464e-b376-1da3ce968538",
+      "approval_status": "approved"
+    },
+    "name": "t131059d0206070003",
+    "isopen": true,
+    "url": "http://www.city.bunkyo.lg.jp/kyoiku/kosodate/okosan/ichijiteki/nyuyoujisoutosutei.html",
+    "notes": "【文京区】　文京区の子どもショートステイ・乳幼児ショートステイの一覧です。",
+    "owner_org": "201cae13-e069-464e-b376-1da3ce968538",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "子ども・乳幼児ショートステイ",
+    "revision_id": "562a3a18-0f91-4060-9fb4-128725abbf69"
+  }
+}

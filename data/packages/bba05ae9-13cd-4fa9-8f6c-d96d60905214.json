@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "港湾経営部振興課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "bba05ae9-13cd-4fa9-8f6c-d96d60905214",
+    "metadata_created": "2019-11-01T04:55:03.694164",
+    "metadata_modified": "2021-01-20T08:16:37.761502",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "東京港港勢(年報の概報)のデータです。  \n\nZIPファイルには一覧表となるテキストファイル1種を含みます。\n",
+        "name": "年報の概報zipデータ（CSVファイル32種）",
+        "format": "ZIP",
+        "url": "http://www.kouwan.metro.tokyo.jp/yakuwari/kousei-gaihou.zip",
+        "cache_last_updated": null,
+        "package_id": "bba05ae9-13cd-4fa9-8f6c-d96d60905214",
+        "created": "2018-03-11T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-03-11T15:00:00",
+        "position": 0,
+        "revision_id": "ab1d41ce-ca15-44e1-9c3b-91e8ff889768",
+        "url_type": null,
+        "id": "539862a5-f12f-47d9-94d9-4f92db2b9fce",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "東京港港勢(年報)のデータです。  \n\nZIPファイルには一覧表となるテキストファイル1種を含みます。\n",
+        "name": "年報zipデータ（CSVファイル321種）",
+        "format": "ZIP",
+        "url": "http://www.kouwan.metro.tokyo.jp/yakuwari/kousei.zip",
+        "cache_last_updated": null,
+        "package_id": "bba05ae9-13cd-4fa9-8f6c-d96d60905214",
+        "created": "2018-03-11T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-03-11T15:00:00",
+        "position": 1,
+        "revision_id": "ab1d41ce-ca15-44e1-9c3b-91e8ff889768",
+        "url_type": null,
+        "id": "03cf5e74-5db8-4c2b-9a42-a88895e49253",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "産業雇用創出",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c011.png",
+        "title": "産業雇用創出",
+        "id": "bb1c42ce-dc7e-48cf-91d4-05cab59db4bd",
+        "name": "c011"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.kouwan.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:21.661622",
+      "title": "東京都港湾局",
+      "name": "t000015",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000015.jpg",
+      "revision_id": "0ae0b754-9704-453d-a632-4097dcdb2ebf",
+      "type": "organization",
+      "id": "4a51054b-f927-4a44-902b-889a0a1fa75d",
+      "approval_status": "approved"
+    },
+    "name": "t000015d1700000001",
+    "isopen": true,
+    "url": "http://www.kouwan.metro.tokyo.jp/yakuwari/toukei/index.html",
+    "notes": "【東京都港湾局】　月報データは1か月ごと、その他のデータは1年ごとの更新です。",
+    "owner_org": "4a51054b-f927-4a44-902b-889a0a1fa75d",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "1か月/1年ごと"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "東京港の港湾統計データ",
+    "revision_id": "9ce3e829-997b-49fe-a05a-e1c7d7e064a7"
+  }
+}

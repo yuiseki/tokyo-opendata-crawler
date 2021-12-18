@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "都市づくり政策部緑地景観課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "49c26072-bd14-4612-8509-be6e1ebd611c",
+    "metadata_created": "2019-11-01T04:53:28.745752",
+    "metadata_modified": "2019-11-01T05:45:11.048199",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "東京都に登録している屋外広告業者の一覧です。",
+        "name": "屋外広告業登録業者の一覧",
+        "format": "PDF",
+        "url": "http://www.toshiseibi.metro.tokyo.jp/kenchiku/koukoku/pdf/kou_ichiran.pdf",
+        "cache_last_updated": null,
+        "package_id": "49c26072-bd14-4612-8509-be6e1ebd611c",
+        "created": "2017-07-05T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-07-05T15:00:00",
+        "position": 0,
+        "revision_id": "a2b2afa8-9c28-4db0-9205-6e43ca684e16",
+        "url_type": null,
+        "id": "19e72652-7de5-4555-b7e7-19c1b59d61fd",
+        "resource_type": null,
+        "size": 1015808
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "東京都に登録している屋外広告業者の一覧です。",
+        "name": "屋外広告業登録業者の一覧",
+        "format": "CSV",
+        "url": "http://www.toshiseibi.metro.tokyo.jp/kenchiku/koukoku/pdf/kou_ichiran.csv",
+        "cache_last_updated": null,
+        "package_id": "49c26072-bd14-4612-8509-be6e1ebd611c",
+        "created": "2017-07-05T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-07-05T15:00:00",
+        "position": 1,
+        "revision_id": "37e6fcfa-bce5-4167-9ed3-82fbd11b2daf",
+        "url_type": null,
+        "id": "91d3ca1e-3017-4e93-8d04-4ab9b207f112",
+        "resource_type": null,
+        "size": 272384
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "まちづくり",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c003.png",
+        "title": "まちづくり",
+        "id": "dc897c44-8153-4219-bfeb-6110fb85fb99",
+        "name": "c003"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.toshiseibi.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.560358",
+      "title": "東京都都市整備局",
+      "name": "t000008",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "9c234f0e-ff7d-4e2d-8ba4-ea80f312405b",
+      "type": "organization",
+      "id": "16d81025-a2ca-4002-8129-9906c94a4732",
+      "approval_status": "approved"
+    },
+    "name": "t000008d0000000006",
+    "isopen": true,
+    "url": "http://www.toshiseibi.metro.tokyo.jp/kenchiku/koukoku/kou_touroku.htm",
+    "notes": "【東京都都市整備局】　東京都に登録している屋外広告業者の一覧です。",
+    "owner_org": "16d81025-a2ca-4002-8129-9906c94a4732",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "1月ごと"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "屋外広告業登録業者の一覧",
+    "revision_id": "97ecae65-cc02-4dbf-8a71-72c846e4f94f"
+  }
+}

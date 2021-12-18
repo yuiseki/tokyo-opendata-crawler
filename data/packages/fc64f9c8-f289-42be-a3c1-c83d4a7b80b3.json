@@ -1,0 +1,143 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "総合防災部防災管理課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "fc64f9c8-f289-42be-a3c1-c83d4a7b80b3",
+    "metadata_created": "2019-11-01T04:52:52.198344",
+    "metadata_modified": "2021-08-30T10:20:01.798182",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "一次健康診断(呼吸器系・小児)",
+        "name": "表1　事前調査表",
+        "format": "CSV",
+        "url": "http://www.bousai.metro.tokyo.jp/content/opendata/csv/33_document_1.csv",
+        "cache_last_updated": null,
+        "package_id": "fc64f9c8-f289-42be-a3c1-c83d4a7b80b3",
+        "created": "2018-04-12T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-04-12T15:00:00",
+        "position": 0,
+        "revision_id": "92da39f1-df00-49f8-8011-aa164e6bd3bd",
+        "url_type": null,
+        "id": "5639657c-39c8-4bd5-b8f5-a31102548aca",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "年令別人口調べ",
+        "format": "CSV",
+        "url": "http://www.bousai.metro.tokyo.jp/content/opendata/csv/33_document_2.csv",
+        "cache_last_updated": null,
+        "package_id": "fc64f9c8-f289-42be-a3c1-c83d4a7b80b3",
+        "created": "2018-04-12T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-04-12T15:00:00",
+        "position": 1,
+        "revision_id": "fcac7d85-3792-4ee2-be7e-c88e935de181",
+        "url_type": null,
+        "id": "7d00f018-3a1f-4818-b577-f5000fa85c68",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "呼吸器疾患及び心疾患罹患者数調",
+        "format": "CSV",
+        "url": "http://www.bousai.metro.tokyo.jp/content/opendata/csv/33_document_3_1.csv",
+        "cache_last_updated": null,
+        "package_id": "fc64f9c8-f289-42be-a3c1-c83d4a7b80b3",
+        "created": "2018-04-12T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-04-12T15:00:00",
+        "position": 2,
+        "revision_id": "a156d3b3-8562-4ee1-bc06-55cb7fa695bd",
+        "url_type": null,
+        "id": "3c9d1b9b-1b6d-480f-8cf8-50f269fda2d3",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 3,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "医療・福祉",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c005.png",
+        "title": "医療・福祉",
+        "id": "0d3cd956-612c-45c5-b1ee-75c1a5835c0e",
+        "name": "c005"
+      },
+      {
+        "display_name": "環境",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c012.png",
+        "title": "環境",
+        "id": "427f3ee0-b28a-4fd2-b7dc-980507f154d2",
+        "name": "c012"
+      },
+      {
+        "display_name": "防災・災害計画",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c001.png",
+        "title": "防災・災害計画",
+        "id": "8eb52f8e-0d10-44f4-8bb4-2a488d0f8465",
+        "name": "c001"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.soumu.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:19.763566",
+      "title": "東京都総務局",
+      "name": "t000003",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000003.png",
+      "revision_id": "c4e16dd4-cb3f-42dc-8be2-2eed0f9e0175",
+      "type": "organization",
+      "id": "5987f8a3-dfbe-4f96-b3cc-e1f3ea0a2717",
+      "approval_status": "approved"
+    },
+    "name": "t000003d1700000027",
+    "isopen": true,
+    "url": "",
+    "notes": "【東京都総務局】",
+    "owner_org": "5987f8a3-dfbe-4f96-b3cc-e1f3ea0a2717",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "三宅島噴火災害誌 資料編_資料33 三宅島民帰島前健康診断に関する検討会報告書",
+    "revision_id": "f9b3a2ef-2d2f-4f1b-ad34-c545b6cb7787"
+  }
+}

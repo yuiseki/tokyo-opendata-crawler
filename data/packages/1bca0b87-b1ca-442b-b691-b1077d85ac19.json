@@ -1,0 +1,101 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "総務部企画政策課事業推進担当",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "1bca0b87-b1ca-442b-b691-b1077d85ac19",
+    "metadata_created": "2019-11-01T04:54:22.460457",
+    "metadata_modified": "2019-11-01T06:09:21.595096",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "平成26年度指定管理者管理運営状況評価結果（福祉保健局）",
+        "format": "CSV",
+        "url": "http://www.fukushihoken.metro.tokyo.jp/kiban/kanridantaitou/shiteikanrisyaseido.files/h26hyoukakekka_1.csv",
+        "cache_last_updated": null,
+        "package_id": "1bca0b87-b1ca-442b-b691-b1077d85ac19",
+        "created": "2019-03-21T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-03-21T15:00:00",
+        "position": 0,
+        "revision_id": "b84db514-860a-42e0-b899-9c13d85a28c9",
+        "url_type": null,
+        "id": "7925c923-d0df-4c0c-ad56-e1bf16750908",
+        "resource_type": null,
+        "size": 8192
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "まちづくり",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c003.png",
+        "title": "まちづくり",
+        "id": "dc897c44-8153-4219-bfeb-6110fb85fb99",
+        "name": "c003"
+      },
+      {
+        "display_name": "医療・福祉",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c005.png",
+        "title": "医療・福祉",
+        "id": "0d3cd956-612c-45c5-b1ee-75c1a5835c0e",
+        "name": "c005"
+      },
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.fukushihoken.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.864364",
+      "title": "東京都福祉保健局",
+      "name": "t000010",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000010.jpg",
+      "revision_id": "8d3da6a9-bfe7-4cd1-9d5d-9737b2293939",
+      "type": "organization",
+      "id": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+      "approval_status": "approved"
+    },
+    "name": "t000010d1700000119",
+    "isopen": true,
+    "url": "http://www.fukushihoken.metro.tokyo.jp/",
+    "notes": "【東京都福祉保健局】",
+    "owner_org": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "1年ごと"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "指定管理者制度　平成26年度指定管理者運営状況評価結果",
+    "revision_id": "b87fe4ee-4147-421b-924d-d8628ba2028e"
+  }
+}

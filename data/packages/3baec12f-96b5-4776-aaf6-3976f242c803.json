@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "東京都福祉保健局生活福祉部保護課保護担当",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "3baec12f-96b5-4776-aaf6-3976f242c803",
+    "metadata_created": "2021-05-27T09:34:41.051616",
+    "metadata_modified": "2021-05-27T09:36:01.026917",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "生活保護受給者の有料老人ホーム等利用実態調査結果（入所者数）（平成２６年９月１日時点）",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/fukushihoken/R3/26-1.csv",
+        "cache_last_updated": null,
+        "package_id": "3baec12f-96b5-4776-aaf6-3976f242c803",
+        "created": "2021-02-26T04:11:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-02-26T04:11:00",
+        "position": 0,
+        "revision_id": "0ab92232-9d26-4b2d-8797-582752ea6a9c",
+        "url_type": null,
+        "id": "300515da-b1c1-473b-810b-260b87edf78e",
+        "resource_type": null,
+        "size": 4707
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.fukushihoken.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.864364",
+      "title": "東京都福祉保健局",
+      "name": "t000010",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000010.jpg",
+      "revision_id": "8d3da6a9-bfe7-4cd1-9d5d-9737b2293939",
+      "type": "organization",
+      "id": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+      "approval_status": "approved"
+    },
+    "name": "t000010d2000000467",
+    "isopen": true,
+    "url": "http://www.fukushihoken.metro.tokyo.jp/seikatsu/shisetsu/tyousakekka/260901.files/26-1.pdf",
+    "notes": "",
+    "owner_org": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "生活保護受給者の有料老人ホーム等の利用実態調査結果_生活保護受給者の有料老人ホーム等の利用実態調査結果（入所者数）",
+    "revision_id": "64f904bd-b823-414b-9bd9-d533ae32f54b"
+  }
+}

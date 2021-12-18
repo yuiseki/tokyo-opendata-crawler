@@ -1,0 +1,93 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "福祉部介護保険課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "c4cadf74-b0c2-40e8-a8b3-b0d6c82f8292",
+    "metadata_created": "2019-11-01T04:58:10.001160",
+    "metadata_modified": "2019-11-01T09:21:29.917352",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "市内宿泊デイサービス事業所（平成29年6月1日現在）",
+        "format": "XLS",
+        "url": "http://www.city.hachioji.tokyo.jp/kurashi/welfare/004/004/007/p004105_d/fil/jigyoshoitiran-syuku-.xls",
+        "cache_last_updated": null,
+        "package_id": "c4cadf74-b0c2-40e8-a8b3-b0d6c82f8292",
+        "created": "2018-08-21T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-08-21T15:00:00",
+        "position": 0,
+        "revision_id": "95e34617-0583-44b5-94c6-ca52256f6aef",
+        "url_type": null,
+        "id": "a8d7f1b1-e203-4676-b1c1-053c1188b9b5",
+        "resource_type": null,
+        "size": 69632
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "人口減少・少子高齢化",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c004.png",
+        "title": "人口減少・少子高齢化",
+        "id": "802d7d18-3543-4e8b-a8f5-82b5f1aa752e",
+        "name": "c004"
+      },
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "",
+      "created": "2019-11-01T03:27:26.131815",
+      "title": "八王子市",
+      "name": "t132012",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t132012.jpg",
+      "revision_id": "5a213ed0-94b4-4de9-ab8b-a962f12f4566",
+      "type": "organization",
+      "id": "99a3bc36-4f2f-4c83-8a04-87ecba771c45",
+      "approval_status": "approved"
+    },
+    "name": "t132012d0000000077",
+    "isopen": true,
+    "url": "",
+    "notes": "【八王子市】福祉関連オープンデータ一覧",
+    "owner_org": "99a3bc36-4f2f-4c83-8a04-87ecba771c45",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "宿泊デイサービス事業所",
+    "revision_id": "227047eb-2116-42ca-a080-a79d94bc4de7"
+  }
+}

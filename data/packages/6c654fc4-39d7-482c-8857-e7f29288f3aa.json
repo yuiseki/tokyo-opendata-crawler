@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "教育委員会図書文化財課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "6c654fc4-39d7-482c-8857-e7f29288f3aa",
+    "metadata_created": "2020-03-17T01:43:13.261442",
+    "owner_org": "beddb482-adb4-4e03-9c25-f229c2a0b028",
+    "metadata_modified": "2021-08-19T00:04:26.939006",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "",
+        "format": "XLS",
+        "url": "https://www.city.chuo.lg.jp/kusei/statisticaldata/opendata.files/timedomeakashi.xls",
+        "created": "2018-02-08T15:00:00",
+        "state": "active",
+        "package_id": "6c654fc4-39d7-482c-8857-e7f29288f3aa",
+        "last_modified": "2020-10-11T15:00:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "d97f72da-70e7-4081-b91c-7c026e948a4b",
+        "size": 25600,
+        "id": "0c6269cb-0af1-431a-926b-a9caea4748af",
+        "resource_type": null,
+        "name": "タイムドーム明石（中央区立郷土天文館）"
+      },
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "",
+        "format": "CSV",
+        "url": "https://www.city.chuo.lg.jp/kusei/statisticaldata/opendata.files/timedomeakashi.csv",
+        "created": "2018-02-08T15:00:00",
+        "state": "active",
+        "package_id": "6c654fc4-39d7-482c-8857-e7f29288f3aa",
+        "last_modified": "2020-10-11T15:00:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 1,
+        "revision_id": "213e68ea-958b-4a5f-a867-f38d644ee5b5",
+        "size": null,
+        "id": "6d72bbec-d546-40c9-84e9-7a61c89aa7c6",
+        "resource_type": null,
+        "name": "タイムドーム明石（中央区立郷土天文館）"
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "芸術文化",
+        "description": "",
+        "title": "芸術文化",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c010.png",
+        "id": "9c1fb21f-bc27-401b-87b7-0fd44c13cc05",
+        "name": "c010"
+      }
+    ],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t131024d0000000010",
+    "isopen": true,
+    "url": "http://www.city.chuo.lg.jp/bunka/timedomeakashi/index.html",
+    "notes": "タイムドーム明石（中央区立郷土天文館）の所在地、緯度、経度、施設情報（利用料金など）を掲載しています。",
+    "title": "タイムドーム明石（中央区立郷土天文館）",
+    "extras": [
+      {
+        "value": "随時",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "https://www.city.chuo.lg.jp/",
+      "title": "中央区",
+      "created": "2020-03-16T08:15:28.901611",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131024.png",
+      "revision_id": "fd4c096b-7319-43d7-a1a4-d2411b6beaee",
+      "type": "organization",
+      "id": "beddb482-adb4-4e03-9c25-f229c2a0b028",
+      "name": "t131024"
+    },
+    "revision_id": "64a705ec-4ca3-467e-829c-521b6a910b3a"
+  }
+}

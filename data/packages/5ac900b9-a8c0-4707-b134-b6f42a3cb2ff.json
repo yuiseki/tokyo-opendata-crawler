@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "保健所生活衛生課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "5ac900b9-a8c0-4707-b134-b6f42a3cb2ff",
+    "metadata_created": "2021-11-04T00:38:26.799425",
+    "metadata_modified": "2021-12-14T01:43:17.204292",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "目黒区内の美容所の一覧",
+        "name": "美容所　令和3年4月1日",
+        "format": "CSV",
+        "url": "https://data.bodik.jp/dataset/f5569102-a9da-435f-aa43-d95c21dcd3c3/resource/05527800-bb39-46cd-8993-252097bfa2cf/download/131105_hairdressingshop_20210401.csv",
+        "cache_last_updated": null,
+        "package_id": "5ac900b9-a8c0-4707-b134-b6f42a3cb2ff",
+        "created": "2021-08-11T02:13:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-08-11T02:13:00",
+        "position": 0,
+        "revision_id": "d063cd6c-0bc4-4a5a-a1b6-706a69dc1c55",
+        "url_type": null,
+        "id": "449fa465-ff25-4d63-84d8-49228f181fef",
+        "resource_type": null,
+        "size": 115531
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "美容所　新規　令和3年10月分",
+        "format": "CSV",
+        "url": "https://data.bodik.jp/dataset/f5569102-a9da-435f-aa43-d95c21dcd3c3/resource/49920ceb-07c9-4a6d-b9ac-fec65d681125/download/131105_hairdressingshop_new_20211001_20211031_.csv",
+        "cache_last_updated": null,
+        "package_id": "5ac900b9-a8c0-4707-b134-b6f42a3cb2ff",
+        "created": "2021-11-09T02:52:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-11-09T02:52:00",
+        "position": 1,
+        "revision_id": "557f59da-c523-4aa1-ac9e-3d9ee271130a",
+        "url_type": null,
+        "id": "fa1f854c-6421-4b64-8de4-9e671033a262",
+        "resource_type": null,
+        "size": 1372
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://odcs.bodik.jp/131105/",
+      "created": "2021-11-01T02:12:22.338293",
+      "title": "目黒区",
+      "name": "t131105",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131105.png",
+      "revision_id": "e3dc243f-e3a2-4b2b-a319-4e145bb63383",
+      "type": "organization",
+      "id": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
+      "approval_status": "approved"
+    },
+    "name": "t131105d0000000044",
+    "isopen": true,
+    "url": "https://www.city.meguro.tokyo.jp/kurashi/hoken_eisei/eisei/kankyou/index.html",
+    "notes": "目黒区内の美容所の一覧",
+    "owner_org": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "毎月"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "美容所",
+    "revision_id": "4e0af992-cf9e-4d6a-8f58-dcff1b91e989"
+  }
+}

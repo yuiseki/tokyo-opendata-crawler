@@ -1,0 +1,117 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "企画部財政課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "2e93168a-80c3-4d24-a40e-c6a1ab76b02a",
+    "metadata_created": "2019-12-26T11:17:36.226264",
+    "owner_org": "bad8a80a-36ed-489a-89c2-d1669a424860",
+    "metadata_modified": "2019-12-26T11:18:32.699897",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "平成28年度末時点における固定資産台帳に記載している情報の一部です。",
+        "format": "CSV",
+        "url": "https://www.city.mitaka.lg.jp/c_service/074/attached/attach_74162_1.csv",
+        "created": "2019-03-06T15:00:00",
+        "state": "active",
+        "package_id": "2e93168a-80c3-4d24-a40e-c6a1ab76b02a",
+        "last_modified": "2019-03-06T15:00:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "dbc0d9fb-0352-4563-a44f-6655dc769654",
+        "size": 1723392,
+        "id": "becc3985-e653-4a68-a602-e85bdfeff6cc",
+        "resource_type": null,
+        "name": "固定資産台帳データ（28年度末）"
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "title": "その他",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      },
+      {
+        "display_name": "まちづくり",
+        "description": "",
+        "title": "まちづくり",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c003.png",
+        "id": "dc897c44-8153-4219-bfeb-6110fb85fb99",
+        "name": "c003"
+      },
+      {
+        "display_name": "人口減少・少子高齢化",
+        "description": "",
+        "title": "人口減少・少子高齢化",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c004.png",
+        "id": "802d7d18-3543-4e8b-a8f5-82b5f1aa752e",
+        "name": "c004"
+      },
+      {
+        "display_name": "医療・福祉",
+        "description": "",
+        "title": "医療・福祉",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c005.png",
+        "id": "0d3cd956-612c-45c5-b1ee-75c1a5835c0e",
+        "name": "c005"
+      },
+      {
+        "display_name": "税金",
+        "description": "",
+        "title": "税金",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c007.png",
+        "id": "bb8a1d8b-5217-44c2-8eca-81addb671f0e",
+        "name": "c007"
+      }
+    ],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t132047d0000000012",
+    "isopen": true,
+    "url": "",
+    "notes": "三鷹市の固定資産台帳の掲載データです。",
+    "title": "【予算・決算】固定資産情報",
+    "extras": [
+      {
+        "value": "1年ごと",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "http://www.city.mitaka.tokyo.jp/",
+      "title": "三鷹市",
+      "created": "2019-11-01T03:27:26.290901",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t132047.png",
+      "revision_id": "29067a77-93a5-401f-8cf9-067b0d741280",
+      "type": "organization",
+      "id": "bad8a80a-36ed-489a-89c2-d1669a424860",
+      "name": "t132047"
+    },
+    "revision_id": "75ef2092-62c9-4730-95fc-de63f7c48a46"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "福祉部高齢福祉課（シルバー人材センター）/総務部広報課・文化産業観光部産業振興担当産業振興課（その他）",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "796aa149-cfe0-4394-b038-72472ee74e40",
+    "metadata_created": "2019-11-01T04:56:59.272528",
+    "metadata_modified": "2019-11-01T08:39:08.974946",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "産業関係施設の施設一覧です",
+        "name": "産業",
+        "format": "CSV",
+        "url": "http://www.city.taito.lg.jp/index/kusei/opendata/shisethutizujouhou.files/taito_industry.csv",
+        "cache_last_updated": null,
+        "package_id": "796aa149-cfe0-4394-b038-72472ee74e40",
+        "created": "2017-06-18T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-06-18T15:00:00",
+        "position": 0,
+        "revision_id": "d6fb2ced-f58c-4fc4-921b-4d90cd76aee6",
+        "url_type": null,
+        "id": "0104bcc9-90df-476f-b25e-a317e0bfe762",
+        "resource_type": null,
+        "size": 1024
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "産業雇用創出",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c011.png",
+        "title": "産業雇用創出",
+        "id": "bb1c42ce-dc7e-48cf-91d4-05cab59db4bd",
+        "name": "c011"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.taito.lg.jp/",
+      "created": "2019-11-01T03:27:24.733512",
+      "title": "台東区",
+      "name": "t131067",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131067.png",
+      "revision_id": "0166c313-a6d1-4eee-9282-f9bacc692e27",
+      "type": "organization",
+      "id": "72ddc2e3-f5ca-4fae-aca0-2e299cc0a94a",
+      "approval_status": "approved"
+    },
+    "name": "t131067d0000000018",
+    "isopen": true,
+    "url": "http://www.city.taito.lg.jp/index/shisetsu/sangyo.html",
+    "notes": "【台東区】　台東区の産業関係施設一覧です",
+    "owner_org": "72ddc2e3-f5ca-4fae-aca0-2e299cc0a94a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "産業関係施設",
+    "revision_id": "5a6af10d-b2c4-4b71-87c3-39a4f8791612"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "総務部総務課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "f510172e-417c-4628-bb47-1d59c86eaeb0",
+    "metadata_created": "2021-02-24T01:05:09.427338",
+    "metadata_modified": "2021-02-24T01:05:16.464367",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "下水道普及状況",
+        "format": "XLS",
+        "url": "https://www.city.chofu.tokyo.jp/www/contents/1610600374797/simple/1_03_120.xls",
+        "cache_last_updated": null,
+        "package_id": "f510172e-417c-4628-bb47-1d59c86eaeb0",
+        "created": "2021-02-24T01:05:16.487351",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": null,
+        "position": 0,
+        "revision_id": "39ce645a-ab1e-4021-8871-9258c6a8bac1",
+        "url_type": null,
+        "id": "95abd276-9a9f-4dc1-ad60-e79a57832f1b",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.chofu.tokyo.jp/",
+      "created": "2019-11-01T03:27:26.616591",
+      "title": "調布市",
+      "name": "t132080",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "c666c9e8-e94d-46e1-a28c-7cdf1ea8b7c6",
+      "type": "organization",
+      "id": "8c710e6d-ae95-4768-90a8-8f4c4e98ae41",
+      "approval_status": "approved"
+    },
+    "name": "t132080d0000000110",
+    "isopen": true,
+    "url": "",
+    "notes": "「調布市統計書　平成31年・令和元年版」掲載データ（下水道）",
+    "owner_org": "8c710e6d-ae95-4768-90a8-8f4c4e98ae41",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "公開時のみ"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "調布市統計書　平成31年・令和元年版　下水道に関するデータ",
+    "revision_id": "56582c05-77bb-4349-a65c-ff92a0586686"
+  }
+}

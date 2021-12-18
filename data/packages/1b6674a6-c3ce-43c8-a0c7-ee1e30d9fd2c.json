@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "教育庁都立学校教育部特別支援教育課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "1b6674a6-c3ce-43c8-a0c7-ee1e30d9fd2c",
+    "metadata_created": "2021-05-21T00:20:07.456294",
+    "metadata_modified": "2021-05-21T00:20:42.116509",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "【図表１】障害のある児童･生徒数の推計",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/kyouiku/R3/02seitosuu.csv",
+        "cache_last_updated": null,
+        "package_id": "1b6674a6-c3ce-43c8-a0c7-ee1e30d9fd2c",
+        "created": "2021-03-26T00:22:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-03-26T00:22:00",
+        "position": 0,
+        "revision_id": "b1a86c63-5276-45a4-a74d-78e2c2f1771b",
+        "url_type": null,
+        "id": "59278846-7610-4529-bcd6-33e2866ba0c0",
+        "resource_type": null,
+        "size": 416
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.kyoiku.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:22.598778",
+      "title": "東京都教育庁",
+      "name": "t000021",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000021.png",
+      "revision_id": "3b8eaba6-3e9c-4401-a703-dcd9d28741aa",
+      "type": "organization",
+      "id": "f510f5b2-b249-499d-a00f-440b1f646e13",
+      "approval_status": "approved"
+    },
+    "name": "t000021d2000000009",
+    "isopen": true,
+    "url": "http://www.kyoiku.metro.tokyo.jp/administration/action_and_budget/plan/special_needs_school/files/promotion_plan3_outline/02.pdf",
+    "notes": "",
+    "owner_org": "f510f5b2-b249-499d-a00f-440b1f646e13",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "東京都特別支援教育推進計画　第三次実施計画（案）の骨子について_東京都特別支援教育推進計画　第三次実施計画（案）の骨子（全文）",
+    "revision_id": "3dc1fcf4-d880-4a94-853e-c571009a6973"
+  }
+}

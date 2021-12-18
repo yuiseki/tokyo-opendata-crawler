@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "資源循環推進部廃棄物埋立管理事務所",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "num_tags": 0,
+    "id": "e42e0ad9-a40c-45d6-8c07-5ca9d56116c9",
+    "metadata_created": "2019-11-01T04:53:45.790499",
+    "metadata_modified": "2021-02-03T08:56:14.936746",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": "",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "埋立処分量内訳（平成１２年度～平成３１年度）",
+        "format": "XLSX",
+        "url": "https://www.kankyo.metro.tokyo.lg.jp/resource/landfill/central_breakwater/disposal_volume.files/umetatesyobunryo.xlsx",
+        "cache_last_updated": null,
+        "package_id": "e42e0ad9-a40c-45d6-8c07-5ca9d56116c9",
+        "created": "2017-06-29T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-06-29T15:00:00",
+        "position": 0,
+        "revision_id": "2189b164-0539-4794-8b92-b3a03ece5de6",
+        "url_type": null,
+        "id": "da9d0127-3182-4a65-a935-eb3f6f0bee4c",
+        "resource_type": null,
+        "size": 14336
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "埋立処分量内訳（平成１２年度～平成３１年度）",
+        "format": "CSV",
+        "url": "https://www.kankyo.metro.tokyo.lg.jp/resource/landfill/central_breakwater/disposal_volume.files/umetatesyobunryo.csv",
+        "cache_last_updated": null,
+        "package_id": "e42e0ad9-a40c-45d6-8c07-5ca9d56116c9",
+        "created": "2017-06-29T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-06-29T15:00:00",
+        "position": 1,
+        "revision_id": "1dd9b5fa-52f1-4cb0-b5f9-b32e0cb4ce4d",
+        "url_type": null,
+        "id": "e033d17e-431b-4995-9a8b-6bd196436548",
+        "resource_type": null,
+        "size": 1024
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "環境",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c012.png",
+        "title": "環境",
+        "id": "427f3ee0-b28a-4fd2-b7dc-980507f154d2",
+        "name": "c012"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.kankyo.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.710014",
+      "title": "東京都環境局",
+      "name": "t000009",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "a0bf6c30-64dc-48fe-9782-e38ae248a38d",
+      "type": "organization",
+      "id": "c8b93db3-9754-48d3-8b50-5cbe78d679e7",
+      "approval_status": "approved"
+    },
+    "name": "t000009d0000000005",
+    "isopen": true,
+    "url": "",
+    "notes": "【東京都環境局】",
+    "owner_org": "c8b93db3-9754-48d3-8b50-5cbe78d679e7",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "公開時のみ"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "埋立処分量内訳（平成１２年度～平成３１年度）",
+    "revision_id": "dbbae9fa-fea4-40fa-bcfc-cd73f246a6c5"
+  }
+}

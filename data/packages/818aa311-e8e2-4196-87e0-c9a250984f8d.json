@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "都市づくり政策部土地利用計画課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "818aa311-e8e2-4196-87e0-c9a250984f8d",
+    "metadata_created": "2019-11-01T04:53:27.964525",
+    "metadata_modified": "2019-11-01T05:45:09.919464",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "東京都区部における土地利用現況調査の結果の概要をまとめたものです。",
+        "name": "東京の土地　平成２３年の東京都区部地域",
+        "format": "PDF",
+        "url": "http://www.toshiseibi.metro.tokyo.jp/seisaku/tochi_c/pdf/tochi_3/tochi_all.pdf?1407",
+        "cache_last_updated": null,
+        "package_id": "818aa311-e8e2-4196-87e0-c9a250984f8d",
+        "created": "2017-03-24T03:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-03-24T03:00:00",
+        "position": 0,
+        "revision_id": "3c783b89-b835-4ddf-bfeb-36b87213b072",
+        "url_type": null,
+        "id": "b7b22f7f-d381-48fe-89f4-2c6bc2def081",
+        "resource_type": null,
+        "size": 22020096
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "東京都多摩・島しょ部における土地利用現況調査の結果の概要をまとめたものです。",
+        "name": "東京の土地　平成２４年の多摩・島しょ地域",
+        "format": "PDF",
+        "url": "http://www.toshiseibi.metro.tokyo.jp/seisaku/tochi_c/pdf/tochi_4/tochi_all.pdf",
+        "cache_last_updated": null,
+        "package_id": "818aa311-e8e2-4196-87e0-c9a250984f8d",
+        "created": "2017-03-24T03:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-03-24T03:00:00",
+        "position": 1,
+        "revision_id": "334673fe-eae3-45a9-aec1-161d9d6d0a5d",
+        "url_type": null,
+        "id": "4a831304-01c3-4d82-aede-7c16850585e0",
+        "resource_type": null,
+        "size": 23068672
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "まちづくり",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c003.png",
+        "title": "まちづくり",
+        "id": "dc897c44-8153-4219-bfeb-6110fb85fb99",
+        "name": "c003"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.toshiseibi.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.560358",
+      "title": "東京都都市整備局",
+      "name": "t000008",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "9c234f0e-ff7d-4e2d-8ba4-ea80f312405b",
+      "type": "organization",
+      "id": "16d81025-a2ca-4002-8129-9906c94a4732",
+      "approval_status": "approved"
+    },
+    "name": "t000008d0000000001",
+    "isopen": true,
+    "url": "http://www.toshiseibi.metro.tokyo.jp/seisaku/tochi_c/tochi_4.html",
+    "notes": "【東京都都市整備局】　東京都多摩・島しょ部における土地利用現況調査の結果の概要をまとめたものです。",
+    "owner_org": "16d81025-a2ca-4002-8129-9906c94a4732",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "5年ごと"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "土地利用現況調査",
+    "revision_id": "6a867907-c086-4177-9dbb-ccfa8763d228"
+  }
+}

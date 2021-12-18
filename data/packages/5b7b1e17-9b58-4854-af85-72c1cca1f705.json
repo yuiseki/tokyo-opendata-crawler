@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "福祉部介護保険課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "5b7b1e17-9b58-4854-af85-72c1cca1f705",
+    "metadata_created": "2019-11-01T04:56:53.170176",
+    "metadata_modified": "2019-11-01T09:36:00.793945",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "文京区の地域密着型サービス事業所の一覧です。（EXCELファイル）",
+        "name": "地域密着型サービス事業所",
+        "format": "XLSX",
+        "url": "https://www.city.bunkyo.lg.jp/library/opendata-bunkyo/04hoken-fukushi/06tiikimittyakugataservicezigyosyo/tiikimittyakugataservicezigyosyo.xlsx",
+        "cache_last_updated": null,
+        "package_id": "5b7b1e17-9b58-4854-af85-72c1cca1f705",
+        "created": "2017-11-06T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-11-06T15:00:00",
+        "position": 0,
+        "revision_id": "2326dbd6-b4de-444d-8688-d8d74d211254",
+        "url_type": null,
+        "id": "af78b29b-3656-480f-9e62-707cd479fb46",
+        "resource_type": null,
+        "size": 17408
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "文京区の地域密着型サービス事業所の一覧です。（CSVファイル）",
+        "name": "地域密着型サービス事業所",
+        "format": "CSV",
+        "url": "https://www.city.bunkyo.lg.jp/library/opendata-bunkyo/04hoken-fukushi/06tiikimittyakugataservicezigyosyo/tiikimittyakugataservicezigyosyo.csv",
+        "cache_last_updated": null,
+        "package_id": "5b7b1e17-9b58-4854-af85-72c1cca1f705",
+        "created": "2017-11-06T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-11-06T15:00:00",
+        "position": 1,
+        "revision_id": "1623715d-d9e6-4944-8416-d5337029d9a8",
+        "url_type": null,
+        "id": "8e53cd59-d0d6-4bc5-ac82-e431913364b7",
+        "resource_type": null,
+        "size": 7168
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "医療・福祉",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c005.png",
+        "title": "医療・福祉",
+        "id": "0d3cd956-612c-45c5-b1ee-75c1a5835c0e",
+        "name": "c005"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.bunkyo.lg.jp/",
+      "created": "2019-11-01T03:27:24.573898",
+      "title": "文京区",
+      "name": "t131059",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131059.png",
+      "revision_id": "66ab70ed-369f-4eda-b72a-eacf3f7c8095",
+      "type": "organization",
+      "id": "201cae13-e069-464e-b376-1da3ce968538",
+      "approval_status": "approved"
+    },
+    "name": "t131059d0405050001",
+    "isopen": true,
+    "url": "",
+    "notes": "【文京区】　文京区の地域密着型サービス事業所の一覧です。",
+    "owner_org": "201cae13-e069-464e-b376-1da3ce968538",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "地域密着型サービス事業所",
+    "revision_id": "5c6efec6-50c3-409d-aae1-9ef863423dfd"
+  }
+}

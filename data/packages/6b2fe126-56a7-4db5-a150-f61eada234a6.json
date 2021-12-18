@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "管理部総務課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "6b2fe126-56a7-4db5-a150-f61eada234a6",
+    "metadata_created": "2019-11-01T04:55:13.921602",
+    "owner_org": "de6428eb-03c5-4658-9bf8-80f7c5f554d9",
+    "metadata_modified": "2021-08-26T04:09:35.742700",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "",
+        "format": "CSV",
+        "url": "http://www.kaikeikanri.metro.tokyo.jp/2910tominnokoe.csv",
+        "created": "2018-03-01T15:00:00",
+        "state": "active",
+        "package_id": "6b2fe126-56a7-4db5-a150-f61eada234a6",
+        "last_modified": "2018-03-01T15:00:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "77b4e37a-ea2e-4c7f-92d0-5dd501921b33",
+        "size": null,
+        "id": "b253d59b-015c-43b5-8f10-4c496e0946bc",
+        "resource_type": null,
+        "name": "会計管理局へ寄せられた都民の声　平成29年10月分"
+      },
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "",
+        "format": "CSV",
+        "url": "http://www.kaikeikanri.metro.tokyo.jp/2905tominnokoe.csv",
+        "created": "2018-03-01T15:00:00",
+        "state": "active",
+        "package_id": "6b2fe126-56a7-4db5-a150-f61eada234a6",
+        "last_modified": "2018-03-01T15:00:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 1,
+        "revision_id": "3aef71fc-7b1f-43dc-900e-d963d0c48529",
+        "size": null,
+        "id": "bdc9ee36-efb9-4503-87e9-3e765e2bd40e",
+        "resource_type": null,
+        "name": "会計管理局へ寄せられた都民の声　平成29年5月分"
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "税金",
+        "description": "",
+        "title": "税金",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c007.png",
+        "id": "bb8a1d8b-5217-44c2-8eca-81addb671f0e",
+        "name": "c007"
+      }
+    ],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t000016d1700000002",
+    "isopen": true,
+    "url": "http://www.kaikeikanri.metro.tokyo.jp/tominnokoe.htm",
+    "notes": "【東京都会計管理局】　会計管理局へ寄せられた都民の声を、平成28年10月分から公開しています。（毎月中旬更新）",
+    "title": "会計管理局へ寄せられた都民の声",
+    "extras": [
+      {
+        "value": "1年ごと",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "http://www.kaikeikanri.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "title": "東京都会計管理局",
+      "created": "2019-11-01T03:27:21.811618",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "437d2e05-a454-4728-83e8-010b35b1110b",
+      "type": "organization",
+      "id": "de6428eb-03c5-4658-9bf8-80f7c5f554d9",
+      "name": "t000016"
+    },
+    "revision_id": "30705d74-4d13-491a-b51f-b14653872c82"
+  }
+}

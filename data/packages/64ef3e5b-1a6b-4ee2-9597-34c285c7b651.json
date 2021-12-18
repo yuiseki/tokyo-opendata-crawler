@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "子ども家庭部幼児保育課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "64ef3e5b-1a6b-4ee2-9597-34c285c7b651",
+    "metadata_created": "2019-11-01T04:56:51.225776",
+    "metadata_modified": "2019-11-01T09:36:10.229269",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "文京区の保育園の一覧です。（EXCELファイル）",
+        "name": "保育園",
+        "format": "XLSX",
+        "url": "https://www.city.bunkyo.lg.jp/library/opendata-bunkyo/02kosodate-kyouiku/02hoikuen/hoikuen.xlsx",
+        "cache_last_updated": null,
+        "package_id": "64ef3e5b-1a6b-4ee2-9597-34c285c7b651",
+        "created": "2017-11-06T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-11-06T15:00:00",
+        "position": 0,
+        "revision_id": "5b9f119c-614c-4da4-80e4-2cf21a5327b9",
+        "url_type": null,
+        "id": "1764d3f7-bb9b-456e-a599-1c95a1e6a344",
+        "resource_type": null,
+        "size": 21504
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "文京区の保育園の一覧です。（CSVファイル）",
+        "name": "保育園",
+        "format": "CSV",
+        "url": "https://www.city.bunkyo.lg.jp/library/opendata-bunkyo/02kosodate-kyouiku/02hoikuen/hoikuen.csv",
+        "cache_last_updated": null,
+        "package_id": "64ef3e5b-1a6b-4ee2-9597-34c285c7b651",
+        "created": "2017-11-06T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-11-06T15:00:00",
+        "position": 1,
+        "revision_id": "ce229338-48d6-45b1-ac09-9585daa51a00",
+        "url_type": null,
+        "id": "1c9108b3-d00f-4924-8ee4-3b87fbbae07a",
+        "resource_type": null,
+        "size": 10240
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "人口減少・少子高齢化",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c004.png",
+        "title": "人口減少・少子高齢化",
+        "id": "802d7d18-3543-4e8b-a8f5-82b5f1aa752e",
+        "name": "c004"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.bunkyo.lg.jp/",
+      "created": "2019-11-01T03:27:24.573898",
+      "title": "文京区",
+      "name": "t131059",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131059.png",
+      "revision_id": "66ab70ed-369f-4eda-b72a-eacf3f7c8095",
+      "type": "organization",
+      "id": "201cae13-e069-464e-b376-1da3ce968538",
+      "approval_status": "approved"
+    },
+    "name": "t131059d0206080001",
+    "isopen": true,
+    "url": "",
+    "notes": "【文京区】　文京区の保育園の一覧です。",
+    "owner_org": "201cae13-e069-464e-b376-1da3ce968538",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "1年ごと"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "保育園",
+    "revision_id": "63299d92-2b47-4acd-89bc-dd4a5e4dd4f8"
+  }
+}

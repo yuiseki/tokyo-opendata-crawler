@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "区民部区民課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "77e8f25d-75c5-412d-9ffc-c653910f710e",
+    "metadata_created": "2019-11-01T04:56:48.436810",
+    "metadata_modified": "2019-11-01T08:38:46.983921",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "平成21年度以降の文京区の年齢別及び男女別人口の資料です。1月・4月・7月・10月の1日現在の数値です。",
+        "name": "文京区人口統計資料（年齢（各歳）別及び男女別人口）（Excelファイル11種）",
+        "format": "ZIP",
+        "url": "https://www.city.bunkyo.lg.jp/library/opendata-bunkyo/06kuseijyouhou/02zinkotokei-nenreibetsu/zinkotokei-nenreibetsu.zip",
+        "cache_last_updated": null,
+        "package_id": "77e8f25d-75c5-412d-9ffc-c653910f710e",
+        "created": "2017-01-31T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-01-10T15:00:00",
+        "position": 0,
+        "revision_id": "cf1cdf6f-161f-422a-9ae7-5b089abfa67a",
+        "url_type": null,
+        "id": "7336c73c-b4af-4036-80f4-63af735c18aa",
+        "resource_type": null,
+        "size": 216064
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.bunkyo.lg.jp/",
+      "created": "2019-11-01T03:27:24.573898",
+      "title": "文京区",
+      "name": "t131059",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131059.png",
+      "revision_id": "66ab70ed-369f-4eda-b72a-eacf3f7c8095",
+      "type": "organization",
+      "id": "201cae13-e069-464e-b376-1da3ce968538",
+      "approval_status": "approved"
+    },
+    "name": "t131059d0000000005",
+    "isopen": true,
+    "url": "https://www.city.bunkyo.lg.jp/kusejoho/toke/zinko.html",
+    "notes": "【文京区】文京区の年齢別及び男女別人口の資料です。1月・4月・7月・10月の1日現在の数値です。",
+    "owner_org": "201cae13-e069-464e-b376-1da3ce968538",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "３月ごと"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "文京区人口統計資料（年齢（各歳）別及び男女別人口）",
+    "revision_id": "194fdaf7-9cce-4b62-aa65-cfdb5acce9a2"
+  }
+}

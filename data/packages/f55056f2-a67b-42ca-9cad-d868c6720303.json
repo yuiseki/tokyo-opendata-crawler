@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "総務部総務課統計調査担当",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "f55056f2-a67b-42ca-9cad-d868c6720303",
+    "metadata_created": "2019-11-01T04:53:49.904574",
+    "metadata_modified": "2019-11-01T05:53:41.957790",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "「東京都の医療施設」",
+        "format": "PDF",
+        "url": "http://www.fukushihoken.metro.tokyo.jp/kiban/chosa_tokei/iryosisetsu/heisei21nen.files/d2108.pdf",
+        "cache_last_updated": null,
+        "package_id": "f55056f2-a67b-42ca-9cad-d868c6720303",
+        "created": "2017-03-24T03:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-03-24T03:00:00",
+        "position": 0,
+        "revision_id": "353569be-a425-4c31-a06b-a669058862e5",
+        "url_type": null,
+        "id": "dc77a74d-ba1b-4765-acf1-323bcbc2a782",
+        "resource_type": null,
+        "size": 1048576
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "医療・福祉",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c005.png",
+        "title": "医療・福祉",
+        "id": "0d3cd956-612c-45c5-b1ee-75c1a5835c0e",
+        "name": "c005"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.fukushihoken.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.864364",
+      "title": "東京都福祉保健局",
+      "name": "t000010",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000010.jpg",
+      "revision_id": "8d3da6a9-bfe7-4cd1-9d5d-9737b2293939",
+      "type": "organization",
+      "id": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+      "approval_status": "approved"
+    },
+    "name": "t000010d0000000006",
+    "isopen": true,
+    "url": "",
+    "notes": "【東京都福祉保健局】",
+    "owner_org": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "公開時のみ"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "平成21年　医療施設（動態）調査・病院報告結果報告書",
+    "revision_id": "7ac09df3-6084-4013-91ec-8a3adca9b39d"
+  }
+}

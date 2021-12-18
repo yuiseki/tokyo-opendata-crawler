@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "東京都福祉保健局高齢社会対策部 在宅支援課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "dc93763b-8e38-4ea8-9911-adf156fdd3d8",
+    "metadata_created": "2021-05-27T08:00:55.380557",
+    "metadata_modified": "2021-05-27T08:01:31.030749",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "杉並区",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/fukushihoken/R3/suginamiku_tokyotohukusihoken.csv",
+        "cache_last_updated": null,
+        "package_id": "dc93763b-8e38-4ea8-9911-adf156fdd3d8",
+        "created": "2021-02-22T09:44:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-02-22T09:44:00",
+        "position": 0,
+        "revision_id": "5f1b2cc1-5724-45ec-a6d8-bcd10879c5e2",
+        "url_type": null,
+        "id": "af746c5d-fadd-407c-9217-5cbb98e4adb9",
+        "resource_type": null,
+        "size": 206
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.fukushihoken.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.864364",
+      "title": "東京都福祉保健局",
+      "name": "t000010",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000010.jpg",
+      "revision_id": "8d3da6a9-bfe7-4cd1-9d5d-9737b2293939",
+      "type": "organization",
+      "id": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+      "approval_status": "approved"
+    },
+    "name": "t000010d2000000359",
+    "isopen": true,
+    "url": "http://www.fukushihoken.metro.tokyo.jp/kourei/shisetsu/roujinfukushi/roujinfukushiku/suginamiku.html",
+    "notes": "",
+    "owner_org": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "老人福祉センター一覧（区部）_杉並区",
+    "revision_id": "1d503117-1d89-4c73-a173-592ad6dc204a"
+  }
+}

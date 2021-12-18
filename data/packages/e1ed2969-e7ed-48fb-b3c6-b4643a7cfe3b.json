@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "市場衛生検査所 管理課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "e1ed2969-e7ed-48fb-b3c6-b4643a7cfe3b",
+    "metadata_created": "2020-03-26T02:09:30.896997",
+    "owner_org": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+    "metadata_modified": "2020-03-26T02:09:36.304689",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/fukushihoken/itiba/H30/H30boukabizai_kensakekka.csv",
+        "created": "2020-03-26T02:09:35.787180",
+        "state": "active",
+        "package_id": "e1ed2969-e7ed-48fb-b3c6-b4643a7cfe3b",
+        "last_modified": null,
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "d3913c6a-903d-4410-890c-e61dda5dcae7",
+        "size": null,
+        "id": "ee37d12c-6edf-4a17-b131-16a7afaea29a",
+        "resource_type": null,
+        "name": "平成30年度　輸入果実等の防かび剤検査結果"
+      },
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/fukushihoken/itiba/H30/H30boukabi_siyoukijun.csv",
+        "created": "2020-03-26T02:09:36.048401",
+        "state": "active",
+        "package_id": "e1ed2969-e7ed-48fb-b3c6-b4643a7cfe3b",
+        "last_modified": null,
+        "mimetype": null,
+        "url_type": null,
+        "position": 1,
+        "revision_id": "f37c149c-3bdf-4b82-9c35-f7df222a49a0",
+        "size": 1996,
+        "id": "c76b5eb9-2b9b-4d1a-bb3e-0ca5e513706e",
+        "resource_type": null,
+        "name": "防かび剤又は防ばい剤の使用基準一覧"
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "医療・福祉",
+        "description": "",
+        "title": "医療・福祉",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c005.png",
+        "id": "0d3cd956-612c-45c5-b1ee-75c1a5835c0e",
+        "name": "c005"
+      }
+    ],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t000010d0000000081",
+    "isopen": true,
+    "url": "https://www.fukushihoken.metro.tokyo.lg.jp/itiba/kekka/rikagaku/boukabi/30boukabi.html",
+    "notes": "【東京都福祉保健局】",
+    "title": "防かび剤検査結果_平成30年度輸入果実等の防かび剤検査結果",
+    "extras": [
+      {
+        "value": "1年ごと",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "http://www.fukushihoken.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "title": "東京都福祉保健局",
+      "created": "2019-11-01T03:27:20.864364",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000010.jpg",
+      "revision_id": "8d3da6a9-bfe7-4cd1-9d5d-9737b2293939",
+      "type": "organization",
+      "id": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+      "name": "t000010"
+    },
+    "revision_id": "d3913c6a-903d-4410-890c-e61dda5dcae7"
+  }
+}

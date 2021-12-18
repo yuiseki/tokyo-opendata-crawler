@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "中央図書館",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "4d101e5f-f3eb-4b1d-9fef-92d5fc261efa",
+    "metadata_created": "2021-10-07T05:32:06.125429",
+    "metadata_modified": "2021-10-07T05:32:25.464086",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "新宿区の図書館圏内(町丁別図書館登録者数)です。",
+        "name": "図書館圏内(町丁別図書館登録者数)",
+        "format": "ZIP",
+        "url": "https://www.city.shinjuku.lg.jp/content/000262841.zip",
+        "cache_last_updated": null,
+        "package_id": "4d101e5f-f3eb-4b1d-9fef-92d5fc261efa",
+        "created": "2019-06-05T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-06-05T15:00:00",
+        "position": 0,
+        "revision_id": "2a9d88ef-db7f-4fd4-a0f5-2a788f426e4f",
+        "url_type": null,
+        "id": "c6753ee9-de5f-44de-96f3-dc5169c4a496",
+        "resource_type": null,
+        "size": 5120
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "",
+      "created": "2019-11-01T03:27:24.390617",
+      "title": "新宿区",
+      "name": "t131041",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131041.jpg",
+      "revision_id": "32114732-e02e-4a21-95ea-57f0bde433bb",
+      "type": "organization",
+      "id": "dae20c75-717a-45a5-91e9-ca6e6530178c",
+      "approval_status": "approved"
+    },
+    "name": "t131041d0000000048",
+    "isopen": true,
+    "url": "",
+    "notes": "【新宿区】図書館に関するGISデータです。",
+    "owner_org": "dae20c75-717a-45a5-91e9-ca6e6530178c",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "新宿区の図書館圏内(町丁別図書館登録者数)",
+    "revision_id": "4d77af6f-08f8-43b0-ad65-99caf1761fd8"
+  }
+}

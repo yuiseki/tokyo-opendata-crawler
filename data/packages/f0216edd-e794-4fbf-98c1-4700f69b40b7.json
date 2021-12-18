@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "市場衛生検査所 管理課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "f0216edd-e794-4fbf-98c1-4700f69b40b7",
+    "metadata_created": "2020-03-26T02:09:29.088781",
+    "owner_org": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+    "metadata_modified": "2020-03-26T02:09:37.206623",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/fukushihoken/itiba/H30/H30vibulio.csv",
+        "created": "2020-03-26T02:09:32.750095",
+        "state": "active",
+        "package_id": "f0216edd-e794-4fbf-98c1-4700f69b40b7",
+        "last_modified": null,
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "5d7e6286-a5bb-4d62-8083-a1e75e7c1e68",
+        "size": null,
+        "id": "0371b93f-bff3-431c-b794-1b370d89a34f",
+        "resource_type": null,
+        "name": "平成30年度腸炎ビブリオ検出状況"
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "医療・福祉",
+        "description": "",
+        "title": "医療・福祉",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c005.png",
+        "id": "0d3cd956-612c-45c5-b1ee-75c1a5835c0e",
+        "name": "c005"
+      }
+    ],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t000010d0000000074",
+    "isopen": true,
+    "url": "https://www.fukushihoken.metro.tokyo.lg.jp/itiba/kekka/kensa/vib/30vib.html",
+    "notes": "【東京都福祉保健局】",
+    "title": "腸炎ビブリオ検査結果_平成30年度腸炎ビブリオ検査結果",
+    "extras": [
+      {
+        "value": "1年ごと",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "http://www.fukushihoken.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "title": "東京都福祉保健局",
+      "created": "2019-11-01T03:27:20.864364",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000010.jpg",
+      "revision_id": "8d3da6a9-bfe7-4cd1-9d5d-9737b2293939",
+      "type": "organization",
+      "id": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+      "name": "t000010"
+    },
+    "revision_id": "37ca997a-16f9-4823-960c-a74915372865"
+  }
+}

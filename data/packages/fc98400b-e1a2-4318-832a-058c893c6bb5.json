@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "都民生活部地域活動推進課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "fc98400b-e1a2-4318-832a-058c893c6bb5",
+    "metadata_created": "2019-11-01T04:53:21.513004",
+    "metadata_modified": "2019-11-01T05:43:40.872338",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "表 1 東京都内区市町村別国籍別外国人人口（上位３位） （2016年1月現在）",
+        "name": "表 1 東京都内区市町村別国籍別外国人人口（上位３位） （2016年1月現在）",
+        "format": "CSV",
+        "url": "http://www.seikatubunka.metro.tokyo.jp/chiiki_tabunka/tabunka/tabunkasuishin/files/0000000755/shishinzenbun_10.csv",
+        "cache_last_updated": null,
+        "package_id": "fc98400b-e1a2-4318-832a-058c893c6bb5",
+        "created": "2018-04-30T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-04-30T15:00:00",
+        "position": 0,
+        "revision_id": "d834e65a-6eb3-43b4-8099-00c0feb1ef63",
+        "url_type": null,
+        "id": "72b815fc-17b9-434e-bb8a-4375c7ec9356",
+        "resource_type": null,
+        "size": 1024
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "表 2 企業数等の全国に占める割合",
+        "name": "表 2 企業数等の全国に占める割合",
+        "format": "CSV",
+        "url": "http://www.seikatubunka.metro.tokyo.jp/chiiki_tabunka/tabunka/tabunkasuishin/files/0000000755/shishinzenbun_14.csv",
+        "cache_last_updated": null,
+        "package_id": "fc98400b-e1a2-4318-832a-058c893c6bb5",
+        "created": "2018-04-30T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-04-30T15:00:00",
+        "position": 1,
+        "revision_id": "bab96932-6531-49d3-9400-eed0de826354",
+        "url_type": null,
+        "id": "be41ad0d-561d-4e3a-9cca-430ec5e7e78e",
+        "resource_type": null,
+        "size": 1024
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.seikatubunka.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.245320",
+      "title": "東京都生活文化局",
+      "name": "t000006",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "e09ebb81-026e-4a29-927c-3490964055ad",
+      "type": "organization",
+      "id": "3f65c30d-0809-4fc6-8f6c-82261b14152e",
+      "approval_status": "approved"
+    },
+    "name": "t000006d1700000026",
+    "isopen": true,
+    "url": "",
+    "notes": "【東京都生活文化局】東京都は、日本人と外国人が共に東京の発展に向けて参加・活躍する、新たな考え方に立った「東京都多文化共生推進指針～世界をリードするグローバル都市へ～」を2016（平成28）年2月に策定しました。\n\n※一部の表について、ＣＳＶ形式では表示できない場合があります。\n",
+    "owner_org": "3f65c30d-0809-4fc6-8f6c-82261b14152e",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "東京都多文化共生推進指針",
+    "revision_id": "7b548b5b-bd9f-42db-a8bb-7640bd566e6b"
+  }
+}

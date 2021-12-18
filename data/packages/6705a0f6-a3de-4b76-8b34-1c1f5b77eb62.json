@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "町田市都市づくり部土地利用調整課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "6705a0f6-a3de-4b76-8b34-1c1f5b77eb62",
+    "metadata_created": "2021-06-25T07:10:46.895265",
+    "metadata_modified": "2021-06-25T07:10:47.435202",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "公共基準点",
+        "format": "CSV",
+        "url": "https://www.city.machida.tokyo.jp/shisei/opendata/chizujoho/koukyoukijunten.files/koukyoukijunten.csv",
+        "cache_last_updated": null,
+        "package_id": "6705a0f6-a3de-4b76-8b34-1c1f5b77eb62",
+        "created": "2021-06-15T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-06-15T15:00:00",
+        "position": 0,
+        "revision_id": "3987ec45-4049-45eb-b2d1-91a606b90ec0",
+        "url_type": null,
+        "id": "594d84a5-bb57-4f7a-9159-5e2fa2cc738b",
+        "resource_type": null,
+        "size": 206848
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.machida.tokyo.jp/",
+      "created": "2019-11-01T03:27:26.775139",
+      "title": "町田市",
+      "name": "t132098",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t132098.png",
+      "revision_id": "afc39d6e-faf0-4358-90a5-a32d669724a1",
+      "type": "organization",
+      "id": "01ee6b09-cb58-4100-8d95-623ad6b238ef",
+      "approval_status": "approved"
+    },
+    "name": "t132098d0000000112",
+    "isopen": true,
+    "url": "",
+    "notes": "【町田市】\n\n・この表は、2021年4月1日現在のものです。\n\n・すべての公共基準点の情報を表示したものではありません。\n\n・詳細については「町田市都市づくり部建築開発審査課閲覧証明係」において、点の記・成果表の交付が出来ます。（有料：1点300円）\n\n・本データは以下の仕様で作成されています。\n\n測地系：世界測地系（2011）\n\n平面直角座標系：Ⅸ系\n",
+    "owner_org": "01ee6b09-cb58-4100-8d95-623ad6b238ef",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "公共基準点",
+    "revision_id": "8851c78e-7a92-4156-b41f-96c989d3e35c"
+  }
+}

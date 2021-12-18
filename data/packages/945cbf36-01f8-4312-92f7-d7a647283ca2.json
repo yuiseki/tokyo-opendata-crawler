@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "東京都教育庁地域教育支援部管理課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "945cbf36-01f8-4312-92f7-d7a647283ca2",
+    "metadata_created": "2021-06-28T02:33:23.073588",
+    "metadata_modified": "2021-06-28T02:33:25.883558",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "Ｑ４.各教科、特別活動、総合的な学習の時間における学校図書館の利用の位置付け(学校数)",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/kyouiku/R3/tyousa2_15.csv",
+        "cache_last_updated": null,
+        "package_id": "945cbf36-01f8-4312-92f7-d7a647283ca2",
+        "created": "2021-02-27T02:39:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-02-27T02:39:00",
+        "position": 0,
+        "revision_id": "9a1e2562-04a8-4046-8053-c4dbe2a5e6ef",
+        "url_type": null,
+        "id": "ceee8c3d-63b1-4a12-b4f3-66cbb2b483b2",
+        "resource_type": null,
+        "size": 2825
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.kyoiku.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:22.598778",
+      "title": "東京都教育庁",
+      "name": "t000021",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000021.png",
+      "revision_id": "3b8eaba6-3e9c-4401-a703-dcd9d28741aa",
+      "type": "organization",
+      "id": "f510f5b2-b249-499d-a00f-440b1f646e13",
+      "approval_status": "approved"
+    },
+    "name": "t000021d2000000168",
+    "isopen": true,
+    "url": "https://www.kodomo-dokusho.metro.tokyo.lg.jp/tmg/wp-content/uploads/user/shukei/36ddc758da065bfff193c9e576262262.pdf",
+    "notes": "",
+    "owner_org": "f510f5b2-b249-499d-a00f-440b1f646e13",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "読書状況調査集計結果_平成２７年度_【調査２】学校における読書活動等に関する取組状況の調査（p.30）",
+    "revision_id": "bc397eb3-6342-4b01-b3cd-3838e8318653"
+  }
+}

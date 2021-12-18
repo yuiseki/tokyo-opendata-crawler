@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "東京都環境局東京都廃棄物埋立管理事務所",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "3206beb3-38a7-41bc-aa8c-47b15036ecd8",
+    "metadata_created": "2021-06-01T08:52:24.714291",
+    "owner_org": "c8b93db3-9754-48d3-8b50-5cbe78d679e7",
+    "metadata_modified": "2021-06-02T09:07:21.365433",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/kankyo/R3/h30air_quality_2.csv",
+        "created": "2021-04-12T05:47:00",
+        "state": "active",
+        "package_id": "3206beb3-38a7-41bc-aa8c-47b15036ecd8",
+        "last_modified": "2021-04-12T05:47:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "60585a7c-33c7-4811-9c7a-e6ca1ba8547e",
+        "size": 916,
+        "id": "df100da7-9d19-42c5-a13c-9e45d0500c8a",
+        "resource_type": null,
+        "name": "大気中のアスベスト測定結果(位相差顕微鏡)"
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t000009d2000000049",
+    "isopen": true,
+    "url": "https://www.kankyo.metro.tokyo.lg.jp/resource/landfill/central_breakwater/air_quality.files/h30air_quality.pdf",
+    "notes": "",
+    "title": "大気質のデータ・アスベスト",
+    "extras": [
+      {
+        "value": "随時",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "http://www.kankyo.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "title": "東京都環境局",
+      "created": "2019-11-01T03:27:20.710014",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "a0bf6c30-64dc-48fe-9782-e38ae248a38d",
+      "type": "organization",
+      "id": "c8b93db3-9754-48d3-8b50-5cbe78d679e7",
+      "name": "t000009"
+    },
+    "revision_id": "499e193c-aa3c-43aa-9881-5e153dd02b25"
+  }
+}

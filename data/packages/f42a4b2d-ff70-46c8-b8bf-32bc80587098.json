@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "清瀬市総務部総務課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "f42a4b2d-ff70-46c8-b8bf-32bc80587098",
+    "metadata_created": "2020-11-10T01:37:08.589142",
+    "owner_org": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
+    "metadata_modified": "2021-06-16T02:25:10.443881",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "【清瀬市】指定緊急避難所の一覧です。",
+        "format": "CSV",
+        "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/001/605/132217_aed.csv",
+        "created": "2018-06-20T00:37:00",
+        "state": "active",
+        "package_id": "f42a4b2d-ff70-46c8-b8bf-32bc80587098",
+        "last_modified": "2020-01-28T05:35:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "751d7ce2-efde-43cc-bf3f-c64d1749c7c7",
+        "size": 14336,
+        "id": "7f8e20cf-a62f-4cdb-ac3c-76b699d39696",
+        "resource_type": null,
+        "name": "AED設置個所一覧"
+      },
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "【清瀬市】配備されているAEDの設置場所と個数です。",
+        "format": "XLSX",
+        "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/001/605/132217_aed.xlsx",
+        "created": "2018-06-20T00:37:00",
+        "state": "active",
+        "package_id": "f42a4b2d-ff70-46c8-b8bf-32bc80587098",
+        "last_modified": "2020-01-28T05:35:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 1,
+        "revision_id": "d09ea0f4-167c-4648-989b-fa507f2c0387",
+        "size": 26624,
+        "id": "0bb4fd82-3082-412c-b20c-4b20ba5c81cd",
+        "resource_type": null,
+        "name": "AED設置個所一覧"
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "医療・福祉",
+        "description": "",
+        "title": "医療・福祉",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c005.png",
+        "id": "0d3cd956-612c-45c5-b1ee-75c1a5835c0e",
+        "name": "c005"
+      }
+    ],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t132217d0000000010",
+    "isopen": true,
+    "url": "https://www.city.kiyose.lg.jp/opendata/opendataichiran/1001605.html",
+    "notes": "【清瀬市】配備されているAEDの設置場所と個数です。",
+    "title": "AED設置個所一覧",
+    "extras": [
+      {
+        "value": "変更の都度",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "https://www.city.kiyose.lg.jp/index.html",
+      "title": "清瀬市",
+      "created": "2020-08-05T08:00:00.206131",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "f8ef546d-d3f4-46e8-9741-39a6eec61618",
+      "type": "organization",
+      "id": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
+      "name": "t132217"
+    },
+    "revision_id": "08e24aed-33f9-435b-8d30-e76e9429bcca"
+  }
+}

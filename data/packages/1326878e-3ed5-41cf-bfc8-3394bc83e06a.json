@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "人事戦略担当部人材育成課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "1326878e-3ed5-41cf-bfc8-3394bc83e06a",
+    "metadata_created": "2019-11-01T04:57:35.410498",
+    "metadata_modified": "2019-11-01T08:44:07.381858",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "女性の職業選択の参考となる練馬区の状況",
+        "format": "DOCX",
+        "url": "https://www.city.nerima.tokyo.jp/kusei/tokei/opendata/opendatasite/tokei_kusei/shokugyousentaku.files/josei_shokugyousentaku.docx",
+        "cache_last_updated": null,
+        "package_id": "1326878e-3ed5-41cf-bfc8-3394bc83e06a",
+        "created": "2017-04-20T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-04-20T15:00:00",
+        "position": 0,
+        "revision_id": "7b7325cb-c50d-441f-ab33-6c263543af3a",
+        "url_type": null,
+        "id": "6fa81dc8-df65-45cf-8663-cbf9f6adc0a5",
+        "resource_type": null,
+        "size": 21504
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "産業雇用創出",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c011.png",
+        "title": "産業雇用創出",
+        "id": "bb1c42ce-dc7e-48cf-91d4-05cab59db4bd",
+        "name": "c011"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.nerima.tokyo.jp/",
+      "created": "2019-11-01T03:27:25.822926",
+      "title": "練馬区",
+      "name": "t131202",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131202.gif",
+      "revision_id": "c9aef7e0-f984-4dce-bc1b-accb7d513a92",
+      "type": "organization",
+      "id": "76020df2-dfd1-42a2-9f7d-dbe5cefc7028",
+      "approval_status": "approved"
+    },
+    "name": "t131202d0000000022",
+    "isopen": true,
+    "url": "https://www.city.nerima.tokyo.jp/kusei/keikaku/shisaku/sonota/syokuin_ikusei/kosodatesien.html",
+    "notes": "【練馬区】女性の職業選択における活躍の推進に関する法律に基づく「女性の職業選択の参考となる区の状況」を掲載しています。",
+    "owner_org": "76020df2-dfd1-42a2-9f7d-dbe5cefc7028",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "女性の職業選択の参考となる練馬区の状況",
+    "revision_id": "68861ce3-e65a-4ada-a91f-6c92713148f4"
+  }
+}

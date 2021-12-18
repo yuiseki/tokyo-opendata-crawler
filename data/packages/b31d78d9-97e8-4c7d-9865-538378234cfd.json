@@ -1,0 +1,114 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "総務部広報サービス課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "b31d78d9-97e8-4c7d-9865-538378234cfd",
+    "metadata_created": "2021-09-13T04:38:45.507466",
+    "metadata_modified": "2021-09-13T04:39:20.822300",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "平成22年9月 合流式下水道及び下水の高度処理について ",
+        "format": "PDF",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/gesui/R3/monitor/H22/houkokusyo2202.pdf",
+        "cache_last_updated": null,
+        "package_id": "b31d78d9-97e8-4c7d-9865-538378234cfd",
+        "created": "2021-08-16T03:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-08-16T03:00:00",
+        "position": 0,
+        "revision_id": "c9dc0142-2489-4699-b138-e13bb85d873f",
+        "url_type": null,
+        "id": "9cef58a1-8df7-4c28-9686-ce1b7a3201de",
+        "resource_type": null,
+        "size": 1397
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "平成22年5月 下水道のイメージと事業認知について ",
+        "format": "PDF",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/gesui/R3/monitor/H22/houkokusyo2201.pdf",
+        "cache_last_updated": null,
+        "package_id": "b31d78d9-97e8-4c7d-9865-538378234cfd",
+        "created": "2021-08-16T03:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-08-16T03:00:00",
+        "position": 1,
+        "revision_id": "a1376204-17be-4ffd-aefc-c30fc2056d6d",
+        "url_type": null,
+        "id": "d558e882-b900-43be-aab9-08a9ad819191",
+        "resource_type": null,
+        "size": 1522
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "まちづくり",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c003.png",
+        "title": "まちづくり",
+        "id": "dc897c44-8153-4219-bfeb-6110fb85fb99",
+        "name": "c003"
+      },
+      {
+        "display_name": "環境",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c012.png",
+        "title": "環境",
+        "id": "427f3ee0-b28a-4fd2-b7dc-980507f154d2",
+        "name": "c012"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.gesui.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:22.443423",
+      "title": "東京都下水道局",
+      "name": "t000020",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "77fc8722-1f7a-4aa8-b96f-179b43fc85cd",
+      "type": "organization",
+      "id": "1ae499e6-7963-4e08-bcd1-7495d0cc33dd",
+      "approval_status": "approved"
+    },
+    "name": "t000020d0000000029",
+    "isopen": true,
+    "url": "https://www.gesui.metro.tokyo.lg.jp/business/b2/result/index.html",
+    "notes": "【東京都下水道局】",
+    "owner_org": "1ae499e6-7963-4e08-bcd1-7495d0cc33dd",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "4回/年"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "下水度モニターアンケート結果（平成22年度）",
+    "revision_id": "4dfe5175-a617-4a64-a719-f64b267a5920"
+  }
+}

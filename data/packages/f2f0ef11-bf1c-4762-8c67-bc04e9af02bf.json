@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "清瀬市教育部生涯学習スポーツ課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "f2f0ef11-bf1c-4762-8c67-bc04e9af02bf",
+    "metadata_created": "2020-11-10T01:37:14.358879",
+    "owner_org": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
+    "metadata_modified": "2021-06-16T02:25:17.343170",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "【清瀬市】公共施設を予約する端末が設置されている場所の一覧です。",
+        "format": "CSV",
+        "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/001/604/12_publicfacilityreservationterminal.csv",
+        "created": "2019-12-26T06:36:00",
+        "state": "active",
+        "package_id": "f2f0ef11-bf1c-4762-8c67-bc04e9af02bf",
+        "last_modified": "2019-12-26T06:36:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "8ba481fc-3607-4409-83b9-c4acdc90f97d",
+        "size": 2048,
+        "id": "ab25df7c-9077-4b16-8051-7ad3a2d22727",
+        "resource_type": null,
+        "name": "公共施設予約端末設置場所一覧"
+      },
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "【清瀬市】公共施設を予約する端末が設置されている場所の一覧です。",
+        "format": "XLSX",
+        "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/001/604/12_publicfacilityreservationterminal.xlsx",
+        "created": "2019-12-26T06:35:00",
+        "state": "active",
+        "package_id": "f2f0ef11-bf1c-4762-8c67-bc04e9af02bf",
+        "last_modified": "2019-12-26T06:35:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 1,
+        "revision_id": "00a695f9-3e56-4006-8bb3-1ccac93492ad",
+        "size": 13312,
+        "id": "7a281de9-28fe-4911-af25-46d1f0728b1b",
+        "resource_type": null,
+        "name": "公共施設予約端末設置場所一覧"
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "title": "その他",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      }
+    ],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t132217d0000000029",
+    "isopen": true,
+    "url": "https://www.city.kiyose.lg.jp/opendata/opendataichiran/1001604.html",
+    "notes": "【清瀬市】公共施設を予約する端末が設置されている場所の一覧です。",
+    "title": "公共施設予約端末設置場所一覧",
+    "extras": [
+      {
+        "value": "変更の都度",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "https://www.city.kiyose.lg.jp/index.html",
+      "title": "清瀬市",
+      "created": "2020-08-05T08:00:00.206131",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "f8ef546d-d3f4-46e8-9741-39a6eec61618",
+      "type": "organization",
+      "id": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
+      "name": "t132217"
+    },
+    "revision_id": "2b87fe1e-e235-48fb-8080-ed6b92d783ed"
+  }
+}

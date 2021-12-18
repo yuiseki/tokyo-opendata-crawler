@@ -1,0 +1,93 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "区民部区民課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "809dca52-2bdb-4bc7-8c99-0c97ad2f6ade",
+    "metadata_created": "2019-11-01T04:56:57.546000",
+    "metadata_modified": "2019-11-01T08:39:06.795886",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "区民館・公会堂の施設一覧です",
+        "name": "区民館・公会堂",
+        "format": "CSV",
+        "url": "http://www.city.taito.lg.jp/index/kusei/opendata/shisethutizujouhou.files/citizens_hall.csv",
+        "cache_last_updated": null,
+        "package_id": "809dca52-2bdb-4bc7-8c99-0c97ad2f6ade",
+        "created": "2017-06-18T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-06-18T15:00:00",
+        "position": 0,
+        "revision_id": "e7c2310a-5bd5-499f-b0a7-d305c6071f4e",
+        "url_type": null,
+        "id": "42222000-2204-4b8e-804f-b79be709acc0",
+        "resource_type": null,
+        "size": 1024
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      },
+      {
+        "display_name": "芸術文化",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c010.png",
+        "title": "芸術文化",
+        "id": "9c1fb21f-bc27-401b-87b7-0fd44c13cc05",
+        "name": "c010"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.taito.lg.jp/",
+      "created": "2019-11-01T03:27:24.733512",
+      "title": "台東区",
+      "name": "t131067",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131067.png",
+      "revision_id": "0166c313-a6d1-4eee-9282-f9bacc692e27",
+      "type": "organization",
+      "id": "72ddc2e3-f5ca-4fae-aca0-2e299cc0a94a",
+      "approval_status": "approved"
+    },
+    "name": "t131067d0000000010",
+    "isopen": true,
+    "url": "http://www.city.taito.lg.jp/index/shisetsu/hall/index.html",
+    "notes": "【台東区】　台東区の区民館・公会堂の施設一覧です",
+    "owner_org": "72ddc2e3-f5ca-4fae-aca0-2e299cc0a94a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "区民館・公会堂",
+    "revision_id": "63cea64a-a009-483e-b473-cdac3555e696"
+  }
+}

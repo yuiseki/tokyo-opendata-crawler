@@ -1,0 +1,93 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "あきる野市総務部情報システム課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "32a753bf-b2fc-4461-ab80-f06fb7d33608",
+    "metadata_created": "2019-11-01T04:59:08.761555",
+    "metadata_modified": "2020-02-26T07:05:59.500463",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "イベント一覧",
+        "format": "CSV",
+        "url": "http://www.city.akiruno.tokyo.jp/cmsfiles/contents/0000009/9313/13228_event_202002.csv",
+        "cache_last_updated": null,
+        "package_id": "32a753bf-b2fc-4461-ab80-f06fb7d33608",
+        "created": "2020-01-23T02:26:36",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2020-01-23T02:26:36",
+        "position": 0,
+        "revision_id": "dc698d70-f6df-41ea-8d14-c440df95c19a",
+        "url_type": null,
+        "id": "d442b89b-3adb-46af-8d64-d1aca9297e29",
+        "resource_type": null,
+        "size": 71026
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      },
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.akiruno.tokyo.jp/",
+      "created": "2019-11-01T03:27:27.785339",
+      "title": "あきる野市",
+      "name": "t132284",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t132284.jpg",
+      "revision_id": "38e8854a-07e3-4713-9a0b-ab34b7a4a4dc",
+      "type": "organization",
+      "id": "ed9d8dcd-7690-484e-be15-8b23eab3bf57",
+      "approval_status": "approved"
+    },
+    "name": "t132284d0000000001",
+    "isopen": true,
+    "url": "http://www.city.akiruno.tokyo.jp/0000009307.html",
+    "notes": "【あきる野市】あきる野市が主催・共催するイベント情報の一覧です。",
+    "owner_org": "ed9d8dcd-7690-484e-be15-8b23eab3bf57",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "月１回"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "イベント情報一覧",
+    "revision_id": "5fbdd56f-a964-496b-9388-97833ef7a212"
+  }
+}

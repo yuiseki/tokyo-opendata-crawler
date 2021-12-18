@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "東京都教育庁地域教育支援部生涯学習課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "7e3bb95f-bd72-4700-9ad8-8425a270f76f",
+    "metadata_created": "2021-05-25T05:39:58.029030",
+    "metadata_modified": "2021-05-25T05:40:02.754002",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "新島村",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/kyouiku/R3/skseti_56.csv",
+        "cache_last_updated": null,
+        "package_id": "7e3bb95f-bd72-4700-9ad8-8425a270f76f",
+        "created": "2021-02-05T02:15:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-02-05T02:15:00",
+        "position": 0,
+        "revision_id": "6fecb24d-5549-40cb-a027-3b61de6bffcb",
+        "url_type": null,
+        "id": "6f5fe465-bf55-44c7-8ae5-580c2825ba81",
+        "resource_type": null,
+        "size": 273
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.kyoiku.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:22.598778",
+      "title": "東京都教育庁",
+      "name": "t000021",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000021.png",
+      "revision_id": "3b8eaba6-3e9c-4401-a703-dcd9d28741aa",
+      "type": "organization",
+      "id": "f510f5b2-b249-499d-a00f-440b1f646e13",
+      "approval_status": "approved"
+    },
+    "name": "t000021d2000000154",
+    "isopen": true,
+    "url": "https://www.syougai.metro.tokyo.lg.jp/sisetu/image/2sisetukubupdf/skseti_56.pdf",
+    "notes": "",
+    "owner_org": "f510f5b2-b249-499d-a00f-440b1f646e13",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "施設関連情報_新島村",
+    "revision_id": "338370bd-972c-4adf-8960-1aa550fef7e5"
+  }
+}

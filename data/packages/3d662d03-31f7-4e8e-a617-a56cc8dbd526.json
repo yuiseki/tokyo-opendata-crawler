@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "町田市総務部市政情報課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "3d662d03-31f7-4e8e-a617-a56cc8dbd526",
+    "metadata_created": "2019-11-01T04:58:36.989936",
+    "metadata_modified": "2021-08-17T01:12:26.375550",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "年齢別人口表（1959年以降）",
+        "format": "CSV",
+        "url": "https://www.city.machida.tokyo.jp/shisei/opendata/jinko/nenreibetsu.files/nenreibetsu.csv",
+        "cache_last_updated": null,
+        "package_id": "3d662d03-31f7-4e8e-a617-a56cc8dbd526",
+        "created": "2021-08-02T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-07-07T15:00:00",
+        "position": 0,
+        "revision_id": "c9c0f4d5-23da-45fd-8475-0fb970edb389",
+        "url_type": null,
+        "id": "5afccdeb-bb63-4a34-9361-04a923ffe2ad",
+        "resource_type": null,
+        "size": 571392
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.machida.tokyo.jp/",
+      "created": "2019-11-01T03:27:26.775139",
+      "title": "町田市",
+      "name": "t132098",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t132098.png",
+      "revision_id": "afc39d6e-faf0-4358-90a5-a32d669724a1",
+      "type": "organization",
+      "id": "01ee6b09-cb58-4100-8d95-623ad6b238ef",
+      "approval_status": "approved"
+    },
+    "name": "t132098d0000000001",
+    "isopen": true,
+    "url": "",
+    "notes": "【町田市】住民基本台帳に基づく、各歳別の人口表を掲載しています。1959年から2002年までは各年1月1日現在、2003年以降は各月1日現在。",
+    "owner_org": "01ee6b09-cb58-4100-8d95-623ad6b238ef",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "1月ごと"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "年齢別人口表",
+    "revision_id": "f1a6e3ab-073f-4fa4-b4a0-52ebf336c38a"
+  }
+}

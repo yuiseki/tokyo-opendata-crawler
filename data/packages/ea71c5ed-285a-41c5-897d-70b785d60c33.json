@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "福祉部障害者施策推進課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "ea71c5ed-285a-41c5-897d-70b785d60c33",
+    "metadata_created": "2019-11-01T04:57:44.106401",
+    "metadata_modified": "2019-11-01T08:44:22.558365",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "障害者地域生活支援センター",
+        "format": "CSV",
+        "url": "https://www.city.nerima.tokyo.jp/kusei/tokei/opendata/opendatasite/sisetsujyouhou/chiikiseikatsushien.files/20_chiikiseikatsushien.csv",
+        "cache_last_updated": null,
+        "package_id": "ea71c5ed-285a-41c5-897d-70b785d60c33",
+        "created": "2017-03-16T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-03-16T15:00:00",
+        "position": 0,
+        "revision_id": "e114b294-790c-4a32-8a6b-7dfc61fa3fae",
+        "url_type": null,
+        "id": "5959c95a-6db2-40cd-814a-a4e5c5ae8bad",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.nerima.tokyo.jp/",
+      "created": "2019-11-01T03:27:25.822926",
+      "title": "練馬区",
+      "name": "t131202",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131202.gif",
+      "revision_id": "c9aef7e0-f984-4dce-bc1b-accb7d513a92",
+      "type": "organization",
+      "id": "76020df2-dfd1-42a2-9f7d-dbe5cefc7028",
+      "approval_status": "approved"
+    },
+    "name": "t131202d0000000065",
+    "isopen": true,
+    "url": "https://www.city.nerima.tokyo.jp/shisetsu/index.html",
+    "notes": "【練馬区】平成29年3月17日現在の位置情報等です。  \n\n※座標系：世界測地系\n",
+    "owner_org": "76020df2-dfd1-42a2-9f7d-dbe5cefc7028",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "障害者地域生活支援センター",
+    "revision_id": "038a25e3-201d-49f6-9867-246653cc1fac"
+  }
+}

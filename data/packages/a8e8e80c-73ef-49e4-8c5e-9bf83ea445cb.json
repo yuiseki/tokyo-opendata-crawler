@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "学務課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "a8e8e80c-73ef-49e4-8c5e-9bf83ea445cb",
+    "metadata_created": "2021-08-04T08:18:07.884563",
+    "owner_org": "171b04bf-0e62-4eaf-b72b-1a9d0a7813e0",
+    "metadata_modified": "2021-08-25T00:43:34.570103",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "【江東区】小中学校通学区域についての情報です。",
+        "format": "CSV",
+        "url": "https://www.city.koto.lg.jp/012105/documents/131083_kotocity_school_district.csv",
+        "created": "2021-07-29T15:00:00",
+        "state": "active",
+        "package_id": "a8e8e80c-73ef-49e4-8c5e-9bf83ea445cb",
+        "last_modified": "2021-07-29T15:00:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "229a2690-cf1f-44f4-b976-8471356af70e",
+        "size": 12288,
+        "id": "ca166ccf-b539-4cb5-ba01-8f7523348a3d",
+        "resource_type": null,
+        "name": "小中学校通学区域情報"
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "title": "生活",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t131083d0000000008",
+    "isopen": true,
+    "url": "https://www.city.koto.lg.jp/",
+    "notes": "【江東区】小中学校通学区域情報です。",
+    "title": "小中学校通学区域情報",
+    "extras": [
+      {
+        "value": "随時",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "",
+      "title": "江東区",
+      "created": "2021-08-04T07:19:55.726720",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131083.png",
+      "revision_id": "92ccdda8-5410-4c2a-b31c-b3b2e2fc2fc7",
+      "type": "organization",
+      "id": "171b04bf-0e62-4eaf-b72b-1a9d0a7813e0",
+      "name": "t131083"
+    },
+    "revision_id": "376af0c8-5bc2-4787-81ab-04aef40bd8e0"
+  }
+}

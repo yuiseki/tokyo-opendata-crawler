@@ -1,0 +1,101 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "外務部管理課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "f9c92718-8ae1-4953-b9bd-2d1e4688e665",
+    "metadata_created": "2019-11-01T04:52:09.816125",
+    "metadata_modified": "2021-05-19T00:04:03.531807",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "姉妹友好都市及び合意書締結都市との交流（平成28年度実績）",
+        "format": "CSV",
+        "url": "https://www.seisakukikaku.metro.tokyo.lg.jp/diplomacy/28koryu.csv",
+        "cache_last_updated": null,
+        "package_id": "f9c92718-8ae1-4953-b9bd-2d1e4688e665",
+        "created": "2019-04-18T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-04-18T15:00:00",
+        "position": 0,
+        "revision_id": "ee553544-1c67-487e-851d-a7c71de11d95",
+        "url_type": null,
+        "id": "39d39f9f-e4ef-43a3-a873-9c9b77ff8985",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "まちづくり",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c003.png",
+        "title": "まちづくり",
+        "id": "dc897c44-8153-4219-bfeb-6110fb85fb99",
+        "name": "c003"
+      },
+      {
+        "display_name": "人口減少・少子高齢化",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c004.png",
+        "title": "人口減少・少子高齢化",
+        "id": "802d7d18-3543-4e8b-a8f5-82b5f1aa752e",
+        "name": "c004"
+      },
+      {
+        "display_name": "税金",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c007.png",
+        "title": "税金",
+        "id": "bb8a1d8b-5217-44c2-8eca-81addb671f0e",
+        "name": "c007"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.seisakukikaku.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:19.413788",
+      "title": "東京都政策企画局",
+      "name": "t000001",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "140d2bcb-5940-4e0d-891f-6e81b25262dc",
+      "type": "organization",
+      "id": "09e8691d-c608-44a3-a4c3-5299d806df10",
+      "approval_status": "approved"
+    },
+    "name": "t000001d1800000004",
+    "isopen": true,
+    "url": "",
+    "notes": "【東京都政策企画局】都は、共通の課題を有する都市との技術協力や人材協力などを通じて連携を深めています。",
+    "owner_org": "09e8691d-c608-44a3-a4c3-5299d806df10",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "1年ごと"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "二都市間都市外交_平成28年度の交流実績",
+    "revision_id": "57e4ea0a-574e-45bf-b95c-8085c65a4f89"
+  }
+}

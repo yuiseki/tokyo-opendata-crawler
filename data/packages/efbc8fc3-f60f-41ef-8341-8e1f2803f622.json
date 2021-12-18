@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "戦略政策情報推進本部\n戦略事業部総務課 ",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "efbc8fc3-f60f-41ef-8341-8e1f2803f622",
+    "metadata_created": "2021-02-25T02:12:21.599463",
+    "owner_org": "366cc7cd-3038-4e5b-b0a1-170690d29024",
+    "metadata_modified": "2021-03-02T05:25:30.963966",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "新宿駅西部の整備範囲を示す地図です。",
+        "format": "PDF",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/senryaku/society5.0/130001_nishi-shinjyuku_area.pdf",
+        "created": "2021-02-18T15:00:00",
+        "state": "active",
+        "package_id": "efbc8fc3-f60f-41ef-8341-8e1f2803f622",
+        "last_modified": "2021-02-18T15:00:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "022113bb-00c4-4255-8776-4136a80a5e5e",
+        "size": null,
+        "id": "aacc7340-faf1-493a-91f8-164862a7bbd1",
+        "resource_type": null,
+        "name": "（東京都）新宿駅西部検証範囲（2020年10月版）"
+      },
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "新宿駅西部の歩行空間ネットワークデータで、次の2種類のファイルを含んでいます。「link.csv」「node.csv」",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/senryaku/society5.0/130001_nishi-shinjyuku.zip",
+        "created": "2021-02-18T15:00:00",
+        "state": "active",
+        "package_id": "efbc8fc3-f60f-41ef-8341-8e1f2803f622",
+        "last_modified": "2021-02-18T15:00:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 1,
+        "revision_id": "e7fd2094-5dcd-42da-9049-164f05aeba87",
+        "size": null,
+        "id": "0d6ceb0b-9820-4945-963b-44b2cc3106f0",
+        "resource_type": null,
+        "name": "（東京都）新宿駅西部リンク,ノードデータ（2020年10月版）\n"
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "まちづくり",
+        "description": "",
+        "title": "まちづくり",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c003.png",
+        "id": "dc897c44-8153-4219-bfeb-6110fb85fb99",
+        "name": "c003"
+      }
+    ],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t000029d0000000007",
+    "isopen": true,
+    "url": "https://www.senryaku.metro.tokyo.lg.jp/society5.0/core_project07.html",
+    "notes": "道路上の段差や幅員、スロープなどのバリアフリー情報を含んだ歩行経路の空間配置及び歩行経路の状況を表すデータ並びに施設の名称や位置情報、バリアフリー設備の状況を表すデータです。\n\n歩行経路を示すリンク及びリンクの結節点を表すノードで構成されています。\n\n国土交通省の歩行空間ネットワークデータ整備仕様に準拠して作成しています（https://www.mlit.go.jp/sogoseisaku/soukou/seisakutokatsu_soukou_tk_000026.html）\n",
+    "title": "都民参加による面的・持続的なバリアフリー移動支援情報の整備（R2年度 データ利活用実証プロジェクト）",
+    "extras": [
+      {
+        "value": "更新予定なし",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "所属:東京都",
+      "title": "東京都デジタルサービス局",
+      "created": "2019-11-01T03:27:23.895580",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://www.digitalservice.metro.tokyo.lg.jp/images/logo.png",
+      "revision_id": "6f0a3e84-39eb-4b71-a006-8585de2d0f10",
+      "type": "organization",
+      "id": "366cc7cd-3038-4e5b-b0a1-170690d29024",
+      "name": "t000029"
+    },
+    "revision_id": "6030e797-3e02-4fa8-8452-f33bda5913b4"
+  }
+}

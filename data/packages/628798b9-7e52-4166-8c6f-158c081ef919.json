@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "地域教育支援部生涯学習課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "628798b9-7e52-4166-8c6f-158c081ef919",
+    "metadata_created": "2021-02-05T00:38:13.979779",
+    "metadata_modified": "2021-02-05T00:38:21.805605",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "都立学校体育施設開放校一覧（令和２年度）（令和２年６月現在）",
+        "format": "PDF",
+        "url": "https://www.syougai.metro.tokyo.lg.jp/sesaku/kaihou/shisetsu_kensaku.xlsx",
+        "cache_last_updated": null,
+        "package_id": "628798b9-7e52-4166-8c6f-158c081ef919",
+        "created": "2017-03-24T03:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-03-24T03:00:00",
+        "position": 0,
+        "revision_id": "369ac91c-b936-4c2e-bde2-e98a1a40bf36",
+        "url_type": null,
+        "id": "2804a333-9fb0-4063-9199-1e595b1e574f",
+        "resource_type": null,
+        "size": 331776
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.kyoiku.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:22.598778",
+      "title": "東京都教育庁",
+      "name": "t000021",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000021.png",
+      "revision_id": "3b8eaba6-3e9c-4401-a703-dcd9d28741aa",
+      "type": "organization",
+      "id": "f510f5b2-b249-499d-a00f-440b1f646e13",
+      "approval_status": "approved"
+    },
+    "name": "t000021d1700000027",
+    "isopen": true,
+    "url": "http://www.kyoiku.metro.tokyo.jp/buka/shogai/taikushisetsu.htm",
+    "notes": "【東京都教育庁】",
+    "owner_org": "f510f5b2-b249-499d-a00f-440b1f646e13",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "1年ごと"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "都立学校体育施設開放校一覧",
+    "revision_id": "ba4523c4-8482-4106-b0c2-7e1b64678f6f"
+  }
+}

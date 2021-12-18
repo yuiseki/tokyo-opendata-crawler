@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "健康福祉部保健予防課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "170401db-f94a-48b7-8dc3-7e8e1eb3a4b1",
+    "metadata_created": "2020-04-09T06:06:30.249055",
+    "metadata_modified": "2021-12-15T01:03:43.598512",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "高齢者用肺炎球菌予防接種契約医療機関一覧",
+        "format": "CSV",
+        "url": "https://www.city.tokyo-nakano.lg.jp/dept/107000/d027582_d/fil/131148_koureihaienk.csv",
+        "cache_last_updated": null,
+        "package_id": "170401db-f94a-48b7-8dc3-7e8e1eb3a4b1",
+        "created": "2020-04-01T10:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2020-04-01T10:00:00",
+        "position": 0,
+        "revision_id": "cd264be6-807d-4135-a51a-425d0eb2cec9",
+        "url_type": null,
+        "id": "8ebf68d2-5601-49f2-ac5c-75981d46ba65",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.tokyo-nakano.lg.jp/",
+      "created": "2019-11-01T03:27:25.195268",
+      "title": "中野区",
+      "name": "t131148",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131148.jpg",
+      "revision_id": "6d6159b5-afb0-416b-b34f-be8cfa10c02c",
+      "type": "organization",
+      "id": "5e5b6123-ee7e-4097-9e26-dae0bcdb457c",
+      "approval_status": "approved"
+    },
+    "name": "t131148d0000000024",
+    "isopen": true,
+    "url": "https://www.city.tokyo-nakano.lg.jp/dept/212500/d027582.html",
+    "notes": "【中野区】中野区の高齢者用肺炎球菌予防接種契約医療機関一覧です。",
+    "owner_org": "5e5b6123-ee7e-4097-9e26-dae0bcdb457c",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": ""
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "高齢者用肺炎球菌予防接種契約医療機関一覧",
+    "revision_id": "d5e77aed-f05e-4de8-b135-b2b76bdf46bd"
+  }
+}

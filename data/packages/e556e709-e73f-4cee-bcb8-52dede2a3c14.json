@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "環境部環境政策課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "e556e709-e73f-4cee-bcb8-52dede2a3c14",
+    "metadata_created": "2019-11-01T04:58:05.276515",
+    "metadata_modified": "2019-11-01T09:20:45.780371",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "八王子市内の温室効果ガス排出量",
+        "format": "PDF",
+        "url": "http://www.city.hachioji.tokyo.jp/contents/open/002/p005873_d/fil/onshitsukoukagasu_haishut.pdf",
+        "cache_last_updated": null,
+        "package_id": "e556e709-e73f-4cee-bcb8-52dede2a3c14",
+        "created": "2018-08-21T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-08-21T15:00:00",
+        "position": 0,
+        "revision_id": "8b518a7b-98a3-4375-a9b2-0cfa9ca1ed88",
+        "url_type": null,
+        "id": "3854a5c5-7148-4a1a-bf96-6896f6bec564",
+        "resource_type": null,
+        "size": 190464
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "環境",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c012.png",
+        "title": "環境",
+        "id": "427f3ee0-b28a-4fd2-b7dc-980507f154d2",
+        "name": "c012"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "",
+      "created": "2019-11-01T03:27:26.131815",
+      "title": "八王子市",
+      "name": "t132012",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t132012.jpg",
+      "revision_id": "5a213ed0-94b4-4de9-ab8b-a962f12f4566",
+      "type": "organization",
+      "id": "99a3bc36-4f2f-4c83-8a04-87ecba771c45",
+      "approval_status": "approved"
+    },
+    "name": "t132012d0000000055",
+    "isopen": true,
+    "url": "",
+    "notes": "【八王子市】環境関連オープンデータ一覧",
+    "owner_org": "99a3bc36-4f2f-4c83-8a04-87ecba771c45",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "公開時のみ"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "八王子市内の温室効果ガス排出量",
+    "revision_id": "8171bb40-2336-4823-a0eb-d0baa7e7dc16"
+  }
+}

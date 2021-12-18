@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "高齢社会対策部在宅支援課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "8d5ff8ac-90fb-40c0-9e15-4a109b9239f4",
+    "metadata_created": "2019-11-01T04:54:23.668202",
+    "metadata_modified": "2019-11-01T06:09:23.040906",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "高齢者等の異変に気付いた際の区市町村連絡先一覧",
+        "format": "XLSX",
+        "url": "http://www.fukushihoken.metro.tokyo.jp/kourei/jiritsu_shien/chiikizukurikyotei/kyotei-jigyosha/ihen.files/renrakusaki_2018.9.1.xlsx",
+        "cache_last_updated": null,
+        "package_id": "8d5ff8ac-90fb-40c0-9e15-4a109b9239f4",
+        "created": "2017-12-25T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-12-25T15:00:00",
+        "position": 0,
+        "revision_id": "b6ef8cc0-e0b0-4037-96ba-05f07e485f91",
+        "url_type": null,
+        "id": "0f4fdf7d-9fb4-4cc3-b889-3c48e9e477e3",
+        "resource_type": null,
+        "size": 206848
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "高齢者等の異変に気付いた際の区市町村連絡先一覧",
+        "format": "CSV",
+        "url": "http://www.fukushihoken.metro.tokyo.jp/kourei/jiritsu_shien/chiikizukurikyotei/kyotei-jigyosha/ihen.files/renrakusaki_2018.9.1.csv",
+        "cache_last_updated": null,
+        "package_id": "8d5ff8ac-90fb-40c0-9e15-4a109b9239f4",
+        "created": "2017-12-25T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-12-25T15:00:00",
+        "position": 1,
+        "revision_id": "44320871-ed12-46ea-bb1c-fb260f5346fd",
+        "url_type": null,
+        "id": "97cc1269-ff6a-4718-be5b-7c19aa4f996f",
+        "resource_type": null,
+        "size": 254976
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "医療・福祉",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c005.png",
+        "title": "医療・福祉",
+        "id": "0d3cd956-612c-45c5-b1ee-75c1a5835c0e",
+        "name": "c005"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.fukushihoken.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.864364",
+      "title": "東京都福祉保健局",
+      "name": "t000010",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000010.jpg",
+      "revision_id": "8d3da6a9-bfe7-4cd1-9d5d-9737b2293939",
+      "type": "organization",
+      "id": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+      "approval_status": "approved"
+    },
+    "name": "t000010d1700000124",
+    "isopen": true,
+    "url": "http://www.fukushihoken.metro.tokyo.jp/kourei/jiritsu_shien/chiikizukurikyotei/kyotei-jigyosha/ihen.html",
+    "notes": "【東京都福祉保健局】",
+    "owner_org": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "高齢者等の異変に気付いた際の区市町村連絡先一覧",
+    "revision_id": "6d6b7c4c-810f-4ab0-8644-31b6a28a04ba"
+  }
+}

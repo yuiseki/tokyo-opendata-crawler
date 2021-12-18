@@ -1,0 +1,100 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "葛飾区政策経営部情報政策課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 2,
+    "id": "7d32c42f-75d3-4711-b459-86682ef62bc4",
+    "metadata_created": "2019-11-01T04:57:53.479044",
+    "metadata_modified": "2020-06-17T07:04:35.392448",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "公衆無線LANアクセスポイント一覧",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/suisyoudataset/131229_public_wireless_lan.csv",
+        "cache_last_updated": null,
+        "package_id": "7d32c42f-75d3-4711-b459-86682ef62bc4",
+        "created": "2018-11-07T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-08-20T15:00:00",
+        "position": 0,
+        "revision_id": "518fefe8-4570-42d3-b5b0-6f1a9a96c4b4",
+        "url_type": null,
+        "id": "bfee24c0-83d3-4687-bee6-a558828587c2",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [
+      {
+        "vocabulary_id": null,
+        "state": "active",
+        "display_name": "Wi-Fi",
+        "id": "25e4d541-6b98-49ff-b320-4cf299810e10",
+        "name": "Wi-Fi"
+      },
+      {
+        "vocabulary_id": null,
+        "state": "active",
+        "display_name": "推奨データセット",
+        "id": "8a843f9d-b0c2-465c-86da-1df660de0b32",
+        "name": "推奨データセット"
+      }
+    ],
+    "groups": [
+      {
+        "display_name": "観光",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c008.png",
+        "title": "観光",
+        "id": "420fd8d6-2bde-4746-9354-6344ec19ba93",
+        "name": "c008"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "",
+      "created": "2019-11-01T03:27:25.970171",
+      "title": "葛飾区",
+      "name": "t131229",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131229.gif",
+      "revision_id": "d5f27446-7493-44b7-beb2-83667838dc90",
+      "type": "organization",
+      "id": "f6704901-a294-4676-af29-4a262e737013",
+      "approval_status": "approved"
+    },
+    "name": "t131229d0000000001",
+    "isopen": true,
+    "url": "http://www.city.katsushika.lg.jp/information/1000084/1006021/1016266.html",
+    "notes": "【葛飾区】葛飾区が設置する公衆無線LANアクセスポイントの一覧です。 内閣官房情報通信技術（IT）総合戦略室が平成29年12月22日に公開した、推奨データセットに準拠して作成しています。",
+    "owner_org": "f6704901-a294-4676-af29-4a262e737013",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "年１回（３月頃）"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "公衆無線LANアクセスポイント一覧",
+    "revision_id": "5ae37e35-a03c-447e-9e89-95a311dd23e8"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "環境土木部環境政策課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "2c1b29d7-f64a-44b8-9752-f4b2f185b3b7",
+    "metadata_created": "2020-03-17T01:43:14.800928",
+    "owner_org": "beddb482-adb4-4e03-9c25-f229c2a0b028",
+    "metadata_modified": "2021-08-19T00:04:31.591349",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "",
+        "format": "XLSX",
+        "url": "https://www.city.chuo.lg.jp/kusei/statisticaldata/opendata.files/minsetsuminei_churinjyo.xlsx",
+        "created": "2017-11-23T15:00:00",
+        "state": "active",
+        "package_id": "2c1b29d7-f64a-44b8-9752-f4b2f185b3b7",
+        "last_modified": "2017-11-15T15:00:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "c17f5d08-a52a-4ba4-a2c1-21277b817329",
+        "size": 11264,
+        "id": "2df2c4c8-a7fe-4013-a5b3-5641c3864a4f",
+        "resource_type": null,
+        "name": "民設民営駐輪場一覧"
+      },
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "",
+        "format": "CSV",
+        "url": "https://www.city.chuo.lg.jp/kusei/statisticaldata/opendata.files/minsetsuminei_churinjyo.csv",
+        "created": "2017-11-23T15:00:00",
+        "state": "active",
+        "package_id": "2c1b29d7-f64a-44b8-9752-f4b2f185b3b7",
+        "last_modified": "2017-11-15T15:00:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 1,
+        "revision_id": "7c7de22b-8675-4030-90aa-95ca93117316",
+        "size": 1024,
+        "id": "2c5b3db5-0e09-4f73-a91c-758d6c2e5551",
+        "resource_type": null,
+        "name": "民設民営駐輪場一覧"
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "まちづくり",
+        "description": "",
+        "title": "まちづくり",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c003.png",
+        "id": "dc897c44-8153-4219-bfeb-6110fb85fb99",
+        "name": "c003"
+      }
+    ],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t131024d0000000017",
+    "isopen": true,
+    "url": "http://www.city.chuo.lg.jp/kankyo/kotu/minsetumineityurinzyo.html",
+    "notes": "民営駐輪場の名称や所在地、緯度、経度、利用台数、利用料などを掲載しています。",
+    "title": "民設民営駐輪場一覧",
+    "extras": [
+      {
+        "value": "随時",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "https://www.city.chuo.lg.jp/",
+      "title": "中央区",
+      "created": "2020-03-16T08:15:28.901611",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131024.png",
+      "revision_id": "fd4c096b-7319-43d7-a1a4-d2411b6beaee",
+      "type": "organization",
+      "id": "beddb482-adb4-4e03-9c25-f229c2a0b028",
+      "name": "t131024"
+    },
+    "revision_id": "5df227c8-343a-48c0-9031-8bf9568900c0"
+  }
+}

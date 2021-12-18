@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "環境改善部自動車環境課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "95a6342c-196b-4f9d-af89-7ba7a4242f86",
+    "metadata_created": "2019-11-01T04:53:45.350941",
+    "metadata_modified": "2021-02-03T08:54:53.267578",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "2015年度（平成27年度）東京都貨物輸送評価制度評価事業者一覧",
+        "format": "PDF",
+        "url": "https://www.kankyo.metro.tokyo.lg.jp/vehicle/sgw/nenpi-hyoka/press.files/2015ichiran.pdf",
+        "cache_last_updated": null,
+        "package_id": "95a6342c-196b-4f9d-af89-7ba7a4242f86",
+        "created": "2017-03-24T03:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-03-24T03:00:00",
+        "position": 0,
+        "revision_id": "5106f1ca-4371-469e-996a-0dc8f73f6973",
+        "url_type": null,
+        "id": "064a2bd5-2142-46cc-a4a5-6055e76205ac",
+        "resource_type": null,
+        "size": 244736
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "2015年度（平成27年度）東京都貨物輸送評価制度評価事業者一覧",
+        "format": "CSV",
+        "url": "https://www.kankyo.metro.tokyo.lg.jp/vehicle/sgw/nenpi-hyoka/press.files/27press_list.csv",
+        "cache_last_updated": null,
+        "package_id": "95a6342c-196b-4f9d-af89-7ba7a4242f86",
+        "created": "2017-06-29T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-06-29T15:00:00",
+        "position": 1,
+        "revision_id": "7f73dcb2-54de-4668-91af-b68eb36fda1f",
+        "url_type": null,
+        "id": "d8ed0c03-ba11-41e8-a661-afbe7535e0c0",
+        "resource_type": null,
+        "size": 18432
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "環境",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c012.png",
+        "title": "環境",
+        "id": "427f3ee0-b28a-4fd2-b7dc-980507f154d2",
+        "name": "c012"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.kankyo.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.710014",
+      "title": "東京都環境局",
+      "name": "t000009",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "a0bf6c30-64dc-48fe-9782-e38ae248a38d",
+      "type": "organization",
+      "id": "c8b93db3-9754-48d3-8b50-5cbe78d679e7",
+      "approval_status": "approved"
+    },
+    "name": "t000009d0000000003",
+    "isopen": true,
+    "url": "",
+    "notes": "【東京都環境局】",
+    "owner_org": "c8b93db3-9754-48d3-8b50-5cbe78d679e7",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "1年ごと"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "2015年度（平成27年度）東京都貨物輸送評価制度評価事業者一覧",
+    "revision_id": "2342eea5-fdb4-4199-a305-bc4d46b30619"
+  }
+}

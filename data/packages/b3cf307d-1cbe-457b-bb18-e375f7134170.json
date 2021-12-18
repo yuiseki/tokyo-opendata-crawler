@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "経営企画部経営企画課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "b3cf307d-1cbe-457b-bb18-e375f7134170",
+    "metadata_created": "2021-11-03T22:55:57.134974",
+    "owner_org": "00d1c6b0-b2cc-4a47-a50c-84db3b091fe2",
+    "metadata_modified": "2021-11-03T22:56:01.251377",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "ハチ公バスGTFS-JPデータです。",
+        "format": "ZIP",
+        "url": "https://www.city.shibuya.tokyo.jp/assets/mng/131130_gtfs-jp_hachiko_bus.zip",
+        "created": "2021-11-03T22:55:59.470515",
+        "state": "active",
+        "package_id": "b3cf307d-1cbe-457b-bb18-e375f7134170",
+        "last_modified": null,
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "7df52252-9f48-4843-b165-0818c21be9ce",
+        "size": null,
+        "id": "45f0fdd1-d7cf-491f-9146-2b178fb002d3",
+        "resource_type": null,
+        "name": "ハチ公バスGTFS-JPデータ"
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t131130d0000000005",
+    "isopen": true,
+    "url": "",
+    "notes": "交通についての情報です。",
+    "title": "交通",
+    "extras": [
+      {
+        "value": "随時",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "https://www.city.shibuya.tokyo.jp/",
+      "title": "渋谷区",
+      "created": "2021-11-01T02:13:29.409173",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131130.jpg",
+      "revision_id": "d9cbbd18-4310-4c7d-b653-f1c6b8f59468",
+      "type": "organization",
+      "id": "00d1c6b0-b2cc-4a47-a50c-84db3b091fe2",
+      "name": "t131130"
+    },
+    "revision_id": "ed30817d-595a-47fe-8802-45b2e24753d6"
+  }
+}

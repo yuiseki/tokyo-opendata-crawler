@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "東京都環境局資源循環推進部 一般廃棄物対策課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "7df9c899-1b28-4ceb-9b9d-f063109fc47e",
+    "metadata_created": "2021-06-03T03:00:36.098188",
+    "metadata_modified": "2021-06-03T03:00:40.420842",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "都内一般廃棄物焼却施設における飛灰等の放射性物質等測定結果について",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/kankyo/R3/no_houshanou-sokuteikekka_20110908.csv",
+        "cache_last_updated": null,
+        "package_id": "7df9c899-1b28-4ceb-9b9d-f063109fc47e",
+        "created": "2021-04-12T05:36:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-04-12T05:36:00",
+        "position": 0,
+        "revision_id": "eeda3ae0-65c0-4258-a3f1-6aedea520f04",
+        "url_type": null,
+        "id": "c9a15e5d-b600-4a9d-aae5-805ac05b79d3",
+        "resource_type": null,
+        "size": 27111
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.kankyo.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.710014",
+      "title": "東京都環境局",
+      "name": "t000009",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "a0bf6c30-64dc-48fe-9782-e38ae248a38d",
+      "type": "organization",
+      "id": "c8b93db3-9754-48d3-8b50-5cbe78d679e7",
+      "approval_status": "approved"
+    },
+    "name": "t000009d2000000001",
+    "isopen": true,
+    "url": "https://www.kankyo.metro.tokyo.lg.jp/resource/general_waste/survey_results.files/houshanou-sokuteikekka_20110908.pdf",
+    "notes": "",
+    "owner_org": "c8b93db3-9754-48d3-8b50-5cbe78d679e7",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "一般廃棄物対策・都内一般廃棄物焼却施設における飛灰等の放射性物質等測定結果について",
+    "revision_id": "43e85319-e091-4959-9dd1-da38fa6f8c61"
+  }
+}

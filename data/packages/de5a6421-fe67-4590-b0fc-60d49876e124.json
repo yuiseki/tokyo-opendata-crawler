@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "市街地整備部防災都市づくり課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "de5a6421-fe67-4590-b0fc-60d49876e124",
+    "metadata_created": "2019-11-01T04:53:30.963784",
+    "metadata_modified": "2019-11-01T05:45:41.353599",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "不燃化特区制度に関するパンフレットです。",
+        "name": "不燃化特区制度（パンフレット）",
+        "format": "PDF",
+        "url": "http://www.toshiseibi.metro.tokyo.jp/bosai/sokushin/pdf/pamphlet_01.pdf",
+        "cache_last_updated": null,
+        "package_id": "de5a6421-fe67-4590-b0fc-60d49876e124",
+        "created": "2017-10-10T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-10-10T15:00:00",
+        "position": 0,
+        "revision_id": "f73b55d4-d91d-444e-b830-d489610496c2",
+        "url_type": null,
+        "id": "638804cf-c1e2-4097-b9b7-07f056af0e64",
+        "resource_type": null,
+        "size": 1048576
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "防災・災害計画",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c001.png",
+        "title": "防災・災害計画",
+        "id": "8eb52f8e-0d10-44f4-8bb4-2a488d0f8465",
+        "name": "c001"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.toshiseibi.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.560358",
+      "title": "東京都都市整備局",
+      "name": "t000008",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "9c234f0e-ff7d-4e2d-8ba4-ea80f312405b",
+      "type": "organization",
+      "id": "16d81025-a2ca-4002-8129-9906c94a4732",
+      "approval_status": "approved"
+    },
+    "name": "t000008d0000000022",
+    "isopen": true,
+    "url": "http://www.toshiseibi.metro.tokyo.jp/bosai/mokumitu/index.html",
+    "notes": "【東京都都市整備局】",
+    "owner_org": "16d81025-a2ca-4002-8129-9906c94a4732",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "不燃化特区制度に関するパンフレット",
+    "revision_id": "f161212b-5f7c-462c-bdf4-7d4e80fdef1c"
+  }
+}

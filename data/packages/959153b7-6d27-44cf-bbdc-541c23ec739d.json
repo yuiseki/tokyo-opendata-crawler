@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "生活福祉部地域福祉課生活援助担当",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "959153b7-6d27-44cf-bbdc-541c23ec739d",
+    "metadata_created": "2019-11-01T04:54:03.554784",
+    "metadata_modified": "2019-11-01T06:03:56.836544",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "生活福祉資金貸付事業を実施している区市町村社会福祉協議会一覧に関するデータです。",
+        "name": "東京都区市町村社会福祉協議会一覧（生活福祉資金担当）（PDFファイル）",
+        "format": "PDF",
+        "url": "http://www.fukushihoken.metro.tokyo.jp/seikatsu/seikatsu_kyoju_shuro/syusyoku.files/chikushakyoukashitsuke.pdf",
+        "cache_last_updated": null,
+        "package_id": "959153b7-6d27-44cf-bbdc-541c23ec739d",
+        "created": "2018-08-14T01:43:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-08-13T05:59:00",
+        "position": 0,
+        "revision_id": "e2f4f906-e7c5-43d9-b785-b0aaff10e679",
+        "url_type": null,
+        "id": "4b37363d-3add-471c-b59e-fc44bbd2e81c",
+        "resource_type": null,
+        "size": 128000
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "生活福祉資金貸付事業を実施している区市町村社会福祉協議会一覧に関するデータです。",
+        "name": "東京都区市町村社会福祉協議会一覧（生活福祉資金担当）（CSVファイル）",
+        "format": "CSV",
+        "url": "http://www.fukushihoken.metro.tokyo.jp/seikatsu/seikatsu_kyoju_shuro/syusyoku.files/chikushakyoukashitsuke.csv",
+        "cache_last_updated": null,
+        "package_id": "959153b7-6d27-44cf-bbdc-541c23ec739d",
+        "created": "2018-08-14T01:45:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-02-09T01:55:00",
+        "position": 1,
+        "revision_id": "86fc41c9-3267-4796-b07b-54b21cd17254",
+        "url_type": null,
+        "id": "23c6f40c-0c23-48d9-a852-4f1fbf5f38da",
+        "resource_type": null,
+        "size": 4096
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "医療・福祉",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c005.png",
+        "title": "医療・福祉",
+        "id": "0d3cd956-612c-45c5-b1ee-75c1a5835c0e",
+        "name": "c005"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.fukushihoken.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.864364",
+      "title": "東京都福祉保健局",
+      "name": "t000010",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000010.jpg",
+      "revision_id": "8d3da6a9-bfe7-4cd1-9d5d-9737b2293939",
+      "type": "organization",
+      "id": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+      "approval_status": "approved"
+    },
+    "name": "t000010d1700000020",
+    "isopen": true,
+    "url": "http://www.fukushihoken.metro.tokyo.jp/seikatsu/seikatsu_kyoju_shuro/index.html",
+    "notes": "【東京都福祉保健局】東京都で実施している生活・居住・就労支援に関する情報です。",
+    "owner_org": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "生活・居住・就労支援に関する情報",
+    "revision_id": "87e5f88b-52ce-4091-af07-10a075e4b2e6"
+  }
+}

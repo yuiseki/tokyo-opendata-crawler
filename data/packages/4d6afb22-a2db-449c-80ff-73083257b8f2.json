@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "市街地建築部建築企画課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "4d6afb22-a2db-449c-80ff-73083257b8f2",
+    "metadata_created": "2019-11-01T04:53:30.196544",
+    "metadata_modified": "2019-11-01T05:45:23.611895",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "登録している検査機関の登録番号、名称、所在地、登録年月日、登録の有効期限等です。",
+        "name": "東京都鉄筋継手検査機関登録簿",
+        "format": "PDF",
+        "url": "http://www.toshiseibi.metro.tokyo.jp/kenchiku/bousai/kn_t07_06.pdf",
+        "cache_last_updated": null,
+        "package_id": "4d6afb22-a2db-449c-80ff-73083257b8f2",
+        "created": "2017-06-28T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-06-28T15:00:00",
+        "position": 0,
+        "revision_id": "ec8053ce-5495-4886-a688-8d67b183a4f7",
+        "url_type": null,
+        "id": "d189c399-9e1d-4655-8fed-4fc793c37082",
+        "resource_type": null,
+        "size": 109568
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "登録している検査機関の登録番号、名称、所在地、登録年月日、登録の有効期限等です。",
+        "name": "東京都鉄筋継手検査機関登録簿",
+        "format": "CSV",
+        "url": "http://www.toshiseibi.metro.tokyo.jp/kenchiku/bousai/kn_t07_06.csv",
+        "cache_last_updated": null,
+        "package_id": "4d6afb22-a2db-449c-80ff-73083257b8f2",
+        "created": "2017-06-28T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-06-28T15:00:00",
+        "position": 1,
+        "revision_id": "7c267ddd-cba8-4817-afc4-4233b9237dad",
+        "url_type": null,
+        "id": "99ef697c-c89c-4694-8dbb-ba39f7b25a52",
+        "resource_type": null,
+        "size": 3072
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "まちづくり",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c003.png",
+        "title": "まちづくり",
+        "id": "dc897c44-8153-4219-bfeb-6110fb85fb99",
+        "name": "c003"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.toshiseibi.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.560358",
+      "title": "東京都都市整備局",
+      "name": "t000008",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "9c234f0e-ff7d-4e2d-8ba4-ea80f312405b",
+      "type": "organization",
+      "id": "16d81025-a2ca-4002-8129-9906c94a4732",
+      "approval_status": "approved"
+    },
+    "name": "t000008d0000000018",
+    "isopen": true,
+    "url": "http://www.toshiseibi.metro.tokyo.jp/kenchiku/bousai/kn_t07.htm",
+    "notes": "【東京都都市整備局】　東京都が登録している検査機関（鉄筋継手の外観検査、超音波探傷検査及び超音波測定検査）の一覧です。",
+    "owner_org": "16d81025-a2ca-4002-8129-9906c94a4732",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "１年ごと"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "東京都鉄筋継手検査機関登録簿",
+    "revision_id": "6bdf3aa2-8cd5-47b6-9576-bb038d6f0e94"
+  }
+}

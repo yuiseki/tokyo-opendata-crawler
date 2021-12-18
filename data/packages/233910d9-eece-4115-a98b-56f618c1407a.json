@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "地域支えあい推進部地域活動推進課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "233910d9-eece-4115-a98b-56f618c1407a",
+    "metadata_created": "2020-05-11T08:25:01.277311",
+    "metadata_modified": "2021-12-15T01:05:05.240517",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "町会・自治会区域一覧",
+        "format": "CSV",
+        "url": "https://www.city.tokyo-nakano.lg.jp/dept/107000/d027582_d/fil/131148_choukai_jichikai.csv",
+        "cache_last_updated": null,
+        "package_id": "233910d9-eece-4115-a98b-56f618c1407a",
+        "created": "2020-04-13T12:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2020-04-13T12:00:00",
+        "position": 0,
+        "revision_id": "c9aad80c-5041-4fdc-a669-48799e614f3c",
+        "url_type": null,
+        "id": "f361dec8-f67a-4015-b5f8-fd763a0a8806",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.tokyo-nakano.lg.jp/",
+      "created": "2019-11-01T03:27:25.195268",
+      "title": "中野区",
+      "name": "t131148",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131148.jpg",
+      "revision_id": "6d6159b5-afb0-416b-b34f-be8cfa10c02c",
+      "type": "organization",
+      "id": "5e5b6123-ee7e-4097-9e26-dae0bcdb457c",
+      "approval_status": "approved"
+    },
+    "name": "t131148d0000000028",
+    "isopen": true,
+    "url": "https://www.city.tokyo-nakano.lg.jp/dept/212500/d027582.html",
+    "notes": "【中野区】中野区（住所ごと）の町会・自治会の一覧です。町会・自治会の区域は変更する可能性があります。",
+    "owner_org": "5e5b6123-ee7e-4097-9e26-dae0bcdb457c",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "必要に応じて"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "町会・自治会区域一覧",
+    "revision_id": "0e4abae9-3ffe-40aa-bd06-e81007cf6bc7"
+  }
+}

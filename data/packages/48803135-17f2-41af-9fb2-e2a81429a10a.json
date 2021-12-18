@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "清瀬市都市整備部道路交通課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "48803135-17f2-41af-9fb2-e2a81429a10a",
+    "metadata_created": "2021-06-16T02:24:37.545585",
+    "owner_org": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
+    "metadata_modified": "2021-06-16T02:25:13.522512",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "【清瀬市】駐車場の一覧です。",
+        "format": "CSV",
+        "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/001/604/132217_parking.csv",
+        "created": "2021-03-05T00:41:00",
+        "state": "active",
+        "package_id": "48803135-17f2-41af-9fb2-e2a81429a10a",
+        "last_modified": "2021-03-05T00:41:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "1fe56f44-4199-44c3-a8c5-3e10c3fa7501",
+        "size": null,
+        "id": "01689eee-fffb-432e-9135-fe032741869b",
+        "resource_type": null,
+        "name": "駐車場"
+      },
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "【清瀬市】駐車場の一覧です。",
+        "format": "XLSX",
+        "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/001/604/132217_parking.xlsx",
+        "created": "2021-03-05T00:49:00",
+        "state": "active",
+        "package_id": "48803135-17f2-41af-9fb2-e2a81429a10a",
+        "last_modified": "2021-03-05T00:49:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 1,
+        "revision_id": "d0b4c8ca-83f8-496d-8d9e-eb738bbeeacc",
+        "size": null,
+        "id": "2b9d780d-cc4c-45af-b4d1-864ac643eddf",
+        "resource_type": null,
+        "name": "駐車場"
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "交通情報",
+        "description": "",
+        "title": "交通情報",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c013.png",
+        "id": "38323541-753d-4230-b2dd-d9eb367ae5ed",
+        "name": "c013"
+      }
+    ],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t132217d0000000033",
+    "isopen": true,
+    "url": "https://www.city.kiyose.lg.jp/opendata/opendataichiran/1001604.html",
+    "notes": "【清瀬市】駐車場の一覧です。",
+    "title": "駐車場",
+    "extras": [
+      {
+        "value": "変更の都度",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "https://www.city.kiyose.lg.jp/index.html",
+      "title": "清瀬市",
+      "created": "2020-08-05T08:00:00.206131",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "f8ef546d-d3f4-46e8-9741-39a6eec61618",
+      "type": "organization",
+      "id": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
+      "name": "t132217"
+    },
+    "revision_id": "2536cdda-cbc2-46d8-af74-074ca04fdb4a"
+  }
+}

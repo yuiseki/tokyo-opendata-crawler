@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "東京都福祉保健局高齢社会対策部 在宅支援課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "fb10870a-c00e-46f5-be52-73596eb7dff5",
+    "metadata_created": "2021-05-27T08:00:56.118551",
+    "metadata_modified": "2021-05-27T08:01:31.943920",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "荒川区",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/fukushihoken/R3/arakawaku_tokyotohukusihoken.csv",
+        "cache_last_updated": null,
+        "package_id": "fb10870a-c00e-46f5-be52-73596eb7dff5",
+        "created": "2021-03-20T05:24:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-03-20T05:24:00",
+        "position": 0,
+        "revision_id": "af0d6f70-9bc4-4990-996b-8572739e4b81",
+        "url_type": null,
+        "id": "30d98325-1b06-484a-871d-6e45b68ef26e",
+        "resource_type": null,
+        "size": 199
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.fukushihoken.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.864364",
+      "title": "東京都福祉保健局",
+      "name": "t000010",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000010.jpg",
+      "revision_id": "8d3da6a9-bfe7-4cd1-9d5d-9737b2293939",
+      "type": "organization",
+      "id": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+      "approval_status": "approved"
+    },
+    "name": "t000010d2000000362",
+    "isopen": true,
+    "url": "http://www.fukushihoken.metro.tokyo.jp/kourei/shisetsu/roujinfukushi/roujinfukushiku/arakawaku.html",
+    "notes": "",
+    "owner_org": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "老人福祉センター一覧（区部）_荒川区",
+    "revision_id": "c0fef43e-09bc-4ab6-88e1-e779adc8f806"
+  }
+}

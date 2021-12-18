@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "主計部財政課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "6d31c650-fff5-48ea-9e33-fd5ba11dda4b",
+    "metadata_created": "2021-02-03T08:15:52.195941",
+    "metadata_modified": "2021-02-03T08:15:56.044263",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "平成3年度から27年度までの財政の状況（普通会計決算）",
+        "name": "平成29年度予算案概要　財政の状況（普通会計決算）",
+        "format": "CSV",
+        "url": "https://www.zaimu.metro.tokyo.lg.jp/syukei1/zaisei/29opendata/29yosanangaiyou_82.csv",
+        "cache_last_updated": null,
+        "package_id": "6d31c650-fff5-48ea-9e33-fd5ba11dda4b",
+        "created": "2018-09-24T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-09-24T15:00:00",
+        "position": 0,
+        "revision_id": "9d2e7283-03c4-4d67-9cd6-9b516b9924f6",
+        "url_type": null,
+        "id": "552383cd-a210-466c-97b8-7dc8e2a795bb",
+        "resource_type": null,
+        "size": 3072
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "税金",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c007.png",
+        "title": "税金",
+        "id": "bb8a1d8b-5217-44c2-8eca-81addb671f0e",
+        "name": "c007"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.zaimu.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:19.930633",
+      "title": "東京都財務局",
+      "name": "t000004",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000004.png",
+      "revision_id": "01005f89-2b3c-4cb8-be76-7d28c31f9529",
+      "type": "organization",
+      "id": "e93fd59b-c22c-4c42-8074-368082fec915",
+      "approval_status": "approved"
+    },
+    "name": "t000004d1800000002",
+    "isopen": true,
+    "url": "http://www.zaimu.metro.tokyo.jp/zaisei/yosan/h29.html",
+    "notes": "【東京都財務局】　予算案のポイントや会計ごとの収入・支出の内容などをまとめた資料",
+    "owner_org": "e93fd59b-c22c-4c42-8074-368082fec915",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "1年ごと"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "平成29年度予算案概要",
+    "revision_id": "cf157296-a5db-4c1b-9600-5724b9c27acd"
+  }
+}

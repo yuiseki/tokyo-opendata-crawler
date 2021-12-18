@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "東京都都市整備局市街地建築部　建築企画課 市街地担当",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "399cb35e-21fd-43a2-8226-87b13c28d68c",
+    "metadata_created": "2021-05-20T09:17:04.736693",
+    "metadata_modified": "2021-05-20T09:17:23.302717",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "方位別斜線制限",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/toshiseibi/R3/kijun_31.csv",
+        "cache_last_updated": null,
+        "package_id": "399cb35e-21fd-43a2-8226-87b13c28d68c",
+        "created": "2021-03-19T00:53:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-03-19T00:53:00",
+        "position": 0,
+        "revision_id": "f2cc0d59-b4e0-445a-b6bc-0d7c3eba83cb",
+        "url_type": null,
+        "id": "70de2caa-8bb8-49a0-ac8d-4c876c051a1f",
+        "resource_type": null,
+        "size": 107
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.toshiseibi.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.560358",
+      "title": "東京都都市整備局",
+      "name": "t000008",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "9c234f0e-ff7d-4e2d-8ba4-ea80f312405b",
+      "type": "organization",
+      "id": "16d81025-a2ca-4002-8129-9906c94a4732",
+      "approval_status": "approved"
+    },
+    "name": "t000008d2000000011",
+    "isopen": true,
+    "url": "https://www.toshiseibi.metro.tokyo.lg.jp/kenchiku/kijun/kijun_31.pdf",
+    "notes": "",
+    "owner_org": "16d81025-a2ca-4002-8129-9906c94a4732",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "建築指導事務　第一種低層住居専用地域又は第二低層住居専用地域内における建築物の高さの制限の緩和認定基準",
+    "revision_id": "3836290b-6f62-4c1d-a28e-74706c6ec1a9"
+  }
+}

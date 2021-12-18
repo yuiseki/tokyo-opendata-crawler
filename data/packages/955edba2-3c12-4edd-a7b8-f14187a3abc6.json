@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "水道局多摩水",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "955edba2-3c12-4edd-a7b8-f14187a3abc6",
+    "metadata_created": "2021-05-21T02:06:41.110795",
+    "metadata_modified": "2021-05-21T02:07:12.533503",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "表２－１４都営水道25市町への事務委託の廃止状況",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/suidou/R3/01_gaiyou_r1_02_05.csv",
+        "cache_last_updated": null,
+        "package_id": "955edba2-3c12-4edd-a7b8-f14187a3abc6",
+        "created": "2021-03-19T00:27:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-03-19T00:27:00",
+        "position": 0,
+        "revision_id": "2d2dc5da-68bb-473e-bc01-b3f3b5518771",
+        "url_type": null,
+        "id": "f1f1d61e-7ca7-4513-940f-ef934b9c0e94",
+        "resource_type": null,
+        "size": 956
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.waterworks.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:22.280579",
+      "title": "東京都水道局",
+      "name": "t000019",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000019.jpg",
+      "revision_id": "6f93ebbd-34d2-48da-9305-0c1de5e96c27",
+      "type": "organization",
+      "id": "df3e208c-40a5-4f30-b0f2-491ceffa6423",
+      "approval_status": "approved"
+    },
+    "name": "t000019d2000000017",
+    "isopen": true,
+    "url": "https://www.waterworks.metro.tokyo.lg.jp/files/items/27375/File/01_gaiyou_r1_02_05.pdf",
+    "notes": "",
+    "owner_org": "df3e208c-40a5-4f30-b0f2-491ceffa6423",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "事業概要 平成2829年版_多摩地区の水道\n事業概要 令和元年版_多摩地区の水道",
+    "revision_id": "f9d64421-c238-40f1-aa8f-f66ffa4d7a7f"
+  }
+}

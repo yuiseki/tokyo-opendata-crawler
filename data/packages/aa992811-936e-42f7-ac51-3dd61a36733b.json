@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "企画経営部区長室",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "aa992811-936e-42f7-ac51-3dd61a36733b",
+    "metadata_created": "2020-06-24T02:11:45.071488",
+    "metadata_modified": "2020-06-24T02:12:14.417007",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "第32回港区民世論調査単純集計表・やさしい日本語についての情報です。",
+        "name": "第32回港区民世論調査単純集計表・やさしい日本語Q15",
+        "format": "CSV",
+        "url": "https://opendata.city.minato.tokyo.jp/dataset/232224ab-d55f-4737-8aec-d0b50e9b3ace/resource/17249bdf-9cb5-4f99-b215-c9ea1646493c/download/yoronchosa32_tanjun_q15.csv",
+        "cache_last_updated": null,
+        "package_id": "aa992811-936e-42f7-ac51-3dd61a36733b",
+        "created": "2020-03-30T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2020-06-09T06:00:00",
+        "position": 0,
+        "revision_id": "5665bc36-db44-40f7-9c19-d1afab54d61e",
+        "url_type": null,
+        "id": "98a4caed-527f-4121-88cc-61e00b2fc19c",
+        "resource_type": null,
+        "size": 3072
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.minato.tokyo.jp/",
+      "created": "2019-11-01T03:27:24.220357",
+      "title": "港区",
+      "name": "t131032",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131032.jpg",
+      "revision_id": "8f5676eb-3316-4cc6-b26a-4f7e1b39e109",
+      "type": "organization",
+      "id": "6adece4f-1ee9-416a-a7e7-856b8d5fb050",
+      "approval_status": "approved"
+    },
+    "name": "t131032d0000000071",
+    "isopen": true,
+    "url": "https://www.city.minato.tokyo.jp/kouchou/kuse/chosa/yoronchosa/29hokoku.html",
+    "notes": "【港区】第32回港区民世論調査単純集計表・やさしい日本語についての情報です。",
+    "owner_org": "6adece4f-1ee9-416a-a7e7-856b8d5fb050",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "更新無"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "第32回港区民世論調査単純集計表・やさしい日本語について",
+    "revision_id": "9ac232fe-6a01-488e-8b26-b67e8a32a59c"
+  }
+}

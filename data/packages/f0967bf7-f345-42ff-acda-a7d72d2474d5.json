@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "みなと保健所保健予防課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "f0967bf7-f345-42ff-acda-a7d72d2474d5",
+    "metadata_created": "2020-05-14T08:02:13.863467",
+    "metadata_modified": "2021-09-09T23:35:12.736050",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "港区内における新型コロナウイルス感染症の情報です。",
+        "name": "港区内における新型コロナウイルス感染症の感染者数【累計】",
+        "format": "CSV",
+        "url": "https://opendata.city.minato.tokyo.jp/dataset/448f62b9-c000-4687-8872-611c6ebd77c5/resource/f35ea156-39b3-4c3b-8bff-51eb70cc4627/download/corona_kansensyasuu.csv",
+        "cache_last_updated": null,
+        "package_id": "f0967bf7-f345-42ff-acda-a7d72d2474d5",
+        "created": "2021-08-31T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-09-01T15:00:00",
+        "position": 0,
+        "revision_id": "ca3f0ae0-698c-46dd-91d5-43c059114d20",
+        "url_type": null,
+        "id": "8f4c0595-499e-4224-a040-da6423f1b928",
+        "resource_type": null,
+        "size": 3072
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "医療・福祉",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c005.png",
+        "title": "医療・福祉",
+        "id": "0d3cd956-612c-45c5-b1ee-75c1a5835c0e",
+        "name": "c005"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.minato.tokyo.jp/",
+      "created": "2019-11-01T03:27:24.220357",
+      "title": "港区",
+      "name": "t131032",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131032.jpg",
+      "revision_id": "8f5676eb-3316-4cc6-b26a-4f7e1b39e109",
+      "type": "organization",
+      "id": "6adece4f-1ee9-416a-a7e7-856b8d5fb050",
+      "approval_status": "approved"
+    },
+    "name": "t131032d0000000056",
+    "isopen": true,
+    "url": "https://www.city.minato.tokyo.jp/kouhou/kansensyasuu.html",
+    "notes": "【港区】新型コロナウイルス感染症の感染者数累計です。",
+    "owner_org": "6adece4f-1ee9-416a-a7e7-856b8d5fb050",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "港区内における新型コロナウイルス感染症情報",
+    "revision_id": "0a1a905e-f5dc-4efb-91e8-12aa5aca1d26"
+  }
+}

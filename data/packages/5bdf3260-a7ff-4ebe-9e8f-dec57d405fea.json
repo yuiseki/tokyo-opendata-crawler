@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "保健所生活衛生課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "5bdf3260-a7ff-4ebe-9e8f-dec57d405fea",
+    "metadata_created": "2021-11-04T00:38:27.028378",
+    "owner_org": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
+    "metadata_modified": "2021-12-13T06:15:10.737899",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "目黒区内の理容所の一覧",
+        "format": "CSV",
+        "url": "https://data.bodik.jp/dataset/4461b352-4ce7-451a-bfba-e2320c887530/resource/6ed66bef-6b43-4e76-b3f0-b8c3261c0b6a/download/131105_barber_20210401.csv",
+        "created": "2021-08-11T02:05:00",
+        "state": "active",
+        "package_id": "5bdf3260-a7ff-4ebe-9e8f-dec57d405fea",
+        "last_modified": "2021-08-11T02:05:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "1b5f0145-4af1-42e1-b63d-000c08aa5064",
+        "size": 9016,
+        "id": "44ba8360-5cf8-4bc2-8b2f-2024845e73cd",
+        "resource_type": null,
+        "name": "理容所　令和3年4月1日"
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "title": "生活",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t131105d0000000045",
+    "isopen": true,
+    "url": "https://www.city.meguro.tokyo.jp/kurashi/hoken_eisei/eisei/kankyou/index.html",
+    "notes": "目黒区内の理容所の一覧",
+    "title": "理容所",
+    "extras": [
+      {
+        "value": "毎月",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "https://odcs.bodik.jp/131105/",
+      "title": "目黒区",
+      "created": "2021-11-01T02:12:22.338293",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131105.png",
+      "revision_id": "e3dc243f-e3a2-4b2b-a319-4e145bb63383",
+      "type": "organization",
+      "id": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
+      "name": "t131105"
+    },
+    "revision_id": "cde8aa53-0820-448b-bdfa-72b7f15c313e"
+  }
+}

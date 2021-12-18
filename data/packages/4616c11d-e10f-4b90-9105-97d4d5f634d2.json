@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "障害者施策推進部 精神保健医療課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "4616c11d-e10f-4b90-9105-97d4d5f634d2",
+    "metadata_created": "2019-11-01T04:54:31.774327",
+    "metadata_modified": "2019-11-01T06:11:02.071401",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "  ",
+        "name": "精神科二次救急指定医療機関一覧　平成29年4月1日現在",
+        "format": "CSV",
+        "url": "http://www.fukushihoken.metro.tokyo.jp/joho/soshiki/syougai/seishiniryo/oshirase/seishinkaniji.files/seishinkaniji.csv",
+        "cache_last_updated": null,
+        "package_id": "4616c11d-e10f-4b90-9105-97d4d5f634d2",
+        "created": "2019-03-01T08:26:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-03-01T08:26:00",
+        "position": 0,
+        "revision_id": "34821e64-806a-4190-aa7e-da9cc5d2f245",
+        "url_type": null,
+        "id": "368ba83d-ae8b-4378-991f-7cfaa6a22b7a",
+        "resource_type": null,
+        "size": 2048
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "医療・福祉",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c005.png",
+        "title": "医療・福祉",
+        "id": "0d3cd956-612c-45c5-b1ee-75c1a5835c0e",
+        "name": "c005"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.fukushihoken.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.864364",
+      "title": "東京都福祉保健局",
+      "name": "t000010",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000010.jpg",
+      "revision_id": "8d3da6a9-bfe7-4cd1-9d5d-9737b2293939",
+      "type": "organization",
+      "id": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+      "approval_status": "approved"
+    },
+    "name": "t000010d1800000035",
+    "isopen": true,
+    "url": "http://www.fukushihoken.metro.tokyo.jp/joho/soshiki/syougai/seishiniryo/oshirase/seishinkaniji.html",
+    "notes": "【東京都福祉保健局】",
+    "owner_org": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "精神科二次救急指定医療機関一覧",
+    "revision_id": "3b01b0ac-e97d-4f7d-b45b-b4b39b8dd2fe"
+  }
+}

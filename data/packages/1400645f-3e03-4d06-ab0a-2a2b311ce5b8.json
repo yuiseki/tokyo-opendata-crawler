@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "総務課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "1400645f-3e03-4d06-ab0a-2a2b311ce5b8",
+    "metadata_created": "2019-11-01T04:56:18.486129",
+    "metadata_modified": "2019-11-01T08:32:41.749637",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "東京都議会議員の定数及び選挙区",
+        "format": "CSV",
+        "url": "http://www.senkyo.metro.tokyo.jp/uploads/togi-teisuu-list.csv",
+        "cache_last_updated": null,
+        "package_id": "1400645f-3e03-4d06-ab0a-2a2b311ce5b8",
+        "created": "2018-10-14T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-10-14T15:00:00",
+        "position": 0,
+        "revision_id": "2cb88393-baf1-477a-a7c3-1c37166e25bb",
+        "url_type": null,
+        "id": "61911378-1519-41c7-9bab-2176a33c415a",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.senkyo.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:22.908491",
+      "title": "東京都選挙管理委員会事務局",
+      "name": "t000023",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "51e026be-6d4c-43bd-ae76-d84805440a07",
+      "type": "organization",
+      "id": "86f1375a-d3c8-4eef-9df0-c4864ee7e3af",
+      "approval_status": "approved"
+    },
+    "name": "t000023d1800000001",
+    "isopen": true,
+    "url": "http://www.senkyo.metro.tokyo.jp/election/kakushu-teisuu/",
+    "notes": "【東京都選挙管理委員会事務局】",
+    "owner_org": "86f1375a-d3c8-4eef-9df0-c4864ee7e3af",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "東京都議会議員の定数及び選挙区一覧表",
+    "revision_id": "8867c4f6-f96a-42ea-8810-c9ab856726e1"
+  }
+}

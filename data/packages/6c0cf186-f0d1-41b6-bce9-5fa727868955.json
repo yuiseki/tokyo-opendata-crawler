@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "立川市市民生活部市民課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "6c0cf186-f0d1-41b6-bce9-5fa727868955",
+    "metadata_created": "2021-10-11T02:27:15.364534",
+    "metadata_modified": "2021-10-11T02:27:22.960911",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "年齢別・男女別人口",
+        "format": "CSV",
+        "url": "https://www.city.tachikawa.lg.jp/somu/opendate/koukai/nennpou/jinnkou/documents/2-1-6nenreibetsudanjobetsujinkou.csv",
+        "cache_last_updated": null,
+        "package_id": "6c0cf186-f0d1-41b6-bce9-5fa727868955",
+        "created": "2020-06-30T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2020-06-30T15:00:00",
+        "position": 0,
+        "revision_id": "30c40a4a-d40b-4d79-a9e8-189be808d6ed",
+        "url_type": null,
+        "id": "3a2fc003-07d8-4322-ae2e-40fc6fc3d090",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "年齢別・男女別人口",
+        "format": "XLS",
+        "url": "https://www.city.tachikawa.lg.jp/somu/opendate/koukai/nennpou/jinnkou/documents/2-1-6nenreibetsudanjobetsujinkou.xlsx",
+        "cache_last_updated": null,
+        "package_id": "6c0cf186-f0d1-41b6-bce9-5fa727868955",
+        "created": "2020-06-30T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2020-06-30T15:00:00",
+        "position": 1,
+        "revision_id": "90f0a7cb-534a-488f-b2d6-30d94900eed0",
+        "url_type": null,
+        "id": "38710d44-b3f2-4031-9ea7-7c1925652ceb",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "",
+      "created": "2021-09-21T02:50:23.993914",
+      "title": "立川市",
+      "name": "t132021",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t132021.png",
+      "revision_id": "8a86ddfe-ada6-4ad2-96a6-f108be8e73fe",
+      "type": "organization",
+      "id": "cc7a01da-dd01-4fb4-8fb9-5fb2b503c1ce",
+      "approval_status": "approved"
+    },
+    "name": "t132021d0000000009",
+    "isopen": true,
+    "url": "https://www.city.tachikawa.lg.jp/somu/opendate/koukai/nennpou/jinnkou/zinkou.html",
+    "notes": "【立川市】立川市の年齢別、男女別の人口です。",
+    "owner_org": "cc7a01da-dd01-4fb4-8fb9-5fb2b503c1ce",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "立川市の年齢別・男女別人口",
+    "revision_id": "09c55a4b-4a7a-4a52-b250-517cfaafc97d"
+  }
+}

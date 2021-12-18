@@ -1,0 +1,93 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "福祉部介護保険課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "452af808-ab91-402e-b749-5d9283e09949",
+    "metadata_created": "2019-11-01T04:58:10.959791",
+    "metadata_modified": "2019-11-01T09:21:31.304615",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "住宅改修の受領委任契約事業者一覧（抜粋）",
+        "format": "PDF",
+        "url": "http://www.city.hachioji.tokyo.jp/kurashi/welfare/004/002/004/p003765_d/fil/juukaiitiran3004.pdf",
+        "cache_last_updated": null,
+        "package_id": "452af808-ab91-402e-b749-5d9283e09949",
+        "created": "2018-08-21T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-08-21T15:00:00",
+        "position": 0,
+        "revision_id": "7413269e-dbcc-438b-823e-ece51ddce8a3",
+        "url_type": null,
+        "id": "ef203fc5-69bb-4dc0-a2d9-459876075864",
+        "resource_type": null,
+        "size": 236544
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "人口減少・少子高齢化",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c004.png",
+        "title": "人口減少・少子高齢化",
+        "id": "802d7d18-3543-4e8b-a8f5-82b5f1aa752e",
+        "name": "c004"
+      },
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "",
+      "created": "2019-11-01T03:27:26.131815",
+      "title": "八王子市",
+      "name": "t132012",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t132012.jpg",
+      "revision_id": "5a213ed0-94b4-4de9-ab8b-a962f12f4566",
+      "type": "organization",
+      "id": "99a3bc36-4f2f-4c83-8a04-87ecba771c45",
+      "approval_status": "approved"
+    },
+    "name": "t132012d0000000081",
+    "isopen": true,
+    "url": "",
+    "notes": "【八王子市】福祉関連オープンデータ一覧",
+    "owner_org": "99a3bc36-4f2f-4c83-8a04-87ecba771c45",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "公開時のみ"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "住宅改修の受領委任契約事業者一覧",
+    "revision_id": "b88f4880-1f12-4fe9-921d-8d6bc9a10508"
+  }
+}

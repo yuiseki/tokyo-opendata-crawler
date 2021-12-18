@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "町田市都市づくり部土地利用調整課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "c7fa87a8-0135-4f80-8054-55aa97e5bf38",
+    "metadata_created": "2021-06-25T07:10:46.518393",
+    "metadata_modified": "2021-06-25T07:10:47.118155",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "住所新旧対照表",
+        "format": "XLSX",
+        "url": "https://www.city.machida.tokyo.jp/shisei/opendata/tochi/shinkyujusho.files/jushoshinkyutaisyouhyou.xlsx",
+        "cache_last_updated": null,
+        "package_id": "c7fa87a8-0135-4f80-8054-55aa97e5bf38",
+        "created": "2021-06-15T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-06-15T15:00:00",
+        "position": 0,
+        "revision_id": "a0052bc5-e923-4a33-a719-03c153840022",
+        "url_type": null,
+        "id": "b0f67f10-66ac-42d6-acf2-6abe25b2f242",
+        "resource_type": null,
+        "size": 2411724
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.machida.tokyo.jp/",
+      "created": "2019-11-01T03:27:26.775139",
+      "title": "町田市",
+      "name": "t132098",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t132098.png",
+      "revision_id": "afc39d6e-faf0-4358-90a5-a32d669724a1",
+      "type": "organization",
+      "id": "01ee6b09-cb58-4100-8d95-623ad6b238ef",
+      "approval_status": "approved"
+    },
+    "name": "t132098d0000000111",
+    "isopen": true,
+    "url": "",
+    "notes": "【町田市】\n\n・この対照表は、2020年10月31日現在のものです。\n\n・この対照表は、住所整理により変更された住所の新旧対照を一覧にしたものです。転居など、住所整理とは無関係に起きた住所の変更は載っていません。\n\n・この対照表は、原則、実施期日（実施年月日）に現に使われていた住所について作成されています。家屋等をお持ちでも、実施期日に市外にお住まいだった場合、一覧に載ってない場合があります。\n",
+    "owner_org": "01ee6b09-cb58-4100-8d95-623ad6b238ef",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "住所新旧対照表",
+    "revision_id": "7531b573-800c-451b-9df5-645ae1685ff4"
+  }
+}

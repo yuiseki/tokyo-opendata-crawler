@@ -1,0 +1,100 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "西東京市企画部情報推進課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 2,
+    "id": "54995e40-dd26-4d2d-9f89-b6eaf7031392",
+    "metadata_created": "2019-11-01T04:59:10.148102",
+    "metadata_modified": "2019-11-01T09:35:26.907976",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "公衆無線LANアクセスポイント一覧",
+        "format": "CSV",
+        "url": "http://www.city.nishitokyo.lg.jp/opendata/132292_public_wireless_lan.csv",
+        "cache_last_updated": null,
+        "package_id": "54995e40-dd26-4d2d-9f89-b6eaf7031392",
+        "created": "2019-03-12T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-03-12T15:00:00",
+        "position": 0,
+        "revision_id": "209d7e92-c2c2-4004-849b-cb0ec1ffb6b1",
+        "url_type": null,
+        "id": "263f405f-d8d1-4220-a5fb-0c2c9155e992",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [
+      {
+        "vocabulary_id": null,
+        "state": "active",
+        "display_name": "Wi-Fi",
+        "id": "25e4d541-6b98-49ff-b320-4cf299810e10",
+        "name": "Wi-Fi"
+      },
+      {
+        "vocabulary_id": null,
+        "state": "active",
+        "display_name": "推奨データセット",
+        "id": "8a843f9d-b0c2-465c-86da-1df660de0b32",
+        "name": "推奨データセット"
+      }
+    ],
+    "groups": [
+      {
+        "display_name": "観光",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c008.png",
+        "title": "観光",
+        "id": "420fd8d6-2bde-4746-9354-6344ec19ba93",
+        "name": "c008"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.nishitokyo.lg.jp/",
+      "created": "2019-11-01T03:27:27.947900",
+      "title": "西東京市",
+      "name": "t132292",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "c3c17f6c-5cf1-49a2-8c9c-666084d970d8",
+      "type": "organization",
+      "id": "7018d04a-2061-413a-89fd-62a11c2b414a",
+      "approval_status": "approved"
+    },
+    "name": "t132292d0000000003",
+    "isopen": true,
+    "url": "http://www.city.nishitokyo.lg.jp/siseizyoho/zyoho/opendata20181205.html",
+    "notes": "【西東京市】西東京市が設置する公衆無線LANアクセスポイントの一覧です。内閣官房情報通信技術（IT）総合戦略室が平成29年12月22日に公開した、推奨データセットに準拠して作成しています。",
+    "owner_org": "7018d04a-2061-413a-89fd-62a11c2b414a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "年１回（３月頃）"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "公衆無線LANアクセスポイント一覧",
+    "revision_id": "f8783c49-b098-429e-83a6-41db96c78ed7"
+  }
+}

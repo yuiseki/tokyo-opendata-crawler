@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "総務部危機管理課、都市基盤部公園緑地課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "93b2eb0c-c25f-4a71-a3f3-88c82f7dab65",
+    "metadata_created": "2019-11-01T04:57:07.027456",
+    "metadata_modified": "2021-12-15T00:57:35.507102",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "公共施設一覧（公園等）",
+        "format": "CSV",
+        "url": "https://www.city.tokyo-nakano.lg.jp/dept/107000/d027582_d/fil/131148_public_facility_k.csv",
+        "cache_last_updated": null,
+        "package_id": "93b2eb0c-c25f-4a71-a3f3-88c82f7dab65",
+        "created": "2019-09-08T12:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-02-22T12:00:00",
+        "position": 0,
+        "revision_id": "83f6993d-72d7-4084-a14b-e827ee361e0b",
+        "url_type": null,
+        "id": "a185817d-706e-402c-9dca-3fffa1181d4a",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.tokyo-nakano.lg.jp/",
+      "created": "2019-11-01T03:27:25.195268",
+      "title": "中野区",
+      "name": "t131148",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131148.jpg",
+      "revision_id": "6d6159b5-afb0-416b-b34f-be8cfa10c02c",
+      "type": "organization",
+      "id": "5e5b6123-ee7e-4097-9e26-dae0bcdb457c",
+      "approval_status": "approved"
+    },
+    "name": "t131148d0000000010",
+    "isopen": true,
+    "url": "https://www.city.tokyo-nakano.lg.jp/dept/212500/d027582.html",
+    "notes": "【中野区】中野区内の公共施設のうち公園等の一覧です。",
+    "owner_org": "5e5b6123-ee7e-4097-9e26-dae0bcdb457c",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "変更時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "公共施設一覧（公園等）",
+    "revision_id": "f0ab5588-3c16-45bc-8956-06e3944d241c"
+  }
+}

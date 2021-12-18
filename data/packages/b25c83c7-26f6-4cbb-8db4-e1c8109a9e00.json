@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "教育総務課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "b25c83c7-26f6-4cbb-8db4-e1c8109a9e00",
+    "metadata_created": "2019-11-01T04:59:03.847541",
+    "metadata_modified": "2021-10-06T08:27:01.938845",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "市内小中学校の敷地面積、校舎面積、体育館面積等を公表しています。",
+        "name": "小・中学校施設の状況（EXCELファイル）",
+        "format": "XLSX",
+        "url": "https://www.city.inagi.tokyo.jp/shisei/gyosei/opendata/opendata_catalogpage/kyouiku.files/072.xlsx",
+        "cache_last_updated": null,
+        "package_id": "b25c83c7-26f6-4cbb-8db4-e1c8109a9e00",
+        "created": "2021-10-04T00:58:42.317786",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": null,
+        "position": 0,
+        "revision_id": "6a43cf1c-da57-4d47-8a1b-8970732d9b5d",
+        "url_type": null,
+        "id": "914d4b3d-2015-4ee4-8a20-5766d493e5c0",
+        "resource_type": null,
+        "size": 14336
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "市内小中学校の敷地面積、校舎面積、体育館面積等を公表しています。",
+        "name": "小・中学校施設の状況（CSVファイル）",
+        "format": "CSV",
+        "url": "https://www.city.inagi.tokyo.jp/shisei/gyosei/opendata/opendata_catalogpage/kyouiku.files/072.csv",
+        "cache_last_updated": null,
+        "package_id": "b25c83c7-26f6-4cbb-8db4-e1c8109a9e00",
+        "created": "2021-10-04T00:58:42.639720",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": null,
+        "position": 1,
+        "revision_id": "6a43cf1c-da57-4d47-8a1b-8970732d9b5d",
+        "url_type": null,
+        "id": "f39d02f3-9376-4b04-abe3-11da3ac3a9c5",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.inagi.tokyo.jp/",
+      "created": "2019-11-01T03:27:27.462971",
+      "title": "稲城市",
+      "name": "t132250",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t132250.jpg",
+      "revision_id": "f68dd2e1-e0a9-41bc-a7b4-2a1138104a3f",
+      "type": "organization",
+      "id": "457d0f12-2dd5-4b86-a227-fb4e01ef0ebc",
+      "approval_status": "approved"
+    },
+    "name": "t132250d0000000025",
+    "isopen": true,
+    "url": "",
+    "notes": "【稲城市】",
+    "owner_org": "457d0f12-2dd5-4b86-a227-fb4e01ef0ebc",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "１年ごと"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "小・中学校の施設についての状況",
+    "revision_id": "74f4d938-73d5-47b3-9666-8a691865688b"
+  }
+}

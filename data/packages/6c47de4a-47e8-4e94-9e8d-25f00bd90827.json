@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "福祉保健局感染症対策部",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "6c47de4a-47e8-4e94-9e8d-25f00bd90827",
+    "metadata_created": "2021-03-24T09:37:24.654637",
+    "metadata_modified": "2021-03-31T05:34:16.292797",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "東京都 新型コロナウイルス対策サイト https://stopcovid19.metro.tokyo.lg.jp/ で公開している検査の陽性率・検査人数です。データの注釈についてはグラフカード下部を御参照ください。https://stopcovid19.metro.tokyo.lg.jp/cards/positive-rate/\n\n※　システムの仕様上、下記では1000recordsと表示されておりますが、実際には1000件以上となっております。\n",
+        "name": "東京都 新型コロナウイルス感染症検査の陽性率・検査人数",
+        "format": "CSV",
+        "url": "https://stopcovid19.metro.tokyo.lg.jp/data/130001_tokyo_covid19_positivity_rate_in_testing.csv",
+        "cache_last_updated": null,
+        "package_id": "6c47de4a-47e8-4e94-9e8d-25f00bd90827",
+        "created": "2021-03-24T09:37:24",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-03-30T23:30:00",
+        "position": 0,
+        "revision_id": "09ba381a-169a-4c61-8379-4d4d4308ed10",
+        "url_type": null,
+        "id": "94019800-4577-44a2-9365-cf5a2fd28040",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.fukushihoken.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.864364",
+      "title": "東京都福祉保健局",
+      "name": "t000010",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000010.jpg",
+      "revision_id": "8d3da6a9-bfe7-4cd1-9d5d-9737b2293939",
+      "type": "organization",
+      "id": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+      "approval_status": "approved"
+    },
+    "name": "t000010d0000000088",
+    "isopen": true,
+    "url": "http://www.fukushihoken.metro.tokyo.jp/",
+    "notes": "東京都 新型コロナウイルス対策サイト https://stopcovid19.metro.tokyo.lg.jp/ で公開している検査の陽性率・検査人数です。データの注釈についてはグラフカード下部を御参照ください。https://stopcovid19.metro.tokyo.lg.jp/cards/positive-rate/",
+    "owner_org": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "毎日"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "東京都 新型コロナウイルス感染症検査の陽性率・検査人数",
+    "revision_id": "dcb6b085-0333-4636-9797-3481bed45e84"
+  }
+}

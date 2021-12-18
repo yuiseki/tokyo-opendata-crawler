@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "立川市市民生活部総務課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "dcefeb8e-8079-4c77-b748-0486f6cf8ca7",
+    "metadata_created": "2021-10-11T02:27:12.699963",
+    "metadata_modified": "2021-10-11T02:55:13.389935",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "位置図",
+        "format": "XLS",
+        "url": "https://www.city.tachikawa.lg.jp/somu/opendate/koukai/nennpou/jinnkou/documents/1ichizu-tokyotoka.xls",
+        "cache_last_updated": null,
+        "package_id": "dcefeb8e-8079-4c77-b748-0486f6cf8ca7",
+        "created": "2020-06-30T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2020-06-30T15:00:00",
+        "position": 0,
+        "revision_id": "59a2805a-8a41-488b-b30d-feddcfd4ed7e",
+        "url_type": null,
+        "id": "9699176c-6eb3-4682-9e3b-11a1a474bd3a",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "",
+      "created": "2021-09-21T02:50:23.993914",
+      "title": "立川市",
+      "name": "t132021",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t132021.png",
+      "revision_id": "8a86ddfe-ada6-4ad2-96a6-f108be8e73fe",
+      "type": "organization",
+      "id": "cc7a01da-dd01-4fb4-8fb9-5fb2b503c1ce",
+      "approval_status": "approved"
+    },
+    "name": "t132021d0000000001",
+    "isopen": true,
+    "url": "https://www.city.tachikawa.lg.jp/somu/opendate/koukai/nennpou/jinnkou/zinkou.html",
+    "notes": "【立川市】東京都における立川市の位置図です。",
+    "owner_org": "cc7a01da-dd01-4fb4-8fb9-5fb2b503c1ce",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "立川市の位置図",
+    "revision_id": "2d36d195-bb58-4cf1-b6f6-3a62c7cb1fa4"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "農林水産部水産課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "7a898bb5-e1ab-4335-bcdd-0ea0a0f60d7a",
+    "metadata_created": "2019-11-01T04:54:40.456652",
+    "metadata_modified": "2019-11-01T06:12:16.857767",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "漁獲量及び金額（東京都　1992～2012年）（PDFデータ）",
+        "format": "PDF",
+        "url": "http://www.sangyo-rodo.metro.tokyo.jp/toukei/nourin/pdf/v-4-2.pdf",
+        "cache_last_updated": null,
+        "package_id": "7a898bb5-e1ab-4335-bcdd-0ea0a0f60d7a",
+        "created": "2017-03-24T03:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-03-24T03:00:00",
+        "position": 0,
+        "revision_id": "5f9c328c-eac9-4b15-8b1d-08daf16c6f8f",
+        "url_type": null,
+        "id": "d33d774c-97b4-4f34-9fc6-02844f353331",
+        "resource_type": null,
+        "size": 89088
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "漁獲量及び金額（東京都　1992～2012年）（CSVデータ）",
+        "format": "CSV",
+        "url": "http://www.sangyo-rodo.metro.tokyo.jp/toukei/nourin/gyokakuryouoyobikingaku.csv",
+        "cache_last_updated": null,
+        "package_id": "7a898bb5-e1ab-4335-bcdd-0ea0a0f60d7a",
+        "created": "2017-03-24T03:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-03-24T03:00:00",
+        "position": 1,
+        "revision_id": "49d9702a-5ac8-49cd-92b3-9ed677532250",
+        "url_type": null,
+        "id": "f53fa7b1-5475-4655-99ec-b8c187402d56",
+        "resource_type": null,
+        "size": 3072
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "産業雇用創出",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c011.png",
+        "title": "産業雇用創出",
+        "id": "bb1c42ce-dc7e-48cf-91d4-05cab59db4bd",
+        "name": "c011"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.sangyo-rodo.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:21.167827",
+      "title": "東京都産業労働局",
+      "name": "t000012",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "a8e9fbd3-ce2a-40ce-ae97-99bf0055157e",
+      "type": "organization",
+      "id": "1a30d830-0e5f-4e5a-acd1-e4189276b560",
+      "approval_status": "approved"
+    },
+    "name": "t000012d0000000008",
+    "isopen": true,
+    "url": "",
+    "notes": "【東京都産業労働局】　漁獲量及び金額（東京都　1992～2012年）",
+    "owner_org": "1a30d830-0e5f-4e5a-acd1-e4189276b560",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "漁獲量及び金額（東京都　1992～2012年）",
+    "revision_id": "b7fca668-5436-4a7a-bab6-29de8871ab0a"
+  }
+}

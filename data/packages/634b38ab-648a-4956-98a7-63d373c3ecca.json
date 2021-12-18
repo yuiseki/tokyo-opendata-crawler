@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "生活安全総務課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "634b38ab-648a-4956-98a7-63d373c3ecca",
+    "metadata_created": "2020-06-26T06:21:03.487037",
+    "owner_org": "a80c46c5-d236-4d83-b4f9-656c25d0847d",
+    "metadata_modified": "2020-06-26T06:22:17.508858",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "",
+        "format": "CSV",
+        "url": "https://www.keishicho.metro.tokyo.jp/kurashi/anzen/anshin/sukuramu.files/josei_akisu_1.csv",
+        "created": "2019-01-22T15:00:00",
+        "state": "active",
+        "package_id": "634b38ab-648a-4956-98a7-63d373c3ecca",
+        "last_modified": "2019-01-22T15:00:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "53a77fa0-c6a9-482b-a646-29b421af9bd3",
+        "size": null,
+        "id": "fa58c939-f883-4e5b-9807-aee8c4e2a386",
+        "resource_type": null,
+        "name": "住宅対象侵入窃盗の認知件数（件数順）（平成26年度）"
+      },
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "",
+        "format": "CSV",
+        "url": "https://www.keishicho.metro.tokyo.jp/kurashi/anzen/anshin/sukuramu.files/josei_akisu_2.csv",
+        "created": "2019-01-22T15:00:00",
+        "state": "active",
+        "package_id": "634b38ab-648a-4956-98a7-63d373c3ecca",
+        "last_modified": "2019-01-22T15:00:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 1,
+        "revision_id": "32cc77d4-b379-4caf-9373-43bfdcf65acd",
+        "size": null,
+        "id": "6b92dd23-cd8c-43bc-a296-7627d9a4fadb",
+        "resource_type": null,
+        "name": "住宅対象侵入窃盗・対前年比増減件数(件数順)（平成26年度）"
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "治安",
+        "description": "",
+        "title": "治安",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c002.png",
+        "id": "de8273ac-2339-4309-ad15-2800b751b45e",
+        "name": "c002"
+      }
+    ],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t000022d1800000002",
+    "isopen": true,
+    "url": "https://www.keishicho.metro.tokyo.jp/kurashi/anzen/anshin/sukuramu.html",
+    "notes": "【警視庁】",
+    "title": "住宅対象侵入窃盗（空き巣・忍込み・居空き）の認知件数・増減件数（平成26年度）",
+    "extras": [
+      {
+        "value": "不定期",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "http://www.keishicho.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "title": "警視庁",
+      "created": "2019-11-01T03:27:22.754561",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000022.jpg",
+      "revision_id": "6ec2a37b-87b3-4747-ac28-2a6800716699",
+      "type": "organization",
+      "id": "a80c46c5-d236-4d83-b4f9-656c25d0847d",
+      "name": "t000022"
+    },
+    "revision_id": "a08a9033-9aa1-4b09-a21a-7094bb484b3e"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "教育推進部図書文化財課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "9e8b086e-5097-489d-be34-8ac14f98577e",
+    "metadata_created": "2020-11-10T01:49:36.276721",
+    "metadata_modified": "2020-11-10T01:49:44.200896",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "港区内の文化財総合目録です。",
+        "name": "港区文化財総合目録一覧",
+        "format": "CSV",
+        "url": "https://opendata.city.minato.tokyo.jp/dataset/7f09ba22-e437-4a01-ab4d-b98ddafd40b9/resource/8fe56cc7-cddc-4660-a9f3-393a5d4e5817/download/131032_cultural_property.csv",
+        "cache_last_updated": null,
+        "package_id": "9e8b086e-5097-489d-be34-8ac14f98577e",
+        "created": "2018-09-24T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2020-10-22T03:00:00",
+        "position": 0,
+        "revision_id": "3e245dc8-6b2e-4b9a-9d0a-0334c016f343",
+        "url_type": null,
+        "id": "8f5464a0-8fe1-4c0b-a0a2-7c50b6c083d6",
+        "resource_type": null,
+        "size": 56320
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "芸術文化",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c010.png",
+        "title": "芸術文化",
+        "id": "9c1fb21f-bc27-401b-87b7-0fd44c13cc05",
+        "name": "c010"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.minato.tokyo.jp/",
+      "created": "2019-11-01T03:27:24.220357",
+      "title": "港区",
+      "name": "t131032",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131032.jpg",
+      "revision_id": "8f5676eb-3316-4cc6-b26a-4f7e1b39e109",
+      "type": "organization",
+      "id": "6adece4f-1ee9-416a-a7e7-856b8d5fb050",
+      "approval_status": "approved"
+    },
+    "name": "t131032d0000000095",
+    "isopen": true,
+    "url": "https://www.minato-rekishi.com/museum/list.html",
+    "notes": "港区の文化財一覧です",
+    "owner_org": "6adece4f-1ee9-416a-a7e7-856b8d5fb050",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "港区文化財一覧",
+    "revision_id": "040ea660-2292-470e-bbbb-a07229e669be"
+  }
+}

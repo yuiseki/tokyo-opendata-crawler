@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "水道局サ推部",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "4eef5eac-64e7-4189-b218-b9d8a913ce65",
+    "metadata_created": "2021-05-21T02:06:37.128576",
+    "metadata_modified": "2021-05-21T02:06:48.139256",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "新旧料金比較表（１か月）",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/suidou/R3/sinkyuryokinhikaku.csv",
+        "cache_last_updated": null,
+        "package_id": "4eef5eac-64e7-4189-b218-b9d8a913ce65",
+        "created": "2021-01-23T00:54:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-01-23T00:54:00",
+        "position": 0,
+        "revision_id": "2d3e0703-1257-4ce3-9df6-c67a76438f92",
+        "url_type": null,
+        "id": "53417e2f-ea55-4373-83f2-5d9af3cf5d08",
+        "resource_type": null,
+        "size": 3198
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.waterworks.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:22.280579",
+      "title": "東京都水道局",
+      "name": "t000019",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000019.jpg",
+      "revision_id": "6f93ebbd-34d2-48da-9305-0c1de5e96c27",
+      "type": "organization",
+      "id": "df3e208c-40a5-4f30-b0f2-491ceffa6423",
+      "approval_status": "approved"
+    },
+    "name": "t000019d2000000001",
+    "isopen": true,
+    "url": "http://www.waterworks.metro.tokyo.jp/suidojigyo/torikumi/plan2004/plan2004.html#p1",
+    "notes": "",
+    "owner_org": "df3e208c-40a5-4f30-b0f2-491ceffa6423",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "東京水道経営プラン2004_「東京水道経営プラン2004」の策定にあたって",
+    "revision_id": "9db689f0-f44c-400c-ae8c-a308a79a56c7"
+  }
+}

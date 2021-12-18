@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "生活文化局私学部? 私学振興課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "7af4db6f-389a-4f8a-8c80-034e8bc60639",
+    "metadata_created": "2021-05-20T05:04:09.498594",
+    "metadata_modified": "2021-05-20T05:04:16.187632",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "表3-3　東京都私立学校審議会の活動状況",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/seikatubunka/R3/04shigaku_gyosei_3syo_teisei_1.csv",
+        "cache_last_updated": null,
+        "package_id": "7af4db6f-389a-4f8a-8c80-034e8bc60639",
+        "created": "2021-03-19T00:47:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-03-19T00:47:00",
+        "position": 0,
+        "revision_id": "2ec91ba5-70c1-4bb6-b9cc-cfe218154dab",
+        "url_type": null,
+        "id": "3ac61cf9-7005-4d0f-8f23-adcc16ab00f1",
+        "resource_type": null,
+        "size": 2244
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.seikatubunka.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.245320",
+      "title": "東京都生活文化局",
+      "name": "t000006",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "e09ebb81-026e-4a29-927c-3490964055ad",
+      "type": "organization",
+      "id": "3f65c30d-0809-4fc6-8f6c-82261b14152e",
+      "approval_status": "approved"
+    },
+    "name": "t000006d2000000003",
+    "isopen": true,
+    "url": "https://www.seikatubunka.metro.tokyo.lg.jp/shigaku/sonota/files/0000000077/04shigaku_gyosei_3syo_teisei.pdf",
+    "notes": "",
+    "owner_org": "3f65c30d-0809-4fc6-8f6c-82261b14152e",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "東京都私立学校審議会の活動状況",
+    "revision_id": "eb406bec-5d84-4482-846d-cf135fe61708"
+  }
+}

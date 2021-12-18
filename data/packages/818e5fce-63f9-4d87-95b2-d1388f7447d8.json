@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "清瀬市総務部防災防犯課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "818e5fce-63f9-4d87-95b2-d1388f7447d8",
+    "metadata_created": "2020-11-10T01:37:12.681760",
+    "owner_org": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
+    "metadata_modified": "2021-06-16T02:25:09.841551",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "【清瀬市】消防署の一覧です。",
+        "format": "CSV",
+        "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/001/605/06_firedepartment.csv",
+        "created": "2019-12-26T06:33:00",
+        "state": "active",
+        "package_id": "818e5fce-63f9-4d87-95b2-d1388f7447d8",
+        "last_modified": "2019-12-26T06:33:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "9a540ce6-19c8-4977-9ab9-0a6b0dea82db",
+        "size": 1024,
+        "id": "017ebab1-ab48-4830-99d8-08f061d5889e",
+        "resource_type": null,
+        "name": "消防署一覧"
+      },
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "【清瀬市】消防署の一覧です。",
+        "format": "XLSX",
+        "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/001/605/06_firedepartment.xlsx",
+        "created": "2019-11-29T01:50:00",
+        "state": "active",
+        "package_id": "818e5fce-63f9-4d87-95b2-d1388f7447d8",
+        "last_modified": "2019-11-29T01:50:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 1,
+        "revision_id": "bd1cb9dd-fcd5-4163-b06d-a74a9ebdb6a1",
+        "size": 11264,
+        "id": "dc10f945-20c5-4aa1-9bbd-095a060abb9d",
+        "resource_type": null,
+        "name": "消防署一覧"
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "防災・災害計画",
+        "description": "",
+        "title": "防災・災害計画",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c001.png",
+        "id": "8eb52f8e-0d10-44f4-8bb4-2a488d0f8465",
+        "name": "c001"
+      }
+    ],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t132217d0000000023",
+    "isopen": true,
+    "url": "https://www.city.kiyose.lg.jp/opendata/opendataichiran/1001605.html",
+    "notes": "【清瀬市】消防署の一覧です。",
+    "title": "消防署一覧",
+    "extras": [
+      {
+        "value": "変更の都度",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "https://www.city.kiyose.lg.jp/index.html",
+      "title": "清瀬市",
+      "created": "2020-08-05T08:00:00.206131",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "f8ef546d-d3f4-46e8-9741-39a6eec61618",
+      "type": "organization",
+      "id": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
+      "name": "t132217"
+    },
+    "revision_id": "0104edf6-59ee-4201-94e4-b43a52cffe3c"
+  }
+}

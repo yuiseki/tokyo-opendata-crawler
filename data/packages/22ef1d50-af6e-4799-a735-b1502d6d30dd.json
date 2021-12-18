@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "サービス推進部",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "22ef1d50-af6e-4799-a735-b1502d6d30dd",
+    "metadata_created": "2019-11-01T04:55:36.643632",
+    "metadata_modified": "2019-11-01T08:11:53.544499",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "（３）水道料金表",
+        "format": "CSV",
+        "url": "https://www.waterworks.metro.tokyo.jp/kouhou/pip/opendata/csv/plan2007_all_26.csv",
+        "cache_last_updated": null,
+        "package_id": "22ef1d50-af6e-4799-a735-b1502d6d30dd",
+        "created": "2018-07-29T14:17:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-07-28T15:00:00",
+        "position": 0,
+        "revision_id": "a9d5920c-0b88-4e0b-9f63-911ed9d7e1aa",
+        "url_type": null,
+        "id": "99d95176-6290-48dd-bd65-06496552e037",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.waterworks.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:22.280579",
+      "title": "東京都水道局",
+      "name": "t000019",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000019.jpg",
+      "revision_id": "6f93ebbd-34d2-48da-9305-0c1de5e96c27",
+      "type": "organization",
+      "id": "df3e208c-40a5-4f30-b0f2-491ceffa6423",
+      "approval_status": "approved"
+    },
+    "name": "t000019d1700000043",
+    "isopen": true,
+    "url": "http://www.waterworks.metro.tokyo.jp/suidojigyo/torikumi/kadai/plan2007/",
+    "notes": "【東京都水道局】",
+    "owner_org": "df3e208c-40a5-4f30-b0f2-491ceffa6423",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "東京水道経営プラン2007 ―次世代に向けた新たなステージの展開―",
+    "revision_id": "7d7eb3e5-8919-41f8-a793-1bd2b41b5d9f"
+  }
+}

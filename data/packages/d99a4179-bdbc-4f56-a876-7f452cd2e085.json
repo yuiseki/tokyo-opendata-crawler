@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "清瀬市総務部防災防犯課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "d99a4179-bdbc-4f56-a876-7f452cd2e085",
+    "metadata_created": "2020-11-10T01:37:13.273163",
+    "owner_org": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
+    "metadata_modified": "2021-06-16T02:25:13.986496",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "【清瀬市】応急給水拠点の一覧です。",
+        "format": "CSV",
+        "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/001/605/09_shelter.csv",
+        "created": "2019-12-26T06:34:00",
+        "state": "active",
+        "package_id": "d99a4179-bdbc-4f56-a876-7f452cd2e085",
+        "last_modified": "2019-12-26T06:34:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "d262d8eb-5324-4286-bcaa-76b6a4704e2f",
+        "size": 5120,
+        "id": "bf7fdf36-cd28-4881-8484-2585571d64e2",
+        "resource_type": null,
+        "name": "避難所一覧"
+      },
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "清瀬市の避難所の一覧です。",
+        "format": "XLSX",
+        "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/001/605/09_shelter.xlsx",
+        "created": "2019-12-25T00:28:00",
+        "state": "active",
+        "package_id": "d99a4179-bdbc-4f56-a876-7f452cd2e085",
+        "last_modified": "2019-12-25T00:28:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 1,
+        "revision_id": "6fc3ad9b-5e66-423a-856b-fe17d8bc3bc5",
+        "size": 14336,
+        "id": "93547445-fcfa-4660-b7ed-41717643f750",
+        "resource_type": null,
+        "name": "避難所一覧"
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "防災・災害計画",
+        "description": "",
+        "title": "防災・災害計画",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c001.png",
+        "id": "8eb52f8e-0d10-44f4-8bb4-2a488d0f8465",
+        "name": "c001"
+      }
+    ],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t132217d0000000025",
+    "isopen": true,
+    "url": "https://www.city.kiyose.lg.jp/opendata/opendataichiran/1001605.html",
+    "notes": "【清瀬市】避難所の一覧です。",
+    "title": "避難所一覧",
+    "extras": [
+      {
+        "value": "変更の都度",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "https://www.city.kiyose.lg.jp/index.html",
+      "title": "清瀬市",
+      "created": "2020-08-05T08:00:00.206131",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "f8ef546d-d3f4-46e8-9741-39a6eec61618",
+      "type": "organization",
+      "id": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
+      "name": "t132217"
+    },
+    "revision_id": "51ab46b0-a721-49bf-aa18-d50b1d5b0fc1"
+  }
+}

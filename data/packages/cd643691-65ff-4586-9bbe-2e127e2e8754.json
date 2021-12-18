@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "広報広聴課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "cd643691-65ff-4586-9bbe-2e127e2e8754",
+    "metadata_created": "2019-11-01T04:57:03.644371",
+    "metadata_modified": "2019-11-01T08:39:15.913967",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "品川区の歴史・風土を伝える風景、施設、名所などの説明と位置情報のcsvファイル",
+        "name": "観光情報（しながわ百景)csvデータ",
+        "format": "CSV",
+        "url": "http://www.city.shinagawa.tokyo.jp/ct/other000081600/kankojoho-shinagawa100kei.csv",
+        "cache_last_updated": null,
+        "package_id": "cd643691-65ff-4586-9bbe-2e127e2e8754",
+        "created": "2017-03-24T03:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-03-24T03:00:00",
+        "position": 0,
+        "revision_id": "5ffb286c-0c85-45a2-a0d7-a344771f033d",
+        "url_type": null,
+        "id": "07191006-0b81-4056-b561-3383ae2b276a",
+        "resource_type": null,
+        "size": 40960
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "品川区の歴史・風土を伝える風景、施設、名所などの説明と位置情報のrdfファイル",
+        "name": "観光情報（しながわ百景)rdfデータ",
+        "format": "RDF",
+        "url": "http://www.city.shinagawa.tokyo.jp/ct/other000081600/kankojoho-shinagawa100kei.rdf",
+        "cache_last_updated": null,
+        "package_id": "cd643691-65ff-4586-9bbe-2e127e2e8754",
+        "created": "2017-03-24T03:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-03-24T03:00:00",
+        "position": 1,
+        "revision_id": "c47d108d-88fc-4d6e-856e-2c8b1f8b5306",
+        "url_type": null,
+        "id": "3ae6a269-c17d-4453-9b9d-687bf78c8a71",
+        "resource_type": null,
+        "size": 307200
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "観光",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c008.png",
+        "title": "観光",
+        "id": "420fd8d6-2bde-4746-9354-6344ec19ba93",
+        "name": "c008"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.shinagawa.tokyo.jp/",
+      "created": "2019-11-01T03:27:24.888527",
+      "title": "品川区",
+      "name": "t131091",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131091.png",
+      "revision_id": "a58c6889-2755-423e-bc8c-5146fb74ae73",
+      "type": "organization",
+      "id": "ee5ed3ad-76a9-4a49-aba7-3a63a457eb93",
+      "approval_status": "approved"
+    },
+    "name": "t131091d0000000005",
+    "isopen": true,
+    "url": "",
+    "notes": "【品川区】　品川区の歴史・風土を伝える風景、施設、名所などの説明と位置情報",
+    "owner_org": "ee5ed3ad-76a9-4a49-aba7-3a63a457eb93",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "観光情報（しながわ百景）",
+    "revision_id": "c3e01492-2aa8-484a-b87d-84397f4f69e3"
+  }
+}

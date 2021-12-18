@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "総務部教育情報課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "0eded3c0-d12b-4236-a779-7381692fc20f",
+    "metadata_created": "2019-11-01T04:55:51.504121",
+    "metadata_modified": "2021-02-05T00:34:34.163730",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "学校経営支援センター管轄校一覧（令和２年４月１日現在）",
+        "format": "PDF",
+        "url": "https://www.kyoiku.metro.tokyo.lg.jp/consulting/contact/files/support_center/ichiran.pdf",
+        "cache_last_updated": null,
+        "package_id": "0eded3c0-d12b-4236-a779-7381692fc20f",
+        "created": "2017-04-09T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-04-09T15:00:00",
+        "position": 0,
+        "revision_id": "c24c11de-d859-4658-9a28-adaf7f823f5e",
+        "url_type": null,
+        "id": "be50f3d6-b377-4b4a-bb1d-9026b33284a3",
+        "resource_type": null,
+        "size": 230400
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.kyoiku.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:22.598778",
+      "title": "東京都教育庁",
+      "name": "t000021",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000021.png",
+      "revision_id": "3b8eaba6-3e9c-4401-a703-dcd9d28741aa",
+      "type": "organization",
+      "id": "f510f5b2-b249-499d-a00f-440b1f646e13",
+      "approval_status": "approved"
+    },
+    "name": "t000021d0000000004",
+    "isopen": true,
+    "url": "http://www.kyoiku.metro.tokyo.jp/madoguchi/sigoto2.html",
+    "notes": "【東京都教育庁】",
+    "owner_org": "f510f5b2-b249-499d-a00f-440b1f646e13",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "1年ごと"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "学校経営支援センター管轄校一覧",
+    "revision_id": "d2a59e52-e163-43aa-b472-6770c868a55e"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "都市整備部緑と公園課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "1edfe578-208a-4733-808d-99414c0d4bfa",
+    "metadata_created": "2019-12-26T11:17:37.292003",
+    "metadata_modified": "2019-12-26T11:18:17.761067",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "三鷹市内の公園・緑地等の一覧です。",
+        "name": "公園・緑地等の一覧",
+        "format": "XLS",
+        "url": "https://www.city.mitaka.lg.jp/c_service/078/attached/attach_78305_1.xls",
+        "cache_last_updated": null,
+        "package_id": "1edfe578-208a-4733-808d-99414c0d4bfa",
+        "created": "2019-03-06T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-03-06T15:00:00",
+        "position": 0,
+        "revision_id": "cdbb4a1b-b605-4769-93fb-7c81e2ba5ecd",
+        "url_type": null,
+        "id": "834cf1b1-0247-498f-8762-3acfdb3d8fc3",
+        "resource_type": null,
+        "size": 47104
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      },
+      {
+        "display_name": "まちづくり",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c003.png",
+        "title": "まちづくり",
+        "id": "dc897c44-8153-4219-bfeb-6110fb85fb99",
+        "name": "c003"
+      },
+      {
+        "display_name": "人口減少・少子高齢化",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c004.png",
+        "title": "人口減少・少子高齢化",
+        "id": "802d7d18-3543-4e8b-a8f5-82b5f1aa752e",
+        "name": "c004"
+      },
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.mitaka.tokyo.jp/",
+      "created": "2019-11-01T03:27:26.290901",
+      "title": "三鷹市",
+      "name": "t132047",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t132047.png",
+      "revision_id": "29067a77-93a5-401f-8cf9-067b0d741280",
+      "type": "organization",
+      "id": "bad8a80a-36ed-489a-89c2-d1669a424860",
+      "approval_status": "approved"
+    },
+    "name": "t132047d0000000016",
+    "isopen": true,
+    "url": "",
+    "notes": "三鷹市内の公園の一覧です。",
+    "owner_org": "bad8a80a-36ed-489a-89c2-d1669a424860",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "1年ごと"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "【事業案内】公園・緑地等の一覧",
+    "revision_id": "4427d962-78a9-4ae5-b8e5-9681debc6776"
+  }
+}

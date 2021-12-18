@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "東京都環境局環境改善部 化学物質対策課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "7ef985ad-7d45-4139-aa1c-036c17843b2f",
+    "metadata_created": "2021-06-03T03:00:37.697579",
+    "metadata_modified": "2021-06-03T03:00:42.272350",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "表１ ダイオキシン類排出量（推計値）の推移",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/kankyo/R3/H25_DXN_Press_1.csv",
+        "cache_last_updated": null,
+        "package_id": "7ef985ad-7d45-4139-aa1c-036c17843b2f",
+        "created": "2021-03-29T01:25:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-03-29T01:25:00",
+        "position": 0,
+        "revision_id": "e1b4848f-a33b-4b24-b979-5245cc55d329",
+        "url_type": null,
+        "id": "0f2a91e7-94ca-4eff-8812-4ed194e801e2",
+        "resource_type": null,
+        "size": 1324
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.kankyo.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.710014",
+      "title": "東京都環境局",
+      "name": "t000009",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "a0bf6c30-64dc-48fe-9782-e38ae248a38d",
+      "type": "organization",
+      "id": "c8b93db3-9754-48d3-8b50-5cbe78d679e7",
+      "approval_status": "approved"
+    },
+    "name": "t000009d2000000014",
+    "isopen": true,
+    "url": "https://www.kankyo.metro.tokyo.lg.jp/chemical/chemical/dioxin/result/index.files/H25_DXN_Press.pdf",
+    "notes": "",
+    "owner_org": "c8b93db3-9754-48d3-8b50-5cbe78d679e7",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "ダイオキシン類調査結果・平成25年度ダイオキシン類排出量推計結果及び環境中のダイオキシン類調査結果",
+    "revision_id": "eb3d2c8e-7409-4d67-8504-842c817be8fa"
+  }
+}

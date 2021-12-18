@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "大田区総務部\n総務課　等",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "6b6426e3-fa65-42dd-88c3-ec98118151e2",
+    "metadata_created": "2021-08-30T11:03:32.564114",
+    "metadata_modified": "2021-08-30T11:03:36.348447",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "区庁舎等一覧",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/ootaku/131113_cyousya.csv",
+        "cache_last_updated": null,
+        "package_id": "6b6426e3-fa65-42dd-88c3-ec98118151e2",
+        "created": "2021-08-23T00:46:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-08-23T07:01:00",
+        "position": 0,
+        "revision_id": "97c79eb8-983f-4ec2-9c82-1ca9b3e5f6f7",
+        "url_type": null,
+        "id": "0aa114cc-34bc-41c3-ad7d-4175ec7fd5a2",
+        "resource_type": null,
+        "size": 3072
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.ota.tokyo.jp/",
+      "created": "2019-11-01T03:27:25.037394",
+      "title": "大田区",
+      "name": "t131113",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131113.jpg",
+      "revision_id": "03b46cf2-2118-4e53-855d-1025be9188ae",
+      "type": "organization",
+      "id": "0ed84aa5-79d2-4db1-bf8d-3f4ec71815f2",
+      "approval_status": "approved"
+    },
+    "name": "t131113d0000000020",
+    "isopen": true,
+    "url": "https://www.city.ota.tokyo.jp/shisetsu/index.html",
+    "notes": "【大田区】本庁舎、地域庁舎等区庁舎の一覧です。",
+    "owner_org": "0ed84aa5-79d2-4db1-bf8d-3f4ec71815f2",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "年１回"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "区庁舎等一覧",
+    "revision_id": "122c4f92-8abb-4a2b-bd5c-2efa8b012872"
+  }
+}

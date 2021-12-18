@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "福祉保健局健康安全部感染症対策課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "num_tags": 0,
+    "id": "ccda73ec-76cb-4386-bf51-a2d35b346a6f",
+    "metadata_created": "2020-03-05T12:27:11.731199",
+    "metadata_modified": "2021-03-31T05:34:13.904385",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": "",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "東京都 新型コロナウイルス対策サイト https://stopcovid19.metro.tokyo.lg.jp/ で公開している都内 新型コロナウイルス陽性患者の詳細データです。（注）公表_年月日：患者情報を公表した年月日。発症_年月日：症状があらわれた年月日。確定_年月日：検査により陽性であることを医師が確認した年月日。退院済フラグには、死亡退院含む。\n\n（参考）新型コロナウイルス感染症対策に関するオープンデータ項目定義書　https://www.code4japan.org/activity/stopcovid19#od_spec\n\n※　システムの仕様上、下記では1000recordsと表示されておりますが、実際には1000件以上となっております。\n",
+        "name": "東京都_新型コロナウイルス陽性患者発表詳細",
+        "format": "CSV",
+        "url": "https://stopcovid19.metro.tokyo.lg.jp/data/130001_tokyo_covid19_patients.csv",
+        "cache_last_updated": null,
+        "package_id": "ccda73ec-76cb-4386-bf51-a2d35b346a6f",
+        "created": "2020-03-05T07:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-03-30T23:30:00",
+        "position": 0,
+        "revision_id": "1d5fa6d2-c1d5-476a-ba24-c98b1a84dc87",
+        "url_type": null,
+        "id": "c2d997db-1450-43fa-8037-ebb11ec28d4c",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.fukushihoken.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.864364",
+      "title": "東京都福祉保健局",
+      "name": "t000010",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000010.jpg",
+      "revision_id": "8d3da6a9-bfe7-4cd1-9d5d-9737b2293939",
+      "type": "organization",
+      "id": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+      "approval_status": "approved"
+    },
+    "name": "t000010d0000000068",
+    "isopen": true,
+    "url": "https://stopcovid19.metro.tokyo.lg.jp/",
+    "notes": "東京都 新型コロナウイルス対策サイト https://stopcovid19.metro.tokyo.lg.jp/ で公開している都内 新型コロナウイルス陽性患者の詳細データです。（注）公表_年月日：患者情報を公表した年月日。発症_年月日：症状があらわれた年月日。確定_年月日：検査により陽性であることを医師が確認した年月日。退院済フラグには、死亡退院含む。\n\n（参考）新型コロナウイルス感染症対策に関するオープンデータ項目定義書　https://www.code4japan.org/activity/stopcovid19#od_spec\n",
+    "owner_org": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "毎日8:30更新"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "東京都 新型コロナウイルス陽性患者発表詳細",
+    "revision_id": "0f4bd367-3333-4a89-a53d-90b1dfa70a77"
+  }
+}

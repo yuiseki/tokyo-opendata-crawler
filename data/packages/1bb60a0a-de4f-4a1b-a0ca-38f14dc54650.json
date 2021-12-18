@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "都営交通お客様センター",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "1bb60a0a-de4f-4a1b-a0ca-38f14dc54650",
+    "metadata_created": "2019-12-23T09:15:43.067518",
+    "owner_org": "058227fa-4a59-4028-a226-9eb858f9947a",
+    "metadata_modified": "2021-09-16T05:15:37.373708",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "《交通局について》 - [平成30年度 決算　参考 ] 平成30年度 地下鉄路線別収支",
+        "format": "PDF",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/kotsu/about/about_30_closing_30_closing04.pdf",
+        "created": "2020-12-03T15:00:00",
+        "state": "active",
+        "package_id": "1bb60a0a-de4f-4a1b-a0ca-38f14dc54650",
+        "last_modified": "2020-12-04T01:46:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "d75a90c3-a39e-4ed8-9196-142a1ce398b2",
+        "size": null,
+        "id": "0b0079b7-616c-40be-8e29-a645fa486259",
+        "resource_type": null,
+        "name": "平成30年度 地下鉄路線別収支"
+      },
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "《交通局について》 - [平成30年度 決算　参考 ] 平成30年度 バス路線別収支",
+        "format": "PDF",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/kotsu/about/about_30_closing_30_closing05.pdf",
+        "created": "2020-12-03T15:00:00",
+        "state": "active",
+        "package_id": "1bb60a0a-de4f-4a1b-a0ca-38f14dc54650",
+        "last_modified": "2020-12-04T01:46:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 1,
+        "revision_id": "d75a90c3-a39e-4ed8-9196-142a1ce398b2",
+        "size": null,
+        "id": "1452b8b8-0cbb-45e6-aa6e-cc816ad9b1c6",
+        "resource_type": null,
+        "name": "平成30年度 バス路線別収支"
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "税金",
+        "description": "",
+        "title": "税金",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c007.png",
+        "id": "bb8a1d8b-5217-44c2-8eca-81addb671f0e",
+        "name": "c007"
+      }
+    ],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t000018d0000000021",
+    "isopen": true,
+    "url": "https://www.kotsu.metro.tokyo.jp/about/information/closing/30_closing.html",
+    "notes": "【東京都交通局】平成30年度 決算　参考",
+    "title": "平成30年度 決算　参考",
+    "extras": [
+      {
+        "value": "随時",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "https://www.kotsu.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "title": "東京都交通局",
+      "created": "2019-11-01T03:27:22.123863",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "d47c06bd-1090-4a95-bea1-05d8261663a6",
+      "type": "organization",
+      "id": "058227fa-4a59-4028-a226-9eb858f9947a",
+      "name": "t000018"
+    },
+    "revision_id": "60b43422-15cd-4240-b7e4-ec9a1509ab57"
+  }
+}

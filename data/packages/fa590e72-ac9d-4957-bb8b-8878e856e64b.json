@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "地域教育支援部義務教育課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "fa590e72-ac9d-4957-bb8b-8878e856e64b",
+    "metadata_created": "2019-11-01T04:55:53.372209",
+    "metadata_modified": "2019-11-01T08:27:13.085318",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "各年度（過去5年分）の東京都の学校保健統計調査のページに掲載するPDFファイル及びExcelファイル",
+        "format": "HTML",
+        "url": "http://www.kyoiku.metro.tokyo.jp/administration/statistics_and_research/school_health.html",
+        "cache_last_updated": null,
+        "package_id": "fa590e72-ac9d-4957-bb8b-8878e856e64b",
+        "created": "2017-03-24T03:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-03-24T03:00:00",
+        "position": 0,
+        "revision_id": "80cd70d5-d1ed-40be-9ccc-a9c5c4945a98",
+        "url_type": null,
+        "id": "f219a05d-fa4d-4f18-b4c0-90d454538529",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.kyoiku.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:22.598778",
+      "title": "東京都教育庁",
+      "name": "t000021",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000021.png",
+      "revision_id": "3b8eaba6-3e9c-4401-a703-dcd9d28741aa",
+      "type": "organization",
+      "id": "f510f5b2-b249-499d-a00f-440b1f646e13",
+      "approval_status": "approved"
+    },
+    "name": "t000021d0000000013",
+    "isopen": true,
+    "url": "http://www.kyoiku.metro.tokyo.jp/buka/gakumu/kenkou/karada/shcp.html",
+    "notes": "【東京都教育庁】",
+    "owner_org": "f510f5b2-b249-499d-a00f-440b1f646e13",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "1年ごと"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "東京都の学校保健統計調査",
+    "revision_id": "1608cf55-73e6-46f1-94ea-2989c396826c"
+  }
+}

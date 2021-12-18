@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "監査事務局総務課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "246f64a1-f597-4605-972c-ef7a2cfeccda",
+    "metadata_created": "2019-11-01T04:56:19.503373",
+    "metadata_modified": "2019-11-01T08:32:50.238203",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "平成３０年定例監査の指摘事項、意見・要望事項の局別件数です。 ",
+        "name": "指摘事項、意見・要望事項の局別件数",
+        "format": "CSV",
+        "url": "http://www.opendata.metro.tokyo.jp/kansa/30teirei/30teirei_1.csv",
+        "cache_last_updated": null,
+        "package_id": "246f64a1-f597-4605-972c-ef7a2cfeccda",
+        "created": "2019-03-12T01:53:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-03-16T04:23:00",
+        "position": 0,
+        "revision_id": "12048bce-8a0d-43ea-9561-2a01d844fcb9",
+        "url_type": null,
+        "id": "211646f1-ad6b-42f2-9899-a6ff6ccb9857",
+        "resource_type": null,
+        "size": 1024
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "平成３０年定例監査の指摘事項、意見・要望事項の区分別件数です。 ",
+        "name": "指摘事項、意見・要望事項の区分別件数",
+        "format": "CSV",
+        "url": "http://www.opendata.metro.tokyo.jp/kansa/30teirei/30teirei_2.csv",
+        "cache_last_updated": null,
+        "package_id": "246f64a1-f597-4605-972c-ef7a2cfeccda",
+        "created": "2019-03-12T01:57:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-03-16T04:24:00",
+        "position": 1,
+        "revision_id": "a5ca6d5f-66a0-466e-a94f-a7a1c8d7977d",
+        "url_type": null,
+        "id": "e5c0fe29-ae5a-496d-9393-88b1518514fa",
+        "resource_type": null,
+        "size": 1024
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.kansa.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:23.229013",
+      "title": "東京都監査事務局",
+      "name": "t000025",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "4f31c163-f672-452d-8506-4f40300e694f",
+      "type": "organization",
+      "id": "58af0f89-950c-449c-8b5f-195590be8dad",
+      "approval_status": "approved"
+    },
+    "name": "t000025d0000000002",
+    "isopen": true,
+    "url": "http://www.kansa.metro.tokyo.jp/",
+    "notes": "【東京都監査事務局】平成３０年定例監査について、監査結果を掲載しています。",
+    "owner_org": "58af0f89-950c-449c-8b5f-195590be8dad",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "公開時のみ"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "平成３０年定例監査報告書",
+    "revision_id": "06d67557-5d6e-448e-85a0-73bcd4b86c2b"
+  }
+}

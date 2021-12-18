@@ -1,0 +1,114 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "総合対策部交通安全課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "6c082bbb-6b89-41da-b68e-57f4d7350c8f",
+    "metadata_created": "2019-11-01T04:52:20.814999",
+    "metadata_modified": "2019-11-01T05:11:59.704258",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "４ 所管機関一覧",
+        "format": "CSV",
+        "url": "http://www.opendata.metro.tokyo.jp/seisyounen/28keikaku280831.csv",
+        "cache_last_updated": null,
+        "package_id": "6c082bbb-6b89-41da-b68e-57f4d7350c8f",
+        "created": "2019-01-20T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-01-20T15:00:00",
+        "position": 0,
+        "revision_id": "0359bb4d-2322-4c84-ab94-9678a3086c4c",
+        "url_type": null,
+        "id": "fca60eac-b55e-4f1b-a429-d1bb8e7be391",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "４ 所管機関一覧【注釈等】",
+        "format": "TXT",
+        "url": "http://www.opendata.metro.tokyo.jp/seisyounen/28keikaku280831_annotation.txt",
+        "cache_last_updated": null,
+        "package_id": "6c082bbb-6b89-41da-b68e-57f4d7350c8f",
+        "created": "2019-01-20T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-01-20T15:00:00",
+        "position": 1,
+        "revision_id": "3332e9a6-65c3-408e-9b38-d54748a3d7c4",
+        "url_type": null,
+        "id": "9533ebfb-db18-4bfe-b305-61f4ab94225d",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "交通情報",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c013.png",
+        "title": "交通情報",
+        "id": "38323541-753d-4230-b2dd-d9eb367ae5ed",
+        "name": "c013"
+      },
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.tomin-anzen.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:19.596374",
+      "title": "東京都都民安全推進本部",
+      "name": "t000002",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "f682f39e-31cf-419a-98eb-d960bdc02238",
+      "type": "organization",
+      "id": "ce1debcd-3c6c-40b5-9ade-461164a64820",
+      "approval_status": "approved"
+    },
+    "name": "t000002d1800000018",
+    "isopen": true,
+    "url": "http://www.seisyounen-chian.metro.tokyo.jp/kotsu/keikaku/kotsu-jishi_28/",
+    "notes": "【東京都青少年・治安対策本部】",
+    "owner_org": "ce1debcd-3c6c-40b5-9ade-461164a64820",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "平成28年度東京都交通安全実施計画",
+    "revision_id": "e47386e1-b6cf-486f-b425-4b81045c4fbf"
+  }
+}

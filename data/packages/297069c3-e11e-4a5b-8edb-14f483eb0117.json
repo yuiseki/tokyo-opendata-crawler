@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "少子社会対策部家庭支援課母子医療助成担当",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "297069c3-e11e-4a5b-8edb-14f483eb0117",
+    "metadata_created": "2019-11-01T04:53:55.411855",
+    "metadata_modified": "2019-11-01T05:54:29.520962",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "入院助産（出産費用の助成）",
+        "name": "助産施設一覧（EXCELファイル）",
+        "format": "XLS",
+        "url": "http://www.fukushihoken.metro.tokyo.jp/kodomo/kosodate/josei/josan.files/josansisetu.xls",
+        "cache_last_updated": null,
+        "package_id": "297069c3-e11e-4a5b-8edb-14f483eb0117",
+        "created": "2017-09-21T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-09-21T15:00:00",
+        "position": 0,
+        "revision_id": "2f632932-c883-4357-996f-f395faa61d68",
+        "url_type": null,
+        "id": "96c1cbed-cc83-41af-a988-477b1944309b",
+        "resource_type": null,
+        "size": 47104
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "入院助産（出産費用の助成）",
+        "name": "助産施設一覧（CSVファイル）",
+        "format": "CSV",
+        "url": "http://www.fukushihoken.metro.tokyo.jp/kodomo/kosodate/josei/josan.files/josansisetu.csv",
+        "cache_last_updated": null,
+        "package_id": "297069c3-e11e-4a5b-8edb-14f483eb0117",
+        "created": "2017-09-21T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-09-21T15:00:00",
+        "position": 1,
+        "revision_id": "ced7efc4-5487-49b6-a732-b707ce5e3a89",
+        "url_type": null,
+        "id": "91437dd3-355f-4c7e-9c28-a55fe135a717",
+        "resource_type": null,
+        "size": 3072
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "医療・福祉",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c005.png",
+        "title": "医療・福祉",
+        "id": "0d3cd956-612c-45c5-b1ee-75c1a5835c0e",
+        "name": "c005"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.fukushihoken.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.864364",
+      "title": "東京都福祉保健局",
+      "name": "t000010",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000010.jpg",
+      "revision_id": "8d3da6a9-bfe7-4cd1-9d5d-9737b2293939",
+      "type": "organization",
+      "id": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+      "approval_status": "approved"
+    },
+    "name": "t000010d0000000034",
+    "isopen": true,
+    "url": "http://www.fukushihoken.metro.tokyo.jp/kodomo/kosodate/josei/josan.html",
+    "notes": "【東京都福祉保健局】",
+    "owner_org": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "入院助産",
+    "revision_id": "68c33241-50bd-4bd5-a782-6c2d975656ce"
+  }
+}

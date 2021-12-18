@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "教育委員会事務局中央図書館",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "df590493-eda3-4b91-a11a-0301cb349a2d",
+    "metadata_created": "2021-03-18T07:38:19.051679",
+    "owner_org": "9354a576-4de5-44ab-9e62-18a92b40b5e7",
+    "metadata_modified": "2021-03-18T07:38:49.783697",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "図書館に関するデータです。",
+        "format": "CSV",
+        "url": "https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/010/224/tosyokan.csv",
+        "created": "2021-03-18T07:38:45.355917",
+        "state": "active",
+        "package_id": "df590493-eda3-4b91-a11a-0301cb349a2d",
+        "last_modified": null,
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "65ac8926-e9a8-4d98-b2f1-77f0cd1f135a",
+        "size": null,
+        "id": "81734445-ec05-47c7-9fa4-0495af2d030a",
+        "resource_type": null,
+        "name": "板橋区の図書館"
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t131199d0000001381",
+    "isopen": true,
+    "url": "https://www.city.itabashi.tokyo.jp/kyoikuiinkai/shisetsu/toxhokan/1010224.html",
+    "notes": "【板橋区】図書館に関するデータを掲載しています。",
+    "title": "板橋区の図書館",
+    "extras": [
+      {
+        "value": "随時",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "http://www.city.itabashi.tokyo.jp/",
+      "title": "板橋区",
+      "created": "2019-11-01T03:27:25.673886",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131199.jpg",
+      "revision_id": "1a86d48e-188d-4655-9cc5-c9aedb102db4",
+      "type": "organization",
+      "id": "9354a576-4de5-44ab-9e62-18a92b40b5e7",
+      "name": "t131199"
+    },
+    "revision_id": "6020abce-6ee1-4785-bd98-2fffdcfe5c32"
+  }
+}

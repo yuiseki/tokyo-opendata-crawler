@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "総務部",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "0b9788e4-09da-4795-aaf8-cd091d52ded3",
+    "metadata_created": "2019-11-01T04:53:26.524745",
+    "metadata_modified": "2019-11-01T05:44:30.501900",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "平成２８年度自律改革取組一覧です。",
+        "name": "平成２８年度自律改革取組一覧（オリンピック・パラリンピック準備局） ",
+        "format": "CSV",
+        "url": "http://www.2020games.metro.tokyo.jp/8076ba53d680625a6eb3358275ebbdb8_1.csv",
+        "cache_last_updated": null,
+        "package_id": "0b9788e4-09da-4795-aaf8-cd091d52ded3",
+        "created": "2018-10-04T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-10-04T15:00:00",
+        "position": 0,
+        "revision_id": "500efc5f-6a6e-4d9a-a660-b3d1ed700310",
+        "url_type": null,
+        "id": "cec26e7e-5422-4464-bf37-6aed3a55972b",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "オリンピック・パラリンピック",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c009.png",
+        "title": "オリンピック・パラリンピック",
+        "id": "4e11ae7b-55ad-44ce-8ec3-dc7205cc78f6",
+        "name": "c009"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.2020games.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.403001",
+      "title": "東京都オリンピック・パラリンピック準備局",
+      "name": "t000007",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000007.jpg",
+      "revision_id": "90a115f6-e18a-495c-a51b-39ca62c7108c",
+      "type": "organization",
+      "id": "1a6c3963-f987-4d8a-9a29-eafa99c7a0f1",
+      "approval_status": "approved"
+    },
+    "name": "t000007d1700000006",
+    "isopen": true,
+    "url": "",
+    "notes": "【東京都オリンピック・パラリンピック準備局]自律改革の取組に関する資料です。",
+    "owner_org": "1a6c3963-f987-4d8a-9a29-eafa99c7a0f1",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "自律改革の取組",
+    "revision_id": "2fb34e12-e429-4132-9a9f-54776ad36102"
+  }
+}

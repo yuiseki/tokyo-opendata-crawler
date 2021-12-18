@@ -1,0 +1,114 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "生活安全総務課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "f838bdb0-3cf3-4651-a6a1-2b38faad2063",
+    "metadata_created": "2020-06-26T06:21:02.124367",
+    "owner_org": "a80c46c5-d236-4d83-b4f9-656c25d0847d",
+    "metadata_modified": "2020-06-26T06:22:17.909303",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "（生活安全総務課　手集計）",
+        "format": "CSV",
+        "url": "https://www.keishicho.metro.tokyo.jp/kurashi/higai/guard/bicycle_bohan.files/bicycle_bohan_1.csv",
+        "created": "2019-01-22T15:00:00",
+        "state": "active",
+        "package_id": "f838bdb0-3cf3-4651-a6a1-2b38faad2063",
+        "last_modified": "2019-01-22T15:00:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "795e89ba-2774-4563-b1d1-bd1e756ce383",
+        "size": null,
+        "id": "87dcc6a8-a34c-416e-bb5f-da8385828449",
+        "resource_type": null,
+        "name": "自転車盗の発生件数の推移"
+      },
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "（生活安全総務課　手集計）",
+        "format": "CSV",
+        "url": "https://www.keishicho.metro.tokyo.jp/kurashi/higai/guard/bicycle_bohan.files/bicycle_bohan_2.csv",
+        "created": "2019-01-22T15:00:00",
+        "state": "active",
+        "package_id": "f838bdb0-3cf3-4651-a6a1-2b38faad2063",
+        "last_modified": "2019-01-22T15:00:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 1,
+        "revision_id": "10fc28c4-eab2-4959-8218-96d035806e10",
+        "size": null,
+        "id": "7fa573d5-0764-49a5-93de-28657a88c9b1",
+        "resource_type": null,
+        "name": "自転車盗の発生場所"
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "交通情報",
+        "description": "",
+        "title": "交通情報",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c013.png",
+        "id": "38323541-753d-4230-b2dd-d9eb367ae5ed",
+        "name": "c013"
+      },
+      {
+        "display_name": "治安",
+        "description": "",
+        "title": "治安",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c002.png",
+        "id": "de8273ac-2339-4309-ad15-2800b751b45e",
+        "name": "c002"
+      }
+    ],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t000022d1800000009",
+    "isopen": true,
+    "url": "https://www.keishicho.metro.tokyo.jp/kurashi/higai/guard/bicycle_bohan.html",
+    "notes": "【警視庁】",
+    "title": "自転車盗の発生状況",
+    "extras": [
+      {
+        "value": "不定期",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "http://www.keishicho.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "title": "警視庁",
+      "created": "2019-11-01T03:27:22.754561",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000022.jpg",
+      "revision_id": "6ec2a37b-87b3-4747-ac28-2a6800716699",
+      "type": "organization",
+      "id": "a80c46c5-d236-4d83-b4f9-656c25d0847d",
+      "name": "t000022"
+    },
+    "revision_id": "8d0f6836-73a2-4efd-b0fa-80a333a1f137"
+  }
+}

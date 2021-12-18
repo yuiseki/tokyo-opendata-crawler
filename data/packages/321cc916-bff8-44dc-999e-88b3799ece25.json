@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "行政部",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "321cc916-bff8-44dc-999e-88b3799ece25",
+    "metadata_created": "2019-11-01T04:52:24.847349",
+    "metadata_modified": "2019-11-01T05:12:47.093589",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "平成２８年度普通交付税（東京都市町村分）の算定結果について（報道発表/PDF）",
+        "format": "PDF",
+        "url": "http://www.soumu.metro.tokyo.jp/05gyousei/press/280726_futsu_koufuzei.pdf",
+        "cache_last_updated": null,
+        "package_id": "321cc916-bff8-44dc-999e-88b3799ece25",
+        "created": "2017-03-24T03:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-03-24T03:00:00",
+        "position": 0,
+        "revision_id": "23cebf35-0a65-4593-a642-1d696e5a1acf",
+        "url_type": null,
+        "id": "19901e2d-8ec0-4956-b582-f43d1eff5040",
+        "resource_type": null,
+        "size": 235520
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "平成２８年度普通交付税（東京都市町村分）の算定結果について（資料/PDF）",
+        "format": "PDF",
+        "url": "http://www.soumu.metro.tokyo.jp/05gyousei/press/280726_futsu_koufuzei_shiryou.pdf",
+        "cache_last_updated": null,
+        "package_id": "321cc916-bff8-44dc-999e-88b3799ece25",
+        "created": "2017-03-24T03:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-03-24T03:00:00",
+        "position": 1,
+        "revision_id": "a9f24199-c9c7-4822-8692-228179b5dabf",
+        "url_type": null,
+        "id": "58bb70c2-681c-4e9d-a9d9-1429932532f3",
+        "resource_type": null,
+        "size": 235520
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "税金",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c007.png",
+        "title": "税金",
+        "id": "bb8a1d8b-5217-44c2-8eca-81addb671f0e",
+        "name": "c007"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.soumu.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:19.763566",
+      "title": "東京都総務局",
+      "name": "t000003",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000003.png",
+      "revision_id": "c4e16dd4-cb3f-42dc-8be2-2eed0f9e0175",
+      "type": "organization",
+      "id": "5987f8a3-dfbe-4f96-b3cc-e1f3ea0a2717",
+      "approval_status": "approved"
+    },
+    "name": "t000003d0000000018",
+    "isopen": true,
+    "url": "",
+    "notes": "【東京都総務局】",
+    "owner_org": "5987f8a3-dfbe-4f96-b3cc-e1f3ea0a2717",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "1年ごと"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "平成２８年度普通交付税（東京都市町村分）の算定結果",
+    "revision_id": "4adc9bcd-51a6-4027-920b-e230c2e7555d"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "生活福祉部保護課介護担当",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "76856fc8-72ad-46fd-973d-95fa29b7ae24",
+    "metadata_created": "2019-11-01T04:54:30.898847",
+    "metadata_modified": "2019-11-01T06:10:58.168353",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "指定介護機関一覧",
+        "format": "CSV",
+        "url": "http://www.fukushihoken.metro.tokyo.jp/seikatsu/hogo/kaigokikan.files/01.6kensaku130-134.csv",
+        "cache_last_updated": null,
+        "package_id": "76856fc8-72ad-46fd-973d-95fa29b7ae24",
+        "created": "2019-06-17T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-06-17T15:00:00",
+        "position": 0,
+        "revision_id": "eb29edee-67ac-40a6-82d4-df90583de50f",
+        "url_type": null,
+        "id": "c7f4f0e5-a468-4737-be50-78b065b3f309",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "医療・福祉",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c005.png",
+        "title": "医療・福祉",
+        "id": "0d3cd956-612c-45c5-b1ee-75c1a5835c0e",
+        "name": "c005"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.fukushihoken.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.864364",
+      "title": "東京都福祉保健局",
+      "name": "t000010",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000010.jpg",
+      "revision_id": "8d3da6a9-bfe7-4cd1-9d5d-9737b2293939",
+      "type": "organization",
+      "id": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+      "approval_status": "approved"
+    },
+    "name": "t000010d1800000031",
+    "isopen": true,
+    "url": "http://www.fukushihoken.metro.tokyo.jp/seikatsu/hogo/kaigokikan.html",
+    "notes": "指定介護機関 （生活保護法・中国残留邦人等支援法）_指定介護機関一覧",
+    "owner_org": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "指定介護機関 （生活保護法・中国残留邦人等支援法）_指定介護機関一覧（ファイル1）（Excel：4,115KB）",
+    "revision_id": "f7d70ab2-63a1-43bf-a2be-f1c7a1912cae"
+  }
+}

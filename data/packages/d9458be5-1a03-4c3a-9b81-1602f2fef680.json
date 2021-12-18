@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "総務課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "d9458be5-1a03-4c3a-9b81-1602f2fef680",
+    "metadata_created": "2019-11-01T04:56:18.727175",
+    "metadata_modified": "2019-11-01T08:32:41.991969",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "衆議院（小選挙区選出）議員の選挙区一覧表",
+        "format": "CSV",
+        "url": "http://www.senkyo.metro.tokyo.jp/uploads/shuugiin-teisuu-list.csv",
+        "cache_last_updated": null,
+        "package_id": "d9458be5-1a03-4c3a-9b81-1602f2fef680",
+        "created": "2018-10-14T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-10-14T15:00:00",
+        "position": 0,
+        "revision_id": "9a055623-295b-4fde-8726-0a82bcd8ad1e",
+        "url_type": null,
+        "id": "697768df-e3d4-4153-b0da-5f383f1f61c5",
+        "resource_type": null,
+        "size": 11264
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.senkyo.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:22.908491",
+      "title": "東京都選挙管理委員会事務局",
+      "name": "t000023",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "51e026be-6d4c-43bd-ae76-d84805440a07",
+      "type": "organization",
+      "id": "86f1375a-d3c8-4eef-9df0-c4864ee7e3af",
+      "approval_status": "approved"
+    },
+    "name": "t000023d1800000002",
+    "isopen": true,
+    "url": "http://www.senkyo.metro.tokyo.jp/election/kakushu-teisuu/",
+    "notes": "【東京都選挙管理委員会事務局】",
+    "owner_org": "86f1375a-d3c8-4eef-9df0-c4864ee7e3af",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "衆議院（小選挙区選出）議員の選挙区一覧表",
+    "revision_id": "2cdc48a8-868c-47e3-b498-0ddaf2b8c050"
+  }
+}

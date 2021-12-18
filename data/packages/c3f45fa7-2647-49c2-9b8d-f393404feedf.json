@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "子ども家庭部子育て支援課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "c3f45fa7-2647-49c2-9b8d-f393404feedf",
+    "metadata_created": "2019-11-01T04:56:50.573159",
+    "metadata_modified": "2019-11-01T09:36:22.116968",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "文京区のキッズルーム（一時保育）の一覧です。（EXCELファイル）",
+        "name": "キッズルーム（一時保育）",
+        "format": "XLSX",
+        "url": "https://www.city.bunkyo.lg.jp/library/opendata-bunkyo/02kosodate-kyouiku/08kidsroom/kidsroom.xlsx",
+        "cache_last_updated": null,
+        "package_id": "c3f45fa7-2647-49c2-9b8d-f393404feedf",
+        "created": "2017-11-06T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-11-06T15:00:00",
+        "position": 0,
+        "revision_id": "fd6ed9b7-3a36-45c4-87b8-3eb965ba701d",
+        "url_type": null,
+        "id": "9bd08f66-d139-4312-be20-7758b6f0a801",
+        "resource_type": null,
+        "size": 12288
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "文京区のキッズルーム（一時保育）の一覧です。（CSVファイル）",
+        "name": "キッズルーム（一時保育）",
+        "format": "CSV",
+        "url": "https://www.city.bunkyo.lg.jp/library/opendata-bunkyo/02kosodate-kyouiku/08kidsroom/kidsroom.csv",
+        "cache_last_updated": null,
+        "package_id": "c3f45fa7-2647-49c2-9b8d-f393404feedf",
+        "created": "2017-11-06T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-11-06T15:00:00",
+        "position": 1,
+        "revision_id": "fe54347a-2a5e-4629-8245-243d16953e53",
+        "url_type": null,
+        "id": "97b0e2d6-ef50-4959-9b0b-df6c8e2dd410",
+        "resource_type": null,
+        "size": 2048
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "人口減少・少子高齢化",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c004.png",
+        "title": "人口減少・少子高齢化",
+        "id": "802d7d18-3543-4e8b-a8f5-82b5f1aa752e",
+        "name": "c004"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.bunkyo.lg.jp/",
+      "created": "2019-11-01T03:27:24.573898",
+      "title": "文京区",
+      "name": "t131059",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131059.png",
+      "revision_id": "66ab70ed-369f-4eda-b72a-eacf3f7c8095",
+      "type": "organization",
+      "id": "201cae13-e069-464e-b376-1da3ce968538",
+      "approval_status": "approved"
+    },
+    "name": "t131059d0206070002",
+    "isopen": true,
+    "url": "http://www.city.bunkyo.lg.jp/kyoiku/kosodate/okosan/ichijiteki/kidsroom.html",
+    "notes": "【文京区】　文京区のキッズルーム（一時保育）の一覧です。",
+    "owner_org": "201cae13-e069-464e-b376-1da3ce968538",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "キッズルーム（一時保育）",
+    "revision_id": "2d2eceba-e09b-416a-8010-ba987aa1c5b3"
+  }
+}

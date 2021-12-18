@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "障害者施策推進部計画課社会参加推進担当（扶養共済担当）",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "a239c6e9-800d-4e80-bf87-8448f921c081",
+    "metadata_created": "2019-11-01T04:54:32.177393",
+    "metadata_modified": "2019-11-01T06:11:02.741604",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "月額掛金一覧（平成20年4月1日現在）",
+        "name": "月額掛金一覧（平成20年4月1日現在）",
+        "format": "CSV",
+        "url": "http://www.fukushihoken.metro.tokyo.jp/shougai/shougai_shisaku/fuyokyosai/fuyokyosai.files/fuyokyosai_01.csv",
+        "cache_last_updated": null,
+        "package_id": "a239c6e9-800d-4e80-bf87-8448f921c081",
+        "created": "2019-03-28T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-03-28T15:00:00",
+        "position": 0,
+        "revision_id": "82d245e7-bfb7-42d3-bbd4-86d5c2088288",
+        "url_type": null,
+        "id": "bc766a19-6990-4070-8a98-12afd88bbfc6",
+        "resource_type": null,
+        "size": 1024
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "医療・福祉",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c005.png",
+        "title": "医療・福祉",
+        "id": "0d3cd956-612c-45c5-b1ee-75c1a5835c0e",
+        "name": "c005"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.fukushihoken.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.864364",
+      "title": "東京都福祉保健局",
+      "name": "t000010",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000010.jpg",
+      "revision_id": "8d3da6a9-bfe7-4cd1-9d5d-9737b2293939",
+      "type": "organization",
+      "id": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+      "approval_status": "approved"
+    },
+    "name": "t000010d1800000037",
+    "isopen": true,
+    "url": "http://www.fukushihoken.metro.tokyo.jp/shougai/shougai_shisaku/fuyokyosai/fuyokyosai.html",
+    "notes": "【東京都福祉保健局】",
+    "owner_org": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "東京都心身障害者扶養共済制度について",
+    "revision_id": "034bc74a-3b57-4b9b-a57c-0b090cff3cfb"
+  }
+}

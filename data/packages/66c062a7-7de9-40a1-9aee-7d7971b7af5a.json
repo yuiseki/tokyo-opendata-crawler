@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "都市づくり政策部都市計画課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "66c062a7-7de9-40a1-9aee-7d7971b7af5a",
+    "metadata_created": "2019-11-01T04:53:36.053616",
+    "metadata_modified": "2019-11-01T05:49:30.620232",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "委員の構成",
+        "format": "CSV",
+        "url": "http://www.toshiseibi.metro.tokyo.jp/keikaku/shingikai/data/aramashi.csv",
+        "cache_last_updated": null,
+        "package_id": "66c062a7-7de9-40a1-9aee-7d7971b7af5a",
+        "created": "2019-01-21T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-01-21T15:00:00",
+        "position": 0,
+        "revision_id": "0807a245-32f6-454f-bd7d-33f024c4d5e7",
+        "url_type": null,
+        "id": "c39147cf-dabe-4ae5-a533-d278836afb86",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "まちづくり",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c003.png",
+        "title": "まちづくり",
+        "id": "dc897c44-8153-4219-bfeb-6110fb85fb99",
+        "name": "c003"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.toshiseibi.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.560358",
+      "title": "東京都都市整備局",
+      "name": "t000008",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "9c234f0e-ff7d-4e2d-8ba4-ea80f312405b",
+      "type": "organization",
+      "id": "16d81025-a2ca-4002-8129-9906c94a4732",
+      "approval_status": "approved"
+    },
+    "name": "t000008d1800000017",
+    "isopen": true,
+    "url": "http://www.toshiseibi.metro.tokyo.jp/keikaku/shingikai/index.html",
+    "notes": "【東京都都市整備局】",
+    "owner_org": "16d81025-a2ca-4002-8129-9906c94a4732",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "東京都都市計画審議会　審議会のあらまし",
+    "revision_id": "6b5a2b7a-ecaf-4fca-aff5-73b9dd1fef4d"
+  }
+}

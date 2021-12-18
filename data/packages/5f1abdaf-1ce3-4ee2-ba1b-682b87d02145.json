@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "東京都財務局",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "5f1abdaf-1ce3-4ee2-ba1b-682b87d02145",
+    "metadata_created": "2021-06-30T02:56:52.755902",
+    "metadata_modified": "2021-06-30T02:57:05.759279",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "一般会計費目別現在高調",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/zaimu/R3/genzaidakasirabe_4_27.csv",
+        "cache_last_updated": null,
+        "package_id": "5f1abdaf-1ce3-4ee2-ba1b-682b87d02145",
+        "created": "2021-01-04T02:13:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-01-04T02:13:00",
+        "position": 0,
+        "revision_id": "f7e2103f-176a-49a5-b32e-0b9fc3f64322",
+        "url_type": null,
+        "id": "187f994f-20b0-4b47-a896-9b9f38d08034",
+        "resource_type": null,
+        "size": 431
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.zaimu.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:19.930633",
+      "title": "東京都財務局",
+      "name": "t000004",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000004.png",
+      "revision_id": "01005f89-2b3c-4cb8-be76-7d28c31f9529",
+      "type": "organization",
+      "id": "e93fd59b-c22c-4c42-8074-368082fec915",
+      "approval_status": "approved"
+    },
+    "name": "t000004d2000000013",
+    "isopen": true,
+    "url": "http://www.zaimu.metro.tokyo.jp/bond/tosai_ir/ir/tosaiitiran27/4_27himokubetu.xlsx",
+    "notes": "",
+    "owner_org": "e93fd59b-c22c-4c42-8074-368082fec915",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "IRライブラリー_一般会計費目別現在高調 Excel:11KB",
+    "revision_id": "f68e3444-60ce-4f7d-849f-c5b21bc391b5"
+  }
+}

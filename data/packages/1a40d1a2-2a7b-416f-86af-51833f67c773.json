@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "東京都福祉保健局健康安全部 健康安全課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "1a40d1a2-2a7b-416f-86af-51833f67c773",
+    "metadata_created": "2021-05-21T01:39:42.433467",
+    "metadata_modified": "2021-05-21T01:41:46.102797",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "2　実施結果",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/fukushihoken/R3/jisshikekka.csv",
+        "cache_last_updated": null,
+        "package_id": "1a40d1a2-2a7b-416f-86af-51833f67c773",
+        "created": "2021-03-01T06:47:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-03-01T06:47:00",
+        "position": 0,
+        "revision_id": "77ebd810-b140-4807-aff0-f74b3b19a8a6",
+        "url_type": null,
+        "id": "224a981e-0aed-4561-a543-cb988e17c369",
+        "resource_type": null,
+        "size": 102
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.fukushihoken.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.864364",
+      "title": "東京都福祉保健局",
+      "name": "t000010",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000010.jpg",
+      "revision_id": "8d3da6a9-bfe7-4cd1-9d5d-9737b2293939",
+      "type": "organization",
+      "id": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+      "approval_status": "approved"
+    },
+    "name": "t000010d2000000116",
+    "isopen": true,
+    "url": "http://www.fukushihoken.metro.tokyo.jp/kenkou/shikaku/csh_menkyo/hugu/fugu_gokaku.html",
+    "notes": "",
+    "owner_org": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "ふぐ調理師免許と試験_平成29年度東京都ふぐ調理師試験合格発表",
+    "revision_id": "68e0dbb1-8e58-4c3e-a227-fa41583d7a0e"
+  }
+}

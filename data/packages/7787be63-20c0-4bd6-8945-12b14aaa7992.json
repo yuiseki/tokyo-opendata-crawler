@@ -1,0 +1,114 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "土木管理課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "7787be63-20c0-4bd6-8945-12b14aaa7992",
+    "metadata_created": "2021-07-06T05:01:06.401184",
+    "metadata_modified": "2021-07-06T05:01:34.215497",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "自転車駐車場（令和2年4月1日時点）",
+        "format": "CSV",
+        "url": "https://www.city.sumida.lg.jp/kuseijoho/sumida_info/opendata/opendata_ichiran/bicycle_data.files/bicycle_20200401.csv",
+        "cache_last_updated": null,
+        "package_id": "7787be63-20c0-4bd6-8945-12b14aaa7992",
+        "created": "2020-03-31T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2020-03-31T15:00:00",
+        "position": 0,
+        "revision_id": "f8343a17-7b5d-4fb0-b144-b6d4b2b9ac32",
+        "url_type": null,
+        "id": "8950a0ba-9d5a-46db-930b-6b11c882e12c",
+        "resource_type": null,
+        "size": 1024
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "自転車駐車場（平成27年10月29日時点）",
+        "format": "CSV",
+        "url": "https://www.city.sumida.lg.jp/kuseijoho/sumida_info/opendata/opendata_ichiran/bicycle_data.files/bicycle_20151029.csv",
+        "cache_last_updated": null,
+        "package_id": "7787be63-20c0-4bd6-8945-12b14aaa7992",
+        "created": "2015-10-28T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2015-10-28T15:00:00",
+        "position": 1,
+        "revision_id": "52ecbe3d-db8a-4dce-859e-61fbfa6b31d0",
+        "url_type": null,
+        "id": "778b6ff9-2430-4653-8655-b45ca39147c0",
+        "resource_type": null,
+        "size": 2048
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "交通情報",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c013.png",
+        "title": "交通情報",
+        "id": "38323541-753d-4230-b2dd-d9eb367ae5ed",
+        "name": "c013"
+      },
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.sumida.lg.jp/",
+      "created": "2021-07-05T23:44:42.617923",
+      "title": "墨田区",
+      "name": "t131075",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "f67005c0-e31a-47df-87af-cf1859f3e09b",
+      "type": "organization",
+      "id": "724ce337-ffb8-4df6-8c3c-eb302e46f786",
+      "approval_status": "approved"
+    },
+    "name": "t131075d0000000114",
+    "isopen": true,
+    "url": "https://www.city.sumida.lg.jp/kuseijoho/sumida_info/opendata/opendata_ichiran/bicycle_data.html",
+    "notes": "【墨田区】区内の自転車駐車場（駐輪場）の一覧です。",
+    "owner_org": "724ce337-ffb8-4df6-8c3c-eb302e46f786",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "自転車駐車場",
+    "revision_id": "049db5e8-5518-4e49-bc04-b089fcd66d8e"
+  }
+}

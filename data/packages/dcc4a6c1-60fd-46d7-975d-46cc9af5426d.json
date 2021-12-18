@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "サービス推進部事業支援課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "dcc4a6c1-60fd-46d7-975d-46cc9af5426d",
+    "metadata_created": "2019-11-01T04:54:37.294134",
+    "metadata_modified": "2019-11-01T06:11:49.613729",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "都立病院の住所、電話番号及び診療科（EXCELファイル）",
+        "format": "XLSX",
+        "url": "http://www.opendata.metro.tokyo.jp/2016mar/026_toritsu_hospital.xlsx",
+        "cache_last_updated": null,
+        "package_id": "dcc4a6c1-60fd-46d7-975d-46cc9af5426d",
+        "created": "2017-07-09T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-07-09T15:00:00",
+        "position": 0,
+        "revision_id": "6bfff853-f34d-4d96-8ded-cc573175effc",
+        "url_type": null,
+        "id": "99f83ee6-3611-4acf-aa36-d314b35ba9fa",
+        "resource_type": null,
+        "size": 11264
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "都立病院の住所、電話番号及び診療科（CSVファイル）",
+        "format": "CSV",
+        "url": "http://www.opendata.metro.tokyo.jp/2017July/toritubyouinnosinryoukameitiran.csv",
+        "cache_last_updated": null,
+        "package_id": "dcc4a6c1-60fd-46d7-975d-46cc9af5426d",
+        "created": "2017-07-09T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-07-09T15:00:00",
+        "position": 1,
+        "revision_id": "20cfc070-1ce9-41ae-b1df-62b7513d530d",
+        "url_type": null,
+        "id": "8ae7fdea-6869-4225-8a8e-f4ead1dcb4fa",
+        "resource_type": null,
+        "size": 4096
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "医療・福祉",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c005.png",
+        "title": "医療・福祉",
+        "id": "0d3cd956-612c-45c5-b1ee-75c1a5835c0e",
+        "name": "c005"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.byouin.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:21.016626",
+      "title": "東京都病院経営本部",
+      "name": "t000011",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000011.png",
+      "revision_id": "77340b90-8479-4008-bb88-d62c96ed0980",
+      "type": "organization",
+      "id": "d9a3e421-d822-4377-83e8-30729a913e81",
+      "approval_status": "approved"
+    },
+    "name": "t000011d0000000001",
+    "isopen": true,
+    "url": "",
+    "notes": "【東京都病院経営本部】　都立病院の住所、電話番号及び診療科",
+    "owner_org": "d9a3e421-d822-4377-83e8-30729a913e81",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "都立病院の診療科目一覧",
+    "revision_id": "a274d056-f426-4cc4-ba91-cae7a1fae882"
+  }
+}

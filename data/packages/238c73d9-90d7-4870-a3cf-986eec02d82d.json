@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "市街地建築部建築企画課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "238c73d9-90d7-4870-a3cf-986eec02d82d",
+    "metadata_created": "2020-05-29T07:48:10.907211",
+    "owner_org": "16d81025-a2ca-4002-8129-9906c94a4732",
+    "metadata_modified": "2020-05-29T07:48:25.511771",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "建設地が23区内及び島しょの場合の問い合わせ先です。",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/toshiseibi/h31/otoiawase_23ku_tousyo.csv",
+        "created": "2020-03-30T15:00:00",
+        "state": "active",
+        "package_id": "238c73d9-90d7-4870-a3cf-986eec02d82d",
+        "last_modified": "2020-03-30T15:00:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "6149ecbe-b4f2-40eb-a5e1-955e7cc9946a",
+        "size": null,
+        "id": "96788657-b267-46df-a3de-1de283978431",
+        "resource_type": null,
+        "name": "建設地が23区内及び島しょ"
+      },
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "建設地が市町の場合の問い合わせ先です。",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/toshiseibi/h31/otoiawase_sityou.csv",
+        "created": "2020-03-30T15:00:00",
+        "state": "active",
+        "package_id": "238c73d9-90d7-4870-a3cf-986eec02d82d",
+        "last_modified": "2020-03-30T15:00:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 1,
+        "revision_id": "f1c21137-116a-4280-be3e-d9d751dac242",
+        "size": null,
+        "id": "1e065c3a-f9b9-4086-b1af-835fd15a4db7",
+        "resource_type": null,
+        "name": "建設地が市町"
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "まちづくり",
+        "description": "",
+        "title": "まちづくり",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c003.png",
+        "id": "dc897c44-8153-4219-bfeb-6110fb85fb99",
+        "name": "c003"
+      }
+    ],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t000008d1900000009",
+    "isopen": true,
+    "url": "http://www.toshiseibi.metro.tokyo.jp/bunyabetsu/kenchiku_kaihatsu/gyosei.html",
+    "notes": "【東京都都市整備局】建築基準法に関する情報の紹介です。",
+    "title": "建築行政　建築基準法",
+    "extras": [
+      {
+        "value": "不定期",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "http://www.toshiseibi.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "title": "東京都都市整備局",
+      "created": "2019-11-01T03:27:20.560358",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "9c234f0e-ff7d-4e2d-8ba4-ea80f312405b",
+      "type": "organization",
+      "id": "16d81025-a2ca-4002-8129-9906c94a4732",
+      "name": "t000008"
+    },
+    "revision_id": "0b746a21-bef2-4f84-be2d-9bb14e5e1725"
+  }
+}

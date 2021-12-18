@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "防災課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "99eda63c-6309-45b6-b918-0596f0cb734c",
+    "metadata_created": "2021-07-06T05:01:02.325161",
+    "metadata_modified": "2021-07-06T05:01:20.332646",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "一時集合場所、避難場所、避難所一覧（令和2年3月16日時点）",
+        "format": "CSV",
+        "url": "https://www.city.sumida.lg.jp/kuseijoho/sumida_info/opendata/opendata_ichiran/bosai_data/hinan_data.files/hinan_20200316.csv",
+        "cache_last_updated": null,
+        "package_id": "99eda63c-6309-45b6-b918-0596f0cb734c",
+        "created": "2020-03-15T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2020-03-15T15:00:00",
+        "position": 0,
+        "revision_id": "445b9948-2952-4de8-b10d-252e22d13ca1",
+        "url_type": null,
+        "id": "82f12bf6-e04f-4299-b63f-25b2b793696f",
+        "resource_type": null,
+        "size": 15360
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "一時集合場所、避難場所、避難所一覧（平成27年10月29日時点）",
+        "format": "CSV",
+        "url": "https://www.city.sumida.lg.jp/kuseijoho/sumida_info/opendata/opendata_ichiran/bosai_data/hinan_data.files/hinan_20151029.csv",
+        "cache_last_updated": null,
+        "package_id": "99eda63c-6309-45b6-b918-0596f0cb734c",
+        "created": "2015-10-28T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2015-10-28T15:00:00",
+        "position": 1,
+        "revision_id": "715b429f-b0d7-4224-a688-d95c63172f9f",
+        "url_type": null,
+        "id": "70697430-f056-45c5-8f37-3c856bb4daf6",
+        "resource_type": null,
+        "size": 15360
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "防災・災害計画",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c001.png",
+        "title": "防災・災害計画",
+        "id": "8eb52f8e-0d10-44f4-8bb4-2a488d0f8465",
+        "name": "c001"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.sumida.lg.jp/",
+      "created": "2021-07-05T23:44:42.617923",
+      "title": "墨田区",
+      "name": "t131075",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "f67005c0-e31a-47df-87af-cf1859f3e09b",
+      "type": "organization",
+      "id": "724ce337-ffb8-4df6-8c3c-eb302e46f786",
+      "approval_status": "approved"
+    },
+    "name": "t131075d0000000101",
+    "isopen": true,
+    "url": "https://www.city.sumida.lg.jp/kuseijoho/sumida_info/opendata/opendata_ichiran/bosai_data/hinan_data.html",
+    "notes": "【墨田区】一時集合場所、避難場所、避難所の一覧です。",
+    "owner_org": "724ce337-ffb8-4df6-8c3c-eb302e46f786",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "一時集合場所、避難場所、避難所一覧",
+    "revision_id": "01a12274-b6da-4ded-86f8-73fbebbc8059"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "人事第一課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "ac8ccef0-afdc-4c45-909c-32c7f33b9a61",
+    "metadata_created": "2020-06-26T06:20:59.884721",
+    "owner_org": "a80c46c5-d236-4d83-b4f9-656c25d0847d",
+    "metadata_modified": "2020-06-26T06:22:14.055894",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "17_jyosei_01.csv　採用試験受験者における女性割合\n\n17_jyosei_02.csv　採用した職員に占める女性職員の割合\n\n17_jyosei_03.csv　条例定員に占める女性職員の割合\n\n17_jyosei_04.csv　管理職に占める女性職員の割合\n\n17_jyosei_05.csv　警部・同相当職以上の階級に占める女性職員の割合\n\n17_jyosei_06.csv　約10年前に採用した職員の男女別継続任用割合\n\n17_jyosei_07.csv　男女別育児休業取得率\n\n17_jyosei_08.csv　出産支援休暇の取得率\n\n17_jyosei_09.csv　育児参加休暇の取得率\n\n17_jyosei_10.csv　職員一人当たりの年次有給休暇取得日数\n\n17_jyosei_11.csv　職員一人当たりの超過勤務時間（月平均）  \n\nなお、ZIPファイル内には一覧表となるテキストファイル1種を含みます。\n",
+        "format": "ZIP",
+        "url": "https://www.keishicho.metro.tokyo.jp/about_mpd/shokai/women/index.files/17_jyosei.zip",
+        "created": "2018-02-18T15:00:00",
+        "state": "active",
+        "package_id": "ac8ccef0-afdc-4c45-909c-32c7f33b9a61",
+        "last_modified": "2018-02-18T15:00:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "ca7699dc-f685-4451-b7aa-8ba281ad4ef2",
+        "size": 2048,
+        "id": "79c87f98-8b9c-42d8-b7e7-ba70f308ea3d",
+        "resource_type": null,
+        "name": "女性活躍推進法第17条に基づく女性の職業選択に資する情報の公表（CSVファイル11種）"
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "治安",
+        "description": "",
+        "title": "治安",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c002.png",
+        "id": "de8273ac-2339-4309-ad15-2800b751b45e",
+        "name": "c002"
+      },
+      {
+        "display_name": "産業雇用創出",
+        "description": "",
+        "title": "産業雇用創出",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c011.png",
+        "id": "bb1c42ce-dc7e-48cf-91d4-05cab59db4bd",
+        "name": "c011"
+      }
+    ],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t000022d1700000025",
+    "isopen": true,
+    "url": "https://www.keishicho.metro.tokyo.jp/about_mpd/shokai/women/index.html",
+    "notes": "【警視庁】　女性活躍推進法第17条に基づく女性の職業選択に資する情報の公表（CSVファイル11種）",
+    "title": "警視庁における女性の活躍推進に向けた取組　女性活躍推進法第17条に基づく女性の職業選択に資する情報の公表",
+    "extras": [
+      {
+        "value": "毎年7月頃更新",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "http://www.keishicho.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "title": "警視庁",
+      "created": "2019-11-01T03:27:22.754561",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000022.jpg",
+      "revision_id": "6ec2a37b-87b3-4747-ac28-2a6800716699",
+      "type": "organization",
+      "id": "a80c46c5-d236-4d83-b4f9-656c25d0847d",
+      "name": "t000022"
+    },
+    "revision_id": "716c46b0-321f-4bb8-9943-7183c711f530"
+  }
+}

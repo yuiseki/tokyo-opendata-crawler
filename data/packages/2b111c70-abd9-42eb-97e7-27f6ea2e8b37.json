@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "総務部防災課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "2b111c70-abd9-42eb-97e7-27f6ea2e8b37",
+    "metadata_created": "2019-11-01T04:56:54.115624",
+    "metadata_modified": "2019-11-01T09:35:59.088968",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "文京区の避難所・緊急避難場所の一覧です。（EXCELファイル）",
+        "name": "緊急避難場所・避難所",
+        "format": "XLSX",
+        "url": "https://www.city.bunkyo.lg.jp/library/opendata-bunkyo/05bousai-macidukuri-kankyou/01kinkyuhinanbasyo-hinanjo/kinkyuhinanbasyo-hinanjo.xlsx",
+        "cache_last_updated": null,
+        "package_id": "2b111c70-abd9-42eb-97e7-27f6ea2e8b37",
+        "created": "2017-11-06T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-11-06T15:00:00",
+        "position": 0,
+        "revision_id": "286ed6e0-5b69-4792-8513-a7651c174542",
+        "url_type": null,
+        "id": "ffda863f-9daa-45f3-9e47-872862e4ec87",
+        "resource_type": null,
+        "size": 17408
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "文京区の避難所・緊急避難場所の一覧です。（CSVファイル）",
+        "name": "緊急避難場所・避難所",
+        "format": "CSV",
+        "url": "https://www.city.bunkyo.lg.jp/library/opendata-bunkyo/05bousai-macidukuri-kankyou/01kinkyuhinanbasyo-hinanjo/kinkyuhinanbasyo-hinanjo.csv",
+        "cache_last_updated": null,
+        "package_id": "2b111c70-abd9-42eb-97e7-27f6ea2e8b37",
+        "created": "2017-11-06T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-11-06T15:00:00",
+        "position": 1,
+        "revision_id": "8124d8a9-5db4-49d3-aa2a-38a9c07e7993",
+        "url_type": null,
+        "id": "f9065927-0952-4138-a3b7-cce1562c315c",
+        "resource_type": null,
+        "size": 9216
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "防災・災害計画",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c001.png",
+        "title": "防災・災害計画",
+        "id": "8eb52f8e-0d10-44f4-8bb4-2a488d0f8465",
+        "name": "c001"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.bunkyo.lg.jp/",
+      "created": "2019-11-01T03:27:24.573898",
+      "title": "文京区",
+      "name": "t131059",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131059.png",
+      "revision_id": "66ab70ed-369f-4eda-b72a-eacf3f7c8095",
+      "type": "organization",
+      "id": "201cae13-e069-464e-b376-1da3ce968538",
+      "approval_status": "approved"
+    },
+    "name": "t131059d0502060001",
+    "isopen": true,
+    "url": "",
+    "notes": "【文京区】　文京区の避難所・緊急避難場所の一覧です。",
+    "owner_org": "201cae13-e069-464e-b376-1da3ce968538",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "緊急避難場所・避難所",
+    "revision_id": "121142fe-be4b-485b-a891-0570b0932238"
+  }
+}

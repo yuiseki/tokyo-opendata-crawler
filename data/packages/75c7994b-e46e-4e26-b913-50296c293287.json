@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "健康安全部感染症対策課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "75c7994b-e46e-4e26-b913-50296c293287",
+    "metadata_created": "2019-11-01T04:54:34.646255",
+    "metadata_modified": "2019-11-01T06:11:36.348466",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "東京都ワクチン接種緊急促進基金の活用実績（平成２４年度）",
+        "format": "CSV",
+        "url": "http://www.fukushihoken.metro.tokyo.jp/iryo/kansen/sikyukeigantou.files/24_1.csv",
+        "cache_last_updated": null,
+        "package_id": "75c7994b-e46e-4e26-b913-50296c293287",
+        "created": "2019-06-24T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-06-24T15:00:00",
+        "position": 0,
+        "revision_id": "f7ffe610-4f0f-443d-83d3-971ebd483428",
+        "url_type": null,
+        "id": "a66a9514-0868-4289-83d8-613d22a3dee9",
+        "resource_type": null,
+        "size": 1024
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "ワクチン接種実績（平成２４年度）",
+        "format": "CSV",
+        "url": "http://www.fukushihoken.metro.tokyo.jp/iryo/kansen/sikyukeigantou.files/24_2.csv",
+        "cache_last_updated": null,
+        "package_id": "75c7994b-e46e-4e26-b913-50296c293287",
+        "created": "2019-06-24T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-06-24T15:00:00",
+        "position": 1,
+        "revision_id": "57b616d1-5b8c-48cd-a1e4-4c494798d2d4",
+        "url_type": null,
+        "id": "c83163d8-53c3-45f7-a6e1-83f5eefa6930",
+        "resource_type": null,
+        "size": 1024
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "医療・福祉",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c005.png",
+        "title": "医療・福祉",
+        "id": "0d3cd956-612c-45c5-b1ee-75c1a5835c0e",
+        "name": "c005"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.fukushihoken.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.864364",
+      "title": "東京都福祉保健局",
+      "name": "t000010",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000010.jpg",
+      "revision_id": "8d3da6a9-bfe7-4cd1-9d5d-9737b2293939",
+      "type": "organization",
+      "id": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+      "approval_status": "approved"
+    },
+    "name": "t000010d1800000048",
+    "isopen": true,
+    "url": "",
+    "notes": "【東京都福祉保健局】",
+    "owner_org": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "東京都子宮頸がん等ワクチン接種緊急促進臨時特例基金の活用実績（平成24年度）",
+    "revision_id": "21e0892f-e90d-4277-b478-65994b361db9"
+  }
+}

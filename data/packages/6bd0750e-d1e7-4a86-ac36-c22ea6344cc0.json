@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "総務部教育情報課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "6bd0750e-d1e7-4a86-ac36-c22ea6344cc0",
+    "metadata_created": "2019-11-01T04:55:55.321543",
+    "metadata_modified": "2019-11-01T08:29:07.785338",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "平成28年度公立中学校等卒業者（平成29年３月卒業）の進路状況調査結果",
+        "format": "CSV",
+        "url": "http://www.kyoiku.metro.tokyo.jp/press/press_release/2017/files/release20170713_02_csv/beppyou_1.csv",
+        "cache_last_updated": null,
+        "package_id": "6bd0750e-d1e7-4a86-ac36-c22ea6344cc0",
+        "created": "2018-03-29T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-03-29T15:00:00",
+        "position": 0,
+        "revision_id": "578557de-1aa2-4d60-8ea1-94c39d9d700e",
+        "url_type": null,
+        "id": "13f84511-e485-4675-b2cf-c8b02d883117",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "平成28年度公立中学校卒業者（平成29年３月卒業）の進路状況調査結果(抜粋）",
+        "format": "CSV",
+        "url": "http://www.kyoiku.metro.tokyo.jp/press/press_release/2017/files/release20170713_02_csv/pr170713b.html_1.csv",
+        "cache_last_updated": null,
+        "package_id": "6bd0750e-d1e7-4a86-ac36-c22ea6344cc0",
+        "created": "2018-03-29T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-03-29T15:00:00",
+        "position": 1,
+        "revision_id": "faf46d2b-52d1-45fd-ba9e-d3b059c8408b",
+        "url_type": null,
+        "id": "85d06c50-1241-4ca1-8474-05e4b59c35ed",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.kyoiku.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:22.598778",
+      "title": "東京都教育庁",
+      "name": "t000021",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000021.png",
+      "revision_id": "3b8eaba6-3e9c-4401-a703-dcd9d28741aa",
+      "type": "organization",
+      "id": "f510f5b2-b249-499d-a00f-440b1f646e13",
+      "approval_status": "approved"
+    },
+    "name": "t000021d1700000006",
+    "isopen": true,
+    "url": "http://www.kyoiku.metro.tokyo.jp/press/press_release/2017/release20170713_02.html",
+    "notes": "【東京都教育庁】",
+    "owner_org": "f510f5b2-b249-499d-a00f-440b1f646e13",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "1年ごと"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "平成28年度公立中学校等卒業者（平成29年3月卒業）の進路状況調査の結果（速報値）について",
+    "revision_id": "ca6cea31-085c-4655-b6ad-0fbff15da776"
+  }
+}

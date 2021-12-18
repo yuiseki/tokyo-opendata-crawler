@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "文化観光課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "14ce3ea1-ca4a-46d8-9d7d-b9cd98698fa5",
+    "metadata_created": "2021-08-04T08:18:06.252449",
+    "owner_org": "171b04bf-0e62-4eaf-b72b-1a9d0a7813e0",
+    "metadata_modified": "2021-08-04T08:18:22.292700",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "【江東区】観光施設一覧です。",
+        "format": "CSV",
+        "url": "https://www.city.koto.lg.jp/012105/documents/131083_kotocity_tourism.csv",
+        "created": "2019-04-02T15:00:00",
+        "state": "active",
+        "package_id": "14ce3ea1-ca4a-46d8-9d7d-b9cd98698fa5",
+        "last_modified": "2020-12-06T15:00:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "8182f05f-672c-4bee-b223-a4b5a3041399",
+        "size": 7168,
+        "id": "86607184-6eec-413d-88d7-494101fca221",
+        "resource_type": null,
+        "name": "観光施設一覧"
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "観光",
+        "description": "",
+        "title": "観光",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c008.png",
+        "id": "420fd8d6-2bde-4746-9354-6344ec19ba93",
+        "name": "c008"
+      }
+    ],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t131083d0000000003",
+    "isopen": true,
+    "url": "https://www.city.koto.lg.jp/",
+    "notes": "【江東区】観光施設一覧です。",
+    "title": "観光施設一覧",
+    "extras": [
+      {
+        "value": "随時",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "",
+      "title": "江東区",
+      "created": "2021-08-04T07:19:55.726720",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131083.png",
+      "revision_id": "92ccdda8-5410-4c2a-b31c-b3b2e2fc2fc7",
+      "type": "organization",
+      "id": "171b04bf-0e62-4eaf-b72b-1a9d0a7813e0",
+      "name": "t131083"
+    },
+    "revision_id": "8a127f2a-7208-4c6e-96d7-a0193cfb9c99"
+  }
+}

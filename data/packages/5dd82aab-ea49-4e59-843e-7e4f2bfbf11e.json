@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "都市づくり部土木担当交通対策課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "5dd82aab-ea49-4e59-843e-7e4f2bfbf11e",
+    "metadata_created": "2019-11-01T04:56:59.869349",
+    "metadata_modified": "2019-11-01T08:39:09.753036",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "駐車場の施設一覧です",
+        "name": "駐車場",
+        "format": "CSV",
+        "url": "http://www.city.taito.lg.jp/index/kusei/opendata/shisethutizujouhou.files/parking.csv",
+        "cache_last_updated": null,
+        "package_id": "5dd82aab-ea49-4e59-843e-7e4f2bfbf11e",
+        "created": "2017-06-18T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-06-18T15:00:00",
+        "position": 0,
+        "revision_id": "f6e968d8-850a-4c4f-9172-1d1c006fa8e0",
+        "url_type": null,
+        "id": "a10d9c1d-7009-4456-a5b8-90b76933db9f",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.taito.lg.jp/",
+      "created": "2019-11-01T03:27:24.733512",
+      "title": "台東区",
+      "name": "t131067",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131067.png",
+      "revision_id": "0166c313-a6d1-4eee-9282-f9bacc692e27",
+      "type": "organization",
+      "id": "72ddc2e3-f5ca-4fae-aca0-2e299cc0a94a",
+      "approval_status": "approved"
+    },
+    "name": "t131067d0000000021",
+    "isopen": true,
+    "url": "http://www.city.taito.lg.jp/index/shisetsu/kotu/index.html",
+    "notes": "【台東区】　台東区の駐車場の一覧です",
+    "owner_org": "72ddc2e3-f5ca-4fae-aca0-2e299cc0a94a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "駐車場",
+    "revision_id": "3087d5f9-1227-4639-bc43-e04be4ce4fc5"
+  }
+}

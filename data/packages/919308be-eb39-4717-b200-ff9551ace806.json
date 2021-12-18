@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "労働相談情報センター相談調査課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "919308be-eb39-4717-b200-ff9551ace806",
+    "metadata_created": "2019-11-01T04:54:39.489376",
+    "metadata_modified": "2019-11-01T06:12:14.587877",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "派遣労働に関する実態調査2014",
+        "format": "PDF",
+        "url": "http://www.sangyo-rodo.metro.tokyo.jp/toukei/pdf/roudou_jouken_26/pdf/all.pdf",
+        "cache_last_updated": null,
+        "package_id": "919308be-eb39-4717-b200-ff9551ace806",
+        "created": "2017-03-24T03:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-03-24T03:00:00",
+        "position": 0,
+        "revision_id": "01f848db-efb9-4e34-96c8-eeb02f91fcbf",
+        "url_type": null,
+        "id": "387a7675-e007-42f0-9412-542e1336ba84",
+        "resource_type": null,
+        "size": 6291456
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "産業雇用創出",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c011.png",
+        "title": "産業雇用創出",
+        "id": "bb1c42ce-dc7e-48cf-91d4-05cab59db4bd",
+        "name": "c011"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.sangyo-rodo.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:21.167827",
+      "title": "東京都産業労働局",
+      "name": "t000012",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "a8e9fbd3-ce2a-40ce-ae97-99bf0055157e",
+      "type": "organization",
+      "id": "1a30d830-0e5f-4e5a-acd1-e4189276b560",
+      "approval_status": "approved"
+    },
+    "name": "t000012d0000000004",
+    "isopen": true,
+    "url": "",
+    "notes": "【東京都産業労働局】　都内中小企業における雇用管理・労働条件の実態や労使の意識及び課題を把握するために、継続的に調査を行っています。",
+    "owner_org": "1a30d830-0e5f-4e5a-acd1-e4189276b560",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "派遣労働に関する実態調査2014",
+    "revision_id": "712a8c2a-79ff-4012-aea2-1db10e8d6550"
+  }
+}

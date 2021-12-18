@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "東京都福祉保健局高齢社会対策部　在宅支援課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "cedcc88a-3ebf-404a-bd15-784f2687a4e5",
+    "metadata_created": "2021-05-27T07:47:15.269937",
+    "metadata_modified": "2021-05-27T07:47:52.022318",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "東京都内 適合高齢者専用賃貸住宅 届出一覧",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/fukushihoken/R3/tekigouitiran.csv",
+        "cache_last_updated": null,
+        "package_id": "cedcc88a-3ebf-404a-bd15-784f2687a4e5",
+        "created": "2021-03-17T07:09:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-03-17T07:09:00",
+        "position": 0,
+        "revision_id": "c24e8a33-4606-449e-b162-fab32822adf5",
+        "url_type": null,
+        "id": "a7cf8893-f418-4413-b121-13602d9bcc7e",
+        "resource_type": null,
+        "size": 3922
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.fukushihoken.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.864364",
+      "title": "東京都福祉保健局",
+      "name": "t000010",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000010.jpg",
+      "revision_id": "8d3da6a9-bfe7-4cd1-9d5d-9737b2293939",
+      "type": "organization",
+      "id": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+      "approval_status": "approved"
+    },
+    "name": "t000010d2000000334",
+    "isopen": true,
+    "url": "http://www.fukushihoken.metro.tokyo.jp/kourei/jiritsu_shien/tekigou_tokutei/kyuutekigokosentin.files/tekigouitiran.pdf",
+    "notes": "",
+    "owner_org": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "旧（適合）高齢者専用賃貸住宅について_旧適合高齢者専用賃貸住宅一覧(平成24年3月31日まで経過措置あり）（PDF：86KB）",
+    "revision_id": "4538b516-49fb-434f-900f-1e642c44c47c"
+  }
+}

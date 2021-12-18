@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "教育委員会図書文化財課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "b84231f8-c576-496d-b94c-80e6f96769c8",
+    "metadata_created": "2020-03-17T01:43:13.056348",
+    "owner_org": "beddb482-adb4-4e03-9c25-f229c2a0b028",
+    "metadata_modified": "2021-08-19T00:04:26.281961",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "",
+        "format": "XLS",
+        "url": "https://www.city.chuo.lg.jp/kusei/statisticaldata/opendata.files/library.xls",
+        "created": "2018-02-08T15:00:00",
+        "state": "active",
+        "package_id": "b84231f8-c576-496d-b94c-80e6f96769c8",
+        "last_modified": "2021-01-08T15:00:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "307c3d00-d98a-47b1-9799-4d22f3c000cc",
+        "size": 24576,
+        "id": "12d0f546-b9f2-451d-a8f4-f2cbcc25238d",
+        "resource_type": null,
+        "name": "区立図書館"
+      },
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "",
+        "format": "CSV",
+        "url": "https://www.city.chuo.lg.jp/kusei/statisticaldata/opendata.files/library.csv",
+        "created": "2018-02-08T15:00:00",
+        "state": "active",
+        "package_id": "b84231f8-c576-496d-b94c-80e6f96769c8",
+        "last_modified": "2021-01-08T15:00:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 1,
+        "revision_id": "5398e572-1b99-4a14-9c20-c5ca15e07d27",
+        "size": 1024,
+        "id": "000f73eb-36ec-46a3-af45-345602281d1d",
+        "resource_type": null,
+        "name": "区立図書館"
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "芸術文化",
+        "description": "",
+        "title": "芸術文化",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c010.png",
+        "id": "9c1fb21f-bc27-401b-87b7-0fd44c13cc05",
+        "name": "c010"
+      }
+    ],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t131024d0000000009",
+    "isopen": true,
+    "url": "http://www.city.chuo.lg.jp/aboutweb/external_links/library.html",
+    "notes": "区内の図書館の名称や所在地、緯度、経度、施設情報（利用時間、蔵書数、座席数など）を掲載しています。",
+    "title": "区立図書館",
+    "extras": [
+      {
+        "value": "随時",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "https://www.city.chuo.lg.jp/",
+      "title": "中央区",
+      "created": "2020-03-16T08:15:28.901611",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131024.png",
+      "revision_id": "fd4c096b-7319-43d7-a1a4-d2411b6beaee",
+      "type": "organization",
+      "id": "beddb482-adb4-4e03-9c25-f229c2a0b028",
+      "name": "t131024"
+    },
+    "revision_id": "c37eae2b-09fc-4722-a2c0-c4e75a711cae"
+  }
+}

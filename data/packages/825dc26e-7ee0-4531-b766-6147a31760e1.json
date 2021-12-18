@@ -1,0 +1,178 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "政策企画局政策調整部政策調整課 ",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "num_tags": 0,
+    "id": "825dc26e-7ee0-4531-b766-6147a31760e1",
+    "metadata_created": "2020-05-11T07:34:34.676881",
+    "metadata_modified": "2021-12-17T01:07:13.614776",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": "",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "「東京都 新型コロナウイルス感染症 支援情報ナビ」(https://covid19.supportnavi.metro.tokyo.lg.jp/)で掲載している東京都の支援情報データです。\n\n※掲載時点の情報であり、「東京都 新型コロナウイルス感染症 支援情報ナビ」で公開中の最新情報と一部内容が異なる場合があります。\n\n※データのご利用にあたっては、「【東京都 新型コロナウイルス感染症 支援情報ナビ】データ項目説明資料」を参照してください。\n\n※2020年7月9日にデータ構造を変更しました。\n",
+        "name": "東京都 新型コロナウイルス感染症　支援情報",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/seisakukikaku/tokyo_covid19_supportnavi_202112161334.csv",
+        "cache_last_updated": null,
+        "package_id": "825dc26e-7ee0-4531-b766-6147a31760e1",
+        "created": "2021-12-16T04:34:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-12-16T04:34:00",
+        "position": 0,
+        "revision_id": "0697abca-dff5-48b4-9514-3d6213a61e28",
+        "url_type": null,
+        "id": "5d937e66-eef6-4625-9879-eb6dcb9e860a",
+        "resource_type": null,
+        "size": 237568
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "オープンデータ「東京都 新型コロナウイルス感染症 支援情報」（ＣＳＶ）のデータ項目説明資料です。データのご利用にあたっては、本資料を参照してください。\r\n\r\n\r\n\r\n※2020年7月9日にデータ構造を変更しました。\r\n",
+        "name": "【東京都 新型コロナウイルス感染症 支援情報ナビ】データ項目説明資料",
+        "format": "XLSX",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/seisakukikaku/description_tokyo_covid19_supportnavi_202007091300.xlsx",
+        "cache_last_updated": null,
+        "package_id": "825dc26e-7ee0-4531-b766-6147a31760e1",
+        "created": "2020-07-09T04:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2020-07-09T04:00:00",
+        "position": 1,
+        "revision_id": "0697abca-dff5-48b4-9514-3d6213a61e28",
+        "url_type": null,
+        "id": "c06f8cc2-1ac5-4f05-a8fd-abb63bd466a1",
+        "resource_type": null,
+        "size": 74752
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      },
+      {
+        "display_name": "まちづくり",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c003.png",
+        "title": "まちづくり",
+        "id": "dc897c44-8153-4219-bfeb-6110fb85fb99",
+        "name": "c003"
+      },
+      {
+        "display_name": "交通情報",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c013.png",
+        "title": "交通情報",
+        "id": "38323541-753d-4230-b2dd-d9eb367ae5ed",
+        "name": "c013"
+      },
+      {
+        "display_name": "医療・福祉",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c005.png",
+        "title": "医療・福祉",
+        "id": "0d3cd956-612c-45c5-b1ee-75c1a5835c0e",
+        "name": "c005"
+      },
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      },
+      {
+        "display_name": "産業雇用創出",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c011.png",
+        "title": "産業雇用創出",
+        "id": "bb1c42ce-dc7e-48cf-91d4-05cab59db4bd",
+        "name": "c011"
+      },
+      {
+        "display_name": "税金",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c007.png",
+        "title": "税金",
+        "id": "bb8a1d8b-5217-44c2-8eca-81addb671f0e",
+        "name": "c007"
+      },
+      {
+        "display_name": "芸術文化",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c010.png",
+        "title": "芸術文化",
+        "id": "9c1fb21f-bc27-401b-87b7-0fd44c13cc05",
+        "name": "c010"
+      },
+      {
+        "display_name": "観光",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c008.png",
+        "title": "観光",
+        "id": "420fd8d6-2bde-4746-9354-6344ec19ba93",
+        "name": "c008"
+      },
+      {
+        "display_name": "防災・災害計画",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c001.png",
+        "title": "防災・災害計画",
+        "id": "8eb52f8e-0d10-44f4-8bb4-2a488d0f8465",
+        "name": "c001"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.seisakukikaku.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:19.413788",
+      "title": "東京都政策企画局",
+      "name": "t000001",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "140d2bcb-5940-4e0d-891f-6e81b25262dc",
+      "type": "organization",
+      "id": "09e8691d-c608-44a3-a4c3-5299d806df10",
+      "approval_status": "approved"
+    },
+    "name": "t000001d0000000005",
+    "isopen": true,
+    "url": "https://covid19.supportnavi.metro.tokyo.lg.jp/",
+    "notes": "「東京都 新型コロナウイルス感染症 支援情報ナビ」(https://covid19.supportnavi.metro.tokyo.lg.jp/)で掲載している東京都の支援情報データです。\n\n※掲載時点の情報であり、「東京都 新型コロナウイルス感染症 支援情報ナビ」で公開中の最新情報と一部内容が異なる場合があります。\n\n※データのご利用にあたっては、「【東京都 新型コロナウイルス感染症 支援情報ナビ】データ項目説明資料」を参照してください。\n\n※2020年7月9日にデータ構造を変更しました。\n\n※「東京都　新型コロナウイルス感染症　支援情報ナビ」は、ソースコードをMITライセンスで公開しています。詳しくはこちら（https://covid19.supportnavi.metro.tokyo.lg.jp/about）をご覧ください。\n",
+    "owner_org": "09e8691d-c608-44a3-a4c3-5299d806df10",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "東京都　新型コロナウイルス感染症　支援情報",
+    "revision_id": "265f4c7d-02ed-48b9-becd-a7942eb1e17f"
+  }
+}

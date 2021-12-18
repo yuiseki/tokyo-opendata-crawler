@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "港湾整備部技術管理課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "cec64c77-fec2-4d3d-9a04-73ff4f000682",
+    "metadata_created": "2019-11-01T04:55:04.356270",
+    "metadata_modified": "2019-11-01T08:06:05.697440",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "水準基標測量成果表　平成28年",
+        "format": "CSV",
+        "url": "http://www.kouwan.metro.tokyo.jp/business/suijunkihyosokuryo28_1.csv",
+        "cache_last_updated": null,
+        "package_id": "cec64c77-fec2-4d3d-9a04-73ff4f000682",
+        "created": "2018-03-11T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-03-11T15:00:00",
+        "position": 0,
+        "revision_id": "c7097122-d95b-4445-91ce-eb939b2bcd25",
+        "url_type": null,
+        "id": "2bb32462-8329-4c1c-ade1-91376e096ff5",
+        "resource_type": null,
+        "size": 8192
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "環境",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c012.png",
+        "title": "環境",
+        "id": "427f3ee0-b28a-4fd2-b7dc-980507f154d2",
+        "name": "c012"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.kouwan.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:21.661622",
+      "title": "東京都港湾局",
+      "name": "t000015",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000015.jpg",
+      "revision_id": "0ae0b754-9704-453d-a632-4097dcdb2ebf",
+      "type": "organization",
+      "id": "4a51054b-f927-4a44-902b-889a0a1fa75d",
+      "approval_status": "approved"
+    },
+    "name": "t000015d1700000004",
+    "isopen": true,
+    "url": "http://www.kouwan.metro.tokyo.jp/business/keiyaku/kisojoho/index.html",
+    "notes": "【東京都港湾局】　",
+    "owner_org": "4a51054b-f927-4a44-902b-889a0a1fa75d",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "1年ごと"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "平成28年度水準基標測量結果",
+    "revision_id": "348d931e-31c7-46ba-9a50-b1d44863e8a9"
+  }
+}

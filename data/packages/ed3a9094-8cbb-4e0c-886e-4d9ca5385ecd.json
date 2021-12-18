@@ -1,0 +1,92 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "狛江市総務部総務課情報システム係",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "ed3a9094-8cbb-4e0c-886e-4d9ca5385ecd",
+    "metadata_created": "2019-11-01T04:58:57.770954",
+    "metadata_modified": "2020-01-29T05:15:03.101096",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "format": "CSV",
+        "url": "http://www.opendata.metro.tokyo.jp/suisyoudataset/132195_event.csv",
+        "cache_last_updated": null,
+        "package_id": "ed3a9094-8cbb-4e0c-886e-4d9ca5385ecd",
+        "name": "イベント一覧",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": null,
+        "position": 0,
+        "revision_id": "7867f018-0190-497e-938e-c0d7ccdbed33",
+        "url_type": null,
+        "id": "dcb9b90f-cb8f-410e-a45d-79966c50bca9",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      },
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.komae.tokyo.jp/index.cfm",
+      "created": "2019-11-01T03:27:27.255699",
+      "title": "狛江市",
+      "name": "t132195",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t132195.jpg",
+      "revision_id": "5667bf7a-a9aa-49fe-8c4f-816e0f2c87c9",
+      "type": "organization",
+      "id": "9a412230-d02b-48df-b6ed-77bd5df5802b",
+      "approval_status": "approved"
+    },
+    "name": "t132195d0000000001",
+    "isopen": true,
+    "url": "",
+    "notes": "【狛江市】狛江市が主催・共催するイベント情報の一覧です。",
+    "owner_org": "9a412230-d02b-48df-b6ed-77bd5df5802b",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "イベント一覧",
+    "revision_id": "80e12612-4fd4-4b63-a8cc-40450a8256e2"
+  }
+}

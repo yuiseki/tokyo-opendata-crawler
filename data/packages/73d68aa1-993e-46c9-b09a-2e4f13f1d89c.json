@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "都営交通お客様センター",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "73d68aa1-993e-46c9-b09a-2e4f13f1d89c",
+    "metadata_created": "2021-09-29T00:35:04.779011",
+    "metadata_modified": "2021-09-30T02:12:47.292897",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "《交通局について》 - [土木工事施工管理基準] H25.4土木工事施工管理基準",
+        "name": "H25.4土木工事施工管理基準",
+        "format": "PDF",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/kotsu/about/about_civil_administration_2_1.pdf",
+        "cache_last_updated": null,
+        "package_id": "73d68aa1-993e-46c9-b09a-2e4f13f1d89c",
+        "created": "2019-07-17T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-07-18T05:43:00",
+        "position": 0,
+        "revision_id": "a627776e-89d5-49f1-b8e9-ff19927bd379",
+        "url_type": null,
+        "id": "e70d5b15-6a60-46cd-a855-c8197221985b",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.kotsu.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:22.123863",
+      "title": "東京都交通局",
+      "name": "t000018",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "d47c06bd-1090-4a95-bea1-05d8261663a6",
+      "type": "organization",
+      "id": "058227fa-4a59-4028-a226-9eb858f9947a",
+      "approval_status": "approved"
+    },
+    "name": "t000018d0000000060",
+    "isopen": true,
+    "url": "https://www.kotsu.metro.tokyo.jp/about/contract/construction/civil_administration.html",
+    "notes": "【東京都交通局】土木工事施工管理基準",
+    "owner_org": "058227fa-4a59-4028-a226-9eb858f9947a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "土木工事施工管理基準",
+    "revision_id": "aba516ef-cdab-46e7-a172-65271188038f"
+  }
+}

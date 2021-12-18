@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "立川市産業文化スポーツ部産業観光課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "fe8adb7b-8b31-4dc4-91a9-0ac86d9c76bd",
+    "metadata_created": "2021-10-11T02:27:17.305074",
+    "metadata_modified": "2021-10-11T02:27:27.349694",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "中小企業勤労者福祉厚生資金の推移",
+        "format": "CSV",
+        "url": "https://www.city.tachikawa.lg.jp/somu/opendate/koukai/nennpou/jinnkou/documents/3tyuusyoukigyoukinrousyahukusikouseisikinnosuii.csv",
+        "cache_last_updated": null,
+        "package_id": "fe8adb7b-8b31-4dc4-91a9-0ac86d9c76bd",
+        "created": "2020-06-30T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2020-06-30T15:00:00",
+        "position": 0,
+        "revision_id": "13b93edf-1a1e-43af-8209-8923b0e39cc3",
+        "url_type": null,
+        "id": "85b757b0-f22b-4b79-b1e9-724d683ad1c6",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "中小企業勤労者福祉厚生資金の推移",
+        "format": "XLS",
+        "url": "https://www.city.tachikawa.lg.jp/somu/opendate/koukai/nennpou/jinnkou/documents/3-5-3chushokigyokinroushafukushikouseishikin.xlsx",
+        "cache_last_updated": null,
+        "package_id": "fe8adb7b-8b31-4dc4-91a9-0ac86d9c76bd",
+        "created": "2020-06-30T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2020-06-30T15:00:00",
+        "position": 1,
+        "revision_id": "e16c5e91-7b64-4137-bfb1-29da690b7f81",
+        "url_type": null,
+        "id": "8534100e-eec6-46e9-a312-8d98e02ca012",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "",
+      "created": "2021-09-21T02:50:23.993914",
+      "title": "立川市",
+      "name": "t132021",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t132021.png",
+      "revision_id": "8a86ddfe-ada6-4ad2-96a6-f108be8e73fe",
+      "type": "organization",
+      "id": "cc7a01da-dd01-4fb4-8fb9-5fb2b503c1ce",
+      "approval_status": "approved"
+    },
+    "name": "t132021d0000000016",
+    "isopen": true,
+    "url": "https://www.city.tachikawa.lg.jp/somu/opendate/koukai/nennpou/jinnkou/sangyou-kinnyuu.html",
+    "notes": "【立川市】立川市における中小企業勤労者向け福祉厚生資金の申込件数及び申込金額、貸付件数及び貸付金額の推移です。",
+    "owner_org": "cc7a01da-dd01-4fb4-8fb9-5fb2b503c1ce",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "立川市の中小企業勤労者福祉厚生資金の推移",
+    "revision_id": "fd409fb6-7b72-4002-a0b4-d42cb0d67948"
+  }
+}

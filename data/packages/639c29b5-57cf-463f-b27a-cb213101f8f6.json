@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "教育振興部教育政策課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "639c29b5-57cf-463f-b27a-cb213101f8f6",
+    "metadata_created": "2020-11-19T01:48:24.588876",
+    "metadata_modified": "2020-11-19T01:48:26.612918",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "【北区】北区の区立小学校の一覧です。",
+        "name": "区立小学校",
+        "format": "XLS",
+        "url": "https://www.city.kita.tokyo.jp/koho/opendata/documents/syougakkou-1.xlsx",
+        "cache_last_updated": null,
+        "package_id": "639c29b5-57cf-463f-b27a-cb213101f8f6",
+        "created": "2020-10-19T01:43:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2020-10-19T01:43:00",
+        "position": 0,
+        "revision_id": "b296eab4-8574-438d-9217-d8119a40c225",
+        "url_type": null,
+        "id": "e7a27e19-d83b-43cb-b915-3076c66de59a",
+        "resource_type": null,
+        "size": 14336
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "【北区】北区の区立小学校の一覧です。",
+        "name": "区立小学校",
+        "format": "CSV",
+        "url": "https://www.city.kita.tokyo.jp/koho/opendata/documents/syougakkou-2.csv",
+        "cache_last_updated": null,
+        "package_id": "639c29b5-57cf-463f-b27a-cb213101f8f6",
+        "created": "2020-10-19T02:37:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2020-10-19T02:37:00",
+        "position": 1,
+        "revision_id": "7887eb13-1722-4dee-a115-fc3b9cb2a328",
+        "url_type": null,
+        "id": "962672a5-49f7-4749-ab43-68ce9b6fc15d",
+        "resource_type": null,
+        "size": 4096
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "www.city.kita.tokyo.jp",
+      "created": "2019-11-01T03:27:25.516223",
+      "title": "北区",
+      "name": "t131172",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131172.jpg",
+      "revision_id": "581329b4-887b-48c7-9e69-2dd030791799",
+      "type": "organization",
+      "id": "ae2cce1f-9148-40a7-ae35-4f6314cf7bf3",
+      "approval_status": "approved"
+    },
+    "name": "t131172d0000000003",
+    "isopen": true,
+    "url": "https://www.city.kita.tokyo.jp/shisetsu/kosodate/index.html",
+    "notes": "【北区】　北区の区立小学校の一覧です。",
+    "owner_org": "ae2cce1f-9148-40a7-ae35-4f6314cf7bf3",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "区立小学校",
+    "revision_id": "729bad4b-78e3-4c19-be1c-b982182f3fcd"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "東京都財務局",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "420023ab-8987-46e1-a65a-ea146866f24e",
+    "metadata_created": "2021-06-30T02:56:53.610636",
+    "metadata_modified": "2021-06-30T02:57:06.847699",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "債券発行銘柄会計別充当状況",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/zaimu/R3/jyuutoujyoukyou_27.csv",
+        "cache_last_updated": null,
+        "package_id": "420023ab-8987-46e1-a65a-ea146866f24e",
+        "created": "2021-01-04T02:13:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-01-04T02:13:00",
+        "position": 0,
+        "revision_id": "08d1768e-c41b-4816-a16a-33f3901dc352",
+        "url_type": null,
+        "id": "37beca93-4fd7-4667-827c-efec546de793",
+        "resource_type": null,
+        "size": 21333
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.zaimu.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:19.930633",
+      "title": "東京都財務局",
+      "name": "t000004",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000004.png",
+      "revision_id": "01005f89-2b3c-4cb8-be76-7d28c31f9529",
+      "type": "organization",
+      "id": "e93fd59b-c22c-4c42-8074-368082fec915",
+      "approval_status": "approved"
+    },
+    "name": "t000004d2000000016",
+    "isopen": true,
+    "url": "http://www.zaimu.metro.tokyo.jp/bond/tosai_ir/ir/tosaiitiran27/7_27meigara.xlsx",
+    "notes": "",
+    "owner_org": "e93fd59b-c22c-4c42-8074-368082fec915",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "IRライブラリー_債券発行銘柄会計別充当状況 Excel:36KB",
+    "revision_id": "9f1fef1d-4879-49b7-9acc-6726847cb8fe"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "広報広聴担当",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "b25b8922-0f88-4a63-8ea0-8f37a87a346c",
+    "metadata_created": "2021-07-06T05:01:07.558099",
+    "metadata_modified": "2021-07-06T05:01:38.506009",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "第26回（令和2年）墨田区住民意識調査集計データ",
+        "format": "ZIP",
+        "url": "https://www.city.sumida.lg.jp/kuseijoho/sumida_info/houkokusyo/ishikityousa/r2/r2data.zip",
+        "cache_last_updated": null,
+        "package_id": "b25b8922-0f88-4a63-8ea0-8f37a87a346c",
+        "created": "2020-10-25T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2020-10-25T15:00:00",
+        "position": 0,
+        "revision_id": "5f63d666-863c-42c7-8d9e-1e8b5223710c",
+        "url_type": null,
+        "id": "f45a52c0-a138-46f5-80e4-fc618f82bff3",
+        "resource_type": null,
+        "size": 4204789
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "第25回（平成30年）墨田区住民意識調査集計データ",
+        "format": "ZIP",
+        "url": "https://www.city.sumida.lg.jp/kuseijoho/sumida_info/houkokusyo/ishikityousa/h30/h30data.zip",
+        "cache_last_updated": null,
+        "package_id": "b25b8922-0f88-4a63-8ea0-8f37a87a346c",
+        "created": "2018-10-02T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-10-02T15:00:00",
+        "position": 1,
+        "revision_id": "bdba3b5a-2c3b-404f-99a1-f0d0efb2b21d",
+        "url_type": null,
+        "id": "d324ec67-8dd8-4daa-9c5f-8e067271157f",
+        "resource_type": null,
+        "size": 4865392
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.sumida.lg.jp/",
+      "created": "2021-07-05T23:44:42.617923",
+      "title": "墨田区",
+      "name": "t131075",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "f67005c0-e31a-47df-87af-cf1859f3e09b",
+      "type": "organization",
+      "id": "724ce337-ffb8-4df6-8c3c-eb302e46f786",
+      "approval_status": "approved"
+    },
+    "name": "t131075d0000000118",
+    "isopen": true,
+    "url": "https://www.city.sumida.lg.jp/kuseijoho/sumida_info/opendata/opendata_ichiran/isikityousa.html",
+    "notes": "【墨田区】住民意識調査の集計データ（個票データ、単純集計表、クロス集計表）です。",
+    "owner_org": "724ce337-ffb8-4df6-8c3c-eb302e46f786",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "公開時のみ"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "住民意識調査集計データ",
+    "revision_id": "aaf7e407-0cba-450b-a566-fe83610535af"
+  }
+}

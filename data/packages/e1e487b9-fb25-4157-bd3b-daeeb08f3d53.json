@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "消費生活総合センター相談課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "e1e487b9-fb25-4157-bd3b-daeeb08f3d53",
+    "metadata_created": "2019-11-01T04:53:16.356921",
+    "metadata_modified": "2019-11-01T05:41:43.360383",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "１ 相談件数  \n\n２ 商品・役務別上位 10 位  \n\n３ 内容キーワード上位 10 位  \n\n４ 架空・不当請求に関する相談件数  \n\n５ 高齢者相談_(1)受付件数  \n\n５ 高齢者相談_(2)商品・役務別上位５位  \n\n６ 多重債務に関する相談件数 （CSVファイル7種） \n",
+        "name": "平成２９年度 消費生活相談の受付状況と傾向_[４月の東京都消費生活総合センター受付分] （CSVファイル7種） ",
+        "format": "ZIP",
+        "url": "https://www.shouhiseikatu.metro.tokyo.jp/sodan/tokei/documents/sodantokei_uketuke201704.zip",
+        "cache_last_updated": null,
+        "package_id": "e1e487b9-fb25-4157-bd3b-daeeb08f3d53",
+        "created": "2018-04-30T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-04-30T15:00:00",
+        "position": 0,
+        "revision_id": "c4ae64a2-01cc-4428-a38f-6afc368602d0",
+        "url_type": null,
+        "id": "eb740ad2-278a-4b93-a6a3-f82dbe655a50",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.seikatubunka.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.245320",
+      "title": "東京都生活文化局",
+      "name": "t000006",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "e09ebb81-026e-4a29-927c-3490964055ad",
+      "type": "organization",
+      "id": "3f65c30d-0809-4fc6-8f6c-82261b14152e",
+      "approval_status": "approved"
+    },
+    "name": "t000006d1700000001",
+    "isopen": true,
+    "url": "",
+    "notes": "【東京都生活文化局】東京都消費生活総合センターに寄せられた消費生活相談の毎月の受付状況と傾向を掲載しています。",
+    "owner_org": "3f65c30d-0809-4fc6-8f6c-82261b14152e",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "1か月ごと"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "消費生活相談の受付状況と傾向_平成29年度_4月",
+    "revision_id": "bb7e637b-8699-46ab-840f-5353d9a71c1e"
+  }
+}

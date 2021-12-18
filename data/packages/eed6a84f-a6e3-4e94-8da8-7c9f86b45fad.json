@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "生活安全総務課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "eed6a84f-a6e3-4e94-8da8-7c9f86b45fad",
+    "metadata_created": "2019-11-01T04:56:10.375269",
+    "owner_org": "a80c46c5-d236-4d83-b4f9-656c25d0847d",
+    "metadata_modified": "2021-06-17T01:23:00.900080",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "",
+        "format": "CSV",
+        "url": "https://www.keishicho.metro.tokyo.jp/about_mpd/jokyo_tokei/jokyo/ninchikensu.files/R2.csv",
+        "created": "2020-01-06T15:00:00",
+        "state": "active",
+        "package_id": "eed6a84f-a6e3-4e94-8da8-7c9f86b45fad",
+        "last_modified": "2020-01-06T15:00:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "1bdf457f-5b43-4fd6-aedb-75de35d9ccdc",
+        "size": 491520,
+        "id": "7b436719-646e-4057-b828-3c339edef3c6",
+        "resource_type": null,
+        "name": "市区町丁別、罪種及び手口別認知件数"
+      },
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "",
+        "format": "CSV",
+        "url": "https://www.keishicho.metro.tokyo.jp/about_mpd/jokyo_tokei/jokyo/ninchikensu.files/R3.csv",
+        "created": "2020-01-06T15:00:00",
+        "state": "active",
+        "package_id": "eed6a84f-a6e3-4e94-8da8-7c9f86b45fad",
+        "last_modified": "2020-01-06T15:00:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 1,
+        "revision_id": "546050c4-642c-4eb6-b1e9-18f865cbddf9",
+        "size": null,
+        "id": "1bba5c8f-bc17-4de2-8a29-159bff61de4e",
+        "resource_type": null,
+        "name": "市区町丁別、罪種及び手口別認知件数"
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "治安",
+        "description": "",
+        "title": "治安",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c002.png",
+        "id": "de8273ac-2339-4309-ad15-2800b751b45e",
+        "name": "c002"
+      }
+    ],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t000022d1700000021",
+    "isopen": true,
+    "url": "https://www.keishicho.metro.tokyo.jp/about_mpd/jokyo_tokei/jokyo/ninchikensu.html",
+    "notes": "【警視庁】",
+    "title": "区市町村の町丁別、罪種別及び手口別認知件数（令和2年月累計）",
+    "extras": [
+      {
+        "value": "1年ごと",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "http://www.keishicho.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "title": "警視庁",
+      "created": "2019-11-01T03:27:22.754561",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000022.jpg",
+      "revision_id": "6ec2a37b-87b3-4747-ac28-2a6800716699",
+      "type": "organization",
+      "id": "a80c46c5-d236-4d83-b4f9-656c25d0847d",
+      "name": "t000022"
+    },
+    "revision_id": "a73cf29a-fc59-4c25-a6fd-531fa9a99361"
+  }
+}

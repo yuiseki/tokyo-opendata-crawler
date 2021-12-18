@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "都市づくり政策部緑地景観課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "cfa0bc8e-f848-4101-ae63-8988239a8b3e",
+    "metadata_created": "2019-11-01T04:53:40.541155",
+    "metadata_modified": "2019-11-01T05:51:25.474695",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "昭和39年1月23日／改正：昭和46年11月22日／改正：平成18年6月1日／改正：平成23年12月26日",
+        "name": "都市計画公園及び緑地に関する都市計画法第５３条第１項の許可取扱基準",
+        "format": "CSV",
+        "url": "http://www.toshiseibi.metro.tokyo.jp/seisaku/kaitei_koen_ryokuti/pdf/53_1_kijyun.csv",
+        "cache_last_updated": null,
+        "package_id": "cfa0bc8e-f848-4101-ae63-8988239a8b3e",
+        "created": "2019-03-07T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-03-07T15:00:00",
+        "position": 0,
+        "revision_id": "38050fc7-a87a-408d-ab85-fbbebca23276",
+        "url_type": null,
+        "id": "5228492e-6f0e-46a3-9a36-0ed7ecedfe85",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "都市計画公園及び緑地に関する都市計画法第５３条第１項の許可取扱基準【注釈等】",
+        "format": "TXT",
+        "url": "http://www.toshiseibi.metro.tokyo.jpseisaku/kaitei_koen_ryokuti/pdf/53_1_kijyun.txt",
+        "cache_last_updated": null,
+        "package_id": "cfa0bc8e-f848-4101-ae63-8988239a8b3e",
+        "created": "2019-03-07T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-03-07T15:00:00",
+        "position": 1,
+        "revision_id": "2e437dac-6b28-4d3e-a9db-262ee181836a",
+        "url_type": null,
+        "id": "de3926cb-484f-449c-8a24-890d63a3522a",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "まちづくり",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c003.png",
+        "title": "まちづくり",
+        "id": "dc897c44-8153-4219-bfeb-6110fb85fb99",
+        "name": "c003"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.toshiseibi.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.560358",
+      "title": "東京都都市整備局",
+      "name": "t000008",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "9c234f0e-ff7d-4e2d-8ba4-ea80f312405b",
+      "type": "organization",
+      "id": "16d81025-a2ca-4002-8129-9906c94a4732",
+      "approval_status": "approved"
+    },
+    "name": "t000008d1800000039",
+    "isopen": true,
+    "url": "http://www.toshiseibi.metro.tokyo.jp/seisaku/kaitei_koen_ryokuti/",
+    "notes": "【東京都都市整備局】",
+    "owner_org": "16d81025-a2ca-4002-8129-9906c94a4732",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "「都市計画公園・緑地の整備方針」を改定しました！　都市計画公園及び緑地に関する都市計画法第５３条第１項の許可取扱基準",
+    "revision_id": "7265a4ca-012d-4e8d-a82a-1a300a204f43"
+  }
+}

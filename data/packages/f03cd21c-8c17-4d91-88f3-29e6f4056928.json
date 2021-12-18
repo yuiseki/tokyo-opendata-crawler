@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "総務部企画計理課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "f03cd21c-8c17-4d91-88f3-29e6f4056928",
+    "metadata_created": "2019-11-01T04:52:42.561772",
+    "metadata_modified": "2019-11-01T05:19:00.128190",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "議事録",
+        "format": "PDF",
+        "url": "http://www.soumu.metro.tokyo.jp/08daigaku/pdf/hyoukaiinkai_2_gijiroku.pdf",
+        "cache_last_updated": null,
+        "package_id": "f03cd21c-8c17-4d91-88f3-29e6f4056928",
+        "created": "2017-03-24T03:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-03-24T03:00:00",
+        "position": 0,
+        "revision_id": "98add672-36db-43f7-bfc2-89ed4ce9166c",
+        "url_type": null,
+        "id": "70acd285-2780-410b-89d1-cd98a97540e6",
+        "resource_type": null,
+        "size": 92160
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "配布資料",
+        "format": "PDF",
+        "url": "http://www.soumu.metro.tokyo.jp/08daigaku/pdf/hyoukaiinkai_2.pdf",
+        "cache_last_updated": null,
+        "package_id": "f03cd21c-8c17-4d91-88f3-29e6f4056928",
+        "created": "2017-03-24T03:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-03-24T03:00:00",
+        "position": 1,
+        "revision_id": "1d6414d2-7238-4c90-bb44-0e8a0f2648d0",
+        "url_type": null,
+        "id": "40f8bab0-445b-4dc9-9951-8930b3c9e2c1",
+        "resource_type": null,
+        "size": 81920
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.soumu.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:19.763566",
+      "title": "東京都総務局",
+      "name": "t000003",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000003.png",
+      "revision_id": "c4e16dd4-cb3f-42dc-8be2-2eed0f9e0175",
+      "type": "organization",
+      "id": "5987f8a3-dfbe-4f96-b3cc-e1f3ea0a2717",
+      "approval_status": "approved"
+    },
+    "name": "t000003d0001000055",
+    "isopen": true,
+    "url": "",
+    "notes": "【東京都総務局】",
+    "owner_org": "5987f8a3-dfbe-4f96-b3cc-e1f3ea0a2717",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "公開時のみ"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "東京都公立大学法人評価委員会第2回（平成17年1月14日開催）",
+    "revision_id": "4c54c17d-dcc8-41d5-9da8-bb0b38cb53b2"
+  }
+}

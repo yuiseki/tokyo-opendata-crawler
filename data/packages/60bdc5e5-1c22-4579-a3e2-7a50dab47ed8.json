@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "河川部計画課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "60bdc5e5-1c22-4579-a3e2-7a50dab47ed8",
+    "metadata_created": "2019-11-01T04:54:58.479586",
+    "metadata_modified": "2021-02-05T00:06:55.139310",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "１．東海豪雨を想定した洪水ハザードマップ",
+        "format": "CSV",
+        "url": "http://www.kensetsu.metro.tokyo.jp/content/000030005.csv",
+        "cache_last_updated": null,
+        "package_id": "60bdc5e5-1c22-4579-a3e2-7a50dab47ed8",
+        "created": "2018-01-23T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-01-23T15:00:00",
+        "position": 0,
+        "revision_id": "f9e0db81-7c2b-4c33-b30f-6d651f0e9c79",
+        "url_type": null,
+        "id": "16b9e45c-5060-4735-ae31-c8714f3542e7",
+        "resource_type": null,
+        "size": 4096
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "２．荒川が氾濫する降雨を想定した洪水ハザードマップ",
+        "format": "CSV",
+        "url": "http://www.kensetsu.metro.tokyo.jp/content/000030006.csv",
+        "cache_last_updated": null,
+        "package_id": "60bdc5e5-1c22-4579-a3e2-7a50dab47ed8",
+        "created": "2018-01-23T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-01-23T15:00:00",
+        "position": 1,
+        "revision_id": "0f9ea968-a493-4156-b433-5107abec1024",
+        "url_type": null,
+        "id": "2bdf5dd6-3226-4425-9b31-052493c8fba1",
+        "resource_type": null,
+        "size": 1024
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "防災・災害計画",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c001.png",
+        "title": "防災・災害計画",
+        "id": "8eb52f8e-0d10-44f4-8bb4-2a488d0f8465",
+        "name": "c001"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.kensetsu.metro.tokyo.jp/index.html\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:21.496451",
+      "title": "東京都建設局",
+      "name": "t000014",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000014.jpg",
+      "revision_id": "06a19049-68df-4566-aae1-4c7d52e3a2dc",
+      "type": "organization",
+      "id": "c6763312-f089-4659-8c88-8b67ec9dc4dd",
+      "approval_status": "approved"
+    },
+    "name": "t000014d1700000011",
+    "isopen": true,
+    "url": "",
+    "notes": "【東京都建設局】",
+    "owner_org": "c6763312-f089-4659-8c88-8b67ec9dc4dd",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "洪水ハザードマップ",
+    "revision_id": "2a8f63ad-afb9-4bd4-b224-e16f2ef2be09"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "総務部総務課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "c3f02d2f-d8b1-439e-a259-54210b82ccd8",
+    "metadata_created": "2019-11-01T04:58:35.056579",
+    "metadata_modified": "2019-11-01T09:31:34.290080",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "家屋棟数及び床面積",
+        "format": "XLS",
+        "url": "http://www.city.chofu.tokyo.jp/www/contents/1557475107243/simple/15.xls",
+        "cache_last_updated": null,
+        "package_id": "c3f02d2f-d8b1-439e-a259-54210b82ccd8",
+        "created": "2019-07-01T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-07-01T15:00:00",
+        "position": 0,
+        "revision_id": "13ebda6d-ae16-47dc-9763-10df3d204a56",
+        "url_type": null,
+        "id": "5111d440-1788-4369-9047-626db0dfab77",
+        "resource_type": null,
+        "size": 35840
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.chofu.tokyo.jp/",
+      "created": "2019-11-01T03:27:26.616591",
+      "title": "調布市",
+      "name": "t132080",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "c666c9e8-e94d-46e1-a28c-7cdf1ea8b7c6",
+      "type": "organization",
+      "id": "8c710e6d-ae95-4768-90a8-8f4c4e98ae41",
+      "approval_status": "approved"
+    },
+    "name": "t132080d0000000084",
+    "isopen": true,
+    "url": "",
+    "notes": "「調布市統計書　平成29年版」掲載データ（建設，住居）",
+    "owner_org": "8c710e6d-ae95-4768-90a8-8f4c4e98ae41",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "公開時のみ"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "調布市統計書　平成29年版　建設及び住居に関するデータ",
+    "revision_id": "f6d8396c-01e6-4024-bd4a-444bdb48c752"
+  }
+}

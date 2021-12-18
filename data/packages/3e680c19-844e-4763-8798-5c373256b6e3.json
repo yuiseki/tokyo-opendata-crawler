@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "市街地整備部防災都市づくり課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "3e680c19-844e-4763-8798-5c373256b6e3",
+    "metadata_created": "2019-11-01T04:53:31.396812",
+    "metadata_modified": "2019-11-01T05:45:42.014396",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "地域危険度に関するパンフレットです。",
+        "name": "あなたのまちの地域危険度（パンフレット）",
+        "format": "PDF",
+        "url": "http://www.toshiseibi.metro.tokyo.jp/bosai/chousa_6/download/kikendo.pdf",
+        "cache_last_updated": null,
+        "package_id": "3e680c19-844e-4763-8798-5c373256b6e3",
+        "created": "2017-10-10T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-10-10T15:00:00",
+        "position": 0,
+        "revision_id": "a84dce0c-b658-459e-be36-d670a17da0eb",
+        "url_type": null,
+        "id": "1c7877f6-75ce-436e-a114-5fd7ae8ff0b9",
+        "resource_type": null,
+        "size": 2097152
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "防災・災害計画",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c001.png",
+        "title": "防災・災害計画",
+        "id": "8eb52f8e-0d10-44f4-8bb4-2a488d0f8465",
+        "name": "c001"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.toshiseibi.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.560358",
+      "title": "東京都都市整備局",
+      "name": "t000008",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "9c234f0e-ff7d-4e2d-8ba4-ea80f312405b",
+      "type": "organization",
+      "id": "16d81025-a2ca-4002-8129-9906c94a4732",
+      "approval_status": "approved"
+    },
+    "name": "t000008d0000000024",
+    "isopen": true,
+    "url": "http://www.toshiseibi.metro.tokyo.jp/bosai/chousa_6/home.htm",
+    "notes": "【東京都都市整備局】",
+    "owner_org": "16d81025-a2ca-4002-8129-9906c94a4732",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "概ね5年ごと"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "地域危険度に関するパンフレット",
+    "revision_id": "8240b949-e07f-4cc6-ac59-ee568f2f899c"
+  }
+}

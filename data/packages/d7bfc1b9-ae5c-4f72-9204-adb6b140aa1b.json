@@ -1,0 +1,114 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "福祉部介護保険課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "d7bfc1b9-ae5c-4f72-9204-adb6b140aa1b",
+    "metadata_created": "2019-11-01T04:58:10.536812",
+    "metadata_modified": "2019-11-01T09:21:30.789310",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "八王子市外事業所（介護予防・日常生活支援総合事業）",
+        "format": "XLS",
+        "url": "http://www.city.hachioji.tokyo.jp/kurashi/welfare/004/004/007/p004105_d/fil/itiran-shigai-sogojigyo.xls",
+        "cache_last_updated": null,
+        "package_id": "d7bfc1b9-ae5c-4f72-9204-adb6b140aa1b",
+        "created": "2018-08-21T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-08-21T15:00:00",
+        "position": 0,
+        "revision_id": "307b6549-e45c-42af-ad1e-04d43d1bc747",
+        "url_type": null,
+        "id": "7c536d64-73ff-43d3-b519-982d39742950",
+        "resource_type": null,
+        "size": 29696
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "八王子市外事業所",
+        "format": "XLS",
+        "url": "http://www.city.hachioji.tokyo.jp/kurashi/welfare/004/004/007/p004105_d/fil/jigyoshoitiran-shigai.xls",
+        "cache_last_updated": null,
+        "package_id": "d7bfc1b9-ae5c-4f72-9204-adb6b140aa1b",
+        "created": "2018-08-21T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-08-21T15:00:00",
+        "position": 1,
+        "revision_id": "43266fd1-98dc-48ef-9c27-e1c504316935",
+        "url_type": null,
+        "id": "15efae0d-8d4f-435a-88be-21605f89ac63",
+        "resource_type": null,
+        "size": 25600
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "人口減少・少子高齢化",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c004.png",
+        "title": "人口減少・少子高齢化",
+        "id": "802d7d18-3543-4e8b-a8f5-82b5f1aa752e",
+        "name": "c004"
+      },
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "",
+      "created": "2019-11-01T03:27:26.131815",
+      "title": "八王子市",
+      "name": "t132012",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t132012.jpg",
+      "revision_id": "5a213ed0-94b4-4de9-ab8b-a962f12f4566",
+      "type": "organization",
+      "id": "99a3bc36-4f2f-4c83-8a04-87ecba771c45",
+      "approval_status": "approved"
+    },
+    "name": "t132012d0000000079",
+    "isopen": true,
+    "url": "",
+    "notes": "【八王子市】福祉関連オープンデータ一覧",
+    "owner_org": "99a3bc36-4f2f-4c83-8a04-87ecba771c45",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "八王子市外事業所一覧",
+    "revision_id": "910680fe-e8ef-44bc-b3d2-dc6d61d9105d"
+  }
+}

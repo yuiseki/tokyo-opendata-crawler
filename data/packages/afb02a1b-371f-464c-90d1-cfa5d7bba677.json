@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "総務部文書課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "afb02a1b-371f-464c-90d1-cfa5d7bba677",
+    "metadata_created": "2020-06-26T06:20:48.396450",
+    "metadata_modified": "2021-12-18T08:12:37.247096",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "警察署所在地等（簡易表記）（PDFファイル）",
+        "format": "PDF",
+        "url": "https://www.keishicho.metro.tokyo.jp/about_mpd/jokyo_tokei/tokei/k_tokei27.files/ktf003.pdf",
+        "cache_last_updated": null,
+        "package_id": "afb02a1b-371f-464c-90d1-cfa5d7bba677",
+        "created": "2017-03-24T03:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-03-24T03:00:00",
+        "position": 0,
+        "revision_id": "e229de63-d733-44e9-ae04-a9bf292ff485",
+        "url_type": null,
+        "id": "31d289c4-0656-4969-9163-9a19992534df",
+        "resource_type": null,
+        "size": 834560
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "警察署所在地等（簡易表記）　（CSVファイル）",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/2017mar/keisatusyosyozaitinado.csv",
+        "cache_last_updated": null,
+        "package_id": "afb02a1b-371f-464c-90d1-cfa5d7bba677",
+        "created": "2017-03-24T03:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-03-24T03:00:00",
+        "position": 1,
+        "revision_id": "85a1c66f-e502-4c3f-93d0-801d0b66fb70",
+        "url_type": null,
+        "id": "01819127-2bbe-4dd0-a746-48da4cd2ac85",
+        "resource_type": null,
+        "size": 9216
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "治安",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c002.png",
+        "title": "治安",
+        "id": "de8273ac-2339-4309-ad15-2800b751b45e",
+        "name": "c002"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.keishicho.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:22.754561",
+      "title": "警視庁",
+      "name": "t000022",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000022.jpg",
+      "revision_id": "6ec2a37b-87b3-4747-ac28-2a6800716699",
+      "type": "organization",
+      "id": "a80c46c5-d236-4d83-b4f9-656c25d0847d",
+      "approval_status": "approved"
+    },
+    "name": "t000022d0000000031",
+    "isopen": true,
+    "url": "",
+    "notes": "【警視庁】　警視庁管内１０２署の警察署　所在地一覧情報",
+    "owner_org": "a80c46c5-d236-4d83-b4f9-656c25d0847d",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "警察署所在地等（簡易表記）",
+    "revision_id": "aa6cf2b1-ae08-4469-b21f-05fea1033f27"
+  }
+}

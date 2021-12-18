@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "障害者施策推進部計画課権利擁護担当",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "bf7841d7-88d0-4725-8933-fc50fa1872fa",
+    "metadata_created": "2019-11-01T04:54:31.979804",
+    "metadata_modified": "2019-11-01T06:11:02.524470",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "  ",
+        "name": "障害者への理解促進及び差別解消のための条例制定に係る検討部会 第6回資料",
+        "format": "PDF",
+        "url": "http://www.fukushihoken.metro.tokyo.jp/shougai/shougai_shisaku/sabetsukaisho_yougo/kaisyoujourei/joureikentoubukai.files/dai6kaishiryou.zip",
+        "cache_last_updated": null,
+        "package_id": "bf7841d7-88d0-4725-8933-fc50fa1872fa",
+        "created": "2019-06-17T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-06-17T15:00:00",
+        "position": 0,
+        "revision_id": "d4f7023f-31ed-4b87-824f-3049ec2acbed",
+        "url_type": null,
+        "id": "118ac8e1-1ff6-4dea-a175-83c023e06fa2",
+        "resource_type": null,
+        "size": 3145728
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "  ",
+        "name": "障害者への理解促進及び差別解消のための条例制定に係る検討部会 第6回資料（ＣＳＶ）(CSVファイル4種)",
+        "format": "ZIP",
+        "url": "http://www.fukushihoken.metro.tokyo.jp/shougai/shougai_shisaku/sabetsukaisho_yougo/kaisyoujourei/joureikentoubukai.files/dai6kaishiryoucsv.zip",
+        "cache_last_updated": null,
+        "package_id": "bf7841d7-88d0-4725-8933-fc50fa1872fa",
+        "created": "2019-06-17T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-06-17T15:00:00",
+        "position": 1,
+        "revision_id": "55846a59-a798-4f7a-8bbe-9ee94d890464",
+        "url_type": null,
+        "id": "8f6c6909-3844-46ce-892f-55f83b4438f2",
+        "resource_type": null,
+        "size": 3072
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "医療・福祉",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c005.png",
+        "title": "医療・福祉",
+        "id": "0d3cd956-612c-45c5-b1ee-75c1a5835c0e",
+        "name": "c005"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.fukushihoken.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.864364",
+      "title": "東京都福祉保健局",
+      "name": "t000010",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000010.jpg",
+      "revision_id": "8d3da6a9-bfe7-4cd1-9d5d-9737b2293939",
+      "type": "organization",
+      "id": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+      "approval_status": "approved"
+    },
+    "name": "t000010d1800000036",
+    "isopen": true,
+    "url": "http://www.fukushihoken.metro.tokyo.jp/shougai/shougai_shisaku/sabetsukaisho_yougo/kaisyoujourei/joureikentoubukai.html",
+    "notes": "【東京都福祉保健局】第6回障害者への理解促進及び差別解消のための条例制定に係る検討部会の資料を掲載しています。",
+    "owner_org": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "障害者への理解促進及び差別解消のための条例制定に係る検討部会 第6回資料",
+    "revision_id": "d5e3cee4-d09f-4a5d-aa4e-872a1d43a0b6"
+  }
+}

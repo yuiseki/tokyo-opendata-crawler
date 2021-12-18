@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "政策経営部広聴広報課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "02f19b9c-3b26-485b-b500-f276953aa843",
+    "metadata_created": "2021-03-18T07:38:06.768578",
+    "owner_org": "9354a576-4de5-44ab-9e62-18a92b40b5e7",
+    "metadata_modified": "2021-03-18T07:38:50.246152",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "板橋区におけるイベントに関するデータです。",
+        "format": "CSV",
+        "url": "https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/010/229/20210218event.csv",
+        "created": "2021-03-18T07:38:22.505934",
+        "state": "active",
+        "package_id": "02f19b9c-3b26-485b-b500-f276953aa843",
+        "last_modified": null,
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "c0461061-fe93-43ad-a603-b90b56d49cd2",
+        "size": 11059,
+        "id": "a876b0f0-8fcb-4b08-9b1a-78fa03ed741d",
+        "resource_type": null,
+        "name": "イベント情報"
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t131199d0000000141",
+    "isopen": true,
+    "url": "https://www.city.itabashi.tokyo.jp/kusei/joho/opendata/1010229.html",
+    "notes": "【板橋区】イベント情報を掲載しています。　",
+    "title": "イベント情報（オープンデータ）",
+    "extras": [
+      {
+        "value": "随時",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "http://www.city.itabashi.tokyo.jp/",
+      "title": "板橋区",
+      "created": "2019-11-01T03:27:25.673886",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131199.jpg",
+      "revision_id": "1a86d48e-188d-4655-9cc5-c9aedb102db4",
+      "type": "organization",
+      "id": "9354a576-4de5-44ab-9e62-18a92b40b5e7",
+      "name": "t131199"
+    },
+    "revision_id": "1e2ba1c5-d1f6-4958-a64c-92799377b095"
+  }
+}

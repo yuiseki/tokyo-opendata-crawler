@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "選挙管理委員会事務局",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "57c81303-2fab-4bee-be5b-34fbc2ee98da",
+    "metadata_created": "2019-11-01T04:56:55.476647",
+    "metadata_modified": "2019-11-01T09:35:50.138426",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "文京区の投票場所の一覧です。（EXCELファイル）",
+        "name": "投票場所",
+        "format": "XLSX",
+        "url": "https://www.city.bunkyo.lg.jp/library/opendata-bunkyo/06kuseijyouhou/04tohyobasyo/tohyobasyo.xlsx",
+        "cache_last_updated": null,
+        "package_id": "57c81303-2fab-4bee-be5b-34fbc2ee98da",
+        "created": "2017-11-06T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-11-06T15:00:00",
+        "position": 0,
+        "revision_id": "d211a888-c84d-41ff-91c0-3b6cf3ac1b6b",
+        "url_type": null,
+        "id": "2d19789f-b6f4-480b-bdeb-db64da867765",
+        "resource_type": null,
+        "size": 38912
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "文京区の投票場所の一覧です。（CSVファイル）",
+        "name": "投票場所",
+        "format": "CSV",
+        "url": "https://www.city.bunkyo.lg.jp/library/opendata-bunkyo/06kuseijyouhou/04tohyobasyo/tohyobasyo.csv",
+        "cache_last_updated": null,
+        "package_id": "57c81303-2fab-4bee-be5b-34fbc2ee98da",
+        "created": "2017-11-06T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-11-06T15:00:00",
+        "position": 1,
+        "revision_id": "cb571b08-5262-4dee-ad32-74a675edceba",
+        "url_type": null,
+        "id": "32436259-3a1d-4b1a-9301-8137c39add9f",
+        "resource_type": null,
+        "size": 5120
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.bunkyo.lg.jp/",
+      "created": "2019-11-01T03:27:24.573898",
+      "title": "文京区",
+      "name": "t131059",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131059.png",
+      "revision_id": "66ab70ed-369f-4eda-b72a-eacf3f7c8095",
+      "type": "organization",
+      "id": "201cae13-e069-464e-b376-1da3ce968538",
+      "approval_status": "approved"
+    },
+    "name": "t131059d0615010001",
+    "isopen": true,
+    "url": "http://www.city.bunkyo.lg.jp/kusejoho/senkyo/touhyoujyo.html",
+    "notes": "【文京区】　文京区の投票場所の一覧です。",
+    "owner_org": "201cae13-e069-464e-b376-1da3ce968538",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "選挙時ごと"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "投票場所",
+    "revision_id": "21b00636-bb3b-4db5-9c07-a37d84b064ea"
+  }
+}

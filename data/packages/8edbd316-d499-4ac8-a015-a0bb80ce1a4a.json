@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "大田区総務部\n防災危機管理課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "8edbd316-d499-4ac8-a015-a0bb80ce1a4a",
+    "metadata_created": "2021-04-28T00:59:17.875647",
+    "owner_org": "0ed84aa5-79d2-4db1-bf8d-3f4ec71815f2",
+    "metadata_modified": "2021-06-10T01:43:24.154248",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "",
+        "format": "xisx",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/ootaku/131113_hinanjyo.xlsx",
+        "created": "2021-03-22T07:22:00",
+        "state": "active",
+        "package_id": "8edbd316-d499-4ac8-a015-a0bb80ce1a4a",
+        "last_modified": "2021-03-25T07:58:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "a513afd9-d286-4b37-abbf-5d3e57329e39",
+        "size": 39936,
+        "id": "3b609ffe-4c0b-4cff-96ef-9f24c904fbe6",
+        "resource_type": null,
+        "name": "避難所一覧（住所別）"
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "防災・災害計画",
+        "description": "",
+        "title": "防災・災害計画",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c001.png",
+        "id": "8eb52f8e-0d10-44f4-8bb4-2a488d0f8465",
+        "name": "c001"
+      }
+    ],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t131113d0000000009",
+    "isopen": true,
+    "url": "http://www.city.ota.tokyo.jp/seikatsu/chiiki/bousai/hinanjyo/hinanjo.html",
+    "notes": "【大田区】各自治会・町会毎に指定されている避難所の一覧です。",
+    "title": "避難所一覧（住所別）",
+    "extras": [
+      {
+        "value": "年１回（３月頃）",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "https://www.city.ota.tokyo.jp/",
+      "title": "大田区",
+      "created": "2019-11-01T03:27:25.037394",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131113.jpg",
+      "revision_id": "03b46cf2-2118-4e53-855d-1025be9188ae",
+      "type": "organization",
+      "id": "0ed84aa5-79d2-4db1-bf8d-3f4ec71815f2",
+      "name": "t131113"
+    },
+    "revision_id": "713a7366-49d7-45cd-9c9d-a61cbee78587"
+  }
+}

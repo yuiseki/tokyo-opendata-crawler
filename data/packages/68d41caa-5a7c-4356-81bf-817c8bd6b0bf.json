@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "子ども家庭部子どものしあわせ課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "68d41caa-5a7c-4356-81bf-817c8bd6b0bf",
+    "metadata_created": "2019-11-01T04:58:00.019139",
+    "metadata_modified": "2019-11-01T09:19:54.081632",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "八王子市の赤ちゃん・ふらっと設置施設",
+        "format": "CSV",
+        "url": "http://www.city.hachioji.tokyo.jp/contents/open/002/p005871_d/fil/180403_akachanfratto.csv",
+        "cache_last_updated": null,
+        "package_id": "68d41caa-5a7c-4356-81bf-817c8bd6b0bf",
+        "created": "2018-08-21T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-08-21T15:00:00",
+        "position": 0,
+        "revision_id": "aa47706f-c4f1-4da6-beaa-63c2413d8cd4",
+        "url_type": null,
+        "id": "0c4c25e5-2fed-4378-97c6-0670ef942789",
+        "resource_type": null,
+        "size": 11264
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "人口減少・少子高齢化",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c004.png",
+        "title": "人口減少・少子高齢化",
+        "id": "802d7d18-3543-4e8b-a8f5-82b5f1aa752e",
+        "name": "c004"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "",
+      "created": "2019-11-01T03:27:26.131815",
+      "title": "八王子市",
+      "name": "t132012",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t132012.jpg",
+      "revision_id": "5a213ed0-94b4-4de9-ab8b-a962f12f4566",
+      "type": "organization",
+      "id": "99a3bc36-4f2f-4c83-8a04-87ecba771c45",
+      "approval_status": "approved"
+    },
+    "name": "t132012d0000000031",
+    "isopen": true,
+    "url": "",
+    "notes": "【八王子市】子育て関連オープンデータ",
+    "owner_org": "99a3bc36-4f2f-4c83-8a04-87ecba771c45",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "八王子市の赤ちゃん・ふらっと設置施設",
+    "revision_id": "4847fdf6-ee5d-4880-b75f-f9dbf8b82d40"
+  }
+}

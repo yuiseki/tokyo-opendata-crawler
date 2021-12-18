@@ -1,0 +1,93 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "パラリンピック部",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "cd89fb26-f6d2-4465-8e2d-512625351995",
+    "metadata_created": "2019-11-01T04:53:25.297791",
+    "metadata_modified": "2019-11-01T05:44:28.443044",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "障害者スポーツを紹介しています。",
+        "name": "",
+        "format": "CSV",
+        "url": "http://www.opendata.metro.tokyo.jp/2018appcon/olympic/sports_for_the_disabled.csv",
+        "cache_last_updated": null,
+        "package_id": "cd89fb26-f6d2-4465-8e2d-512625351995",
+        "created": "2019-01-10T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-01-10T15:00:00",
+        "position": 0,
+        "revision_id": "5808f4ab-be95-4055-8014-583807009ecc",
+        "url_type": null,
+        "id": "b2a54e4c-4bd3-44bc-9452-4b4d6c9df2a9",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "オリンピック・パラリンピック",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c009.png",
+        "title": "オリンピック・パラリンピック",
+        "id": "4e11ae7b-55ad-44ce-8ec3-dc7205cc78f6",
+        "name": "c009"
+      },
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.2020games.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.403001",
+      "title": "東京都オリンピック・パラリンピック準備局",
+      "name": "t000007",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000007.jpg",
+      "revision_id": "90a115f6-e18a-495c-a51b-39ca62c7108c",
+      "type": "organization",
+      "id": "1a6c3963-f987-4d8a-9a29-eafa99c7a0f1",
+      "approval_status": "approved"
+    },
+    "name": "t000007d0000000010",
+    "isopen": true,
+    "url": "http://tokyo-shospo-navi.info/sportsinfo",
+    "notes": "【東京都オリンピック・パラリンピック準備局】",
+    "owner_org": "1a6c3963-f987-4d8a-9a29-eafa99c7a0f1",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "障害者スポーツの紹介",
+    "revision_id": "620f4b2c-6cd5-492d-824e-d6860eb29e55"
+  }
+}

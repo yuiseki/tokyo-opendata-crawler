@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "福祉保健局感染症対策部",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "ad1dc9cf-724d-437d-b30c-6afb370958a1",
+    "metadata_created": "2021-03-24T09:43:19.088850",
+    "metadata_modified": "2021-03-31T05:34:17.857845",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "東京都 新型コロナウイルス対策サイト https://stopcovid19.metro.tokyo.lg.jp/ で公開している入院患者数です。(注）2020年5月11日までの入院患者数には宿泊療養者・自宅療養者等を含んでいるため、参考値である。サイトにおいて入院患者数の公表を開始した2020年3月6日から作成。\n\n※　システムの仕様上、下記では1000recordsと表示されておりますが、実際には1000件以上となっております。\n",
+        "name": "東京都 新型コロナウイルス感染症入院患者数",
+        "format": "CSV",
+        "url": "https://stopcovid19.metro.tokyo.lg.jp/data/130001_tokyo_covid19_details_testing_positive_cases.csv",
+        "cache_last_updated": null,
+        "package_id": "ad1dc9cf-724d-437d-b30c-6afb370958a1",
+        "created": "2021-03-24T09:43:19",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-03-30T23:30:00",
+        "position": 0,
+        "revision_id": "0327c00f-e24a-4aab-a6bd-298fa52869d6",
+        "url_type": null,
+        "id": "ba2da72b-195e-41d6-9d90-d3b378b815e2",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.fukushihoken.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.864364",
+      "title": "東京都福祉保健局",
+      "name": "t000010",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000010.jpg",
+      "revision_id": "8d3da6a9-bfe7-4cd1-9d5d-9737b2293939",
+      "type": "organization",
+      "id": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+      "approval_status": "approved"
+    },
+    "name": "t000010d0000000092",
+    "isopen": true,
+    "url": "http://www.fukushihoken.metro.tokyo.jp/",
+    "notes": "東京都 新型コロナウイルス対策サイト https://stopcovid19.metro.tokyo.lg.jp/ で公開している入院患者数です。(注）2020年5月11日までの入院患者数には宿泊療養者・自宅療養者等を含んでいるため、参考値である。サイトにおいて入院患者数の公表を開始した2020年3月6日から作成。",
+    "owner_org": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "毎日"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "東京都 新型コロナウイルス感染症入院患者数",
+    "revision_id": "ad39a322-3863-4822-b3f2-d274366768bf"
+  }
+}

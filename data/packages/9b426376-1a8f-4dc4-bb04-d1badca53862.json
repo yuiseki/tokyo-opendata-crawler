@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "昭島市保健福祉部福祉総務課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "9b426376-1a8f-4dc4-bb04-d1badca53862",
+    "metadata_created": "2021-09-30T07:34:17.621163",
+    "owner_org": "f9f056fc-d7ea-4208-a7a0-ea94c8d379c7",
+    "metadata_modified": "2021-09-30T07:34:19.725460",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "",
+        "format": "XLSX",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/akishima/AED.xlsx",
+        "created": "2021-09-28T07:14:00",
+        "state": "active",
+        "package_id": "9b426376-1a8f-4dc4-bb04-d1badca53862",
+        "last_modified": "2021-09-28T07:14:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "6722fdb2-50c9-4b4a-90ff-97fa8b0cd4a3",
+        "size": null,
+        "id": "6ca8a56d-b130-4c04-b399-b367aebb914c",
+        "resource_type": null,
+        "name": "AED設置箇所一覧"
+      },
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "",
+        "format": "PDF",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/akishima/AEDmap.pdf",
+        "created": "2021-09-28T06:02:00",
+        "state": "active",
+        "package_id": "9b426376-1a8f-4dc4-bb04-d1badca53862",
+        "last_modified": "2021-09-28T06:02:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 1,
+        "revision_id": "953ba6c8-9a36-417f-a671-d571cb711ec5",
+        "size": null,
+        "id": "45e8f69e-7ce0-4ba2-98d2-b8cb8331010e",
+        "resource_type": null,
+        "name": "AED設置場所マップ"
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "医療・福祉",
+        "description": "",
+        "title": "医療・福祉",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c005.png",
+        "id": "0d3cd956-612c-45c5-b1ee-75c1a5835c0e",
+        "name": "c005"
+      }
+    ],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t132071d0000000003",
+    "isopen": true,
+    "url": "https://www.city.akishima.lg.jp/s041/010/010/20141110112751.html",
+    "notes": "【昭島市】昭島市のAED設置箇所の一覧です。",
+    "title": "AED設置箇所一覧",
+    "extras": [
+      {
+        "value": "年１回",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "",
+      "title": "昭島市",
+      "created": "2021-08-24T01:28:36.135062",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t132071.png",
+      "revision_id": "1a9c019b-311b-4207-94ad-4ae370515f83",
+      "type": "organization",
+      "id": "f9f056fc-d7ea-4208-a7a0-ea94c8d379c7",
+      "name": "t132071"
+    },
+    "revision_id": "07174c63-9807-41dd-9ad1-ffae11837e7b"
+  }
+}

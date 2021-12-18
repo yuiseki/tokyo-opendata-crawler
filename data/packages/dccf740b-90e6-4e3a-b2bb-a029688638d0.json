@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "産業経済部経済課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "dccf740b-90e6-4e3a-b2bb-a029688638d0",
+    "metadata_created": "2019-11-01T04:57:48.414871",
+    "metadata_modified": "2019-11-01T08:44:28.389584",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "石神井公園区民交流センター（消費生活センター）",
+        "format": "CSV",
+        "url": "https://www.city.nerima.tokyo.jp/kusei/tokei/opendata/opendatasite/sisetsujyouhou/kuminkouryuu.files/41_kuminkouryuu.csv",
+        "cache_last_updated": null,
+        "package_id": "dccf740b-90e6-4e3a-b2bb-a029688638d0",
+        "created": "2017-03-16T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-03-16T15:00:00",
+        "position": 0,
+        "revision_id": "f20bd62a-677f-43c2-81f7-bbffe6b21ee1",
+        "url_type": null,
+        "id": "f0a5f6ab-3c13-4166-b2f5-0fc1b630d343",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.nerima.tokyo.jp/",
+      "created": "2019-11-01T03:27:25.822926",
+      "title": "練馬区",
+      "name": "t131202",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131202.gif",
+      "revision_id": "c9aef7e0-f984-4dce-bc1b-accb7d513a92",
+      "type": "organization",
+      "id": "76020df2-dfd1-42a2-9f7d-dbe5cefc7028",
+      "approval_status": "approved"
+    },
+    "name": "t131202d0000000086",
+    "isopen": true,
+    "url": "https://www.city.nerima.tokyo.jp/shisetsu/index.html",
+    "notes": "【練馬区】平成29年3月17日現在の位置情報等です。  \n\n※座標系：世界測地系\n",
+    "owner_org": "76020df2-dfd1-42a2-9f7d-dbe5cefc7028",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "石神井公園区民交流センター（消費生活センター）",
+    "revision_id": "0e8a69f6-958a-4166-b602-635854183fae"
+  }
+}

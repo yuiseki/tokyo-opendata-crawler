@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "福祉部高齢福祉課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "3c4313fe-b7fc-4faa-8f38-fa3a2156d9b1",
+    "metadata_created": "2019-11-01T04:56:52.967043",
+    "metadata_modified": "2019-11-01T09:35:28.927326",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "文京区の高齢者あんしん相談センターの一覧です。（EXCELファイル）",
+        "name": "高齢者あんしん相談センター",
+        "format": "XLSX",
+        "url": "https://www.city.bunkyo.lg.jp/library/opendata-bunkyo/04hoken-fukushi/05koreisyaanshinsodancenter/koreisyaanshinsodancenter.xlsx",
+        "cache_last_updated": null,
+        "package_id": "3c4313fe-b7fc-4faa-8f38-fa3a2156d9b1",
+        "created": "2017-11-06T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-11-06T15:00:00",
+        "position": 0,
+        "revision_id": "bea91056-d6d4-4625-859d-4f16d664c4c5",
+        "url_type": null,
+        "id": "2116d3af-9109-45c1-948d-4d2475934530",
+        "resource_type": null,
+        "size": 14336
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "文京区の高齢者あんしん相談センターの一覧です。（CSVファイル）",
+        "name": "高齢者あんしん相談センター",
+        "format": "CSV",
+        "url": "https://www.city.bunkyo.lg.jp/library/opendata-bunkyo/04hoken-fukushi/05koreisyaanshinsodancenter/koreisyaanshinsodancenter.csv",
+        "cache_last_updated": null,
+        "package_id": "3c4313fe-b7fc-4faa-8f38-fa3a2156d9b1",
+        "created": "2017-11-06T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-11-06T15:00:00",
+        "position": 1,
+        "revision_id": "202b0356-e7de-48e2-847d-653940e17ad1",
+        "url_type": null,
+        "id": "3dd24a0d-fbd0-4bd9-a963-00d442d3d9f3",
+        "resource_type": null,
+        "size": 2048
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "医療・福祉",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c005.png",
+        "title": "医療・福祉",
+        "id": "0d3cd956-612c-45c5-b1ee-75c1a5835c0e",
+        "name": "c005"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.bunkyo.lg.jp/",
+      "created": "2019-11-01T03:27:24.573898",
+      "title": "文京区",
+      "name": "t131059",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131059.png",
+      "revision_id": "66ab70ed-369f-4eda-b72a-eacf3f7c8095",
+      "type": "organization",
+      "id": "201cae13-e069-464e-b376-1da3ce968538",
+      "approval_status": "approved"
+    },
+    "name": "t131059d0405020001",
+    "isopen": true,
+    "url": "",
+    "notes": "【文京区】　文京区の高齢者あんしん相談センターの一覧です。",
+    "owner_org": "201cae13-e069-464e-b376-1da3ce968538",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "高齢者あんしん相談センター",
+    "revision_id": "a7e71f8b-bdfd-4ad6-a183-28c6e278a0dc"
+  }
+}

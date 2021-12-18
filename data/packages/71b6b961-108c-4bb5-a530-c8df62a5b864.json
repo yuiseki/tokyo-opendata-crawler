@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "清瀬市総務部防災防犯課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "71b6b961-108c-4bb5-a530-c8df62a5b864",
+    "metadata_created": "2020-11-10T01:37:12.960715",
+    "owner_org": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
+    "metadata_modified": "2021-06-16T02:25:13.715314",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "清瀬市の応急給水拠点の一覧です。",
+        "format": "CSV",
+        "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/001/605/07_emergencywatersupplybase.csv",
+        "created": "2019-12-26T06:34:00",
+        "state": "active",
+        "package_id": "71b6b961-108c-4bb5-a530-c8df62a5b864",
+        "last_modified": "2019-12-26T06:34:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "c4d295d3-168e-4131-8012-040373c7a01c",
+        "size": 1024,
+        "id": "87b95f25-f48f-4dbc-92d0-134a784661df",
+        "resource_type": null,
+        "name": "応急給水拠点一覧"
+      },
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "【清瀬市】応急給水拠点の一覧です。",
+        "format": "XLSX",
+        "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/001/605/07_emergencywatersupplybase.xlsx",
+        "created": "2019-12-18T05:43:00",
+        "state": "active",
+        "package_id": "71b6b961-108c-4bb5-a530-c8df62a5b864",
+        "last_modified": "2019-12-18T05:43:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 1,
+        "revision_id": "d5741991-1a45-4e4f-905f-75620561a767",
+        "size": 11264,
+        "id": "020e8ce3-adac-4a71-b258-e5599b066646",
+        "resource_type": null,
+        "name": "応急給水拠点一覧"
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "防災・災害計画",
+        "description": "",
+        "title": "防災・災害計画",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c001.png",
+        "id": "8eb52f8e-0d10-44f4-8bb4-2a488d0f8465",
+        "name": "c001"
+      }
+    ],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t132217d0000000024",
+    "isopen": true,
+    "url": "https://www.city.kiyose.lg.jp/opendata/opendataichiran/1001605.html",
+    "notes": "【清瀬市】応急給水拠点の一覧です。",
+    "title": "応急給水拠点一覧",
+    "extras": [
+      {
+        "value": "変更の都度",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "https://www.city.kiyose.lg.jp/index.html",
+      "title": "清瀬市",
+      "created": "2020-08-05T08:00:00.206131",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "f8ef546d-d3f4-46e8-9741-39a6eec61618",
+      "type": "organization",
+      "id": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
+      "name": "t132217"
+    },
+    "revision_id": "7f21a056-03f9-447e-ada4-be7463e65b08"
+  }
+}

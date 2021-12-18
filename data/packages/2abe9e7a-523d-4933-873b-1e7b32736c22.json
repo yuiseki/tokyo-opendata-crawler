@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "政策経営部情報政策課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "2abe9e7a-523d-4933-873b-1e7b32736c22",
+    "metadata_created": "2019-11-01T04:57:08.873274",
+    "metadata_modified": "2019-11-15T08:52:07.946844",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "杉並区情報化基本方針〔平成29～33年度（2017～2021年度）〕",
+        "format": "DOCX",
+        "url": "http://www.city.suginami.tokyo.jp/_res/projects/default_project/_page_/001/013/506/op_kihonhoshin.docx",
+        "cache_last_updated": null,
+        "package_id": "2abe9e7a-523d-4933-873b-1e7b32736c22",
+        "created": "2017-12-12T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": null,
+        "position": 0,
+        "revision_id": "b913a9d7-3e9b-457e-b543-dc2bc8295edf",
+        "url_type": null,
+        "id": "231d0be6-6f34-4d25-8a91-b7b9edc1f70a",
+        "resource_type": null,
+        "size": 111616
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "杉並区情報化アクションプラン〔令和元年～３年度（2019～2021年度）〕",
+        "format": "DOCX",
+        "url": "https://www.city.suginami.tokyo.jp/_res/projects/default_project/_page_/001/013/506/action-plan.docx",
+        "cache_last_updated": null,
+        "package_id": "2abe9e7a-523d-4933-873b-1e7b32736c22",
+        "created": "2017-12-12T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": null,
+        "position": 1,
+        "revision_id": "023c6f97-5e60-419a-8e96-48884e321d7c",
+        "url_type": null,
+        "id": "c56379e0-fc7d-4e09-87ee-3196761acddb",
+        "resource_type": null,
+        "size": 188416
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.suginami.tokyo.jp/",
+      "created": "2019-11-01T03:27:25.355056",
+      "title": "杉並区",
+      "name": "t131156",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131156.png",
+      "revision_id": "be68f112-909f-46c2-b180-014c0a879593",
+      "type": "organization",
+      "id": "a5be9683-373e-440b-ae39-4e73317a417b",
+      "approval_status": "approved"
+    },
+    "name": "t131156d0000000004",
+    "isopen": true,
+    "url": "",
+    "notes": "【杉並区】",
+    "owner_org": "a5be9683-373e-440b-ae39-4e73317a417b",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "公開時のみ"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "杉並区情報化基本方針・杉並区情報化アクションプラン",
+    "revision_id": "5cc89453-65ce-4caf-a73b-6d4e8eeb5027"
+  }
+}

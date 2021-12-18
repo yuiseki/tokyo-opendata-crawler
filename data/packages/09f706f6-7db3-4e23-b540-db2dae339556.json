@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "資源環境部リサイクル清掃課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "09f706f6-7db3-4e23-b540-db2dae339556",
+    "metadata_created": "2019-11-01T04:56:50.153780",
+    "metadata_modified": "2019-11-01T09:36:22.931449",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "文京区の資源の回収拠点の一覧です。（EXCELファイル）",
+        "name": "資源の回収拠点",
+        "format": "XLSX",
+        "url": "https://www.city.bunkyo.lg.jp/library/opendata-bunkyo/01tetsuduki-kurashi/07kaisyukyoten/kaisyukyoten.xlsx",
+        "cache_last_updated": null,
+        "package_id": "09f706f6-7db3-4e23-b540-db2dae339556",
+        "created": "2017-11-06T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-11-06T15:00:00",
+        "position": 0,
+        "revision_id": "7178815c-552f-442e-b81a-a8a33aa93352",
+        "url_type": null,
+        "id": "057484ef-0728-4b72-b8a3-4d067a65afba",
+        "resource_type": null,
+        "size": 12288
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "文京区の資源の回収拠点の一覧です。（CSVファイル）",
+        "name": "資源の回収拠点",
+        "format": "CSV",
+        "url": "https://www.city.bunkyo.lg.jp/library/opendata-bunkyo/01tetsuduki-kurashi/07kaisyukyoten/kaisyukyoten.csv",
+        "cache_last_updated": null,
+        "package_id": "09f706f6-7db3-4e23-b540-db2dae339556",
+        "created": "2017-11-06T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-11-06T15:00:00",
+        "position": 1,
+        "revision_id": "adf8f6b9-8648-46a4-a7d8-fc1e661fb1ca",
+        "url_type": null,
+        "id": "46b4ef7f-e628-4a6f-b92d-101b4745c429",
+        "resource_type": null,
+        "size": 4096
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "環境",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c012.png",
+        "title": "環境",
+        "id": "427f3ee0-b28a-4fd2-b7dc-980507f154d2",
+        "name": "c012"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.bunkyo.lg.jp/",
+      "created": "2019-11-01T03:27:24.573898",
+      "title": "文京区",
+      "name": "t131059",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131059.png",
+      "revision_id": "66ab70ed-369f-4eda-b72a-eacf3f7c8095",
+      "type": "organization",
+      "id": "201cae13-e069-464e-b376-1da3ce968538",
+      "approval_status": "approved"
+    },
+    "name": "t131059d0110060003",
+    "isopen": true,
+    "url": "",
+    "notes": "【文京区】　文京区の資源の回収拠点の一覧です。",
+    "owner_org": "201cae13-e069-464e-b376-1da3ce968538",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "資源の回収拠点",
+    "revision_id": "f1918d01-98e0-4f98-9dd9-a8e46eef9f78"
+  }
+}

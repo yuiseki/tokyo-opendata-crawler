@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "企画経営部区長室",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "26567419-be9a-4dff-8498-bc6bf2db9670",
+    "metadata_created": "2020-12-08T01:14:57.409779",
+    "owner_org": "6adece4f-1ee9-416a-a7e7-856b8d5fb050",
+    "metadata_modified": "2020-12-08T01:24:44.528549",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "港区赤坂地区の弁慶橋の写真その1です。",
+        "format": "JPEG",
+        "url": "https://opendata.city.minato.tokyo.jp/dataset/1f87b435-2303-445e-9883-746a4937c358/resource/60198ee6-3077-482b-abf7-263cef73e7cf/download/pict7648.jpg",
+        "created": "2002-12-31T15:00:00",
+        "state": "active",
+        "package_id": "26567419-be9a-4dff-8498-bc6bf2db9670",
+        "last_modified": "2020-11-20T04:00:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "f2758b3c-25db-43bd-a6a0-f22c035404dc",
+        "size": 622592,
+        "id": "97210085-9b7e-432c-9157-298691dc4afa",
+        "resource_type": null,
+        "name": "弁慶橋（1）"
+      },
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "港区赤坂地区の弁慶橋の写真その2です。",
+        "format": "JPEG",
+        "url": "https://opendata.city.minato.tokyo.jp/dataset/1f87b435-2303-445e-9883-746a4937c358/resource/f590d8fd-afbc-499d-b087-662c33d61996/download/pict7649.jpg",
+        "created": "2002-12-31T15:00:00",
+        "state": "active",
+        "package_id": "26567419-be9a-4dff-8498-bc6bf2db9670",
+        "last_modified": "2020-11-20T04:00:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 1,
+        "revision_id": "2086d8b3-f23a-4de8-ab1c-e313b104c584",
+        "size": 590848,
+        "id": "e7fa44c5-d6e5-49a0-9259-055a2163a98d",
+        "resource_type": null,
+        "name": "弁慶橋（2）"
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "title": "その他",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      }
+    ],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t131032d0000000102",
+    "isopen": true,
+    "url": "",
+    "notes": "港区赤坂地区の橋の写真です。",
+    "title": "港区の写真　赤坂地区の橋",
+    "extras": [
+      {
+        "value": "更新無",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "http://www.city.minato.tokyo.jp/",
+      "title": "港区",
+      "created": "2019-11-01T03:27:24.220357",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131032.jpg",
+      "revision_id": "8f5676eb-3316-4cc6-b26a-4f7e1b39e109",
+      "type": "organization",
+      "id": "6adece4f-1ee9-416a-a7e7-856b8d5fb050",
+      "name": "t131032"
+    },
+    "revision_id": "afbc481d-f2a1-4735-901d-b659e1ab443e"
+  }
+}

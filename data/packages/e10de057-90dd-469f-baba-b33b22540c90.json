@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "都民生活部地域活動推進課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "e10de057-90dd-469f-baba-b33b22540c90",
+    "metadata_created": "2019-11-01T04:53:21.120669",
+    "metadata_modified": "2019-11-01T05:43:40.201783",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "地域の底力発展事業助成（平成２９年度　第３回募集分）助成事業一覧",
+        "name": "地域の底力発展事業助成（平成２９年度　第３回募集分）助成事業一覧",
+        "format": "CSV",
+        "url": "http://www.seikatubunka.metro.tokyo.jp/chiiki_tabunka/chiiki_katsudo/chiikiryoku/files/0000000607/29-3ichiran.csv",
+        "cache_last_updated": null,
+        "package_id": "e10de057-90dd-469f-baba-b33b22540c90",
+        "created": "2018-04-30T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-04-30T15:00:00",
+        "position": 0,
+        "revision_id": "09be4f9a-0eac-4472-934b-60a553f7edb1",
+        "url_type": null,
+        "id": "2d424071-4c85-4238-9366-494eda1e7010",
+        "resource_type": null,
+        "size": 10240
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.seikatubunka.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.245320",
+      "title": "東京都生活文化局",
+      "name": "t000006",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "e09ebb81-026e-4a29-927c-3490964055ad",
+      "type": "organization",
+      "id": "3f65c30d-0809-4fc6-8f6c-82261b14152e",
+      "approval_status": "approved"
+    },
+    "name": "t000006d1700000024",
+    "isopen": true,
+    "url": "",
+    "notes": "【東京都生活文化局】平成29年度東京都地域の底力発展事業助成の第３回助成事業一覧です。",
+    "owner_org": "3f65c30d-0809-4fc6-8f6c-82261b14152e",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "助成実績等_平成２９年度_第３回助成事業一覧",
+    "revision_id": "de8b6f5a-4062-4b5b-9773-3376fd48deb3"
+  }
+}

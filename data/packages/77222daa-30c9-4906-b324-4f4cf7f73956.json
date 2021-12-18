@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "医療政策部救急災害医療課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "77222daa-30c9-4906-b324-4f4cf7f73956",
+    "metadata_created": "2019-11-01T04:53:52.158649",
+    "metadata_modified": "2019-11-01T05:54:20.259237",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "東京都指定二次救急医療機関の一覧です。",
+        "name": "休日・全夜間診療事業実施医療機関一覧（東京都指定二次救急医療機関一覧）（平成30年6月1日現在）",
+        "format": "PDF",
+        "url": "http://www.fukushihoken.metro.tokyo.jp/iryo/sodan/komatta/kyuubyou/kyuujituzennyakann.files/shitei2jiiryoukikan300601.pdf",
+        "cache_last_updated": null,
+        "package_id": "77222daa-30c9-4906-b324-4f4cf7f73956",
+        "created": "2017-12-25T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-12-25T15:00:00",
+        "position": 0,
+        "revision_id": "b71272c6-d586-4536-af62-f463fadbcaca",
+        "url_type": null,
+        "id": "e102f089-4dfc-4ca1-b53c-c289ca9fe3f6",
+        "resource_type": null,
+        "size": 269312
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "東京都指定二次救急医療機関の一覧です。",
+        "name": "休日・全夜間診療事業実施医療機関一覧（東京都指定二次救急医療機関一覧）（平成30年6月1日現在）",
+        "format": "CSV",
+        "url": "http://www.fukushihoken.metro.tokyo.jp/iryo/sodan/komatta/kyuubyou/kyuujituzennyakann.files/shitei2jiiryoukikan300601.csv",
+        "cache_last_updated": null,
+        "package_id": "77222daa-30c9-4906-b324-4f4cf7f73956",
+        "created": "2017-12-25T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-12-25T15:00:00",
+        "position": 1,
+        "revision_id": "93c1f382-c29e-46b8-8bbd-804945a8b4ed",
+        "url_type": null,
+        "id": "9bf26cad-8e1f-4879-a9d8-975120ea7c54",
+        "resource_type": null,
+        "size": 21504
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "医療・福祉",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c005.png",
+        "title": "医療・福祉",
+        "id": "0d3cd956-612c-45c5-b1ee-75c1a5835c0e",
+        "name": "c005"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.fukushihoken.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.864364",
+      "title": "東京都福祉保健局",
+      "name": "t000010",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000010.jpg",
+      "revision_id": "8d3da6a9-bfe7-4cd1-9d5d-9737b2293939",
+      "type": "organization",
+      "id": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+      "approval_status": "approved"
+    },
+    "name": "t000010d0000000018",
+    "isopen": true,
+    "url": "",
+    "notes": "【東京都福祉保健局】　休日・全夜間診療事業実施医療機関一覧（東京都指定二次救急医療機関一覧）",
+    "owner_org": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "休日・全夜間診療事業実施医療機関一覧（東京都指定二次救急医療機関一覧）",
+    "revision_id": "03adc543-e750-4d15-ae3f-f4319d53059d"
+  }
+}

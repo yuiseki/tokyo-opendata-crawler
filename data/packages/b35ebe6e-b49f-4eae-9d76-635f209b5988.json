@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "清瀬市福祉・子ども部子育て支援課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "b35ebe6e-b49f-4eae-9d76-635f209b5988",
+    "metadata_created": "2020-11-10T01:37:06.013297",
+    "owner_org": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
+    "metadata_modified": "2021-06-16T02:25:14.951990",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "【清瀬市】保育園の一覧です。",
+        "format": "CSV",
+        "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/001/604/132217_preschool_hoi-you.csv",
+        "created": "2019-03-06T02:24:00",
+        "state": "active",
+        "package_id": "b35ebe6e-b49f-4eae-9d76-635f209b5988",
+        "last_modified": "2019-03-06T02:24:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "276d4f0b-9dfe-4409-a27f-1e959443b4db",
+        "size": 5120,
+        "id": "674e4949-dc96-43f8-bcaa-a795b21d3b17",
+        "resource_type": null,
+        "name": "保育園"
+      },
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "【清瀬市】保育園の一覧です。",
+        "format": "XLSX",
+        "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/001/604/132217_preschool_hoi-you.xlsx",
+        "created": "2019-03-06T02:21:00",
+        "state": "active",
+        "package_id": "b35ebe6e-b49f-4eae-9d76-635f209b5988",
+        "last_modified": "2019-03-06T02:21:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 1,
+        "revision_id": "69b9643a-1884-481f-93d1-3f24e475592c",
+        "size": 17408,
+        "id": "acc2196a-2930-4cc3-a989-b11962b44305",
+        "resource_type": null,
+        "name": "保育園"
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "title": "生活",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t132217d0000000002",
+    "isopen": true,
+    "url": "https://www.city.kiyose.lg.jp/opendata/opendataichiran/1001604.html",
+    "notes": "【清瀬市】保育園の一覧です。",
+    "title": "子育て施設一覧（保育園）",
+    "extras": [
+      {
+        "value": "変更の都度",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "https://www.city.kiyose.lg.jp/index.html",
+      "title": "清瀬市",
+      "created": "2020-08-05T08:00:00.206131",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "f8ef546d-d3f4-46e8-9741-39a6eec61618",
+      "type": "organization",
+      "id": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
+      "name": "t132217"
+    },
+    "revision_id": "92650d10-5608-43c1-ba1d-035e543f5ef3"
+  }
+}

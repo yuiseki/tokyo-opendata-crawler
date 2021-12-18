@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "教育委員会生涯学習課（生涯学習センター、社会教育センター、社会教育館）/教育委員会教育支援館（教育支援館）/教育委員会学務課（霧ヶ峰学園、あわ野山荘）/総務部人権・男女共同参画課（男女平等推進プラザ）",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "154f4adf-646c-416b-98ef-82ed0ea861ed",
+    "metadata_created": "2019-11-01T04:56:57.759602",
+    "metadata_modified": "2019-11-01T08:39:07.110325",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "生涯学習施設の施設一覧です",
+        "name": "生涯学習",
+        "format": "CSV",
+        "url": "http://www.city.taito.lg.jp/index/kusei/opendata/shisethutizujouhou.files/lifelong_learning.csv",
+        "cache_last_updated": null,
+        "package_id": "154f4adf-646c-416b-98ef-82ed0ea861ed",
+        "created": "2017-06-18T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-06-18T15:00:00",
+        "position": 0,
+        "revision_id": "2ef38f45-df35-4833-ae7d-3652d28aceda",
+        "url_type": null,
+        "id": "c884469b-a5f0-47ec-be9f-21f8d0c9e469",
+        "resource_type": null,
+        "size": 1024
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.taito.lg.jp/",
+      "created": "2019-11-01T03:27:24.733512",
+      "title": "台東区",
+      "name": "t131067",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131067.png",
+      "revision_id": "0166c313-a6d1-4eee-9282-f9bacc692e27",
+      "type": "organization",
+      "id": "72ddc2e3-f5ca-4fae-aca0-2e299cc0a94a",
+      "approval_status": "approved"
+    },
+    "name": "t131067d0000000011",
+    "isopen": true,
+    "url": "http://www.city.taito.lg.jp/index/shisetsu/hall/index.html",
+    "notes": "【台東区】　台東区の生涯学習施設の施設一覧です",
+    "owner_org": "72ddc2e3-f5ca-4fae-aca0-2e299cc0a94a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "生涯学習施設",
+    "revision_id": "add0ee58-94bb-47b4-9f2c-12595662dda7"
+  }
+}

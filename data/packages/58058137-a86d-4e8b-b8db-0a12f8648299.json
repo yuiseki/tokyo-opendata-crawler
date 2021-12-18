@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "大会施設部",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "58058137-a86d-4e8b-b8db-0a12f8648299",
+    "metadata_created": "2019-11-01T04:53:26.712300",
+    "metadata_modified": "2019-11-01T05:44:30.709037",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "会場整備費の内訳 （試算）です。",
+        "name": "会場整備費の内訳 （試算）",
+        "format": "CSV",
+        "url": "https://www.2020games.metro.tokyo.jp/58c89eaa17080ba05a08f61c162222fb.csv",
+        "cache_last_updated": null,
+        "package_id": "58058137-a86d-4e8b-b8db-0a12f8648299",
+        "created": "2018-10-04T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-10-04T15:00:00",
+        "position": 0,
+        "revision_id": "2a62ada3-ab6c-4597-b09a-22b8ac8fb1fe",
+        "url_type": null,
+        "id": "d4c2ef97-d733-40a3-9b1f-69fd8f3ae38d",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "オリンピック・パラリンピック",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c009.png",
+        "title": "オリンピック・パラリンピック",
+        "id": "4e11ae7b-55ad-44ce-8ec3-dc7205cc78f6",
+        "name": "c009"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.2020games.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.403001",
+      "title": "東京都オリンピック・パラリンピック準備局",
+      "name": "t000007",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000007.jpg",
+      "revision_id": "90a115f6-e18a-495c-a51b-39ca62c7108c",
+      "type": "organization",
+      "id": "1a6c3963-f987-4d8a-9a29-eafa99c7a0f1",
+      "approval_status": "approved"
+    },
+    "name": "t000007d1700000007",
+    "isopen": true,
+    "url": "",
+    "notes": "【東京都オリンピック・パラリンピック準備局]競技会場等の整備に関する資料です。",
+    "owner_org": "1a6c3963-f987-4d8a-9a29-eafa99c7a0f1",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "競技会場等の整備",
+    "revision_id": "f9edd8d3-49b0-41e8-aadf-893ee4bc6a4e"
+  }
+}

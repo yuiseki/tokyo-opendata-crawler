@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "水道局浄水部浄水課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "4f3c717d-dd03-4554-be1e-98eb25d2e2a2",
+    "metadata_created": "2021-05-21T02:06:45.209440",
+    "metadata_modified": "2021-05-21T02:07:25.299755",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "浄水場の施設概要（平成26年4月1日現在）",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/suidou/R3/jyosuijyosisetugaiyo.csv",
+        "cache_last_updated": null,
+        "package_id": "4f3c717d-dd03-4554-be1e-98eb25d2e2a2",
+        "created": "2021-01-30T04:24:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-01-30T04:24:00",
+        "position": 0,
+        "revision_id": "02a0f48b-a170-42b0-bcd9-a736d667fe6a",
+        "url_type": null,
+        "id": "950cc4b9-3777-4171-ae80-919372578765",
+        "resource_type": null,
+        "size": 888
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.waterworks.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:22.280579",
+      "title": "東京都水道局",
+      "name": "t000019",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000019.jpg",
+      "revision_id": "6f93ebbd-34d2-48da-9305-0c1de5e96c27",
+      "type": "organization",
+      "id": "df3e208c-40a5-4f30-b0f2-491ceffa6423",
+      "approval_status": "approved"
+    },
+    "name": "t000019d2000000034",
+    "isopen": true,
+    "url": "http://www.waterworks.metro.tokyo.jp/suidojigyo/gaiyou/shisetsu.html",
+    "notes": "",
+    "owner_org": "df3e208c-40a5-4f30-b0f2-491ceffa6423",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "水道事業紹介_浄水施設の紹介",
+    "revision_id": "9167358a-c201-4e8c-9b3b-97eb69ec24e8"
+  }
+}

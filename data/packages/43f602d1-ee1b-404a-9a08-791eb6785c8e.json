@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "43f602d1-ee1b-404a-9a08-791eb6785c8e",
+    "metadata_created": "2019-11-01T04:56:34.963374",
+    "metadata_modified": "2019-11-01T08:35:49.849290",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "マンション建替法による認可事業一覧（平成30年3月末現在）",
+        "format": "CSV",
+        "url": "http://www.mansion-tokyo.jp/tatekae/35jirei-list/35jirei-list.csv",
+        "cache_last_updated": null,
+        "package_id": "43f602d1-ee1b-404a-9a08-791eb6785c8e",
+        "created": "2018-11-08T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-11-08T15:00:00",
+        "position": 0,
+        "revision_id": "599eb823-9610-49b6-81e7-25a482afc79f",
+        "url_type": null,
+        "id": "bed103ba-ecef-421a-9bab-8652b4ef30e5",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "マンション建替法による認可事業一覧（平成30年3月末現在）【注釈等】",
+        "format": "TXT",
+        "url": "http://www.mansion-tokyo.jp/tatekae/35jirei-list/35jirei-list_annotation.txt",
+        "cache_last_updated": null,
+        "package_id": "43f602d1-ee1b-404a-9a08-791eb6785c8e",
+        "created": "2018-11-08T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-11-08T15:00:00",
+        "position": 1,
+        "revision_id": "e0c59b2b-e2e3-4090-832e-f555d4b88def",
+        "url_type": null,
+        "id": "d18ae9b7-dd7c-4a58-b739-352d1f64033f",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "まちづくり",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c003.png",
+        "title": "まちづくり",
+        "id": "dc897c44-8153-4219-bfeb-6110fb85fb99",
+        "name": "c003"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "所属:東京都",
+      "created": "2019-11-01T03:27:24.052328",
+      "title": "東京都住宅政策本部",
+      "name": "t000030",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "73bcd657-43bb-4348-a873-a0efd0c8f1fb",
+      "type": "organization",
+      "id": "2f48464d-ce84-4cec-bb73-86634a89efeb",
+      "approval_status": "approved"
+    },
+    "name": "t000030d1800000004",
+    "isopen": true,
+    "url": "http://www.mansion-tokyo.jp/shisaku/01data.html",
+    "notes": "【東京都住宅政策本部】",
+    "owner_org": "2f48464d-ce84-4cec-bb73-86634a89efeb",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "マンションに関するデータ_マンション建替え事例",
+    "revision_id": "77b6d008-180f-4234-83f7-d9c0954dc9df"
+  }
+}

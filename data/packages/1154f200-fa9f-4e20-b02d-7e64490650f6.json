@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "広報課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "1154f200-fa9f-4e20-b02d-7e64490650f6",
+    "metadata_created": "2021-12-08T04:40:24.726021",
+    "metadata_modified": "2021-12-08T04:41:10.672530",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "【江戸川区】江戸川画像文庫に掲載しているオープンデータの画像です。",
+        "name": "愛情と健康（2体）",
+        "format": "JPEG",
+        "url": "https://photo.city.edogawa.tokyo.jp/pages/download_progress.php?ref=2681",
+        "cache_last_updated": null,
+        "package_id": "1154f200-fa9f-4e20-b02d-7e64490650f6",
+        "created": "2021-10-01T00:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": null,
+        "position": 0,
+        "revision_id": "68d7c455-d024-43b9-8d2e-bb3e52e66d24",
+        "url_type": null,
+        "id": "0bf0bc23-907e-480d-867b-e123174ce4ca",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "",
+      "created": "2021-12-08T01:06:59.103737",
+      "title": "江戸川区",
+      "name": "t131237",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "704e0338-a5ce-4a23-ba13-2a2f4550a53b",
+      "type": "organization",
+      "id": "74813543-1d66-46e9-a0f5-bb0af87519c4",
+      "approval_status": "approved"
+    },
+    "name": "t131237d0000000060",
+    "isopen": true,
+    "url": "https://photo.city.edogawa.tokyo.jp/pages/view.php?ref=2681",
+    "notes": "【江戸川区】江戸川画像文庫掲載画像",
+    "owner_org": "74813543-1d66-46e9-a0f5-bb0af87519c4",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "公開時のみ"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "愛情と健康（2体）",
+    "revision_id": "f8627073-735a-42fd-b50d-1132133f3a99"
+  }
+}

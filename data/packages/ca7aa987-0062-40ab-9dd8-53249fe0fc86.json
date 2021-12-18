@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "河川部計画課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "ca7aa987-0062-40ab-9dd8-53249fe0fc86",
+    "metadata_created": "2019-11-01T04:54:53.130641",
+    "metadata_modified": "2019-11-01T08:04:10.182915",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "伊豆大島土砂災害対策検討委員会報告書（平成26年3月）",
+        "format": "PDF",
+        "url": "http://www.kensetsu.metro.tokyo.jp/content/000006697.pdf",
+        "cache_last_updated": null,
+        "package_id": "ca7aa987-0062-40ab-9dd8-53249fe0fc86",
+        "created": "2017-03-24T03:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-03-24T03:00:00",
+        "position": 0,
+        "revision_id": "d5ab6e30-e3d4-4def-81b3-e3678563d3e8",
+        "url_type": null,
+        "id": "b1bf6bfa-0b23-4d32-a59d-4c4a23357b68",
+        "resource_type": null,
+        "size": 14336
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "まちづくり",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c003.png",
+        "title": "まちづくり",
+        "id": "dc897c44-8153-4219-bfeb-6110fb85fb99",
+        "name": "c003"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.kensetsu.metro.tokyo.jp/index.html\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:21.496451",
+      "title": "東京都建設局",
+      "name": "t000014",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000014.jpg",
+      "revision_id": "06a19049-68df-4566-aae1-4c7d52e3a2dc",
+      "type": "organization",
+      "id": "c6763312-f089-4659-8c88-8b67ec9dc4dd",
+      "approval_status": "approved"
+    },
+    "name": "t000014d0000000001",
+    "isopen": true,
+    "url": "",
+    "notes": "【東京都建設局】　砂防、火山、災害情報学の学識経験者や国・町などで構成する「伊豆大島土砂災害対策検討委員会」の報告書",
+    "owner_org": "c6763312-f089-4659-8c88-8b67ec9dc4dd",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "公開時のみ"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "伊豆大島土砂災害対策検討委員会報告書（平成26年3月）",
+    "revision_id": "45323c1a-4be1-4c72-86df-08ecf2ce7266"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "広報課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "f16fba67-08a6-4815-9375-5c37654346e6",
+    "metadata_created": "2021-12-08T05:40:27.265874",
+    "metadata_modified": "2021-12-08T05:41:06.077600",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "【江戸川区】江戸川画像文庫に掲載しているオープンデータの画像です。",
+        "name": "第33回小岩菖蒲園まつり",
+        "format": "JPEG",
+        "url": "https://photo.city.edogawa.tokyo.jp/pages/download_progress.php?ref=2217",
+        "cache_last_updated": null,
+        "package_id": "f16fba67-08a6-4815-9375-5c37654346e6",
+        "created": "2021-10-01T00:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": null,
+        "position": 0,
+        "revision_id": "16572ba2-1c52-4120-a9fe-11f2d96f8b38",
+        "url_type": null,
+        "id": "8d9bce80-7f67-49d8-89a1-d3d445e76eb8",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "【江戸川区】江戸川画像文庫に掲載しているオープンデータの画像です。",
+        "name": "第33回小岩菖蒲園まつり",
+        "format": "JPEG",
+        "url": "https://photo.city.edogawa.tokyo.jp/pages/download_progress.php?ref=2226",
+        "cache_last_updated": null,
+        "package_id": "f16fba67-08a6-4815-9375-5c37654346e6",
+        "created": "2021-10-01T00:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": null,
+        "position": 1,
+        "revision_id": "c861c03a-f2f0-4e6d-9ee1-fd8ce3f5cbb3",
+        "url_type": null,
+        "id": "b0679eb5-4f9d-4b92-abed-67299892d4f8",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "",
+      "created": "2021-12-08T01:06:59.103737",
+      "title": "江戸川区",
+      "name": "t131237",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "704e0338-a5ce-4a23-ba13-2a2f4550a53b",
+      "type": "organization",
+      "id": "74813543-1d66-46e9-a0f5-bb0af87519c4",
+      "approval_status": "approved"
+    },
+    "name": "t131237d0000000184",
+    "isopen": true,
+    "url": "https://photo.city.edogawa.tokyo.jp/pages/view.php?ref=2217",
+    "notes": "【江戸川区】江戸川画像文庫掲載画像",
+    "owner_org": "74813543-1d66-46e9-a0f5-bb0af87519c4",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "公開時のみ"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "第33回小岩菖蒲園まつり",
+    "revision_id": "f23eb77b-5556-4faf-ad14-556d038fa4df"
+  }
+}

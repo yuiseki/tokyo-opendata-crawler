@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "すみだ清掃事務所",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "2b61a1c7-2e76-4ef2-aa60-2038ff665ec3",
+    "metadata_created": "2021-07-06T05:01:05.774461",
+    "metadata_modified": "2021-07-06T05:01:28.482463",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "小型家電回収ボックス設置場所（令和3年3月4日時点）",
+        "format": "CSV",
+        "url": "https://www.city.sumida.lg.jp/kuseijoho/sumida_info/opendata/opendata_ichiran/gomirecycle_data/kkadenkaisyu_data.files/kogatakadenkaisyu_20210304.csv",
+        "cache_last_updated": null,
+        "package_id": "2b61a1c7-2e76-4ef2-aa60-2038ff665ec3",
+        "created": "2021-03-03T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-03-03T15:00:00",
+        "position": 0,
+        "revision_id": "26c430d8-1b33-4cc7-8b14-f19257db6270",
+        "url_type": null,
+        "id": "4ea5bb23-c24c-494b-9052-b60306c8b50c",
+        "resource_type": null,
+        "size": 2048
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "小型家電回収ボックス設置場所（平成27年10月29日掲載）",
+        "format": "CSV",
+        "url": "https://www.city.sumida.lg.jp/kuseijoho/sumida_info/opendata/opendata_ichiran/gomirecycle_data/kkadenkaisyu_data.files/kogatakadenkaisyu_20151029.csv",
+        "cache_last_updated": null,
+        "package_id": "2b61a1c7-2e76-4ef2-aa60-2038ff665ec3",
+        "created": "2015-10-28T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2015-10-28T15:00:00",
+        "position": 1,
+        "revision_id": "2c1e76cb-968a-40d2-9ffe-ce1820b4109e",
+        "url_type": null,
+        "id": "f169d066-d9c8-482d-a500-c788b995ff5b",
+        "resource_type": null,
+        "size": 1024
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.sumida.lg.jp/",
+      "created": "2021-07-05T23:44:42.617923",
+      "title": "墨田区",
+      "name": "t131075",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "f67005c0-e31a-47df-87af-cf1859f3e09b",
+      "type": "organization",
+      "id": "724ce337-ffb8-4df6-8c3c-eb302e46f786",
+      "approval_status": "approved"
+    },
+    "name": "t131075d0000000112",
+    "isopen": true,
+    "url": "https://www.city.sumida.lg.jp/kuseijoho/sumida_info/opendata/opendata_ichiran/gomirecycle_data/kkadenkaisyu_data.html",
+    "notes": "【墨田区】小型家電回収ボックスが設置してある場所の一覧です。",
+    "owner_org": "724ce337-ffb8-4df6-8c3c-eb302e46f786",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "小型家電回収ボックス設置場所",
+    "revision_id": "709bb540-1e0b-4d05-92c6-fe766ce683c9"
+  }
+}

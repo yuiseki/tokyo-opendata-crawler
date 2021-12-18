@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "第一市街地整備事務所",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "00976e71-7ac2-4cd8-a236-141f5da3936a",
+    "metadata_created": "2020-05-29T07:48:11.391235",
+    "owner_org": "16d81025-a2ca-4002-8129-9906c94a4732",
+    "metadata_modified": "2020-05-29T07:48:26.971380",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/toshiseibi/h31/jimusyo_enkaku.csv",
+        "created": "2020-05-29T07:48:22.506592",
+        "state": "active",
+        "package_id": "00976e71-7ac2-4cd8-a236-141f5da3936a",
+        "last_modified": null,
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "9cdc8ffd-afbd-483b-bf0c-4ff5e7cbea2f",
+        "size": null,
+        "id": "53630c3b-1b21-40f6-bed2-8ffe43108fe8",
+        "resource_type": null,
+        "name": "事務所の沿革"
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "まちづくり",
+        "description": "",
+        "title": "まちづくり",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c003.png",
+        "id": "dc897c44-8153-4219-bfeb-6110fb85fb99",
+        "name": "c003"
+      }
+    ],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t000008d1900000011",
+    "isopen": true,
+    "url": "http://www.toshiseibi.metro.tokyo.jp/daiichiseibi/index.html",
+    "notes": "",
+    "title": "東京都第一市街地整備事務所　事務所の沿革",
+    "extras": [
+      {
+        "value": "不定期",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "http://www.toshiseibi.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "title": "東京都都市整備局",
+      "created": "2019-11-01T03:27:20.560358",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "9c234f0e-ff7d-4e2d-8ba4-ea80f312405b",
+      "type": "organization",
+      "id": "16d81025-a2ca-4002-8129-9906c94a4732",
+      "name": "t000008"
+    },
+    "revision_id": "0de15694-db25-4657-95da-e851f426f226"
+  }
+}

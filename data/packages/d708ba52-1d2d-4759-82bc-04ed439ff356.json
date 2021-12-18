@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "環境部環境課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "d708ba52-1d2d-4759-82bc-04ed439ff356",
+    "metadata_created": "2019-11-01T04:57:15.765089",
+    "metadata_modified": "2019-11-01T08:40:07.372870",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "杉並区生活安全及び環境美化に関する条例により区内全域で、歩きたばこ(自転車乗車中を含む) や吸い殻のポイ捨てを禁止しています。また、路上禁煙地区内（区内6駅周辺）での、路上喫煙行為に対し過料を徴収します。\n\n区では喫煙ルールの徹底と喫煙マナーの向上に取り組んでいきます。皆さんのご理解とご協力をお願いします。\n",
+        "name": "路上禁煙地区 ",
+        "format": "ZIP",
+        "url": "http://www2.wagmap.jp/suginami/opendata/?type=shp&ly=205",
+        "cache_last_updated": null,
+        "package_id": "d708ba52-1d2d-4759-82bc-04ed439ff356",
+        "created": "2018-05-13T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-05-13T15:00:00",
+        "position": 0,
+        "revision_id": "1319e9c8-8012-46a7-b543-6b6b3255895b",
+        "url_type": null,
+        "id": "2c28d622-f5aa-45c4-8b70-b98d971fb851",
+        "resource_type": null,
+        "size": 59392
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "環境",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c012.png",
+        "title": "環境",
+        "id": "427f3ee0-b28a-4fd2-b7dc-980507f154d2",
+        "name": "c012"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.suginami.tokyo.jp/",
+      "created": "2019-11-01T03:27:25.355056",
+      "title": "杉並区",
+      "name": "t131156",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131156.png",
+      "revision_id": "be68f112-909f-46c2-b180-014c0a879593",
+      "type": "organization",
+      "id": "a5be9683-373e-440b-ae39-4e73317a417b",
+      "approval_status": "approved"
+    },
+    "name": "t131156d0000000038",
+    "isopen": true,
+    "url": "",
+    "notes": "【杉並区】",
+    "owner_org": "a5be9683-373e-440b-ae39-4e73317a417b",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "路上禁煙地区",
+    "revision_id": "b3b71a2e-744c-40b4-bbdb-9df7a252ecaa"
+  }
+}

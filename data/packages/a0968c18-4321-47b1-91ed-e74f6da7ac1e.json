@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "都営交通お客様センター",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "a0968c18-4321-47b1-91ed-e74f6da7ac1e",
+    "metadata_created": "2021-09-29T00:35:06.330855",
+    "metadata_modified": "2021-09-29T00:35:18.083747",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "《交通局について》 - [設計委託標準仕様書（土木）] 設計委託標準仕様書（土木）",
+        "name": "設計委託標準仕様書（土木）",
+        "format": "PDF",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/kotsu/about/about_construction_design_a.pdf",
+        "cache_last_updated": null,
+        "package_id": "a0968c18-4321-47b1-91ed-e74f6da7ac1e",
+        "created": "2019-07-17T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2020-12-04T02:16:00",
+        "position": 0,
+        "revision_id": "968448a4-b9e7-4016-9944-977af3dc7d7d",
+        "url_type": null,
+        "id": "bae7ad33-002a-4bb3-89ff-b73cf5c216a9",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.kotsu.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:22.123863",
+      "title": "東京都交通局",
+      "name": "t000018",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "d47c06bd-1090-4a95-bea1-05d8261663a6",
+      "type": "organization",
+      "id": "058227fa-4a59-4028-a226-9eb858f9947a",
+      "approval_status": "approved"
+    },
+    "name": "t000018d0000000062",
+    "isopen": true,
+    "url": "https://www.kotsu.metro.tokyo.jp/about/contract/construction/index.html",
+    "notes": "【東京都交通局】設計委託標準仕様書（土木）",
+    "owner_org": "058227fa-4a59-4028-a226-9eb858f9947a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "設計委託標準仕様書（土木）",
+    "revision_id": "d132ad80-953c-4d11-909e-2acd73340b8f"
+  }
+}

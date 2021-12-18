@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "市民部市民税課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "99f81162-7caf-4eb8-aae4-6e4bd187424d",
+    "metadata_created": "2019-11-01T04:58:24.630805",
+    "metadata_modified": "2019-11-01T09:25:03.351356",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "市税の年度別予算額・調定額・収入額等",
+        "format": "XLS",
+        "url": "http://www.city.chofu.tokyo.jp/www/contents/1489731953780/simple/1.xls",
+        "cache_last_updated": null,
+        "package_id": "99f81162-7caf-4eb8-aae4-6e4bd187424d",
+        "created": "2017-03-27T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-03-27T15:00:00",
+        "position": 0,
+        "revision_id": "17e894a8-caff-4374-abdd-de2417776dfe",
+        "url_type": null,
+        "id": "56e456ac-cbff-4154-9802-b0c527bc1aea",
+        "resource_type": null,
+        "size": 47104
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "税金",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c007.png",
+        "title": "税金",
+        "id": "bb8a1d8b-5217-44c2-8eca-81addb671f0e",
+        "name": "c007"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.chofu.tokyo.jp/",
+      "created": "2019-11-01T03:27:26.616591",
+      "title": "調布市",
+      "name": "t132080",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "c666c9e8-e94d-46e1-a28c-7cdf1ea8b7c6",
+      "type": "organization",
+      "id": "8c710e6d-ae95-4768-90a8-8f4c4e98ae41",
+      "approval_status": "approved"
+    },
+    "name": "t132080d0000000036",
+    "isopen": true,
+    "url": "",
+    "notes": "【調布市】",
+    "owner_org": "8c710e6d-ae95-4768-90a8-8f4c4e98ae41",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "市税決算状況に関するデータ",
+    "revision_id": "50b97d33-c7c9-4523-b727-cfac182e207b"
+  }
+}

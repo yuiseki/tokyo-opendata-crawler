@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "総務部企画調整課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "3ee0de3f-2411-462d-807e-74b712534092",
+    "metadata_created": "2019-11-01T04:55:27.168942",
+    "metadata_modified": "2019-11-01T08:10:21.111851",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "都営地下鉄駅基本情報（Excelファイル）",
+        "format": "XLSX",
+        "url": "http://www.opendata.metro.tokyo.jp/2015dec/080_001a.xlsx",
+        "cache_last_updated": null,
+        "package_id": "3ee0de3f-2411-462d-807e-74b712534092",
+        "created": "2017-03-24T03:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-03-24T03:00:00",
+        "position": 0,
+        "revision_id": "4208319d-ea54-4126-a370-a085484e4e2b",
+        "url_type": null,
+        "id": "1fcf906d-523c-4fcf-a755-8d44894890ab",
+        "resource_type": null,
+        "size": 24576
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "都営地下鉄駅基本情報（CSVファイル）",
+        "format": "CSV",
+        "url": "http://www.opendata.metro.tokyo.jp/2015dec/080_001b.csv",
+        "cache_last_updated": null,
+        "package_id": "3ee0de3f-2411-462d-807e-74b712534092",
+        "created": "2017-03-24T03:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-03-24T03:00:00",
+        "position": 1,
+        "revision_id": "55047c60-2615-4ceb-b3ba-294278fb6400",
+        "url_type": null,
+        "id": "4f838ac0-25e5-4108-b072-198125ba8e42",
+        "resource_type": null,
+        "size": 12288
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "交通情報",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c013.png",
+        "title": "交通情報",
+        "id": "38323541-753d-4230-b2dd-d9eb367ae5ed",
+        "name": "c013"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.kotsu.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:22.123863",
+      "title": "東京都交通局",
+      "name": "t000018",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "d47c06bd-1090-4a95-bea1-05d8261663a6",
+      "type": "organization",
+      "id": "058227fa-4a59-4028-a226-9eb858f9947a",
+      "approval_status": "approved"
+    },
+    "name": "t000018d0000000001",
+    "isopen": true,
+    "url": "http://www.kotsu.metro.tokyo.jp/subway/stations/",
+    "notes": "【東京都交通局】　都営地下鉄の駅名、駅ナンバー、よみ、英語名、住所等の基本情報",
+    "owner_org": "058227fa-4a59-4028-a226-9eb858f9947a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "都営地下鉄駅基本情報",
+    "revision_id": "de47bde9-c98c-4d2c-b90c-8f8e3f6bff82"
+  }
+}

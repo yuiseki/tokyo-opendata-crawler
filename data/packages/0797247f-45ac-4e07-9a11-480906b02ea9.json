@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "健康安全部感染症対策課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "0797247f-45ac-4e07-9a11-480906b02ea9",
+    "metadata_created": "2019-11-01T04:54:11.104576",
+    "metadata_modified": "2019-11-01T06:04:56.440380",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "新規ＨＩＶ患者における梅毒TPLA陽性率の推移",
+        "format": "CSV",
+        "url": "http://www.fukushihoken.metro.tokyo.jp/iryo/kansen/kansensyoproject/the8thJointResearchandSurvey.files/1220_10_Tokyo_Syphilis_JP_6.csv",
+        "cache_last_updated": null,
+        "package_id": "0797247f-45ac-4e07-9a11-480906b02ea9",
+        "created": "2018-08-30T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-08-30T15:00:00",
+        "position": 0,
+        "revision_id": "301a3439-2a10-4bac-8e7c-0ed036d0b20d",
+        "url_type": null,
+        "id": "b1adf723-6ffa-43f7-9341-e30d922069ef",
+        "resource_type": null,
+        "size": 208896
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "医療・福祉",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c005.png",
+        "title": "医療・福祉",
+        "id": "0d3cd956-612c-45c5-b1ee-75c1a5835c0e",
+        "name": "c005"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.fukushihoken.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.864364",
+      "title": "東京都福祉保健局",
+      "name": "t000010",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000010.jpg",
+      "revision_id": "8d3da6a9-bfe7-4cd1-9d5d-9737b2293939",
+      "type": "organization",
+      "id": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+      "approval_status": "approved"
+    },
+    "name": "t000010d1700000061",
+    "isopen": true,
+    "url": "",
+    "notes": "【東京都福祉保健局】",
+    "owner_org": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "第8回共同調査研究会議_東京における梅毒の現状と対策について",
+    "revision_id": "fa156b09-9bef-42b2-9028-fd65d75ea8d4"
+  }
+}

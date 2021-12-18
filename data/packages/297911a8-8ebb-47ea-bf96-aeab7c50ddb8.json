@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "区政改革担当部区政改革担当課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "297911a8-8ebb-47ea-bf96-aeab7c50ddb8",
+    "metadata_created": "2019-11-01T04:57:34.908335",
+    "metadata_modified": "2019-11-01T08:44:06.628715",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "区政改革計画～みどりの風吹くまちを実現するために～",
+        "format": "DOCX",
+        "url": "https://www.city.nerima.tokyo.jp/kusei/tokei/opendata/opendatasite/tokei_kusei/kuseikaikakukeikaku.files/kuseikaikakukeikaku.docx",
+        "cache_last_updated": null,
+        "package_id": "297911a8-8ebb-47ea-bf96-aeab7c50ddb8",
+        "created": "2017-04-20T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-04-20T15:00:00",
+        "position": 0,
+        "revision_id": "9afc9d17-87c2-48f8-838d-0046a6280ae4",
+        "url_type": null,
+        "id": "8584f363-38a0-4a4a-9169-c29d27eb4c55",
+        "resource_type": null,
+        "size": 196608
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.nerima.tokyo.jp/",
+      "created": "2019-11-01T03:27:25.822926",
+      "title": "練馬区",
+      "name": "t131202",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131202.gif",
+      "revision_id": "c9aef7e0-f984-4dce-bc1b-accb7d513a92",
+      "type": "organization",
+      "id": "76020df2-dfd1-42a2-9f7d-dbe5cefc7028",
+      "approval_status": "approved"
+    },
+    "name": "t131202d0000000020",
+    "isopen": true,
+    "url": "https://www.city.nerima.tokyo.jp/kusei/gyokaku/kuseikaikakukeikaku/kuseikaikaukeikaku.html",
+    "notes": "【練馬区】「みどりの風吹くまちビジョン」に掲げた政策を実現するための具体的な仕組みや態勢を、「区民の視点」から改めて検討し、見直す計画。",
+    "owner_org": "76020df2-dfd1-42a2-9f7d-dbe5cefc7028",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "区政改革計画～みどりの風吹くまちを実現するために～",
+    "revision_id": "430cbaf2-342d-4537-9e5b-bf2639718103"
+  }
+}

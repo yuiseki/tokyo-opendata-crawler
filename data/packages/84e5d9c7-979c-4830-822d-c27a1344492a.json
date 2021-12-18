@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "建築保全部技術管理課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "84e5d9c7-979c-4830-822d-c27a1344492a",
+    "metadata_created": "2019-11-01T04:53:11.407658",
+    "metadata_modified": "2019-11-01T05:39:22.605750",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "省エネ・再エネ東京仕様（平成26年6月改正）",
+        "format": "PDF",
+        "url": "http://www.zaimu.metro.tokyo.jp/kentikuhozen/26syouenetyousyaimage.pdf",
+        "cache_last_updated": null,
+        "package_id": "84e5d9c7-979c-4830-822d-c27a1344492a",
+        "created": "2017-03-24T03:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-03-24T03:00:00",
+        "position": 0,
+        "revision_id": "5cb077aa-9d6a-4fbb-a642-0605c7215571",
+        "url_type": null,
+        "id": "9d8f9afb-edc8-48a4-b64e-4ca9293028d5",
+        "resource_type": null,
+        "size": 593920
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "上記技術項目のXLSファイルです。",
+        "name": "省エネ・再エネ東京仕様（平成26年6月改正）」技術項目",
+        "format": "XLS",
+        "url": "http://www.opendata.metro.tokyo.jp/2015dec/006_005_shouene_saiene.xls",
+        "cache_last_updated": null,
+        "package_id": "84e5d9c7-979c-4830-822d-c27a1344492a",
+        "created": "2017-03-24T03:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-03-24T03:00:00",
+        "position": 1,
+        "revision_id": "71572717-2e76-49d0-9888-203db1ced518",
+        "url_type": null,
+        "id": "4b9cb4cd-3f2f-4658-b6f3-8fe9befc4619",
+        "resource_type": null,
+        "size": 65536
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "環境",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c012.png",
+        "title": "環境",
+        "id": "427f3ee0-b28a-4fd2-b7dc-980507f154d2",
+        "name": "c012"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.zaimu.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:19.930633",
+      "title": "東京都財務局",
+      "name": "t000004",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000004.png",
+      "revision_id": "01005f89-2b3c-4cb8-be76-7d28c31f9529",
+      "type": "organization",
+      "id": "e93fd59b-c22c-4c42-8074-368082fec915",
+      "approval_status": "approved"
+    },
+    "name": "t000004d0000000003",
+    "isopen": true,
+    "url": "",
+    "notes": "【東京都財務局】　都有建築物の改築等にあたり、東京都建築物環境計画書制度の省エネ・再エネ評価等において最高評価を目指すため、導入を検討すべき省エネ・再エネ技術等を例示したもの",
+    "owner_org": "e93fd59b-c22c-4c42-8074-368082fec915",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "省エネ・再エネ東京仕様（平成26年6月改正）",
+    "revision_id": "7308c051-681b-4522-bdd8-257ce074ff85"
+  }
+}

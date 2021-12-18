@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "都営交通お客様センター",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "cce62a24-4829-4a11-a88e-620c7b6400cd",
+    "metadata_created": "2019-12-23T09:17:01.785978",
+    "metadata_modified": "2021-05-11T06:34:12.644541",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "《日暮里・舎人ライナー》 - [日暮里・舎人ライナー　各駅乗降人員一覧] 全線合計\n\n2019年4月～2020年3月\n",
+        "name": "全線合計",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/kotsu/nippori_toneri/nippori_toneri_passengers_all_route.csv",
+        "cache_last_updated": null,
+        "package_id": "cce62a24-4829-4a11-a88e-620c7b6400cd",
+        "created": "2019-07-25T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-01-25T08:23:00",
+        "position": 0,
+        "revision_id": "8bc8d40c-c694-4604-9d7e-6c889dc96cdf",
+        "url_type": null,
+        "id": "501864a5-f749-4d51-8074-f753bb7452db",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "《日暮里・舎人ライナー》 - [日暮里・舎人ライナー　各駅乗降人員一覧] 日暮里・舎人ライナー\n\n2019年4月～2020年3月\n",
+        "name": "日暮里・舎人ライナー",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/kotsu/nippori_toneri/nippori_toneri_passengers_nippori_toneri.csv",
+        "cache_last_updated": null,
+        "package_id": "cce62a24-4829-4a11-a88e-620c7b6400cd",
+        "created": "2019-07-25T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-01-25T08:24:00",
+        "position": 1,
+        "revision_id": "8bc8d40c-c694-4604-9d7e-6c889dc96cdf",
+        "url_type": null,
+        "id": "0ce4662b-d558-4d45-bd37-eed8311efd1a",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "交通情報",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c013.png",
+        "title": "交通情報",
+        "id": "38323541-753d-4230-b2dd-d9eb367ae5ed",
+        "name": "c013"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.kotsu.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:22.123863",
+      "title": "東京都交通局",
+      "name": "t000018",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "d47c06bd-1090-4a95-bea1-05d8261663a6",
+      "type": "organization",
+      "id": "058227fa-4a59-4028-a226-9eb858f9947a",
+      "approval_status": "approved"
+    },
+    "name": "t000018d0000000043",
+    "isopen": true,
+    "url": "https://www.kotsu.metro.tokyo.jp/nippori_toneri/kanren/passengers.html",
+    "notes": "【東京都交通局】日暮里・舎人ライナー　各駅乗降人員一覧",
+    "owner_org": "058227fa-4a59-4028-a226-9eb858f9947a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "日暮里・舎人ライナー　各駅乗降人員一覧",
+    "revision_id": "1c98f8e6-cc30-40e2-b616-0d0ef7e1dfa4"
+  }
+}

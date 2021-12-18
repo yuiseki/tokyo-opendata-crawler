@@ -1,0 +1,143 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "環境改善部自動車環境課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "61db0efb-afaa-4d46-83c4-170223aa134d",
+    "metadata_created": "2019-11-01T04:53:47.079503",
+    "metadata_modified": "2019-11-01T05:52:10.726846",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "別表第１ 二酸化炭素の排出係数（自動車排出ガス）",
+        "format": "CSV",
+        "url": "http://www.kankyo.metro.tokyo.jp/vehicle/sgw/newplan/newplan.files/Jidousyashishin4ki_1.csv",
+        "cache_last_updated": null,
+        "package_id": "61db0efb-afaa-4d46-83c4-170223aa134d",
+        "created": "2019-04-11T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-04-11T15:00:00",
+        "position": 0,
+        "revision_id": "4807e144-3b5f-4595-84ed-c31a8641331f",
+        "url_type": null,
+        "id": "0b9e8c74-1d09-4fbb-aa5b-39a466d26534",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "(1) エコドライブの手法",
+        "format": "CSV",
+        "url": "http://www.kankyo.metro.tokyo.jp/vehicle/sgw/newplan/newplan.files/Jidousyashishin4ki_2.csv",
+        "cache_last_updated": null,
+        "package_id": "61db0efb-afaa-4d46-83c4-170223aa134d",
+        "created": "2019-04-11T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-04-11T15:00:00",
+        "position": 1,
+        "revision_id": "f55dd487-3de7-4087-a210-e1404b3cb425",
+        "url_type": null,
+        "id": "1039da2a-8f40-44b2-b7db-52506573f20f",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "(2) 自動車使用合理化の手法",
+        "format": "CSV",
+        "url": "http://www.kankyo.metro.tokyo.jp/vehicle/sgw/newplan/newplan.files/Jidousyashishin4ki_3.csv",
+        "cache_last_updated": null,
+        "package_id": "61db0efb-afaa-4d46-83c4-170223aa134d",
+        "created": "2019-04-11T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-04-11T15:00:00",
+        "position": 2,
+        "revision_id": "48df341d-c58a-43ef-8055-150001d02d5c",
+        "url_type": null,
+        "id": "da27b4f4-e568-40f3-adab-49bc67bfc5f1",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 3,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "交通情報",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c013.png",
+        "title": "交通情報",
+        "id": "38323541-753d-4230-b2dd-d9eb367ae5ed",
+        "name": "c013"
+      },
+      {
+        "display_name": "環境",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c012.png",
+        "title": "環境",
+        "id": "427f3ee0-b28a-4fd2-b7dc-980507f154d2",
+        "name": "c012"
+      },
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.kankyo.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.710014",
+      "title": "東京都環境局",
+      "name": "t000009",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "a0bf6c30-64dc-48fe-9782-e38ae248a38d",
+      "type": "organization",
+      "id": "c8b93db3-9754-48d3-8b50-5cbe78d679e7",
+      "approval_status": "approved"
+    },
+    "name": "t000009d1800000010",
+    "isopen": true,
+    "url": "http://www.kankyo.metro.tokyo.jp/vehicle/sgw/newplan/newplan.html",
+    "notes": "【東京都環境局】(2) 自動車使用合理化の手法",
+    "owner_org": "c8b93db3-9754-48d3-8b50-5cbe78d679e7",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "東京都自動車環境管理指針（平成２８年３月２４日東京都告示第５２２号）",
+    "revision_id": "a30e0498-8c67-4c35-8d94-0c6c22dfc891"
+  }
+}

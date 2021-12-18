@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "東京都交通局",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "num_tags": 0,
+    "id": "e04671ca-97cf-4f27-846c-0210b2786a61",
+    "metadata_created": "2021-04-28T07:36:50.306335",
+    "metadata_modified": "2021-11-30T06:22:56.788363",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": "",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "東京都交通局各駅エレベーター点検・工事日程データのデータ項目定義書です。",
+        "name": "都営地下鉄各駅エレベーター点検・工事日程データ項目定義書",
+        "format": "XLSX",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/kotsu/elevator/130001_bureau-of-transportation_elevator_inspection_schedule_spec.xlsx",
+        "cache_last_updated": null,
+        "package_id": "e04671ca-97cf-4f27-846c-0210b2786a61",
+        "created": "2021-04-14T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-04-14T15:00:00",
+        "position": 0,
+        "revision_id": "8ba9efa0-0be1-4896-8b5e-6106d359da40",
+        "url_type": null,
+        "id": "c041129b-b8bb-4043-ae1c-676e03f935f0",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "都営地下鉄（浅草線、三田線、新宿線、大江戸線）の各駅エレベーター点検・工事日程データです。 ",
+        "name": "都営地下鉄各駅エレベーター点検・工事日程データ (2021年12月）",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/kotsu/elevator/130001_bureau-of-transportation_elevator_inspection_schedule.csv",
+        "cache_last_updated": null,
+        "package_id": "e04671ca-97cf-4f27-846c-0210b2786a61",
+        "created": "2021-11-25T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-11-25T15:00:00",
+        "position": 1,
+        "revision_id": "449771e5-d6f9-426e-a9b6-ccccb91acc3d",
+        "url_type": null,
+        "id": "3317e4a9-1aa5-4852-9be0-254720744fcf",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "交通情報",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c013.png",
+        "title": "交通情報",
+        "id": "38323541-753d-4230-b2dd-d9eb367ae5ed",
+        "name": "c013"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.kotsu.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:22.123863",
+      "title": "東京都交通局",
+      "name": "t000018",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "d47c06bd-1090-4a95-bea1-05d8261663a6",
+      "type": "organization",
+      "id": "058227fa-4a59-4028-a226-9eb858f9947a",
+      "approval_status": "approved"
+    },
+    "name": "t000018d0000000058",
+    "isopen": true,
+    "url": "https://www.kotsu.metro.tokyo.jp/subway/kanren/inspection.html",
+    "notes": "【東京都交通局】 毎月公表している都営地下鉄各駅のエレベータ―点検・工事日程（https://www.kotsu.metro.tokyo.jp/subway/kanren/inspection.html）のオープンデータです。 ",
+    "owner_org": "058227fa-4a59-4028-a226-9eb858f9947a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "毎月"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "都営地下鉄各駅エレベーター点検・工事日程データ",
+    "revision_id": "ddd529c7-8515-4773-9dea-d2f15b04766c"
+  }
+}

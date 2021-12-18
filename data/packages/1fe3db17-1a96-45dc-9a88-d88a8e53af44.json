@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "小金井市選挙管理委員会事務局",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "1fe3db17-1a96-45dc-9a88-d88a8e53af44",
+    "metadata_created": "2019-11-26T04:28:51.980120",
+    "metadata_modified": "2021-12-13T04:03:55.677795",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "町丁目別選挙人名簿登録者数",
+        "name": "",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/koganei/chochomokubetsumeibotorokusyasu.csv",
+        "cache_last_updated": null,
+        "package_id": "1fe3db17-1a96-45dc-9a88-d88a8e53af44",
+        "created": "2021-12-01T02:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-12-10T01:16:00",
+        "position": 0,
+        "revision_id": "aa678716-f0b8-46fd-a799-b4420b62d73b",
+        "url_type": null,
+        "id": "0329b10c-5c7b-4b27-b23d-c7c39231964e",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.koganei.lg.jp/",
+      "created": "2019-11-01T03:27:26.932340",
+      "title": "小金井市",
+      "name": "t132101",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "b1893a5d-c492-4ddc-bbe8-de1c201f3c2a",
+      "type": "organization",
+      "id": "419da1a8-a771-449b-8b9a-42b2935a046e",
+      "approval_status": "approved"
+    },
+    "name": "t132101d0000000007",
+    "isopen": true,
+    "url": "https://www.city.koganei.lg.jp/smph/shisei/466/snkyoseido/meibo.html",
+    "notes": "【小金井市】小金井市における町丁目別選挙人名簿登録者数です。\n\n（2021/12/1時点）\n",
+    "owner_org": "419da1a8-a771-449b-8b9a-42b2935a046e",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "年４回"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "町丁目別選挙人名簿登録者数",
+    "revision_id": "551cee37-50c9-41c1-bf63-8fc4bc4279cc"
+  }
+}

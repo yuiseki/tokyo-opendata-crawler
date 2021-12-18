@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "東京都環境局自然環境部 水環境課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "b1b13c2a-5ba8-4df9-a803-edb0daef31cd",
+    "metadata_created": "2021-06-02T08:58:11.046072",
+    "metadata_modified": "2021-06-02T08:58:45.359393",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "表２　公共用水域のダイオキシン類の測定結果(平成２７年度)",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/kankyo/R3/H27_DXN_Press.csv",
+        "cache_last_updated": null,
+        "package_id": "b1b13c2a-5ba8-4df9-a803-edb0daef31cd",
+        "created": "2021-04-12T05:42:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-04-12T05:42:00",
+        "position": 0,
+        "revision_id": "4981d4f5-11ba-4ad5-b38f-6a9e18b92ec9",
+        "url_type": null,
+        "id": "c34146b3-dbc0-406b-8104-e20251323cfc",
+        "resource_type": null,
+        "size": 6232
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.kankyo.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.710014",
+      "title": "東京都環境局",
+      "name": "t000009",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "a0bf6c30-64dc-48fe-9782-e38ae248a38d",
+      "type": "organization",
+      "id": "c8b93db3-9754-48d3-8b50-5cbe78d679e7",
+      "approval_status": "approved"
+    },
+    "name": "t000009d2000000038",
+    "isopen": true,
+    "url": "https://www.kankyo.metro.tokyo.lg.jp/chemical/chemical/dioxin/result/index.files/H27_DXN_Press.pdf",
+    "notes": "",
+    "owner_org": "c8b93db3-9754-48d3-8b50-5cbe78d679e7",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "ダイオキシン類調査結果・平成27年度ダイオキシン類排出量推計結果及び環境中のダイオキシン類調査結果",
+    "revision_id": "462d0b34-dd84-4b15-85e6-1b0db2659061"
+  }
+}

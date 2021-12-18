@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "立川市財務部課税課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "422e6f11-ffbd-4cc4-a403-1b50c968c4a8",
+    "metadata_created": "2021-10-11T02:27:13.747707",
+    "metadata_modified": "2021-10-11T02:27:19.079068",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "・各年の「固定資産概要調書」を基礎とした。\n\n・「その他」には、国又は地方公共団体が所有する公共用地、学校用地、基地、公衆用道路及び寺社境内等課税対象外土地が含まれる。\n",
+        "name": "地目別土地の面積",
+        "format": "CSV",
+        "url": "https://www.city.tachikawa.lg.jp/somu/opendate/koukai/nennpou/jinnkou/documents/1-2-2chimokubetsutochinomenseki.csv",
+        "cache_last_updated": null,
+        "package_id": "422e6f11-ffbd-4cc4-a403-1b50c968c4a8",
+        "created": "2020-06-30T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2020-06-30T15:00:00",
+        "position": 0,
+        "revision_id": "aeb66eb9-b7fa-4e2a-aef3-582d8dfca6cb",
+        "url_type": null,
+        "id": "cda85e64-7a51-4063-b6ef-03b54c709a15",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "・各年の「固定資産概要調書」を基礎とした。\n\n・「その他」には、国又は地方公共団体が所有する公共用地、学校用地、基地、公衆用道路及び寺社境内等課税対象外土地が含まれる。\n",
+        "name": "地目別土地の面積",
+        "format": "XLS",
+        "url": "https://www.city.tachikawa.lg.jp/somu/opendate/koukai/nennpou/jinnkou/documents/1-2-2chimokubetsutochinomenseki.xlsx",
+        "cache_last_updated": null,
+        "package_id": "422e6f11-ffbd-4cc4-a403-1b50c968c4a8",
+        "created": "2020-06-30T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2020-06-30T15:00:00",
+        "position": 1,
+        "revision_id": "84675f13-3d82-4004-9d25-c920096826a1",
+        "url_type": null,
+        "id": "9aad71ab-1002-4332-b726-0c7e9e5872d3",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "",
+      "created": "2021-09-21T02:50:23.993914",
+      "title": "立川市",
+      "name": "t132021",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t132021.png",
+      "revision_id": "8a86ddfe-ada6-4ad2-96a6-f108be8e73fe",
+      "type": "organization",
+      "id": "cc7a01da-dd01-4fb4-8fb9-5fb2b503c1ce",
+      "approval_status": "approved"
+    },
+    "name": "t132021d0000000003",
+    "isopen": true,
+    "url": "https://www.city.tachikawa.lg.jp/somu/opendate/koukai/nennpou/jinnkou/zinkou.html",
+    "notes": "【立川市】立川市の地目別（田、畑、宅地、山林、その他）の面積です。",
+    "owner_org": "cc7a01da-dd01-4fb4-8fb9-5fb2b503c1ce",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "立川市の地目別土地の面積",
+    "revision_id": "906ec6a6-4177-4992-9a63-c955993bba8a"
+  }
+}

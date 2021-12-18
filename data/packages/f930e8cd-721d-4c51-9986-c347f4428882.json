@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "企画財政課企画情報係",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "f930e8cd-721d-4c51-9986-c347f4428882",
+    "metadata_created": "2019-11-01T04:59:10.807022",
+    "metadata_modified": "2019-11-01T09:35:28.004689",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "町営温泉の一覧です。",
+        "name": "八丈町営温泉一覧（EXCELファイル）",
+        "format": "XLSX",
+        "url": "http://www.town.hachijo.tokyo.jp/kakuka/kikaku_zaisei/data/onsen.xlsx",
+        "cache_last_updated": null,
+        "package_id": "f930e8cd-721d-4c51-9986-c347f4428882",
+        "created": "2017-12-13T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-12-13T15:00:00",
+        "position": 0,
+        "revision_id": "95f638fa-51a2-497c-9a87-1c788d02daf3",
+        "url_type": null,
+        "id": "70c6c780-3482-4805-8785-918920bfa02b",
+        "resource_type": null,
+        "size": 11264
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "町営温泉の一覧です。",
+        "name": "八丈町営温泉一覧（CSVファイル）",
+        "format": "CSV",
+        "url": "http://www.town.hachijo.tokyo.jp/kakuka/kikaku_zaisei/data/onsen.csv",
+        "cache_last_updated": null,
+        "package_id": "f930e8cd-721d-4c51-9986-c347f4428882",
+        "created": "2017-12-13T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-12-13T15:00:00",
+        "position": 1,
+        "revision_id": "2f93ed9b-a4b3-4b73-a6dc-6b11290613e2",
+        "url_type": null,
+        "id": "22e28f92-ab2b-40eb-8965-f912e92b95b7",
+        "resource_type": null,
+        "size": 2048
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "観光",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c008.png",
+        "title": "観光",
+        "id": "420fd8d6-2bde-4746-9354-6344ec19ba93",
+        "name": "c008"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.town.hachijo.tokyo.jp/",
+      "created": "2019-11-01T03:27:28.104581",
+      "title": "八丈町",
+      "name": "t134015",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t134015.png",
+      "revision_id": "1ab982ed-eacf-4952-83ff-5434bb8ffed9",
+      "type": "organization",
+      "id": "786fc6c0-da63-4f1f-b37c-3c235b216001",
+      "approval_status": "approved"
+    },
+    "name": "t134015d0000000001",
+    "isopen": true,
+    "url": "http://www.town.hachijo.tokyo.jp/onsen/os0002.htm",
+    "notes": "【八丈町】　町営温泉の一覧です。",
+    "owner_org": "786fc6c0-da63-4f1f-b37c-3c235b216001",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "八丈町営温泉一覧",
+    "revision_id": "3dc0a879-cf76-490f-ac01-d7823569a165"
+  }
+}

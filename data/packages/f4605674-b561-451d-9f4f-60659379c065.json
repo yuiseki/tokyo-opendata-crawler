@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "東京都教育庁都立学校教育部高等学校教育課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "f4605674-b561-451d-9f4f-60659379c065",
+    "metadata_created": "2021-06-28T02:33:23.337668",
+    "metadata_modified": "2021-06-28T02:33:26.219881",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "１＜普通科＞",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/kyouiku/R3/28ichiran_29.csv",
+        "cache_last_updated": null,
+        "package_id": "f4605674-b561-451d-9f4f-60659379c065",
+        "created": "2021-03-16T00:11:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-03-16T00:11:00",
+        "position": 0,
+        "revision_id": "52b9747c-e7df-4b2c-80dc-e41f78694f0d",
+        "url_type": null,
+        "id": "5decdb16-ae0d-46e0-8252-c316280078a9",
+        "resource_type": null,
+        "size": 1020
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.kyoiku.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:22.598778",
+      "title": "東京都教育庁",
+      "name": "t000021",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000021.png",
+      "revision_id": "3b8eaba6-3e9c-4401-a703-dcd9d28741aa",
+      "type": "organization",
+      "id": "f510f5b2-b249-499d-a00f-440b1f646e13",
+      "approval_status": "approved"
+    },
+    "name": "t000021d2000000169",
+    "isopen": true,
+    "url": "https://www.kyoiku.metro.tokyo.lg.jp/press/press_release/2016/files/release20160708_01/ichiran02.pdf",
+    "notes": "",
+    "owner_org": "f510f5b2-b249-499d-a00f-440b1f646e13",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "平成28年度第二学期都立高等学校補欠募集（転学・編入学）の実施結果について_補欠募集実施結果（通信制課程）",
+    "revision_id": "4e3a0e0c-5a19-4ca5-9c42-91977bb906a6"
+  }
+}

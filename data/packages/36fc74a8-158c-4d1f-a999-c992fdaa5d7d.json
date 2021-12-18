@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "地球環境エネルギー部次世代エネルギー推進課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "36fc74a8-158c-4d1f-a999-c992fdaa5d7d",
+    "metadata_created": "2019-11-01T04:53:45.155358",
+    "metadata_modified": "2019-11-01T05:52:00.809824",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "地域冷暖房区域区市別一覧（PDFデータ）",
+        "format": "PDF",
+        "url": "http://www7.kankyo.metro.tokyo.jp/yukoriyou/doc/KEIKAKUKUIKIICHIRAN140531.pdf",
+        "cache_last_updated": null,
+        "package_id": "36fc74a8-158c-4d1f-a999-c992fdaa5d7d",
+        "created": "2017-03-28T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-03-28T15:00:00",
+        "position": 0,
+        "revision_id": "1cfca4f2-5190-4314-9233-c7f2a5feeb61",
+        "url_type": null,
+        "id": "804e010a-aa42-44e7-8704-aa480de5bfae",
+        "resource_type": null,
+        "size": 140288
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "地域冷暖房区域区市別一覧（CSVデータ）",
+        "format": "CSV",
+        "url": "http://www7.kankyo.metro.tokyo.jp/yukoriyou/doc/tiikireidanboukuikikusibetuitiran170328.csv",
+        "cache_last_updated": null,
+        "package_id": "36fc74a8-158c-4d1f-a999-c992fdaa5d7d",
+        "created": "2017-03-28T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-03-28T15:00:00",
+        "position": 1,
+        "revision_id": "5989cdf5-70a8-4cd5-9146-f621a8f3deee",
+        "url_type": null,
+        "id": "64b12ab3-a7db-4255-87d8-2b73f4640416",
+        "resource_type": null,
+        "size": 140288
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "環境",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c012.png",
+        "title": "環境",
+        "id": "427f3ee0-b28a-4fd2-b7dc-980507f154d2",
+        "name": "c012"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.kankyo.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.710014",
+      "title": "東京都環境局",
+      "name": "t000009",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "a0bf6c30-64dc-48fe-9782-e38ae248a38d",
+      "type": "organization",
+      "id": "c8b93db3-9754-48d3-8b50-5cbe78d679e7",
+      "approval_status": "approved"
+    },
+    "name": "t000009d0000000002",
+    "isopen": true,
+    "url": "",
+    "notes": "【東京都環境局】",
+    "owner_org": "c8b93db3-9754-48d3-8b50-5cbe78d679e7",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "地域冷暖房区域区市別一覧",
+    "revision_id": "b03d4102-b122-4c83-a549-b5a9ec8a638c"
+  }
+}

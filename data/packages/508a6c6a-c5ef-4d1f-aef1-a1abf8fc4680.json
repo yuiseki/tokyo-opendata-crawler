@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "清瀬市教育部教育総務課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "508a6c6a-c5ef-4d1f-aef1-a1abf8fc4680",
+    "metadata_created": "2021-06-16T02:24:37.271504",
+    "owner_org": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
+    "metadata_modified": "2021-06-16T02:25:18.275523",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "【清瀬市】小学校通学区域の一覧です。",
+        "format": "CSV",
+        "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/008/690/132217_school_area.csv",
+        "created": "2021-03-05T00:39:00",
+        "state": "active",
+        "package_id": "508a6c6a-c5ef-4d1f-aef1-a1abf8fc4680",
+        "last_modified": "2021-03-05T00:39:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "0bb6c2f6-289e-4767-8c12-7ebc399faa41",
+        "size": null,
+        "id": "81da51b7-f576-4c46-b9bc-75286f695490",
+        "resource_type": null,
+        "name": "小学校通学区域情報"
+      },
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "【清瀬市】小学校通学区域の一覧です。",
+        "format": "XLSX",
+        "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/008/690/132217_school_area.xlsx",
+        "created": "2021-03-05T00:39:00",
+        "state": "active",
+        "package_id": "508a6c6a-c5ef-4d1f-aef1-a1abf8fc4680",
+        "last_modified": "2021-03-05T00:39:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 1,
+        "revision_id": "405f3a9c-58b7-42ff-9482-7565a0a071d8",
+        "size": null,
+        "id": "be321c20-c847-420c-9254-781892d40b59",
+        "resource_type": null,
+        "name": "小学校通学区域情報"
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "交通情報",
+        "description": "",
+        "title": "交通情報",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c013.png",
+        "id": "38323541-753d-4230-b2dd-d9eb367ae5ed",
+        "name": "c013"
+      }
+    ],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t132217d0000000032",
+    "isopen": true,
+    "url": "https://www.city.kiyose.lg.jp/opendata/opendataichiran/1008690.html",
+    "notes": "【清瀬市】小学校通学区域の一覧です。",
+    "title": "小学校通学区域情報",
+    "extras": [
+      {
+        "value": "変更の都度",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "https://www.city.kiyose.lg.jp/index.html",
+      "title": "清瀬市",
+      "created": "2020-08-05T08:00:00.206131",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "f8ef546d-d3f4-46e8-9741-39a6eec61618",
+      "type": "organization",
+      "id": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
+      "name": "t132217"
+    },
+    "revision_id": "b3c9d890-4f4b-4f20-9440-8fd32faa3539"
+  }
+}

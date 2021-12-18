@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "河川部計画課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "0dbe6575-7cfc-4d06-94a0-87b8e4c615e0",
+    "metadata_created": "2019-11-01T04:55:02.732729",
+    "metadata_modified": "2019-11-01T08:05:51.858107",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "カスリーン台風（昭和22年９月）水害記録",
+        "format": "CSV",
+        "url": "http://www.kensetsu.metro.tokyo.jp/jigyo/river/suishin/suigai_kiroku/html/kasurin_01.csv",
+        "cache_last_updated": null,
+        "package_id": "0dbe6575-7cfc-4d06-94a0-87b8e4c615e0",
+        "created": "2019-01-16T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-01-16T15:00:00",
+        "position": 0,
+        "revision_id": "0e981df5-8fed-4077-879d-e6853fcf1a85",
+        "url_type": null,
+        "id": "91229136-0673-423a-80d2-5607b782dbcc",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "キティ台風（昭和24年８・９月）水害記録",
+        "format": "CSV",
+        "url": "http://www.kensetsu.metro.tokyo.jp/jigyo/river/suishin/suigai_kiroku/html/kithi_01.csv",
+        "cache_last_updated": null,
+        "package_id": "0dbe6575-7cfc-4d06-94a0-87b8e4c615e0",
+        "created": "2019-01-16T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-01-16T15:00:00",
+        "position": 1,
+        "revision_id": "d959db62-fd8b-4e5d-92b6-31b51529ff4c",
+        "url_type": null,
+        "id": "fd5b6e61-6940-40bc-bd34-5906c6438673",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "環境",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c012.png",
+        "title": "環境",
+        "id": "427f3ee0-b28a-4fd2-b7dc-980507f154d2",
+        "name": "c012"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.kensetsu.metro.tokyo.jp/index.html\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:21.496451",
+      "title": "東京都建設局",
+      "name": "t000014",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000014.jpg",
+      "revision_id": "06a19049-68df-4566-aae1-4c7d52e3a2dc",
+      "type": "organization",
+      "id": "c6763312-f089-4659-8c88-8b67ec9dc4dd",
+      "approval_status": "approved"
+    },
+    "name": "t000014d1800000003",
+    "isopen": true,
+    "url": "",
+    "notes": "【東京都建設局】",
+    "owner_org": "c6763312-f089-4659-8c88-8b67ec9dc4dd",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "東京を襲った大水害",
+    "revision_id": "eafa158e-306b-4e38-8af1-e4762fbc8726"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "町田市環境資源部環境保全課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "dbb86cf6-a8ec-4496-af60-f70873dca735",
+    "metadata_created": "2019-11-01T04:58:41.302401",
+    "metadata_modified": "2020-06-17T06:58:12.918148",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "データ時点：2020年3月現在。",
+        "name": "公共トイレマップ",
+        "format": "CSV",
+        "url": "https://www.city.machida.tokyo.jp/shisei/opendata/chizujoho/koukyoutoire.files/132098_public_toilet.csv",
+        "cache_last_updated": null,
+        "package_id": "dbb86cf6-a8ec-4496-af60-f70873dca735",
+        "created": "2017-06-19T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2020-05-20T15:00:00",
+        "position": 0,
+        "revision_id": "2be46abb-55a1-49b2-aa74-cd5503752439",
+        "url_type": null,
+        "id": "f5970327-1676-4b4e-a3b7-af43909ad42b",
+        "resource_type": null,
+        "size": 13312
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.machida.tokyo.jp/",
+      "created": "2019-11-01T03:27:26.775139",
+      "title": "町田市",
+      "name": "t132098",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t132098.png",
+      "revision_id": "afc39d6e-faf0-4358-90a5-a32d669724a1",
+      "type": "organization",
+      "id": "01ee6b09-cb58-4100-8d95-623ad6b238ef",
+      "approval_status": "approved"
+    },
+    "name": "t132098d0000000023",
+    "isopen": true,
+    "url": "",
+    "notes": "【町田市】",
+    "owner_org": "01ee6b09-cb58-4100-8d95-623ad6b238ef",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "公共トイレマップ",
+    "revision_id": "668575d8-8037-4b37-ab31-cd03a3a9edee"
+  }
+}

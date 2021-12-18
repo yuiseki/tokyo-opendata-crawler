@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "健康安全部感染症対策課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "217380e2-9e29-47d3-a9fa-ae188da01199",
+    "metadata_created": "2019-11-01T04:54:34.006347",
+    "metadata_modified": "2019-11-01T06:11:34.931384",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "東京都感染症発生動向調査年別患者報告数（一、二、三、四、五類全数）",
+        "format": "CSV",
+        "url": "http://www.fukushihoken.metro.tokyo.jp/iryo/kansen/ky_keikaku.files/kansensyoyoboukeikaku_1.csv",
+        "cache_last_updated": null,
+        "package_id": "217380e2-9e29-47d3-a9fa-ae188da01199",
+        "created": "2019-06-24T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-06-24T15:00:00",
+        "position": 0,
+        "revision_id": "9c6173a3-6dba-4486-9482-0e7719a05b9a",
+        "url_type": null,
+        "id": "292c976b-7a41-4590-a3f0-5eb90203a207",
+        "resource_type": null,
+        "size": 1024
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "感染症指定医療機関一覧（第一種及び第二種）（平成30年3月現在）",
+        "format": "CSV",
+        "url": "http://www.fukushihoken.metro.tokyo.jp/iryo/kansen/ky_keikaku.files/kansensyoyoboukeikaku_2.csv",
+        "cache_last_updated": null,
+        "package_id": "217380e2-9e29-47d3-a9fa-ae188da01199",
+        "created": "2019-06-24T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-06-24T15:00:00",
+        "position": 1,
+        "revision_id": "e898f0c5-e949-47e5-bfaa-e3595b07f805",
+        "url_type": null,
+        "id": "e5256e0f-3d91-4857-a38d-cd0968b8aa42",
+        "resource_type": null,
+        "size": 1024
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "医療・福祉",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c005.png",
+        "title": "医療・福祉",
+        "id": "0d3cd956-612c-45c5-b1ee-75c1a5835c0e",
+        "name": "c005"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.fukushihoken.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.864364",
+      "title": "東京都福祉保健局",
+      "name": "t000010",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000010.jpg",
+      "revision_id": "8d3da6a9-bfe7-4cd1-9d5d-9737b2293939",
+      "type": "organization",
+      "id": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+      "approval_status": "approved"
+    },
+    "name": "t000010d1800000045",
+    "isopen": true,
+    "url": "",
+    "notes": "【東京福祉保健局】",
+    "owner_org": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "東京都感染症予防計画_東京都感染症予防計画（PDF：177KB）",
+    "revision_id": "a96debc3-b3ac-4c13-a957-0baa14ed93b0"
+  }
+}

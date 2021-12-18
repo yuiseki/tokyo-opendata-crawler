@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "健康安全部食品監視課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "18f4f614-6103-48cc-aa05-086b8152b901",
+    "metadata_created": "2019-11-01T04:54:08.791337",
+    "metadata_modified": "2019-11-01T06:04:22.986026",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "過去10年間に起こった、ふぐによる食中毒の発生状況（全国）",
+        "format": "PDF",
+        "url": "http://www.fukushihoken.metro.tokyo.jp/shokuhin/hugu/files/hugu-leaflet.pdf",
+        "cache_last_updated": null,
+        "package_id": "18f4f614-6103-48cc-aa05-086b8152b901",
+        "created": "2018-08-30T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-08-30T15:00:00",
+        "position": 0,
+        "revision_id": "cbb99d11-8712-4585-8175-8cf046c1ccd5",
+        "url_type": null,
+        "id": "1b19d2e0-a5e5-4368-b08f-1fe8d0ad340b",
+        "resource_type": null,
+        "size": 2097152
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "過去10年間に起こった、ふぐによる食中毒の発生状況（全国）",
+        "format": "CSV",
+        "url": "http://www.fukushihoken.metro.tokyo.jp/shokuhin/hugu/files/hasseijoukyou.csv",
+        "cache_last_updated": null,
+        "package_id": "18f4f614-6103-48cc-aa05-086b8152b901",
+        "created": "2018-08-30T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-08-30T15:00:00",
+        "position": 1,
+        "revision_id": "715c4a90-6207-4780-a42a-c3c77424347b",
+        "url_type": null,
+        "id": "b0758877-3703-4172-8826-bd0d0ec8b7cd",
+        "resource_type": null,
+        "size": 1024
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "医療・福祉",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c005.png",
+        "title": "医療・福祉",
+        "id": "0d3cd956-612c-45c5-b1ee-75c1a5835c0e",
+        "name": "c005"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.fukushihoken.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.864364",
+      "title": "東京都福祉保健局",
+      "name": "t000010",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000010.jpg",
+      "revision_id": "8d3da6a9-bfe7-4cd1-9d5d-9737b2293939",
+      "type": "organization",
+      "id": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+      "approval_status": "approved"
+    },
+    "name": "t000010d1700000046",
+    "isopen": true,
+    "url": "http://www.fukushihoken.metro.tokyo.jp/shokuhin/hugu/index2.html",
+    "notes": "【東京都福祉保健局】「リーフレット　東京都におけるふぐの取扱いについて」",
+    "owner_org": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "公開時のみ"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "ふぐ加工製品の取扱いについて",
+    "revision_id": "238cdd6a-fee3-4286-afca-0d4501f72a57"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "課税課 ",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "3e200c50-559b-46a4-be4c-5db2e7d860c5",
+    "metadata_created": "2019-11-01T04:59:00.225541",
+    "metadata_modified": "2021-10-06T07:58:09.603721",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "各年7月1日現在の個人市民税の推移を公表しています。",
+        "name": "個人市民税の推移（EXCELファイル）",
+        "format": "XLSX",
+        "url": "https://www.city.inagi.tokyo.jp/shisei/gyosei/opendata/opendata_catalogpage/zei.files/031.xlsx",
+        "cache_last_updated": null,
+        "package_id": "3e200c50-559b-46a4-be4c-5db2e7d860c5",
+        "created": "2021-10-04T00:58:29.028655",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": null,
+        "position": 0,
+        "revision_id": "98b554f0-9013-440c-9371-d950e773861c",
+        "url_type": null,
+        "id": "92f03c5d-00ec-4e91-9488-467131df26f7",
+        "resource_type": null,
+        "size": 15360
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "各年7月1日現在の個人市民税の推移を公表しています。",
+        "name": "個人市民税の推移（CSVファイル）",
+        "format": "CSV",
+        "url": "https://www.city.inagi.tokyo.jp/shisei/gyosei/opendata/opendata_catalogpage/zei.files/031.csv",
+        "cache_last_updated": null,
+        "package_id": "3e200c50-559b-46a4-be4c-5db2e7d860c5",
+        "created": "2021-10-04T00:58:29.387230",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": null,
+        "position": 1,
+        "revision_id": "98b554f0-9013-440c-9371-d950e773861c",
+        "url_type": null,
+        "id": "9188eb94-e962-479f-81b6-30466ed1e1e2",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "税金",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c007.png",
+        "title": "税金",
+        "id": "bb8a1d8b-5217-44c2-8eca-81addb671f0e",
+        "name": "c007"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.inagi.tokyo.jp/",
+      "created": "2019-11-01T03:27:27.462971",
+      "title": "稲城市",
+      "name": "t132250",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t132250.jpg",
+      "revision_id": "f68dd2e1-e0a9-41bc-a7b4-2a1138104a3f",
+      "type": "organization",
+      "id": "457d0f12-2dd5-4b86-a227-fb4e01ef0ebc",
+      "approval_status": "approved"
+    },
+    "name": "t132250d0000000008",
+    "isopen": true,
+    "url": "",
+    "notes": "【稲城市】",
+    "owner_org": "457d0f12-2dd5-4b86-a227-fb4e01ef0ebc",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "１年ごと"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "個人市民税の推移",
+    "revision_id": "ae87a9a3-4df1-44b3-962a-d6a2395b5465"
+  }
+}

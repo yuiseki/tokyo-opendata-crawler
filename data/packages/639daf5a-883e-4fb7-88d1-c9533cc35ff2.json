@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "都民生活部地域活動推進課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "639daf5a-883e-4fb7-88d1-c9533cc35ff2",
+    "metadata_created": "2019-11-01T04:53:20.525731",
+    "metadata_modified": "2019-11-01T05:43:39.594456",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "東京都内区市町村におけるNPO等支援・協働に関する施策の実施状況（平成27年度版）",
+        "name": "東京都内区市町村におけるNPO等支援・協働に関する施策の実施状況（平成27年度版）",
+        "format": "CSV",
+        "url": "http://www.seikatubunka.metro.tokyo.jp/chiiki_tabunka/chiiki_katsudo/shimin/files/0000000041/27kushtyouson-sesaku.csv",
+        "cache_last_updated": null,
+        "package_id": "639daf5a-883e-4fb7-88d1-c9533cc35ff2",
+        "created": "2018-04-30T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-04-30T15:00:00",
+        "position": 0,
+        "revision_id": "72e7c5aa-d4cb-46ec-a6cb-949b5f1f7218",
+        "url_type": null,
+        "id": "d3c616be-58fe-4b52-b3a0-711c2bec2bf8",
+        "resource_type": null,
+        "size": 5120
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "東京都内区市町村におけるNPO等支援・協働に関する施策の実施状況（平成28年度版）",
+        "name": "東京都内区市町村におけるNPO等支援・協働に関する施策の実施状況（平成28年度版）",
+        "format": "CSV",
+        "url": "http://www.seikatubunka.metro.tokyo.jp/chiiki_tabunka/chiiki_katsudo/shimin/files/0000000041/28kushtyouson-sesaku.csv",
+        "cache_last_updated": null,
+        "package_id": "639daf5a-883e-4fb7-88d1-c9533cc35ff2",
+        "created": "2018-04-30T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-04-30T15:00:00",
+        "position": 1,
+        "revision_id": "ef4f2387-52f1-4434-ad18-c0dceb9c8635",
+        "url_type": null,
+        "id": "2a0951e9-9fb7-4d39-bf27-419fe4538de7",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.seikatubunka.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.245320",
+      "title": "東京都生活文化局",
+      "name": "t000006",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "e09ebb81-026e-4a29-927c-3490964055ad",
+      "type": "organization",
+      "id": "3f65c30d-0809-4fc6-8f6c-82261b14152e",
+      "approval_status": "approved"
+    },
+    "name": "t000006d1700000021",
+    "isopen": true,
+    "url": "",
+    "notes": "【東京都生活文化局】東京都内区市町村におけるNPO等支援・協働に関する施策の実施状況のデータです。",
+    "owner_org": "3f65c30d-0809-4fc6-8f6c-82261b14152e",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "市民活動の促進_都内区市町村のNPO支援・協働に関する施策の実施状況",
+    "revision_id": "1f601472-dd9d-4b11-b5b2-e07f38ef1c5a"
+  }
+}

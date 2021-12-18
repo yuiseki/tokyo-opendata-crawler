@@ -1,0 +1,93 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "狛江市総務部総務課情報システム係",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 1,
+    "id": "3843eb50-a66c-48c8-b976-8bffab9aa9aa",
+    "metadata_created": "2019-11-01T04:58:58.300752",
+    "metadata_modified": "2019-11-01T09:34:08.820531",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "文化財一覧",
+        "format": "CSV",
+        "url": "http://www.opendata.metro.tokyo.jp/suisyoudataset/132195_cultural_property.csv",
+        "cache_last_updated": null,
+        "package_id": "3843eb50-a66c-48c8-b976-8bffab9aa9aa",
+        "created": "2019-03-04T04:53:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-03-04T04:53:00",
+        "position": 0,
+        "revision_id": "1f4be128-225e-45bb-bb10-33ce373d6540",
+        "url_type": null,
+        "id": "58cef868-8ce2-49e5-a872-c19762c5a885",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [
+      {
+        "vocabulary_id": null,
+        "state": "active",
+        "display_name": "推奨データセット",
+        "id": "8a843f9d-b0c2-465c-86da-1df660de0b32",
+        "name": "推奨データセット"
+      }
+    ],
+    "groups": [
+      {
+        "display_name": "観光",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c008.png",
+        "title": "観光",
+        "id": "420fd8d6-2bde-4746-9354-6344ec19ba93",
+        "name": "c008"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.komae.tokyo.jp/index.cfm",
+      "created": "2019-11-01T03:27:27.255699",
+      "title": "狛江市",
+      "name": "t132195",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t132195.jpg",
+      "revision_id": "5667bf7a-a9aa-49fe-8c4f-816e0f2c87c9",
+      "type": "organization",
+      "id": "9a412230-d02b-48df-b6ed-77bd5df5802b",
+      "approval_status": "approved"
+    },
+    "name": "t132195d0000000003",
+    "isopen": true,
+    "url": "",
+    "notes": "【狛江市】狛江市が指定等を行った文化財の一覧です。内閣官房情報通信技術（IT）総合戦略室が平成29年12月22日に公開した、推奨データセットに準拠して作成しています。",
+    "owner_org": "9a412230-d02b-48df-b6ed-77bd5df5802b",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "年１回（３月頃）"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "文化財一覧",
+    "revision_id": "389e9227-2321-4310-85f5-264236da8e46"
+  }
+}

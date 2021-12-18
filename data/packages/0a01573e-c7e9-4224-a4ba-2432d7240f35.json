@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "予防部危険物課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "0a01573e-c7e9-4224-a4ba-2432d7240f35",
+    "metadata_created": "2019-11-01T04:55:24.475711",
+    "metadata_modified": "2019-11-01T08:09:31.232671",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "第10表 予防規程を定めなければならない危険物施設（平成27年3月末現在）",
+        "format": "CSV",
+        "url": "http://www.opendata.metro.tokyo.jp/shoubou/2018_03/26_3_07.csv",
+        "cache_last_updated": null,
+        "package_id": "0a01573e-c7e9-4224-a4ba-2432d7240f35",
+        "created": "2018-03-29T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-03-29T15:00:00",
+        "position": 0,
+        "revision_id": "d2bd0810-b8ff-4185-8d57-b22efee7b874",
+        "url_type": null,
+        "id": "bef3fe02-a72f-4e40-a58a-b9a9ca90447b",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "防災・災害計画",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c001.png",
+        "title": "防災・災害計画",
+        "id": "8eb52f8e-0d10-44f4-8bb4-2a488d0f8465",
+        "name": "c001"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.tfd.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:21.965529",
+      "title": "東京消防庁",
+      "name": "t000017",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000017.png",
+      "revision_id": "7929d63d-3aaa-469d-a85e-7eee6a1df97d",
+      "type": "organization",
+      "id": "7270d173-e93e-4056-9b29-4b00ec036c81",
+      "approval_status": "approved"
+    },
+    "name": "t000017d1700000045",
+    "isopen": true,
+    "url": "http://www.tfd.metro.tokyo.jp/hp-kikenbutuka/report/index.html",
+    "notes": "【東京消防庁】",
+    "owner_org": "7270d173-e93e-4056-9b29-4b00ec036c81",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "危険物行政の現況と危険物施設等における事故の概要　第2　危険物規制に関する事務処理の状況",
+    "revision_id": "48f433a1-32d4-43a1-9e9a-7d637eb1cfa1"
+  }
+}

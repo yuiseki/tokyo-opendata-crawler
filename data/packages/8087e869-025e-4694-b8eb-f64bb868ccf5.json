@@ -1,0 +1,93 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "東大和市総務部情報管理課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "num_tags": 1,
+    "id": "8087e869-025e-4694-b8eb-f64bb868ccf5",
+    "metadata_created": "2020-04-13T02:36:40.606833",
+    "metadata_modified": "2020-04-13T02:37:43.603562",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": "",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "観光施設一覧",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/suisyoudataset/132209_open_data_list.csv",
+        "cache_last_updated": null,
+        "package_id": "8087e869-025e-4694-b8eb-f64bb868ccf5",
+        "created": "2020-03-17T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2020-03-17T15:00:00",
+        "position": 0,
+        "revision_id": "728119e0-0cac-4737-9710-4fa07c61af41",
+        "url_type": null,
+        "id": "730642aa-af08-4aa5-bb53-d15ae5c449f1",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [
+      {
+        "vocabulary_id": null,
+        "state": "active",
+        "display_name": "推奨データセット",
+        "id": "8a843f9d-b0c2-465c-86da-1df660de0b32",
+        "name": "推奨データセット"
+      }
+    ],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.higashiyamato.lg.jp/",
+      "created": "2020-04-13T02:22:27.517463",
+      "title": "東大和市",
+      "name": "t132209",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "372264a8-af65-4394-ab3a-7f4bc3d78dc9",
+      "type": "organization",
+      "id": "b558e676-e195-4ccb-a5b5-37d5d519df31",
+      "approval_status": "approved"
+    },
+    "name": "t132209d0000000005",
+    "isopen": true,
+    "url": "https://www.city.higashiyamato.lg.jp/index.cfm/36,101748,383,html",
+    "notes": "【東大和市】東大和市のオープンデータ一覧です。内閣官房情報通信技術（IT）総合戦略室が平成29年12月22日に公開した、推奨データセットに準拠して作成しています。",
+    "owner_org": "b558e676-e195-4ccb-a5b5-37d5d519df31",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "オープンデータ一覧",
+    "revision_id": "0632e554-38a0-4b42-84c1-c2e0e00c1a38"
+  }
+}

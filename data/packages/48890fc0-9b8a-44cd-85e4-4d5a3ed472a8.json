@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "都営交通お客様センター",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "48890fc0-9b8a-44cd-85e4-4d5a3ed472a8",
+    "metadata_created": "2019-12-23T09:18:23.636333",
+    "metadata_modified": "2021-05-11T06:47:52.814680",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "《その他の事業》 - [関連事業　関連事業における公共貢献　] 花粉症対策\n\n※電子マネー利用による売上金額の0.1％を、公益財団法人東京都農林水産振興財団へ寄付\n",
+        "name": "花粉症対策",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/kotsu/other/other_public_hayfever.csv",
+        "cache_last_updated": null,
+        "package_id": "48890fc0-9b8a-44cd-85e4-4d5a3ed472a8",
+        "created": "2019-07-29T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2020-12-18T09:08:00",
+        "position": 0,
+        "revision_id": "8738ce02-d9a8-4b8b-8f0e-2ad87673f18e",
+        "url_type": null,
+        "id": "e6acdfb1-ccf6-4d37-a84c-4c8c1701a327",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "《その他の事業》 - [関連事業　関連事業における公共貢献　] 障害者店舗",
+        "name": "障害者店舗",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/kotsu/other/other_public_handicapped.csv",
+        "cache_last_updated": null,
+        "package_id": "48890fc0-9b8a-44cd-85e4-4d5a3ed472a8",
+        "created": "2019-07-29T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2020-12-18T09:10:00",
+        "position": 1,
+        "revision_id": "8738ce02-d9a8-4b8b-8f0e-2ad87673f18e",
+        "url_type": null,
+        "id": "756dab91-634a-4a28-9aaa-8aa56dabbe59",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "環境",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c012.png",
+        "title": "環境",
+        "id": "427f3ee0-b28a-4fd2-b7dc-980507f154d2",
+        "name": "c012"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.kotsu.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:22.123863",
+      "title": "東京都交通局",
+      "name": "t000018",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "d47c06bd-1090-4a95-bea1-05d8261663a6",
+      "type": "organization",
+      "id": "058227fa-4a59-4028-a226-9eb858f9947a",
+      "approval_status": "approved"
+    },
+    "name": "t000018d0000000049",
+    "isopen": true,
+    "url": "https://www.kotsu.metro.tokyo.jp/other/kanren/public/index.html",
+    "notes": "【東京都交通局】関連事業　関連事業における公共貢献　",
+    "owner_org": "058227fa-4a59-4028-a226-9eb858f9947a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "関連事業　関連事業における公共貢献",
+    "revision_id": "f652b978-0c0b-4027-b064-c664616c5f5d"
+  }
+}

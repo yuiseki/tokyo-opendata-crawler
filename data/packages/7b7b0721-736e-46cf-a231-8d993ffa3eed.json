@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "水道局浄水部",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "7b7b0721-736e-46cf-a231-8d993ffa3eed",
+    "metadata_created": "2021-05-21T02:06:40.104255",
+    "metadata_modified": "2021-05-21T02:07:04.203049",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "区部と多摩の配水量比率の推移（一日平均配水量）",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/suidou/R3/haisuiryohiritu.csv",
+        "cache_last_updated": null,
+        "package_id": "7b7b0721-736e-46cf-a231-8d993ffa3eed",
+        "created": "2021-01-23T00:54:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-01-23T00:54:00",
+        "position": 0,
+        "revision_id": "f6f1c7d7-82c3-4188-8181-eb7e553b0e08",
+        "url_type": null,
+        "id": "33a0a94a-9e75-4ff3-acd3-28a29e63a807",
+        "resource_type": null,
+        "size": 276
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.waterworks.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:22.280579",
+      "title": "東京都水道局",
+      "name": "t000019",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000019.jpg",
+      "revision_id": "6f93ebbd-34d2-48da-9305-0c1de5e96c27",
+      "type": "organization",
+      "id": "df3e208c-40a5-4f30-b0f2-491ceffa6423",
+      "approval_status": "approved"
+    },
+    "name": "t000019d2000000013",
+    "isopen": true,
+    "url": "http://www.waterworks.metro.tokyo.jp/suidojigyo/torikumi/kadai/step21/03-05.html",
+    "notes": "",
+    "owner_org": "df3e208c-40a5-4f30-b0f2-491ceffa6423",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "STEP21 第３章　東京水道の現状と課題_区部と多摩の配水量比率の推移（一日平均配水量）＜JPG 30KB＞",
+    "revision_id": "22e65cee-e762-45dc-b02f-6a93f0b9e0dd"
+  }
+}

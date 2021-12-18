@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "みどり土木部土木管理課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "6b04c1d8-1cbe-45fe-b2ee-62202b592d38",
+    "metadata_created": "2021-10-07T04:59:00.793628",
+    "metadata_modified": "2021-10-07T04:59:54.990220",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "新宿区の新宿区道路線網です。",
+        "name": "新宿区道路線網",
+        "format": "ZIP",
+        "url": "https://www.city.shinjuku.lg.jp/content/000259916.zip",
+        "cache_last_updated": null,
+        "package_id": "6b04c1d8-1cbe-45fe-b2ee-62202b592d38",
+        "created": "2019-04-16T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-04-16T15:00:00",
+        "position": 0,
+        "revision_id": "5382e656-6ee0-4575-a815-43582663e6ed",
+        "url_type": null,
+        "id": "0decc98c-64ff-474f-ace5-4a4af4430032",
+        "resource_type": null,
+        "size": 239616
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "交通情報",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c013.png",
+        "title": "交通情報",
+        "id": "38323541-753d-4230-b2dd-d9eb367ae5ed",
+        "name": "c013"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "",
+      "created": "2019-11-01T03:27:24.390617",
+      "title": "新宿区",
+      "name": "t131041",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131041.jpg",
+      "revision_id": "32114732-e02e-4a21-95ea-57f0bde433bb",
+      "type": "organization",
+      "id": "dae20c75-717a-45a5-91e9-ca6e6530178c",
+      "approval_status": "approved"
+    },
+    "name": "t131041d0000000089",
+    "isopen": true,
+    "url": "",
+    "notes": "【新宿区】道路線網のGISデータです。",
+    "owner_org": "dae20c75-717a-45a5-91e9-ca6e6530178c",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "新宿区の道路線網",
+    "revision_id": "3b2d966d-6365-453f-8a14-64185fc1e145"
+  }
+}

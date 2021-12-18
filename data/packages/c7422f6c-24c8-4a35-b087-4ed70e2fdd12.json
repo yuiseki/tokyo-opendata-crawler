@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "東京都環境局資源循環推進部 一般廃棄物対策課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "c7422f6c-24c8-4a35-b087-4ed70e2fdd12",
+    "metadata_created": "2021-06-03T03:00:36.790011",
+    "metadata_modified": "2021-06-03T03:00:41.014412",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "再生事業者一覧2017（区市町村別）",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/kankyo/R3/no_20200805_saiseilist.csv",
+        "cache_last_updated": null,
+        "package_id": "c7422f6c-24c8-4a35-b087-4ed70e2fdd12",
+        "created": "2021-04-12T05:36:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-04-12T05:36:00",
+        "position": 0,
+        "revision_id": "14667925-485b-48a6-8fc2-b9100d7313d8",
+        "url_type": null,
+        "id": "7877598c-4a0c-409c-bd65-48033d9d58c8",
+        "resource_type": null,
+        "size": 29816
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.kankyo.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.710014",
+      "title": "東京都環境局",
+      "name": "t000009",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "a0bf6c30-64dc-48fe-9782-e38ae248a38d",
+      "type": "organization",
+      "id": "c8b93db3-9754-48d3-8b50-5cbe78d679e7",
+      "approval_status": "approved"
+    },
+    "name": "t000009d2000000003",
+    "isopen": true,
+    "url": "https://www.kankyo.metro.tokyo.lg.jp/resource/general_waste/processing_plant/processing_plant.html",
+    "notes": "",
+    "owner_org": "c8b93db3-9754-48d3-8b50-5cbe78d679e7",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "一般廃棄物対策・廃棄物再生事業者登録者名簿(H29.6.1現在)",
+    "revision_id": "26d22e0f-15fe-461c-8f91-3dd7b9c84a74"
+  }
+}

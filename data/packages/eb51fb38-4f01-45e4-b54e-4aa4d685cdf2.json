@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "農林水産部水産課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "eb51fb38-4f01-45e4-b54e-4aa4d685cdf2",
+    "metadata_created": "2019-11-01T04:54:40.696255",
+    "metadata_modified": "2019-11-01T06:12:17.424933",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "漁業経営体数、漁業就業者数（東京都　1994～2008年）（PDFデータ）",
+        "format": "PDF",
+        "url": "http://www.sangyo-rodo.metro.tokyo.jp/toukei/nourin/pdf/v-4-1.pdf",
+        "cache_last_updated": null,
+        "package_id": "eb51fb38-4f01-45e4-b54e-4aa4d685cdf2",
+        "created": "2017-03-24T03:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-03-24T03:00:00",
+        "position": 0,
+        "revision_id": "12ae1008-d637-4fca-9a40-6c4c1e8105bd",
+        "url_type": null,
+        "id": "4557b3c0-29bf-4da0-8ac6-628712c3f73d",
+        "resource_type": null,
+        "size": 87040
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "漁業経営体数、漁業就業者数（東京都　1994～2008年）（CSVデータ）",
+        "format": "CSV",
+        "url": "http://www.sangyo-rodo.metro.tokyo.jp/toukei/nourin/gyogyoukeieitaisuusyuugyousyasuu.csv",
+        "cache_last_updated": null,
+        "package_id": "eb51fb38-4f01-45e4-b54e-4aa4d685cdf2",
+        "created": "2017-03-24T03:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-03-24T03:00:00",
+        "position": 1,
+        "revision_id": "5ac4710a-108e-4d05-a4b4-df6c30ddaf1f",
+        "url_type": null,
+        "id": "66eff779-3d46-455d-9a78-a65e15eb6547",
+        "resource_type": null,
+        "size": 2048
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "産業雇用創出",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c011.png",
+        "title": "産業雇用創出",
+        "id": "bb1c42ce-dc7e-48cf-91d4-05cab59db4bd",
+        "name": "c011"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.sangyo-rodo.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:21.167827",
+      "title": "東京都産業労働局",
+      "name": "t000012",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "a8e9fbd3-ce2a-40ce-ae97-99bf0055157e",
+      "type": "organization",
+      "id": "1a30d830-0e5f-4e5a-acd1-e4189276b560",
+      "approval_status": "approved"
+    },
+    "name": "t000012d0000000009",
+    "isopen": true,
+    "url": "",
+    "notes": "【東京都産業労働局】　漁業経営体数、漁業就業者数（東京都　1994～2008年）",
+    "owner_org": "1a30d830-0e5f-4e5a-acd1-e4189276b560",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "漁業経営体数、漁業就業者数（東京都　1994～2008年）",
+    "revision_id": "2e54d629-25fc-4ca4-9b91-018b0f3c7a5c"
+  }
+}

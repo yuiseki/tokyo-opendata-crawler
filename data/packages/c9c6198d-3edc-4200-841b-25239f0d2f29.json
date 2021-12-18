@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "みなと保健所生活衛生課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "c9c6198d-3edc-4200-841b-25239f0d2f29",
+    "metadata_created": "2021-09-09T23:34:33.762679",
+    "metadata_modified": "2021-09-09T23:35:20.902353",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "港区の店舗販売業一覧です。",
+        "name": "店舗販売業一覧",
+        "format": "CSV",
+        "url": "https://opendata.city.minato.tokyo.jp/dataset/e9c32c87-a106-4827-8623-b112f190866b/resource/c4564007-5fa8-43c5-bafa-a9218027b0d0/download/tenpohanbai.csv",
+        "cache_last_updated": null,
+        "package_id": "c9c6198d-3edc-4200-841b-25239f0d2f29",
+        "created": "2021-07-27T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-07-27T15:00:00",
+        "position": 0,
+        "revision_id": "b83ec409-915e-4806-9b2b-4025d067e54d",
+        "url_type": null,
+        "id": "4b4a9f5e-fcd5-4552-8c28-ccbab5524561",
+        "resource_type": null,
+        "size": 25600
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "港区の店舗販売業一覧です。",
+        "name": "店舗販売業一覧",
+        "format": "GeoJSON",
+        "url": "https://opendata.city.minato.tokyo.jp/dataset/e9c32c87-a106-4827-8623-b112f190866b/resource/0d879c8a-67d4-42a9-87a4-abfc3df6a2a8/download/tenpohanbai.json",
+        "cache_last_updated": null,
+        "package_id": "c9c6198d-3edc-4200-841b-25239f0d2f29",
+        "created": "2021-07-27T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-07-27T15:00:00",
+        "position": 1,
+        "revision_id": "67f32e41-d5f8-4fe9-99e6-d5c27c14649f",
+        "url_type": null,
+        "id": "bcc625c4-106e-4efc-84e1-97ab9ec0d113",
+        "resource_type": null,
+        "size": 88064
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "医療・福祉",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c005.png",
+        "title": "医療・福祉",
+        "id": "0d3cd956-612c-45c5-b1ee-75c1a5835c0e",
+        "name": "c005"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.minato.tokyo.jp/",
+      "created": "2019-11-01T03:27:24.220357",
+      "title": "港区",
+      "name": "t131032",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131032.jpg",
+      "revision_id": "8f5676eb-3316-4cc6-b26a-4f7e1b39e109",
+      "type": "organization",
+      "id": "6adece4f-1ee9-416a-a7e7-856b8d5fb050",
+      "approval_status": "approved"
+    },
+    "name": "t131032d0000000122",
+    "isopen": true,
+    "url": "",
+    "notes": "【港区】店舗販売業についての情報です。",
+    "owner_org": "6adece4f-1ee9-416a-a7e7-856b8d5fb050",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "港区の店舗販売業情報",
+    "revision_id": "626d490b-0a73-4691-839f-f6c752cf3aa9"
+  }
+}

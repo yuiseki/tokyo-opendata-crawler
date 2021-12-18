@@ -1,0 +1,93 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "パラリンピック部",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "b4461a6e-bdc6-4ea1-a954-89844319b25e",
+    "metadata_created": "2019-11-01T04:53:25.086145",
+    "metadata_modified": "2019-11-01T05:44:28.198803",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "東京都障害者スポーツ大会の競技種目をご紹介します。この大会は、障害種別によって参加可能な競技・種目が分かれています。 ",
+        "name": "",
+        "format": "CSV",
+        "url": "http://www.opendata.metro.tokyo.jp/2018appcon/olympic/disabled_sports_competition.csv",
+        "cache_last_updated": null,
+        "package_id": "b4461a6e-bdc6-4ea1-a954-89844319b25e",
+        "created": "2019-01-10T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-01-10T15:00:00",
+        "position": 0,
+        "revision_id": "c7d3d52f-e3ca-476d-9ca3-9b91810efb44",
+        "url_type": null,
+        "id": "0964fb2d-d687-4b18-834b-d8851aa1ef6c",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "オリンピック・パラリンピック",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c009.png",
+        "title": "オリンピック・パラリンピック",
+        "id": "4e11ae7b-55ad-44ce-8ec3-dc7205cc78f6",
+        "name": "c009"
+      },
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.2020games.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.403001",
+      "title": "東京都オリンピック・パラリンピック準備局",
+      "name": "t000007",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000007.jpg",
+      "revision_id": "90a115f6-e18a-495c-a51b-39ca62c7108c",
+      "type": "organization",
+      "id": "1a6c3963-f987-4d8a-9a29-eafa99c7a0f1",
+      "approval_status": "approved"
+    },
+    "name": "t000007d0000000009",
+    "isopen": true,
+    "url": "https://www.sports-tokyo.info/sportsforthedisabled/sportsForTheDisabledGame.html",
+    "notes": "【東京都オリンピック・パラリンピック準備局】",
+    "owner_org": "1a6c3963-f987-4d8a-9a29-eafa99c7a0f1",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "東京都障害者スポーツ大会の競技種目紹介",
+    "revision_id": "4a503f3e-46f4-4359-813c-155045812ab6"
+  }
+}

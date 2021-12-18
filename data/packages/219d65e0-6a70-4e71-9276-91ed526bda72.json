@@ -1,0 +1,143 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "文化振興部企画調整課 ",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "219d65e0-6a70-4e71-9276-91ed526bda72",
+    "metadata_created": "2019-11-01T04:53:16.126261",
+    "metadata_modified": "2019-11-01T05:41:43.158555",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "都立文化施設に設置されているエレベーターのバリアフリー設備を紹介しています。",
+        "name": "都立文化施設におけるエレベーターのバリアフリー情報",
+        "format": "CSV",
+        "url": "http://opendata-portal.metro.tokyo.jp/test-upload/cultural-facilities/cultural-facilities-barrier-free-elv.csv",
+        "cache_last_updated": null,
+        "package_id": "219d65e0-6a70-4e71-9276-91ed526bda72",
+        "created": "2017-10-29T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-10-29T15:00:00",
+        "position": 0,
+        "revision_id": "f9885687-0c22-4fb5-b656-d694ec4802a3",
+        "url_type": null,
+        "id": "3e22e80d-a781-4bf6-9e62-abe44ea61cce",
+        "resource_type": null,
+        "size": 10240
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "都立文化施設に設置されている多目的トイレのバリアフリー設備を紹介しています。",
+        "name": "都立文化施設における多目的トイレのバリアフリー情報",
+        "format": "CSV",
+        "url": "http://opendata-portal.metro.tokyo.jp/test-upload/cultural-facilities/cultural-facilities-barrier-free-wc.csv",
+        "cache_last_updated": null,
+        "package_id": "219d65e0-6a70-4e71-9276-91ed526bda72",
+        "created": "2017-10-29T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-10-29T15:00:00",
+        "position": 1,
+        "revision_id": "2220300f-558a-4b42-9721-e5af2a5b2530",
+        "url_type": null,
+        "id": "8212ae8e-34f2-4862-a4b6-70fc87cc3781",
+        "resource_type": null,
+        "size": 20480
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "都立文化施設におけるエレベーター・多目的トイレのバリアフリー設備写真です。  \n\nZIPファイル内には、一覧表となるエクセルファイルが２種含まれています。\n",
+        "name": "都立文化施設におけるエレベーター・多目的トイレのバリアフリー情報（設備写真のJPGファイル238種）",
+        "format": "ZIP",
+        "url": "http://opendata-portal.metro.tokyo.jp/test-upload/cultural-facilities/cultural-facilities-barrier-free-photo.zip",
+        "cache_last_updated": null,
+        "package_id": "219d65e0-6a70-4e71-9276-91ed526bda72",
+        "created": "2017-10-29T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-10-29T15:00:00",
+        "position": 2,
+        "revision_id": "9887b591-9a20-4a65-bf26-890d0d8d593d",
+        "url_type": null,
+        "id": "e95321c8-3b38-401c-9d10-dc3e023bc59a",
+        "resource_type": null,
+        "size": 12582912
+      }
+    ],
+    "num_resources": 3,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "まちづくり",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c003.png",
+        "title": "まちづくり",
+        "id": "dc897c44-8153-4219-bfeb-6110fb85fb99",
+        "name": "c003"
+      },
+      {
+        "display_name": "医療・福祉",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c005.png",
+        "title": "医療・福祉",
+        "id": "0d3cd956-612c-45c5-b1ee-75c1a5835c0e",
+        "name": "c005"
+      },
+      {
+        "display_name": "芸術文化",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c010.png",
+        "title": "芸術文化",
+        "id": "9c1fb21f-bc27-401b-87b7-0fd44c13cc05",
+        "name": "c010"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.seikatubunka.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.245320",
+      "title": "東京都生活文化局",
+      "name": "t000006",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "e09ebb81-026e-4a29-927c-3490964055ad",
+      "type": "organization",
+      "id": "3f65c30d-0809-4fc6-8f6c-82261b14152e",
+      "approval_status": "approved"
+    },
+    "name": "t000006d0000000004",
+    "isopen": true,
+    "url": "http://www.seikatubunka.metro.tokyo.jp/bunka/bunka_shisetsu/0000000239.html",
+    "notes": "【東京都生活文化局】　都立文化施設に設置されているエレベーターや多目的トイレのバリアフリー設備を紹介しています。",
+    "owner_org": "3f65c30d-0809-4fc6-8f6c-82261b14152e",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "都立文化施設におけるエレベーター・多目的トイレのバリアフリー情報",
+    "revision_id": "81f401a0-ea75-42e4-bfdb-09f1318dc3cd"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "西東京市企画部情報推進課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 2,
+    "id": "9089b48e-8e7e-44a5-8f46-54c91cf08dd6",
+    "metadata_created": "2019-11-01T04:59:09.657002",
+    "metadata_modified": "2019-11-01T09:35:26.351983",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "西東京市イベント一覧",
+        "format": "CSV",
+        "url": "http://www.city.nishitokyo.lg.jp/opendata/132292_event.csv",
+        "cache_last_updated": null,
+        "package_id": "9089b48e-8e7e-44a5-8f46-54c91cf08dd6",
+        "created": "2018-12-04T02:01:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-12-04T02:01:00",
+        "position": 0,
+        "revision_id": "40fc4cce-876f-47ca-9ddd-35d80affdaa6",
+        "url_type": null,
+        "id": "ac2cf26e-f9dc-4268-9090-64757020c845",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [
+      {
+        "vocabulary_id": null,
+        "state": "active",
+        "display_name": "スポーツ",
+        "id": "75397d0a-c248-4a6d-aa83-7602b153ff2a",
+        "name": "スポーツ"
+      },
+      {
+        "vocabulary_id": null,
+        "state": "active",
+        "display_name": "推奨データセット",
+        "id": "8a843f9d-b0c2-465c-86da-1df660de0b32",
+        "name": "推奨データセット"
+      }
+    ],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      },
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.nishitokyo.lg.jp/",
+      "created": "2019-11-01T03:27:27.947900",
+      "title": "西東京市",
+      "name": "t132292",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "c3c17f6c-5cf1-49a2-8c9c-666084d970d8",
+      "type": "organization",
+      "id": "7018d04a-2061-413a-89fd-62a11c2b414a",
+      "approval_status": "approved"
+    },
+    "name": "t132292d0000000001",
+    "isopen": true,
+    "url": "http://www.city.nishitokyo.lg.jp/siseizyoho/zyoho/opendata20181205.html",
+    "notes": "【西東京市】西東京市が主催・共催するイベント情報の一覧です。 内閣官房情報通信技術（IT）総合戦略室が平成29年12月22日に公開した、推奨データセットに準拠して作成しています。 ",
+    "owner_org": "7018d04a-2061-413a-89fd-62a11c2b414a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "西東京市イベント一覧",
+    "revision_id": "54b9cae3-9eca-499d-b96f-656a8dc12272"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "都市整備部道路公園課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "425134f6-070a-4ce7-a1fc-ad8e117481e5",
+    "metadata_created": "2021-11-04T00:59:26.312886",
+    "owner_org": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
+    "metadata_modified": "2021-12-13T04:45:11.846709",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "",
+        "format": "CSV",
+        "url": "https://data.bodik.jp/dataset/a0fa9b72-2089-4482-b997-a0b5091a3c97/resource/2b753c14-1550-454e-935d-8812040b6c89/download/131105_citizens_farm_20210401.csv",
+        "created": "2021-08-13T13:42:00",
+        "state": "active",
+        "package_id": "425134f6-070a-4ce7-a1fc-ad8e117481e5",
+        "last_modified": "2021-08-13T13:42:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "f16a9fb3-b4da-4b12-8431-4ea3a9045032",
+        "size": 236,
+        "id": "f0981d4e-1ee2-412b-bc74-666acc579c48",
+        "resource_type": null,
+        "name": "区民農園"
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "まちづくり",
+        "description": "",
+        "title": "まちづくり",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c003.png",
+        "id": "dc897c44-8153-4219-bfeb-6110fb85fb99",
+        "name": "c003"
+      }
+    ],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t131105d0000000001",
+    "isopen": true,
+    "url": "https://www.city.meguro.tokyo.jp/kurashi/shizen/ikimono/kuminnoen.html",
+    "notes": "区民農園一覧",
+    "title": "区民農園",
+    "extras": [
+      {
+        "value": "1年",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "https://odcs.bodik.jp/131105/",
+      "title": "目黒区",
+      "created": "2021-11-01T02:12:22.338293",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131105.png",
+      "revision_id": "e3dc243f-e3a2-4b2b-a319-4e145bb63383",
+      "type": "organization",
+      "id": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
+      "name": "t131105"
+    },
+    "revision_id": "26c3b2a1-0d9d-4b84-be3e-3a6ed84d60a7"
+  }
+}

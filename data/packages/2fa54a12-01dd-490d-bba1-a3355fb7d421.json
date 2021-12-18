@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "東京都環境局環境改善部 自動車環境課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "2fa54a12-01dd-490d-bba1-a3355fb7d421",
+    "metadata_created": "2021-06-03T05:34:15.419817",
+    "metadata_modified": "2021-06-03T05:34:45.906285",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "平成12年度　調査結果",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/kankyo/R3/no_H12_kekka.csv",
+        "cache_last_updated": null,
+        "package_id": "2fa54a12-01dd-490d-bba1-a3355fb7d421",
+        "created": "2021-04-01T03:58:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-04-01T03:58:00",
+        "position": 0,
+        "revision_id": "312d9e72-e4cd-4efd-bd1f-c36380bf9e7e",
+        "url_type": null,
+        "id": "c25ced48-d61e-4cc5-8890-5005c8114943",
+        "resource_type": null,
+        "size": 72685
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.kankyo.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.710014",
+      "title": "東京都環境局",
+      "name": "t000009",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "a0bf6c30-64dc-48fe-9782-e38ae248a38d",
+      "type": "organization",
+      "id": "c8b93db3-9754-48d3-8b50-5cbe78d679e7",
+      "approval_status": "approved"
+    },
+    "name": "t000009d2000000036",
+    "isopen": true,
+    "url": "",
+    "notes": "",
+    "owner_org": "c8b93db3-9754-48d3-8b50-5cbe78d679e7",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "平成12年度 自動車交通騒音調査結果",
+    "revision_id": "a834a674-5e54-4481-842b-c1f290b15439"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "総務部総務課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "68a30cc7-202d-41b9-a5cd-7916a22e816e",
+    "metadata_created": "2021-04-27T04:47:56.577038",
+    "owner_org": "9354a576-4de5-44ab-9e62-18a92b40b5e7",
+    "metadata_modified": "2021-04-27T04:48:11.333297",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "令和2年度板橋区の統計の農業に関するデータです。",
+        "format": "ZIP",
+        "url": "https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/031/815/nougyou.zip",
+        "created": "2021-04-27T04:48:03.696483",
+        "state": "active",
+        "package_id": "68a30cc7-202d-41b9-a5cd-7916a22e816e",
+        "last_modified": null,
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "70002647-ba38-4de2-a6a8-4030378da6dd",
+        "size": 11571,
+        "id": "850022da-c351-4d5f-93fb-a632ba66c22e",
+        "resource_type": null,
+        "name": "4　農業"
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t131199d0000000231",
+    "isopen": true,
+    "url": "https://www.city.itabashi.tokyo.jp/kusei/shiryo/toukei/toukei/1031811/1031815.html",
+    "notes": "【板橋区】令和2年度板橋区の統計の農業に関するデータを掲載しています。",
+    "title": "令和2年度　農業",
+    "extras": [
+      {
+        "value": "公開時のみ",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "http://www.city.itabashi.tokyo.jp/",
+      "title": "板橋区",
+      "created": "2019-11-01T03:27:25.673886",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131199.jpg",
+      "revision_id": "1a86d48e-188d-4655-9cc5-c9aedb102db4",
+      "type": "organization",
+      "id": "9354a576-4de5-44ab-9e62-18a92b40b5e7",
+      "name": "t131199"
+    },
+    "revision_id": "e9a33c55-8838-4715-aa66-4aa6cb469ae4"
+  }
+}

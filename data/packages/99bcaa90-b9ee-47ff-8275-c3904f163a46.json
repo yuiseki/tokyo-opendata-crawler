@@ -1,0 +1,125 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "生活環境部生活経済課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "99bcaa90-b9ee-47ff-8275-c3904f163a46",
+    "metadata_created": "2019-12-26T11:17:33.188405",
+    "metadata_modified": "2019-12-26T11:17:47.558515",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "既に「三鷹市わがまちマップ」の中で、美術館、歴史的建造物、公園などの観光・文化・自然の情報について「三鷹市みどころマップ」として公開しており、それらのデータファイル形式版（CSV）を掲載します。",
+        "name": "三鷹市みどころマップ",
+        "format": "CSV",
+        "url": "https://www.city.mitaka.lg.jp/c_service/074/attached/attach_74215_1.csv",
+        "cache_last_updated": null,
+        "package_id": "99bcaa90-b9ee-47ff-8275-c3904f163a46",
+        "created": "2018-09-17T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-09-17T15:00:00",
+        "position": 0,
+        "revision_id": "eab466f0-0a13-4c57-8c55-f72d9f027f77",
+        "url_type": null,
+        "id": "1cf5d487-4fd9-419f-8c48-b35c195a51a0",
+        "resource_type": null,
+        "size": 41984
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      },
+      {
+        "display_name": "まちづくり",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c003.png",
+        "title": "まちづくり",
+        "id": "dc897c44-8153-4219-bfeb-6110fb85fb99",
+        "name": "c003"
+      },
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      },
+      {
+        "display_name": "産業雇用創出",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c011.png",
+        "title": "産業雇用創出",
+        "id": "bb1c42ce-dc7e-48cf-91d4-05cab59db4bd",
+        "name": "c011"
+      },
+      {
+        "display_name": "税金",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c007.png",
+        "title": "税金",
+        "id": "bb8a1d8b-5217-44c2-8eca-81addb671f0e",
+        "name": "c007"
+      },
+      {
+        "display_name": "芸術文化",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c010.png",
+        "title": "芸術文化",
+        "id": "9c1fb21f-bc27-401b-87b7-0fd44c13cc05",
+        "name": "c010"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.mitaka.tokyo.jp/",
+      "created": "2019-11-01T03:27:26.290901",
+      "title": "三鷹市",
+      "name": "t132047",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t132047.png",
+      "revision_id": "29067a77-93a5-401f-8cf9-067b0d741280",
+      "type": "organization",
+      "id": "bad8a80a-36ed-489a-89c2-d1669a424860",
+      "approval_status": "approved"
+    },
+    "name": "t132047d0000000004",
+    "isopen": true,
+    "url": "",
+    "notes": "【三鷹市】三鷹市わがまちマップに掲載している観光・文化・自然のデータです。",
+    "owner_org": "bad8a80a-36ed-489a-89c2-d1669a424860",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "【位置情報】三鷹市みどころマップ",
+    "revision_id": "7d54392e-a434-4be5-89b7-7a231326febe"
+  }
+}

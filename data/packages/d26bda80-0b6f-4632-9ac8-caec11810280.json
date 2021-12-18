@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "土木部みどり公園課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "d26bda80-0b6f-4632-9ac8-caec11810280",
+    "metadata_created": "2019-11-01T04:56:54.827947",
+    "metadata_modified": "2019-11-01T09:36:06.394263",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "文京区の区立公園・児童遊園・遊び場の一覧です。（EXCELファイル）",
+        "name": "区立公園・児童遊園・遊び場一覧",
+        "format": "XLSX",
+        "url": "https://www.city.bunkyo.lg.jp/library/opendata-bunkyo/05bousai-macidukuri-kankyou/03kouen-asobiba/kuritsukouen-jidouyuuen-asobiba.xlsx",
+        "cache_last_updated": null,
+        "package_id": "d26bda80-0b6f-4632-9ac8-caec11810280",
+        "created": "2017-11-06T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-11-06T15:00:00",
+        "position": 0,
+        "revision_id": "b3be3edb-57f7-46ac-bd1f-da2b2981d65c",
+        "url_type": null,
+        "id": "094845a9-9c11-4e2c-a401-dc4099767362",
+        "resource_type": null,
+        "size": 24576
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "文京区の区立公園・児童遊園・遊び場の一覧です。（CSVファイル）",
+        "name": "区立公園・児童遊園・遊び場一覧",
+        "format": "CSV",
+        "url": "https://www.city.bunkyo.lg.jp/library/opendata-bunkyo/05bousai-macidukuri-kankyou/03kouen-asobiba/kuritsukouen-jidouyuuen-asobiba.csv",
+        "cache_last_updated": null,
+        "package_id": "d26bda80-0b6f-4632-9ac8-caec11810280",
+        "created": "2017-11-06T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-11-06T15:00:00",
+        "position": 1,
+        "revision_id": "31b473a5-7646-460c-b8d4-19e89607824a",
+        "url_type": null,
+        "id": "81688b74-8b82-4529-a1df-1d0ae73a808d",
+        "resource_type": null,
+        "size": 16384
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "人口減少・少子高齢化",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c004.png",
+        "title": "人口減少・少子高齢化",
+        "id": "802d7d18-3543-4e8b-a8f5-82b5f1aa752e",
+        "name": "c004"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.bunkyo.lg.jp/",
+      "created": "2019-11-01T03:27:24.573898",
+      "title": "文京区",
+      "name": "t131059",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131059.png",
+      "revision_id": "66ab70ed-369f-4eda-b72a-eacf3f7c8095",
+      "type": "organization",
+      "id": "201cae13-e069-464e-b376-1da3ce968538",
+      "approval_status": "approved"
+    },
+    "name": "t131059d0509040001",
+    "isopen": true,
+    "url": "",
+    "notes": "【文京区】　文京区の区立公園・児童遊園・遊び場の一覧です。",
+    "owner_org": "201cae13-e069-464e-b376-1da3ce968538",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "区立公園・児童遊園・遊び場一覧",
+    "revision_id": "610079b1-610a-4b69-8429-e74f6b1bbb6b"
+  }
+}

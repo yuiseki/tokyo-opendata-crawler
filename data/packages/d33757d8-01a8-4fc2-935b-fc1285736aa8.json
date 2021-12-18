@@ -1,0 +1,100 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "観光部受入環境課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "num_tags": 2,
+    "id": "d33757d8-01a8-4fc2-935b-fc1285736aa8",
+    "metadata_created": "2019-11-01T04:54:42.174999",
+    "metadata_modified": "2020-11-18T01:30:28.447958",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": "",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "文字コード：Shift_JIS  ※住所末尾に「地先」「先」「付近」等の記載があるものは、特定の一地点を指し示さない場合があります。ご留意ください。",
+        "name": "公衆無線LANアクセスポイント一覧",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/suisyoudataset/130001_public_wireless_lan.csv",
+        "cache_last_updated": null,
+        "package_id": "d33757d8-01a8-4fc2-935b-fc1285736aa8",
+        "created": "2018-09-05T22:18:45",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": null,
+        "position": 0,
+        "revision_id": "b87c7c5f-5cbd-4084-b384-0d129358e4fe",
+        "url_type": null,
+        "id": "011260d9-6d76-4200-bd9a-643234e7ec4b",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [
+      {
+        "vocabulary_id": null,
+        "state": "active",
+        "display_name": "Wi-Fi",
+        "id": "25e4d541-6b98-49ff-b320-4cf299810e10",
+        "name": "Wi-Fi"
+      },
+      {
+        "vocabulary_id": null,
+        "state": "active",
+        "display_name": "推奨データセット",
+        "id": "8a843f9d-b0c2-465c-86da-1df660de0b32",
+        "name": "推奨データセット"
+      }
+    ],
+    "groups": [
+      {
+        "display_name": "観光",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c008.png",
+        "title": "観光",
+        "id": "420fd8d6-2bde-4746-9354-6344ec19ba93",
+        "name": "c008"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.sangyo-rodo.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:21.167827",
+      "title": "東京都産業労働局",
+      "name": "t000012",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "a8e9fbd3-ce2a-40ce-ae97-99bf0055157e",
+      "type": "organization",
+      "id": "1a30d830-0e5f-4e5a-acd1-e4189276b560",
+      "approval_status": "approved"
+    },
+    "name": "t000012d0000000016",
+    "isopen": true,
+    "url": "http://www.wifi-tokyo.jp/ja/",
+    "notes": "【東京都産業労働局】  東京都が設置する、公衆無線LANアクセスポイント（FREE Wi-Fi & TOKYO）の一覧です。  内閣官房情報通信技術（IT）総合戦略室が平成29年12月22日に公開した、推奨データセットに準拠して作成しています。  ",
+    "owner_org": "1a30d830-0e5f-4e5a-acd1-e4189276b560",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "年一回"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "公衆無線LANアクセスポイント一覧",
+    "revision_id": "9be700a7-5c45-44a0-8568-dfefdc30a59d"
+  }
+}

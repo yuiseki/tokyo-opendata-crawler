@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "都営交通お客様センター",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "d08c253e-42aa-42a3-b827-7683e42edafa",
+    "metadata_created": "2021-09-29T00:35:06.697390",
+    "metadata_modified": "2021-09-29T00:35:18.408477",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "《交通局について》 - [安全施工管理責任者制度実施要領 講習会テキスト] 講習会テキスト",
+        "name": "講習会テキスト",
+        "format": "PDF",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/kotsu/about/about_safety_document_short_course_text.pdf",
+        "cache_last_updated": null,
+        "package_id": "d08c253e-42aa-42a3-b827-7683e42edafa",
+        "created": "2019-07-17T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2020-12-04T02:16:00",
+        "position": 0,
+        "revision_id": "90aab4db-23f6-4634-8ee6-452b255101c9",
+        "url_type": null,
+        "id": "161073ce-7507-42b8-abb4-208abcf774a1",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.kotsu.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:22.123863",
+      "title": "東京都交通局",
+      "name": "t000018",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "d47c06bd-1090-4a95-bea1-05d8261663a6",
+      "type": "organization",
+      "id": "058227fa-4a59-4028-a226-9eb858f9947a",
+      "approval_status": "approved"
+    },
+    "name": "t000018d0000000063",
+    "isopen": true,
+    "url": "https://www.kotsu.metro.tokyo.jp/about/contract/construction/safety_document.html",
+    "notes": "【東京都交通局】安全施工管理責任者制度実施要領 講習会テキスト",
+    "owner_org": "058227fa-4a59-4028-a226-9eb858f9947a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "安全施工管理責任者制度実施要領 講習会テキスト",
+    "revision_id": "2edf7856-6e34-42ae-8e77-d29704789df4"
+  }
+}

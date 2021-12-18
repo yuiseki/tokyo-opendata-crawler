@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "水道局総務部施設計画課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "2ba0e930-c6ce-4f58-9bf9-0b4a4094ef5d",
+    "metadata_created": "2021-05-21T02:06:44.265128",
+    "metadata_modified": "2021-05-21T02:07:24.076642",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "管路耐震継手化の状況（平成27年度末）",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/suidou/R3/haifu41_all.csv",
+        "cache_last_updated": null,
+        "package_id": "2ba0e930-c6ce-4f58-9bf9-0b4a4094ef5d",
+        "created": "2021-01-23T02:13:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-01-23T02:13:00",
+        "position": 0,
+        "revision_id": "3b1476ab-7bba-4108-a888-6a5a46583757",
+        "url_type": null,
+        "id": "db4b99c9-ea23-4502-89ab-bf13943e5fe5",
+        "resource_type": null,
+        "size": 621
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.waterworks.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:22.280579",
+      "title": "東京都水道局",
+      "name": "t000019",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000019.jpg",
+      "revision_id": "6f93ebbd-34d2-48da-9305-0c1de5e96c27",
+      "type": "organization",
+      "id": "df3e208c-40a5-4f30-b0f2-491ceffa6423",
+      "approval_status": "approved"
+    },
+    "name": "t000019d2000000030",
+    "isopen": true,
+    "url": "https://www.waterworks.metro.tokyo.lg.jp/files/items/20827/File/haifu41_all.pdf",
+    "notes": "",
+    "owner_org": "df3e208c-40a5-4f30-b0f2-491ceffa6423",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "第41回　東京都水道事業経営問題研究会　開催結果_第41回東京都水道事業経営問題研究会（PDF4.29MB）",
+    "revision_id": "bcf80aaf-ec33-4c8a-afea-6ac00c497c0d"
+  }
+}

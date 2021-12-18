@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "生活文化局文化振興部企画調整課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "a2158450-443e-42b8-b3ac-e56085375d57",
+    "metadata_created": "2021-02-25T02:22:58.711846",
+    "metadata_modified": "2021-02-25T02:22:58.947426",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "Tokyo Tokyo FESTIVAL スペシャル13イベント一覧",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/seikatubunka/ttf-koubo/TTFSP13_even_2019.csv",
+        "cache_last_updated": null,
+        "package_id": "a2158450-443e-42b8-b3ac-e56085375d57",
+        "created": "2021-02-14T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-02-14T15:00:00",
+        "position": 0,
+        "revision_id": "a956cb69-1e84-497a-bdb3-27aba5ee75d4",
+        "url_type": null,
+        "id": "eebb5ddb-a041-488a-8c20-1934c8ba9dae",
+        "resource_type": null,
+        "size": 5120
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "芸術文化",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c010.png",
+        "title": "芸術文化",
+        "id": "9c1fb21f-bc27-401b-87b7-0fd44c13cc05",
+        "name": "c010"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.seikatubunka.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.245320",
+      "title": "東京都生活文化局",
+      "name": "t000006",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "e09ebb81-026e-4a29-927c-3490964055ad",
+      "type": "organization",
+      "id": "3f65c30d-0809-4fc6-8f6c-82261b14152e",
+      "approval_status": "approved"
+    },
+    "name": "t000006d0000000006",
+    "isopen": true,
+    "url": "https://ttf-koubo.jp/",
+    "notes": "【東京都生活文化局】Tokyo Tokyo FESTIVALとはオリンピック・パラリンピックが開催される東京を文化の面から盛り上げるため、多彩な文化プログラムを展開し、芸術文化都市東京の魅力を伝える取組です。中でもTokyo Tokyo FESTIVAL スペシャル13は、Tokyo Tokyo FESTIVALの中核を彩る事業として、斬新で独創的な企画や、より多くの人々が参加できる企画を幅広く募り、東京都及び公益財団法人東京都歴史文化財団 アーツカウンシル東京が実施するものです。国内外から応募のあった2,436件から選定した13の企画を、「Tokyo Tokyo FESTIVALスペシャル13」と総称し、展開しています。\n",
+    "owner_org": "3f65c30d-0809-4fc6-8f6c-82261b14152e",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "Tokyo Tokyo FESTIVAL スペシャル13イベント一覧",
+    "revision_id": "ee2edd3f-8414-4a7e-8f52-7a57d8460866"
+  }
+}

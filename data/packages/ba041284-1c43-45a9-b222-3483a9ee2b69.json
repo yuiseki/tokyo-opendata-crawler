@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "広報課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "ba041284-1c43-45a9-b222-3483a9ee2b69",
+    "metadata_created": "2021-12-08T04:40:08.764122",
+    "metadata_modified": "2021-12-08T04:40:33.183173",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "【江戸川区】江戸川画像文庫に掲載しているオープンデータの画像です。",
+        "name": "1+1+1=1のモニュメント",
+        "format": "JPEG",
+        "url": "https://photo.city.edogawa.tokyo.jp/pages/download_progress.php?ref=2646",
+        "cache_last_updated": null,
+        "package_id": "ba041284-1c43-45a9-b222-3483a9ee2b69",
+        "created": "2021-10-01T00:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": null,
+        "position": 0,
+        "revision_id": "b59e545f-87b1-4122-b138-4da9dbcafdcf",
+        "url_type": null,
+        "id": "23959214-9f79-45d4-ad84-7b9707efee62",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "",
+      "created": "2021-12-08T01:06:59.103737",
+      "title": "江戸川区",
+      "name": "t131237",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "704e0338-a5ce-4a23-ba13-2a2f4550a53b",
+      "type": "organization",
+      "id": "74813543-1d66-46e9-a0f5-bb0af87519c4",
+      "approval_status": "approved"
+    },
+    "name": "t131237d0000000003",
+    "isopen": true,
+    "url": "https://photo.city.edogawa.tokyo.jp/pages/view.php?ref=2646",
+    "notes": "【江戸川区】江戸川画像文庫掲載画像",
+    "owner_org": "74813543-1d66-46e9-a0f5-bb0af87519c4",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "公開時のみ"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "1+1+1=1のモニュメント",
+    "revision_id": "b499ae1f-2e35-4d3b-8a2b-1310e2d941a2"
+  }
+}

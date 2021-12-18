@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "総務部総務課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "b5d56e85-4c10-4b2c-a10b-60b06b98771a",
+    "metadata_created": "2020-03-13T06:28:04.964769",
+    "metadata_modified": "2020-03-13T06:28:12.785614",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "中小企業事業資金融資あっせん事業貸付状況",
+        "format": "XLS",
+        "url": "https://www.city.chofu.tokyo.jp/www/contents/1582608326278/simple/30_04_050.xls",
+        "cache_last_updated": null,
+        "package_id": "b5d56e85-4c10-4b2c-a10b-60b06b98771a",
+        "created": "2020-03-13T06:28:12.807563",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": null,
+        "position": 0,
+        "revision_id": "7ba6a7f7-d142-40da-9c3e-8e21f29ad6d6",
+        "url_type": null,
+        "id": "d339a664-6a52-4bbd-baae-08b0a0e5bbea",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.chofu.tokyo.jp/",
+      "created": "2019-11-01T03:27:26.616591",
+      "title": "調布市",
+      "name": "t132080",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "c666c9e8-e94d-46e1-a28c-7cdf1ea8b7c6",
+      "type": "organization",
+      "id": "8c710e6d-ae95-4768-90a8-8f4c4e98ae41",
+      "approval_status": "approved"
+    },
+    "name": "t132080d0000000100",
+    "isopen": true,
+    "url": "",
+    "notes": "「調布市統計書　平成30年版」掲載データ（商業，金融）",
+    "owner_org": "8c710e6d-ae95-4768-90a8-8f4c4e98ae41",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "公開時のみ"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "調布市統計書　平成30年版　商業及び金融に関するデータ",
+    "revision_id": "ada74768-654c-4cc5-9f36-25fd5c878fab"
+  }
+}

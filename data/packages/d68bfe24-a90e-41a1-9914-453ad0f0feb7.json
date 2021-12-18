@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "選挙管理委員会事務局",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "d68bfe24-a90e-41a1-9914-453ad0f0feb7",
+    "metadata_created": "2019-11-01T04:57:04.332054",
+    "metadata_modified": "2019-11-01T08:39:17.606140",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "投票所の緯度経度等のｃｓｖファイル",
+        "name": "投票所csvデータ",
+        "format": "CSV",
+        "url": "http://www.city.shinagawa.tokyo.jp/ct/other000081600/tohyosho.csv",
+        "cache_last_updated": null,
+        "package_id": "d68bfe24-a90e-41a1-9914-453ad0f0feb7",
+        "created": "2017-03-24T03:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-03-24T03:00:00",
+        "position": 0,
+        "revision_id": "e5b5a0c4-e86a-4c76-bae8-bdef4b3eaca5",
+        "url_type": null,
+        "id": "c262f7cb-795b-47f3-9a5f-4b44823dc534",
+        "resource_type": null,
+        "size": 8192
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "投票所の緯度経度等rdfファイル",
+        "name": "投票所rdfデータ",
+        "format": "RDF",
+        "url": "http://www.city.shinagawa.tokyo.jp/ct/other000081600/tohyosho.rdf",
+        "cache_last_updated": null,
+        "package_id": "d68bfe24-a90e-41a1-9914-453ad0f0feb7",
+        "created": "2017-03-24T03:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-03-24T03:00:00",
+        "position": 1,
+        "revision_id": "7c8090b8-70c3-42e8-9905-31b0d2c41de4",
+        "url_type": null,
+        "id": "5b27aee6-73c3-4ab9-a37a-9215f72423a5",
+        "resource_type": null,
+        "size": 75776
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.shinagawa.tokyo.jp/",
+      "created": "2019-11-01T03:27:24.888527",
+      "title": "品川区",
+      "name": "t131091",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131091.png",
+      "revision_id": "a58c6889-2755-423e-bc8c-5146fb74ae73",
+      "type": "organization",
+      "id": "ee5ed3ad-76a9-4a49-aba7-3a63a457eb93",
+      "approval_status": "approved"
+    },
+    "name": "t131091d0000000008",
+    "isopen": true,
+    "url": "",
+    "notes": "【品川区】　投票所情報(投票区名、住所、緯度経度等)",
+    "owner_org": "ee5ed3ad-76a9-4a49-aba7-3a63a457eb93",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "投票所",
+    "revision_id": "9affe35c-016d-4cab-85eb-959d145fb400"
+  }
+}

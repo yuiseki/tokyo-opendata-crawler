@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "東京都福祉保健局健康安全部 環境保健衛生課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "8462bed6-eba3-4bb3-8be3-7eae2c9a77d3",
+    "metadata_created": "2021-05-21T01:43:46.623463",
+    "metadata_modified": "2021-05-27T06:38:28.695061",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "［過去3年間にカビが発生した場所］",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/fukushihoken/R3/web_bunya3.csv",
+        "cache_last_updated": null,
+        "package_id": "8462bed6-eba3-4bb3-8be3-7eae2c9a77d3",
+        "created": "2021-03-20T04:53:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-03-20T04:53:00",
+        "position": 0,
+        "revision_id": "7ce1eb66-a6db-4967-bb7c-7f5ab9cc4575",
+        "url_type": null,
+        "id": "9ee8ab49-ff21-4d12-b134-8f6b637546f8",
+        "resource_type": null,
+        "size": 133
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.fukushihoken.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.864364",
+      "title": "東京都福祉保健局",
+      "name": "t000010",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000010.jpg",
+      "revision_id": "8d3da6a9-bfe7-4cd1-9d5d-9737b2293939",
+      "type": "organization",
+      "id": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+      "approval_status": "approved"
+    },
+    "name": "t000010d2000000203",
+    "isopen": true,
+    "url": "https://www.fukushihoken.metro.tokyo.lg.jp/kankyo/kankyo_eisei/jukankyo/indoor/kenko/kenkai_bunyatosisin.files/web_bunya3.pdf",
+    "notes": "",
+    "owner_org": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "「健康・快適居住環境の指針」　17分野と37指針について_室内のカビ対策（PDF：2,026KB）",
+    "revision_id": "21689394-a4a9-4da5-82b9-174a8afa4b81"
+  }
+}

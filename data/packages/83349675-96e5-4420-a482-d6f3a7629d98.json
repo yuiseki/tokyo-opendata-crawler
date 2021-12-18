@@ -1,0 +1,93 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "総合対策部安全・安心まちづくり課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "83349675-96e5-4420-a482-d6f3a7629d98",
+    "metadata_created": "2019-11-01T04:52:17.812523",
+    "metadata_modified": "2019-11-01T05:08:44.805591",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "都内公立小学校における地域安全マップ実施率の推移　<平成20年度～平成27年度>",
+        "format": "CSV",
+        "url": "http://www.opendata.metro.tokyo.jp/seisyounen/opendata05_1.csv",
+        "cache_last_updated": null,
+        "package_id": "83349675-96e5-4420-a482-d6f3a7629d98",
+        "created": "2019-01-20T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-01-20T15:00:00",
+        "position": 0,
+        "revision_id": "43fbc51f-88f8-4185-9a7f-8aacadf8c1d6",
+        "url_type": null,
+        "id": "d6b4596f-a2c5-4499-a7f4-0f05f92ad8bb",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "治安",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c002.png",
+        "title": "治安",
+        "id": "de8273ac-2339-4309-ad15-2800b751b45e",
+        "name": "c002"
+      },
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.tomin-anzen.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:19.596374",
+      "title": "東京都都民安全推進本部",
+      "name": "t000002",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "f682f39e-31cf-419a-98eb-d960bdc02238",
+      "type": "organization",
+      "id": "ce1debcd-3c6c-40b5-9ade-461164a64820",
+      "approval_status": "approved"
+    },
+    "name": "t000002d1800000004",
+    "isopen": true,
+    "url": "http://www.bouhan.metro.tokyo.jp/opendata/index.html",
+    "notes": "【東京都青少年・治安対策本部】",
+    "owner_org": "ce1debcd-3c6c-40b5-9ade-461164a64820",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "地域安全マップ区市町村別実施率",
+    "revision_id": "16566195-8923-417a-a666-7f8ccaf311e9"
+  }
+}

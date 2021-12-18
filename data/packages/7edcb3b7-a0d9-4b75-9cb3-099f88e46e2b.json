@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "大田区都市基盤整備部\n都市基盤管理課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "7edcb3b7-a0d9-4b75-9cb3-099f88e46e2b",
+    "metadata_created": "2021-07-28T22:57:30.527535",
+    "metadata_modified": "2021-07-28T22:57:31.784647",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "公園一覧",
+        "format": "xisx",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/ootaku/131113_koen.xlsx",
+        "cache_last_updated": null,
+        "package_id": "7edcb3b7-a0d9-4b75-9cb3-099f88e46e2b",
+        "created": "2021-07-26T02:56:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-07-26T02:58:00",
+        "position": 0,
+        "revision_id": "4e3e1ffc-3e84-4bb9-9868-f90c9465590c",
+        "url_type": null,
+        "id": "6af8376d-0dc9-47f0-ad66-dd7e612f929c",
+        "resource_type": null,
+        "size": 71680
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.ota.tokyo.jp/",
+      "created": "2019-11-01T03:27:25.037394",
+      "title": "大田区",
+      "name": "t131113",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131113.jpg",
+      "revision_id": "03b46cf2-2118-4e53-855d-1025be9188ae",
+      "type": "organization",
+      "id": "0ed84aa5-79d2-4db1-bf8d-3f4ec71815f2",
+      "approval_status": "approved"
+    },
+    "name": "t131113d0000000018",
+    "isopen": true,
+    "url": "https://www.city.ota.tokyo.jp/shisetsu/park/index.html",
+    "notes": "【大田区】大田区内の公園一覧です。",
+    "owner_org": "0ed84aa5-79d2-4db1-bf8d-3f4ec71815f2",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "年１回"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "公園一覧",
+    "revision_id": "87b70e23-371d-450d-8e0a-ed9b09a3b636"
+  }
+}

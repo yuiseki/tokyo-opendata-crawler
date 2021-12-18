@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "東京都中央卸売市場中央卸売市場事業部業務課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "8e6721f9-df22-48f0-b7c9-1080c680f430",
+    "metadata_created": "2021-05-26T01:17:15.004506",
+    "metadata_modified": "2021-05-26T01:17:59.201683",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "市場別品目一覧表（市場別・部類別・品目別取扱高）",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/shijyou/R3/sokatuhyo_10.csv",
+        "cache_last_updated": null,
+        "package_id": "8e6721f9-df22-48f0-b7c9-1080c680f430",
+        "created": "2021-01-30T06:35:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-01-30T06:35:00",
+        "position": 0,
+        "revision_id": "8e7a5b6a-f6a9-4b31-883a-56d338e57b78",
+        "url_type": null,
+        "id": "8f5a7fba-8354-4f3b-ae42-cf690b63a92b",
+        "resource_type": null,
+        "size": 75893
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.shijou.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:21.341618",
+      "title": "東京都中央卸売市場",
+      "name": "t000013",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "a14a39f1-b5cb-4e72-8d6d-bd986509b203",
+      "type": "organization",
+      "id": "327220fa-dbe9-453c-89b2-ce303b471a71",
+      "approval_status": "approved"
+    },
+    "name": "t000013d2000000018",
+    "isopen": true,
+    "url": "http://www.shijou-tokei.metro.tokyo.jp/asp/mreport.aspx?gyoshucd=2&year=2016&month=0&listno=51",
+    "notes": "",
+    "owner_org": "327220fa-dbe9-453c-89b2-ce303b471a71",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "総括表等（水産）_2016年（平成28年）",
+    "revision_id": "b223fdb7-39e7-4ef3-88a5-52a5cf6cd965"
+  }
+}

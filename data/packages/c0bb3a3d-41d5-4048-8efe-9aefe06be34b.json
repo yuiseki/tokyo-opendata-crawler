@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "c0bb3a3d-41d5-4048-8efe-9aefe06be34b",
+    "metadata_created": "2019-11-01T04:54:52.013784",
+    "metadata_modified": "2021-02-03T07:31:03.638607",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "豊洲市場用地における地下水位測定結果（平成29年9月6日～）",
+        "format": "CSV",
+        "url": "http://www.shijou.metro.tokyo.jp/csv/310308/30.csv",
+        "cache_last_updated": null,
+        "package_id": "c0bb3a3d-41d5-4048-8efe-9aefe06be34b",
+        "created": "2019-04-15T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-04-15T15:00:00",
+        "position": 0,
+        "revision_id": "52da9a42-e504-4003-9ace-cba801a5d40e",
+        "url_type": null,
+        "id": "2bfc2fd8-0796-4d7b-ab3a-6317385f7f13",
+        "resource_type": null,
+        "size": 1024
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "豊洲市場用地における地下水位測定結果（平成28年10月3日～平成29年9月11日）",
+        "format": "CSV",
+        "url": "http://www.shijou.metro.tokyo.jp/csv/310308/1.csv",
+        "cache_last_updated": null,
+        "package_id": "c0bb3a3d-41d5-4048-8efe-9aefe06be34b",
+        "created": "2019-04-15T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-04-15T15:00:00",
+        "position": 1,
+        "revision_id": "29d9180e-c9d1-4696-a979-fd01a69d276d",
+        "url_type": null,
+        "id": "b09aedf2-4f18-442b-bb6a-031219cfcf4d",
+        "resource_type": null,
+        "size": 1024
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "環境",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c012.png",
+        "title": "環境",
+        "id": "427f3ee0-b28a-4fd2-b7dc-980507f154d2",
+        "name": "c012"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.shijou.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:21.341618",
+      "title": "東京都中央卸売市場",
+      "name": "t000013",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "a14a39f1-b5cb-4e72-8d6d-bd986509b203",
+      "type": "organization",
+      "id": "327220fa-dbe9-453c-89b2-ce303b471a71",
+      "approval_status": "approved"
+    },
+    "name": "t000013d1800000025",
+    "isopen": true,
+    "url": "http://www.shijou.metro.tokyo.jp/toyosu/siryou/waterlevel/index.html",
+    "notes": "【東京都中央卸売市場】",
+    "owner_org": "327220fa-dbe9-453c-89b2-ce303b471a71",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "1年ごと"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "豊洲市場用地における地下水位測定結果",
+    "revision_id": "5b701c9d-d142-4b85-b735-dc907da117f5"
+  }
+}

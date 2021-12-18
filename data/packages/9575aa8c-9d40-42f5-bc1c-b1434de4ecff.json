@@ -1,0 +1,93 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "地球環境エネルギー部次世代エネルギー推進課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "9575aa8c-9d40-42f5-bc1c-b1434de4ecff",
+    "metadata_created": "2021-09-10T01:19:10.455095",
+    "metadata_modified": "2021-09-10T01:19:10.782174",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "2021年3月末時点の都内におけるEV用充電設備の情報です。",
+        "name": "EV用充電設備の設置状況データ一覧",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/kankyo/evcharge/evcharge_data_202103.csv",
+        "cache_last_updated": null,
+        "package_id": "9575aa8c-9d40-42f5-bc1c-b1434de4ecff",
+        "created": "2021-09-10T06:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-09-10T06:00:00",
+        "position": 0,
+        "revision_id": "3eb8a1d0-acc6-4c86-9bd3-9251d6930726",
+        "url_type": null,
+        "id": "245dfe4c-8bcc-4ef6-b2bc-8c0f6269d322",
+        "resource_type": null,
+        "size": 353280
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "交通情報",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c013.png",
+        "title": "交通情報",
+        "id": "38323541-753d-4230-b2dd-d9eb367ae5ed",
+        "name": "c013"
+      },
+      {
+        "display_name": "環境",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c012.png",
+        "title": "環境",
+        "id": "427f3ee0-b28a-4fd2-b7dc-980507f154d2",
+        "name": "c012"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.kankyo.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.710014",
+      "title": "東京都環境局",
+      "name": "t000009",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "a0bf6c30-64dc-48fe-9782-e38ae248a38d",
+      "type": "organization",
+      "id": "c8b93db3-9754-48d3-8b50-5cbe78d679e7",
+      "approval_status": "approved"
+    },
+    "name": "t000009d0000000010",
+    "isopen": true,
+    "url": "https://www.kankyo.metro.tokyo.lg.jp/vehicle/sgw/promotion/200500a20210729165545980.html",
+    "notes": "【東京都環境局】2021年3月末時点の都内におけるEV用充電設備の情報です。",
+    "owner_org": "c8b93db3-9754-48d3-8b50-5cbe78d679e7",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "公開時のみ"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "EV用充電設備の設置状況データ一覧",
+    "revision_id": "d6830f0c-48ac-4b39-a1f5-b15151a580c6"
+  }
+}

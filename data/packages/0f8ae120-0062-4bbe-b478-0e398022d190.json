@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "人事部人事課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "0f8ae120-0062-4bbe-b478-0e398022d190",
+    "metadata_created": "2019-11-01T04:53:00.696006",
+    "metadata_modified": "2019-11-01T05:26:30.916738",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "01　行政職給料表（一）\n\n02　行政職給料表（二）\n\n03　公安職給料表\n\n04　医療職給料表（一）\n\n05　医療職給料表（二）\n\n06　医療職給料表（三）\n\n07　指定職給料表\n\n08　特定任期付職員給料表\n\n09　教育職給料表\n\n10　事務職員給料表\n\n11　技術職員給料表（一）\n\n12　技術職員給料表（二）\n\n13　技術職員給料表（三）\n\n14　技術職員給料表（四）\n\n15　交通局企業職員給料表（一）\n\n16　交通局企業職員給料表（二）\n\n17　交通局企業職員給料表（二）の二\n\n18　交通局企業職員給料表（四）\n\n19　交通局企業職員給料表（六）\n\n20　水道局給料表（一）\n\n21　水道局給料表（二）\n\n22　下水道局企業職給料表（一）\n\n23　下水道局企業職給料表（二）\n",
+        "name": "職員数・給料表など（CSVファイル23種）",
+        "format": "ZIP",
+        "url": "http://www.soumu.metro.tokyo.jp/03jinji/csv/toukyu/tougou.zip",
+        "cache_last_updated": null,
+        "package_id": "0f8ae120-0062-4bbe-b478-0e398022d190",
+        "created": "2018-03-07T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-03-07T15:00:00",
+        "position": 0,
+        "revision_id": "b5445e85-d9b7-42b9-b8d9-e9aafbfdaa0d",
+        "url_type": null,
+        "id": "b078b921-d8d3-4fca-8825-fdee54bce2a8",
+        "resource_type": null,
+        "size": 12288
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "産業雇用創出",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c011.png",
+        "title": "産業雇用創出",
+        "id": "bb1c42ce-dc7e-48cf-91d4-05cab59db4bd",
+        "name": "c011"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.soumu.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:19.763566",
+      "title": "東京都総務局",
+      "name": "t000003",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000003.png",
+      "revision_id": "c4e16dd4-cb3f-42dc-8be2-2eed0f9e0175",
+      "type": "organization",
+      "id": "5987f8a3-dfbe-4f96-b3cc-e1f3ea0a2717",
+      "approval_status": "approved"
+    },
+    "name": "t000003d1700000066",
+    "isopen": true,
+    "url": "http://www.soumu.metro.tokyo.jp/03jinji/toukyu.html",
+    "notes": "【東京都総務局】　地方公務員法第58条の3第2項の規定に基づき、等級及び職制上の段階ごとの職員数について公表しています。",
+    "owner_org": "5987f8a3-dfbe-4f96-b3cc-e1f3ea0a2717",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "等級及び職制上の段階ごとの職員数",
+    "revision_id": "7c581db6-57c1-49e2-a7b7-73050c4571e0"
+  }
+}

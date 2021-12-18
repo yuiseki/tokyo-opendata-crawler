@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "保健所生活衛生課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "b70ab491-0bba-4225-b1cb-42bbda446262",
+    "metadata_created": "2021-11-04T00:38:26.610516",
+    "metadata_modified": "2021-12-14T01:40:23.350792",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "目黒区内のクリーニング所一覧",
+        "name": "クリーニング所　令和3年4月1日",
+        "format": "CSV",
+        "url": "https://data.bodik.jp/dataset/b9878f76-8b29-418d-997b-01960ac0527a/resource/b19cc088-f0c5-465b-a6cd-d9e615ba37a3/download/131105_cleaning_20210401.csv",
+        "cache_last_updated": null,
+        "package_id": "b70ab491-0bba-4225-b1cb-42bbda446262",
+        "created": "2021-08-11T02:17:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-08-11T02:17:00",
+        "position": 0,
+        "revision_id": "dccd3b78-f953-492a-ac9f-fe5e0b05477d",
+        "url_type": null,
+        "id": "c2e04c3b-4dbd-45c0-a513-72eccf923bc9",
+        "resource_type": null,
+        "size": 15146
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "クリーニング所　新規　令和3年10月分",
+        "format": "CSV",
+        "url": "https://data.bodik.jp/dataset/b9878f76-8b29-418d-997b-01960ac0527a/resource/64c69ad5-8373-4edb-ad5c-66234df15197/download/131105_cleaning_shop_new_20211001_20211031_.csv",
+        "cache_last_updated": null,
+        "package_id": "b70ab491-0bba-4225-b1cb-42bbda446262",
+        "created": "2021-11-09T02:56:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-11-09T02:56:00",
+        "position": 1,
+        "revision_id": "278717bf-8265-4317-98b0-f5a0152dfba3",
+        "url_type": null,
+        "id": "95478449-3436-435e-aa61-4c6660fde103",
+        "resource_type": null,
+        "size": 284
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://odcs.bodik.jp/131105/",
+      "created": "2021-11-01T02:12:22.338293",
+      "title": "目黒区",
+      "name": "t131105",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131105.png",
+      "revision_id": "e3dc243f-e3a2-4b2b-a319-4e145bb63383",
+      "type": "organization",
+      "id": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
+      "approval_status": "approved"
+    },
+    "name": "t131105d0000000043",
+    "isopen": true,
+    "url": "https://www.city.meguro.tokyo.jp/kurashi/hoken_eisei/eisei/kankyou/index.html",
+    "notes": "目黒区内のクリーニング所の一覧",
+    "owner_org": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "毎月"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "クリーニング所",
+    "revision_id": "7e4fe74b-35c4-45a8-8cf5-167c01fa2e7e"
+  }
+}

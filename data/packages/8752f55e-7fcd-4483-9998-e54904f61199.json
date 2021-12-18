@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "総務課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "8752f55e-7fcd-4483-9998-e54904f61199",
+    "metadata_created": "2019-11-01T04:56:23.437698",
+    "metadata_modified": "2019-11-01T08:34:03.813897",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "補償をめぐる紛争を中立的な立場で判断します。",
+        "name": "事件の取扱状況及び処理状況（平成28年度）",
+        "format": "CSV",
+        "url": "http://www.shuyou.metro.tokyo.jp/TOP/csv/16jikennotoriatukaijoukyou.csv",
+        "cache_last_updated": null,
+        "package_id": "8752f55e-7fcd-4483-9998-e54904f61199",
+        "created": "2018-01-24T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-01-24T15:00:00",
+        "position": 0,
+        "revision_id": "9d4b08fc-a867-41cc-b639-5dde124faa98",
+        "url_type": null,
+        "id": "ac725ccb-4702-47cb-b7e3-982235eb76b3",
+        "resource_type": null,
+        "size": 1024
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.shuyou.metro.tokyo.jp/TOP/index.html\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:23.569348",
+      "title": "東京都収用委員会事務局",
+      "name": "t000027",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "683e550f-babf-455e-a5a1-c7618f8e8e18",
+      "type": "organization",
+      "id": "0e46e9b4-bc1f-4bb8-b05c-15dc298821d8",
+      "approval_status": "approved"
+    },
+    "name": "t000027d0000000001",
+    "isopen": true,
+    "url": "http://www.shuyou.metro.tokyo.jp/TOP/16katuyou1.html",
+    "notes": "【東京都収用委員会事務局】",
+    "owner_org": "0e46e9b4-bc1f-4bb8-b05c-15dc298821d8",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "1年ごと"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "事件の取扱状況及び処理状況",
+    "revision_id": "0bb9096b-3503-42f1-9463-bd6030b2d62d"
+  }
+}

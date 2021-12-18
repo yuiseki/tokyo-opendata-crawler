@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "多摩建築指導事務所",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "fb0377a1-19c8-4449-9dd8-470c3779943e",
+    "metadata_created": "2019-11-01T04:53:44.350802",
+    "metadata_modified": "2019-11-01T05:51:59.312972",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "多摩地区の建築指導事務・開発指導事務の分担（平成30年4月1日現在）",
+        "format": "CSV",
+        "url": "http://www.toshiseibi.metro.tokyo.jp/tamakenchikushidou/pdf/annai.csv",
+        "cache_last_updated": null,
+        "package_id": "fb0377a1-19c8-4449-9dd8-470c3779943e",
+        "created": "2019-03-07T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-03-07T15:00:00",
+        "position": 0,
+        "revision_id": "0ce7026d-ecd7-414d-8b40-719bf9f58e1b",
+        "url_type": null,
+        "id": "c52f740a-993d-4fd5-9148-6dde268fe23c",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "まちづくり",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c003.png",
+        "title": "まちづくり",
+        "id": "dc897c44-8153-4219-bfeb-6110fb85fb99",
+        "name": "c003"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.toshiseibi.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.560358",
+      "title": "東京都都市整備局",
+      "name": "t000008",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "9c234f0e-ff7d-4e2d-8ba4-ea80f312405b",
+      "type": "organization",
+      "id": "16d81025-a2ca-4002-8129-9906c94a4732",
+      "approval_status": "approved"
+    },
+    "name": "t000008d1800000057",
+    "isopen": true,
+    "url": "http://www.toshiseibi.metro.tokyo.jp/tamakenchikushidou/index.html",
+    "notes": "【東京都都市整備局】",
+    "owner_org": "16d81025-a2ca-4002-8129-9906c94a4732",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "東京都多摩建築指導事務所 組織と案内図　建築指導第一課",
+    "revision_id": "ffa53330-b3d1-4cd7-9002-6931d87b3262"
+  }
+}

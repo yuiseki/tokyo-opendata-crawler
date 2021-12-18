@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "食肉市場",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "50cbd87d-1c2e-4e47-907a-25b279164de3",
+    "metadata_created": "2019-11-01T04:54:51.110169",
+    "metadata_modified": "2021-02-03T07:28:42.797005",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "東京食肉市場における格付別取扱数量（牛枝肉／平成29年）",
+        "format": "CSV",
+        "url": "http://www.shijou.metro.tokyo.jp/csv/310308/kisotisiki-01-04_1.csv",
+        "cache_last_updated": null,
+        "package_id": "50cbd87d-1c2e-4e47-907a-25b279164de3",
+        "created": "2019-04-15T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-04-15T15:00:00",
+        "position": 0,
+        "revision_id": "1cdabeda-d227-44ee-9e99-fe9e0f09b412",
+        "url_type": null,
+        "id": "0e29ad58-2fca-4063-8cf5-4ee3117e5770",
+        "resource_type": null,
+        "size": 1024
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "東京食肉市場における格付別取扱数量（豚枝肉/平成29年）",
+        "format": "CSV",
+        "url": "http://www.shijou.metro.tokyo.jp/csv/310308/kisotisiki-01-04_2.csv",
+        "cache_last_updated": null,
+        "package_id": "50cbd87d-1c2e-4e47-907a-25b279164de3",
+        "created": "2019-04-15T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-04-15T15:00:00",
+        "position": 1,
+        "revision_id": "1b3006ae-c05e-41d2-9acc-98ded228bc5d",
+        "url_type": null,
+        "id": "c0ee0475-ccc3-45e2-9b0e-7230b6c0d2f3",
+        "resource_type": null,
+        "size": 1024
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "環境",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c012.png",
+        "title": "環境",
+        "id": "427f3ee0-b28a-4fd2-b7dc-980507f154d2",
+        "name": "c012"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.shijou.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:21.341618",
+      "title": "東京都中央卸売市場",
+      "name": "t000013",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "a14a39f1-b5cb-4e72-8d6d-bd986509b203",
+      "type": "organization",
+      "id": "327220fa-dbe9-453c-89b2-ce303b471a71",
+      "approval_status": "approved"
+    },
+    "name": "t000013d1800000021",
+    "isopen": true,
+    "url": "http://www.shijou.metro.tokyo.jp/syokuniku/kisotisiki/kisotisiki-01-01/",
+    "notes": "【東京都中央卸売市場】",
+    "owner_org": "327220fa-dbe9-453c-89b2-ce303b471a71",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "東京食肉市場における格付別取扱数量",
+    "revision_id": "39981dd5-dec1-4395-ba67-66c7d395cf12"
+  }
+}

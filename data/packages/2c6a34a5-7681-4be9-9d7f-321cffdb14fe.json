@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "市街地整備部区画整理課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "2c6a34a5-7681-4be9-9d7f-321cffdb14fe",
+    "metadata_created": "2019-11-01T04:53:31.779532",
+    "metadata_modified": "2019-11-01T05:45:42.638579",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "帝都復興土地区画整理地区一覧（EXCELファイル）",
+        "format": "XLSX",
+        "url": "http://www.toshiseibi.metro.tokyo.jp/bosai/data/tk_seiri_02_03.xlsx",
+        "cache_last_updated": null,
+        "package_id": "2c6a34a5-7681-4be9-9d7f-321cffdb14fe",
+        "created": "2017-12-26T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-12-26T15:00:00",
+        "position": 0,
+        "revision_id": "66f5ab4c-6186-431c-b42e-e15855efa46a",
+        "url_type": null,
+        "id": "ef0fce07-fdf7-40a4-82bb-5414ef5b565b",
+        "resource_type": null,
+        "size": 14336
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "帝都復興土地区画整理地区一覧（CSVファイル）",
+        "format": "CSV",
+        "url": "http://www.toshiseibi.metro.tokyo.jp/bosai/data/tk_seiri_02_04.csv",
+        "cache_last_updated": null,
+        "package_id": "2c6a34a5-7681-4be9-9d7f-321cffdb14fe",
+        "created": "2017-12-26T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-12-26T15:00:00",
+        "position": 1,
+        "revision_id": "3cf1a522-fae4-4e97-9af0-307f87c285dd",
+        "url_type": null,
+        "id": "c830b4ee-7328-41b0-a7d1-d4ee74ea2dc4",
+        "resource_type": null,
+        "size": 4096
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "まちづくり",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c003.png",
+        "title": "まちづくり",
+        "id": "dc897c44-8153-4219-bfeb-6110fb85fb99",
+        "name": "c003"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.toshiseibi.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.560358",
+      "title": "東京都都市整備局",
+      "name": "t000008",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "9c234f0e-ff7d-4e2d-8ba4-ea80f312405b",
+      "type": "organization",
+      "id": "16d81025-a2ca-4002-8129-9906c94a4732",
+      "approval_status": "approved"
+    },
+    "name": "t000008d0000000027",
+    "isopen": true,
+    "url": "http://www.toshiseibi.metro.tokyo.jp/bosai/tk_seiri_02.htm",
+    "notes": "【東京都都市整備局】　関東大震災からの復興のために施行された帝都復興土地区画整理事業の一覧です。",
+    "owner_org": "16d81025-a2ca-4002-8129-9906c94a4732",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "公開時のみ"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "帝都復興土地区画整理地区一覧",
+    "revision_id": "6dc83908-9b25-48b0-8c95-a79f1cda451a"
+  }
+}

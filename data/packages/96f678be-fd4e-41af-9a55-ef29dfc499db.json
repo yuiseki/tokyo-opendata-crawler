@@ -1,0 +1,84 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 1,
+    "id": "96f678be-fd4e-41af-9a55-ef29dfc499db",
+    "metadata_created": "2019-11-01T04:58:30.153413",
+    "metadata_modified": "2019-11-01T09:30:40.550937",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "公共施設一覧",
+        "format": "CSV",
+        "url": "http://www.opendata.metro.tokyo.jp/suisyoudataset/132080_public_facility.csv",
+        "cache_last_updated": null,
+        "package_id": "96f678be-fd4e-41af-9a55-ef29dfc499db",
+        "created": "2019-03-07T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-03-07T15:00:00",
+        "position": 0,
+        "revision_id": "facc24b3-771f-44de-bb3d-95f70eb997ab",
+        "url_type": null,
+        "id": "646eb0a6-24cb-4eea-963d-1bd0f4f1f517",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [
+      {
+        "vocabulary_id": null,
+        "state": "active",
+        "display_name": "推奨データセット",
+        "id": "8a843f9d-b0c2-465c-86da-1df660de0b32",
+        "name": "推奨データセット"
+      }
+    ],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.chofu.tokyo.jp/",
+      "created": "2019-11-01T03:27:26.616591",
+      "title": "調布市",
+      "name": "t132080",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "c666c9e8-e94d-46e1-a28c-7cdf1ea8b7c6",
+      "type": "organization",
+      "id": "8c710e6d-ae95-4768-90a8-8f4c4e98ae41",
+      "approval_status": "approved"
+    },
+    "name": "t132080d0000000061",
+    "isopen": true,
+    "url": "",
+    "notes": "【調布市】内閣官房情報通信技術（IT）総合戦略室が平成29年12月22日に公開した、推奨データセットに準拠して作成しています。",
+    "owner_org": "8c710e6d-ae95-4768-90a8-8f4c4e98ae41",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "公共施設一覧",
+    "revision_id": "09047d5d-8cbd-4a05-805e-327cd99f018a"
+  }
+}

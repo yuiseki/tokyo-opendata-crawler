@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "道路管理部管理課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "0c87b541-220c-4aa1-be07-f9b757296587",
+    "metadata_created": "2019-11-01T04:54:54.464151",
+    "metadata_modified": "2019-11-01T08:04:22.845184",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "東京都内における沿道整備道路の指定及び沿道地区計画の都市計画決定状況",
+        "format": "PDF",
+        "url": "http://www.kensetsu.metro.tokyo.jp/content/000005968.pdf",
+        "cache_last_updated": null,
+        "package_id": "0c87b541-220c-4aa1-be07-f9b757296587",
+        "created": "2017-03-24T03:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-03-24T03:00:00",
+        "position": 0,
+        "revision_id": "d541865d-b477-4feb-a5d3-82a82700db06",
+        "url_type": null,
+        "id": "e9988204-5f4f-4593-bb0f-df859934cd6a",
+        "resource_type": null,
+        "size": 148480
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "まちづくり",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c003.png",
+        "title": "まちづくり",
+        "id": "dc897c44-8153-4219-bfeb-6110fb85fb99",
+        "name": "c003"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.kensetsu.metro.tokyo.jp/index.html\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:21.496451",
+      "title": "東京都建設局",
+      "name": "t000014",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000014.jpg",
+      "revision_id": "06a19049-68df-4566-aae1-4c7d52e3a2dc",
+      "type": "organization",
+      "id": "c6763312-f089-4659-8c88-8b67ec9dc4dd",
+      "approval_status": "approved"
+    },
+    "name": "t000014d0000000007",
+    "isopen": true,
+    "url": "",
+    "notes": "【東京都建設局】　「幹線道路の沿道の整備に関する法律」（昭和55年５月１日法律第34号）第５条による沿道整備道路の指定及び同法第９条による沿道地区計画の都市計画決定状況",
+    "owner_org": "c6763312-f089-4659-8c88-8b67ec9dc4dd",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "東京都内における沿道整備道路の指定及び沿道地区計画の都市計画決定状況",
+    "revision_id": "de79c395-8ef9-4811-8702-5210a83601c6"
+  }
+}

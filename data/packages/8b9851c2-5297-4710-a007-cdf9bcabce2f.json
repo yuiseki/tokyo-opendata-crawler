@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "広報広聴課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "8b9851c2-5297-4710-a007-cdf9bcabce2f",
+    "metadata_created": "2019-11-01T04:57:03.449500",
+    "metadata_modified": "2019-11-01T08:39:15.355880",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "自治体情報のｃｓｖファイル",
+        "name": "自治体情報csvデータ",
+        "format": "CSV",
+        "url": "http://www.city.shinagawa.tokyo.jp/ct/other000081600/jichitaijoho.csv",
+        "cache_last_updated": null,
+        "package_id": "8b9851c2-5297-4710-a007-cdf9bcabce2f",
+        "created": "2017-03-24T03:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-03-24T03:00:00",
+        "position": 0,
+        "revision_id": "46342080-7aa7-4dad-87d5-633aa2ee3989",
+        "url_type": null,
+        "id": "2e51ecbf-09ec-4b14-b554-48bdb18fb9d7",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "自治体情報のrdfファイル",
+        "name": "自治体情報rdfデータ",
+        "format": "RDF",
+        "url": "http://www.city.shinagawa.tokyo.jp/ct/other000081600/jichitaijoho.rdf",
+        "cache_last_updated": null,
+        "package_id": "8b9851c2-5297-4710-a007-cdf9bcabce2f",
+        "created": "2017-03-24T03:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-03-24T03:00:00",
+        "position": 1,
+        "revision_id": "3dce60db-6a81-43b8-a752-5044ba2c9276",
+        "url_type": null,
+        "id": "522ccc87-2fab-408b-a175-d26cddc9d723",
+        "resource_type": null,
+        "size": 2048
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.shinagawa.tokyo.jp/",
+      "created": "2019-11-01T03:27:24.888527",
+      "title": "品川区",
+      "name": "t131091",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131091.png",
+      "revision_id": "a58c6889-2755-423e-bc8c-5146fb74ae73",
+      "type": "organization",
+      "id": "ee5ed3ad-76a9-4a49-aba7-3a63a457eb93",
+      "approval_status": "approved"
+    },
+    "name": "t131091d0000000004",
+    "isopen": true,
+    "url": "",
+    "notes": "【品川区】　品川区役所の情報",
+    "owner_org": "ee5ed3ad-76a9-4a49-aba7-3a63a457eb93",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "自治体情報",
+    "revision_id": "803546f9-0d48-40be-8c6b-eea279a4c61a"
+  }
+}

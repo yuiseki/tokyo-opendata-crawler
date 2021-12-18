@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "北区地域振興部産業振興課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "b768157d-db48-49ff-9255-dc4794183f35",
+    "metadata_created": "2019-11-01T04:57:26.261732",
+    "metadata_modified": "2020-06-01T07:13:03.111639",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "公衆無線LANアクセスポイント一覧",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/suisyoudataset/131172_public_wireless_lan.csv",
+        "cache_last_updated": null,
+        "package_id": "b768157d-db48-49ff-9255-dc4794183f35",
+        "created": "2019-07-07T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-07-07T15:00:00",
+        "position": 0,
+        "revision_id": "16137be7-83a3-43ec-b311-80a0d43934cc",
+        "url_type": null,
+        "id": "6bb054b1-5107-42d8-8718-170198770ecc",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "観光",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c008.png",
+        "title": "観光",
+        "id": "420fd8d6-2bde-4746-9354-6344ec19ba93",
+        "name": "c008"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "www.city.kita.tokyo.jp",
+      "created": "2019-11-01T03:27:25.516223",
+      "title": "北区",
+      "name": "t131172",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131172.jpg",
+      "revision_id": "581329b4-887b-48c7-9e69-2dd030791799",
+      "type": "organization",
+      "id": "ae2cce1f-9148-40a7-ae35-4f6314cf7bf3",
+      "approval_status": "approved"
+    },
+    "name": "t131172d0000000001",
+    "isopen": true,
+    "url": "http://www.city.kita.tokyo.jp/sangyoshinko/kousyumusenlan.html",
+    "notes": "【北区】北区が設置する公衆無線LANアクセスポイントの一覧です。",
+    "owner_org": "ae2cce1f-9148-40a7-ae35-4f6314cf7bf3",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "公衆無線LANアクセスポイント一覧",
+    "revision_id": "13a91dc4-2106-495f-9ee8-6eece2381271"
+  }
+}

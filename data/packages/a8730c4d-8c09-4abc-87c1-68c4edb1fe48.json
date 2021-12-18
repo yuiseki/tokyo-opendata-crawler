@@ -1,0 +1,114 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "企画政策部情報政策課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 1,
+    "id": "a8730c4d-8c09-4abc-87c1-68c4edb1fe48",
+    "metadata_created": "2019-11-01T04:56:48.636499",
+    "metadata_modified": "2019-11-01T09:36:13.841013",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "文京区の公衆無線LAN設置場所の一覧です。（EXCELファイル）",
+        "name": "公衆無線LAN設置場所",
+        "format": "XLSX",
+        "url": "https://www.city.bunkyo.lg.jp/library/opendata-bunkyo/01tetsuduki-kurashi/04kosyumusenlan/kosyumusenlan.xlsx",
+        "cache_last_updated": null,
+        "package_id": "a8730c4d-8c09-4abc-87c1-68c4edb1fe48",
+        "created": "2017-11-06T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-11-06T15:00:00",
+        "position": 0,
+        "revision_id": "a91114a2-55b8-4bdd-8b0e-4974b38fbbcd",
+        "url_type": null,
+        "id": "caa9beac-f7de-483d-987f-f7aa879ca4e3",
+        "resource_type": null,
+        "size": 17408
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "文京区の公衆無線LAN設置場所の一覧です。（CSVファイル）",
+        "name": "公衆無線LAN設置場所",
+        "format": "CSV",
+        "url": "https://www.city.bunkyo.lg.jp/library/opendata-bunkyo/01tetsuduki-kurashi/04kosyumusenlan/kosyumusenlan.csv",
+        "cache_last_updated": null,
+        "package_id": "a8730c4d-8c09-4abc-87c1-68c4edb1fe48",
+        "created": "2017-11-06T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-11-06T15:00:00",
+        "position": 1,
+        "revision_id": "174b9226-2126-42c4-b82b-bea0bb7e6594",
+        "url_type": null,
+        "id": "fa2f0a59-b4f3-4b3c-81bd-c60db3a65d98",
+        "resource_type": null,
+        "size": 7168
+      }
+    ],
+    "num_resources": 2,
+    "tags": [
+      {
+        "vocabulary_id": null,
+        "state": "active",
+        "display_name": "Wi-Fi",
+        "id": "25e4d541-6b98-49ff-b320-4cf299810e10",
+        "name": "Wi-Fi"
+      }
+    ],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.bunkyo.lg.jp/",
+      "created": "2019-11-01T03:27:24.573898",
+      "title": "文京区",
+      "name": "t131059",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131059.png",
+      "revision_id": "66ab70ed-369f-4eda-b72a-eacf3f7c8095",
+      "type": "organization",
+      "id": "201cae13-e069-464e-b376-1da3ce968538",
+      "approval_status": "approved"
+    },
+    "name": "t131059d0101040001",
+    "isopen": true,
+    "url": "",
+    "notes": "【文京区】　文京区の公衆無線LAN設置場所の一覧です。",
+    "owner_org": "201cae13-e069-464e-b376-1da3ce968538",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "公衆無線LAN設置場所",
+    "revision_id": "73241a44-b36a-4452-9f99-385c3c64dece"
+  }
+}

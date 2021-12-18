@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "会計管理局総務課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "0f176ad9-d33c-4feb-83eb-b2a65957b722",
+    "metadata_created": "2020-12-10T01:51:59.223530",
+    "owner_org": "de6428eb-03c5-4658-9bf8-80f7c5f554d9",
+    "metadata_modified": "2021-08-26T04:44:22.841794",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "",
+        "format": "PDF",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/kaikeikanri/op20201208_r2jigyougaiyou.pdf",
+        "created": "2020-12-06T15:00:00",
+        "state": "active",
+        "package_id": "0f176ad9-d33c-4feb-83eb-b2a65957b722",
+        "last_modified": "2020-12-06T15:00:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "2c2a4eb8-9aec-4ece-9e80-15d590c217e9",
+        "size": null,
+        "id": "f9159f38-3d6b-4707-a6d4-d69769ed101a",
+        "resource_type": null,
+        "name": "会計管理局　令和２年版　事業概要"
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "税金",
+        "description": "",
+        "title": "税金",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c007.png",
+        "id": "bb8a1d8b-5217-44c2-8eca-81addb671f0e",
+        "name": "c007"
+      }
+    ],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t000016d1700000008",
+    "isopen": true,
+    "url": "http://www.kaikeikanri.metro.tokyo.jp/jigyougaiyou.htm",
+    "notes": "【東京都会計管理局】",
+    "title": "会計管理局　事業概要",
+    "extras": [
+      {
+        "value": "1年ごと",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "http://www.kaikeikanri.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "title": "東京都会計管理局",
+      "created": "2019-11-01T03:27:21.811618",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "437d2e05-a454-4728-83e8-010b35b1110b",
+      "type": "organization",
+      "id": "de6428eb-03c5-4658-9bf8-80f7c5f554d9",
+      "name": "t000016"
+    },
+    "revision_id": "b752758c-8c7e-40b7-b261-cbcc9f45aaca"
+  }
+}

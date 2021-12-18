@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "総務部企画計理課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "7b69ac9c-562f-49ce-bbc0-65dfb02a4cbf",
+    "metadata_created": "2019-11-01T04:52:41.763776",
+    "metadata_modified": "2019-11-01T05:18:56.659106",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "議事要録",
+        "format": "PDF",
+        "url": "http://www.soumu.metro.tokyo.jp/08daigaku/pdf/bunkakai_18_5_gijiyouroku.pdf",
+        "cache_last_updated": null,
+        "package_id": "7b69ac9c-562f-49ce-bbc0-65dfb02a4cbf",
+        "created": "2017-03-24T03:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-03-24T03:00:00",
+        "position": 0,
+        "revision_id": "0ebea839-3e4b-45db-ab26-9b931b85c116",
+        "url_type": null,
+        "id": "ff8c76dc-07ad-4f1f-a7ca-03927e150cdb",
+        "resource_type": null,
+        "size": 26624
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "配布資料（公立大学法人首都大学東京の各事業年度の業務実績評価（年度評価）方針及び評価方法の見直しについて（概要）ほか）",
+        "format": "PDF",
+        "url": "http://www.soumu.metro.tokyo.jp/08daigaku/pdf/bunkakai_18_5.pdf",
+        "cache_last_updated": null,
+        "package_id": "7b69ac9c-562f-49ce-bbc0-65dfb02a4cbf",
+        "created": "2017-03-24T03:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-03-24T03:00:00",
+        "position": 1,
+        "revision_id": "a957205e-d0dc-4e39-a2cf-b098da6f2568",
+        "url_type": null,
+        "id": "d09b7bad-bc7d-4bdf-b82d-1752794a7b5d",
+        "resource_type": null,
+        "size": 454656
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.soumu.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:19.763566",
+      "title": "東京都総務局",
+      "name": "t000003",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000003.png",
+      "revision_id": "c4e16dd4-cb3f-42dc-8be2-2eed0f9e0175",
+      "type": "organization",
+      "id": "5987f8a3-dfbe-4f96-b3cc-e1f3ea0a2717",
+      "approval_status": "approved"
+    },
+    "name": "t000003d0001000051",
+    "isopen": true,
+    "url": "",
+    "notes": "【東京都総務局】",
+    "owner_org": "5987f8a3-dfbe-4f96-b3cc-e1f3ea0a2717",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "公開時のみ"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "平成18年度公立大学分科会第5回（平成19年2月21日開催）",
+    "revision_id": "22c8f10b-a24a-4d74-b948-806d2db0d91c"
+  }
+}

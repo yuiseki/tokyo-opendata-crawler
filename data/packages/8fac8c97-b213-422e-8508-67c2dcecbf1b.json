@@ -1,0 +1,101 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "子ども政策部子ども育成課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "8fac8c97-b213-422e-8508-67c2dcecbf1b",
+    "metadata_created": "2019-12-26T11:17:36.521408",
+    "metadata_modified": "2019-12-26T11:18:16.697184",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "認可保育所等の所在地、電話、年齢別定員、開所時間等のデータです。",
+        "name": "三鷹市内の認可保育園等一覧",
+        "format": "XLSX",
+        "url": "https://www.city.mitaka.lg.jp/c_service/074/attached/attach_74098_1.xlsx",
+        "cache_last_updated": null,
+        "package_id": "8fac8c97-b213-422e-8508-67c2dcecbf1b",
+        "created": "2019-03-06T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-03-06T15:00:00",
+        "position": 0,
+        "revision_id": "43f194e8-afa6-4b6e-8190-3f9a32cfb3c1",
+        "url_type": null,
+        "id": "2baf305d-9172-4b93-88ca-8c13f4ae00dc",
+        "resource_type": null,
+        "size": 29696
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      },
+      {
+        "display_name": "まちづくり",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c003.png",
+        "title": "まちづくり",
+        "id": "dc897c44-8153-4219-bfeb-6110fb85fb99",
+        "name": "c003"
+      },
+      {
+        "display_name": "人口減少・少子高齢化",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c004.png",
+        "title": "人口減少・少子高齢化",
+        "id": "802d7d18-3543-4e8b-a8f5-82b5f1aa752e",
+        "name": "c004"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.mitaka.tokyo.jp/",
+      "created": "2019-11-01T03:27:26.290901",
+      "title": "三鷹市",
+      "name": "t132047",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t132047.png",
+      "revision_id": "29067a77-93a5-401f-8cf9-067b0d741280",
+      "type": "organization",
+      "id": "bad8a80a-36ed-489a-89c2-d1669a424860",
+      "approval_status": "approved"
+    },
+    "name": "t132047d0000000013",
+    "isopen": true,
+    "url": "",
+    "notes": "【三鷹市】保育園等入園案内に掲載している認可保育所等一覧のデータです。",
+    "owner_org": "bad8a80a-36ed-489a-89c2-d1669a424860",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "1年ごと"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "【事業案内】三鷹市内の認可保育園等一覧",
+    "revision_id": "41d44515-8cf4-4242-9932-408924f01a60"
+  }
+}

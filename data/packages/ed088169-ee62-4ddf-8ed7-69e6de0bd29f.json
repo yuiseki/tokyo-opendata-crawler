@@ -1,0 +1,93 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示-非営利-改変禁止（CC BY-NC-ND）",
+    "maintainer": "交通総務課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "ed088169-ee62-4ddf-8ed7-69e6de0bd29f",
+    "metadata_created": "2020-06-26T06:20:48.112721",
+    "owner_org": "a80c46c5-d236-4d83-b4f9-656c25d0847d",
+    "metadata_modified": "2020-06-26T06:22:15.621171",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-NC-ND-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "※ このデータのライセンスは「クリエイティブ・コモンズ 表示-非営利-改変禁止（CC BY-NC-ND）」です。  \n\nby_route_1.csv　一般道路（発生件数ワースト50路線）  \n\nby_route_2.csv　高速道路（発生件数の多い順）  \n\nなお、ZIPファイル内には一覧表となるテキストファイル1種を含みます。\n",
+        "format": "ZIP",
+        "url": "https://www.keishicho.metro.tokyo.jp/about_mpd/jokyo_tokei/tokei_jokyo/vta.files/by_route.zip",
+        "created": "2018-02-25T15:00:00",
+        "state": "active",
+        "package_id": "ed088169-ee62-4ddf-8ed7-69e6de0bd29f",
+        "last_modified": "2018-02-25T15:00:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "a0aee4f3-26aa-471f-9d8d-62bea995da02",
+        "size": 1024,
+        "id": "9c5f1f36-4aed-45c1-8399-595f251080ec",
+        "resource_type": null,
+        "name": "路線別交通人身事故発生状況内の表（CSVファイル2種）"
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "交通情報",
+        "description": "",
+        "title": "交通情報",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c013.png",
+        "id": "38323541-753d-4230-b2dd-d9eb367ae5ed",
+        "name": "c013"
+      },
+      {
+        "display_name": "治安",
+        "description": "",
+        "title": "治安",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c002.png",
+        "id": "de8273ac-2339-4309-ad15-2800b751b45e",
+        "name": "c002"
+      }
+    ],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t000022d0000000030",
+    "isopen": false,
+    "url": "https://www.keishicho.metro.tokyo.jp/about_mpd/jokyo_tokei/tokei_jokyo/vta.html",
+    "notes": "【警視庁】　路線別交通人身事故発生状況内の表CSVファイル2種\n\n※ このデータセットのライセンスは「クリエイティブ・コモンズ 表示-非営利-改変禁止（CC BY-NC-ND）」です。\n",
+    "title": "路線別交通人身事故発生状況",
+    "extras": [
+      {
+        "value": "随時",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ja",
+    "organization": {
+      "description": "http://www.keishicho.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "title": "警視庁",
+      "created": "2019-11-01T03:27:22.754561",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000022.jpg",
+      "revision_id": "6ec2a37b-87b3-4747-ac28-2a6800716699",
+      "type": "organization",
+      "id": "a80c46c5-d236-4d83-b4f9-656c25d0847d",
+      "name": "t000022"
+    },
+    "revision_id": "651014aa-7a6c-44de-a2b9-59419916654c"
+  }
+}

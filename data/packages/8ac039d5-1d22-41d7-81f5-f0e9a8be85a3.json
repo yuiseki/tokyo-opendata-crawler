@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "港湾局総務部総務課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "8ac039d5-1d22-41d7-81f5-f0e9a8be85a3",
+    "metadata_created": "2021-05-20T06:25:49.769419",
+    "metadata_modified": "2021-05-24T06:31:26.225510",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "交　際　費　(平成２０年4月?）",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/kouwan/R3/kosaihi.csv",
+        "cache_last_updated": null,
+        "package_id": "8ac039d5-1d22-41d7-81f5-f0e9a8be85a3",
+        "created": "2021-02-16T07:37:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-02-16T07:37:00",
+        "position": 0,
+        "revision_id": "5cf37b99-544b-4d35-8e3e-57ff0f79b627",
+        "url_type": null,
+        "id": "136af2e4-e067-409c-8435-4e5f41543260",
+        "resource_type": null,
+        "size": 457
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.kouwan.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:21.661622",
+      "title": "東京都港湾局",
+      "name": "t000015",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000015.jpg",
+      "revision_id": "0ae0b754-9704-453d-a632-4097dcdb2ebf",
+      "type": "organization",
+      "id": "4a51054b-f927-4a44-902b-889a0a1fa75d",
+      "approval_status": "approved"
+    },
+    "name": "t000015d2000000015",
+    "isopen": true,
+    "url": "http://www.kouwan.metro.tokyo.jp/jigyo/koukai/index.html",
+    "notes": "",
+    "owner_org": "4a51054b-f927-4a44-902b-889a0a1fa75d",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "港湾局のご案内_ ＜港湾局における交際費・海外出張費の執行状況＞",
+    "revision_id": "5d7b242b-a6b7-40d4-af99-b1a7680698fe"
+  }
+}

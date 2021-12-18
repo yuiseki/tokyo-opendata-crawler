@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "町田市経済観光部産業政策課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "bf7d00ce-600f-4482-990f-77f5b4ffe244",
+    "metadata_created": "2020-02-19T02:23:29.380862",
+    "owner_org": "01ee6b09-cb58-4100-8d95-623ad6b238ef",
+    "metadata_modified": "2020-05-22T09:12:12.948571",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "",
+        "format": "CSV",
+        "url": "https://www.city.machida.tokyo.jp/shisei/opendata/sangyo/machidatrial.files/machidatrial.csv",
+        "created": "2019-11-18T15:00:00",
+        "state": "active",
+        "package_id": "bf7d00ce-600f-4482-990f-77f5b4ffe244",
+        "last_modified": "2019-11-18T15:00:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "dffc73a2-88d9-4e95-820a-d147d8680472",
+        "size": 13312,
+        "id": "9e4caad4-47c4-4200-9fd8-3df544a0c55e",
+        "resource_type": null,
+        "name": "トライアル発注認定事業者・商品"
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t132098d0000000100",
+    "isopen": true,
+    "url": "",
+    "notes": "【町田市】「町田市トライアル発注認定制度」の認定を受けた事業者・商品一覧です。\n\n提供する情報は、2019年10月4日時点のものです。\n\n本データは地図作成上の誤差を含んでいます。また、データ上の表示と現況は異なる場合がございます。\n",
+    "title": "トライアル発注認定事業者・商品",
+    "extras": [
+      {
+        "value": "随時",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "https://www.city.machida.tokyo.jp/",
+      "title": "町田市",
+      "created": "2019-11-01T03:27:26.775139",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t132098.png",
+      "revision_id": "afc39d6e-faf0-4358-90a5-a32d669724a1",
+      "type": "organization",
+      "id": "01ee6b09-cb58-4100-8d95-623ad6b238ef",
+      "name": "t132098"
+    },
+    "revision_id": "b4dc2b19-b0ee-4535-b9f7-f7056f383d31"
+  }
+}

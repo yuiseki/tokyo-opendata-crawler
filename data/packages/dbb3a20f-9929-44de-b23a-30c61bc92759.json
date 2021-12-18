@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "第一市街地整備事務所",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "dbb3a20f-9929-44de-b23a-30c61bc92759",
+    "metadata_created": "2019-11-01T04:53:34.195912",
+    "metadata_modified": "2019-11-01T05:45:48.949457",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "補償金の種別　表1",
+        "format": "CSV",
+        "url": "http://www.toshiseibi.metro.tokyo.jp/daiichiseibi/about/pdf/compensation_04.csv",
+        "cache_last_updated": null,
+        "package_id": "dbb3a20f-9929-44de-b23a-30c61bc92759",
+        "created": "2018-11-08T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-11-08T15:00:00",
+        "position": 0,
+        "revision_id": "96faeaf5-d691-490b-9195-f3984c32ab45",
+        "url_type": null,
+        "id": "e2c55543-7957-4043-872e-62ddcf7c80f6",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "まちづくり",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c003.png",
+        "title": "まちづくり",
+        "id": "dc897c44-8153-4219-bfeb-6110fb85fb99",
+        "name": "c003"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.toshiseibi.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.560358",
+      "title": "東京都都市整備局",
+      "name": "t000008",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "9c234f0e-ff7d-4e2d-8ba4-ea80f312405b",
+      "type": "organization",
+      "id": "16d81025-a2ca-4002-8129-9906c94a4732",
+      "approval_status": "approved"
+    },
+    "name": "t000008d1800000007",
+    "isopen": true,
+    "url": "http://www.toshiseibi.metro.tokyo.jp/daiichiseibi/about/compensation.html",
+    "notes": "【東京都都市整備局】",
+    "owner_org": "16d81025-a2ca-4002-8129-9906c94a4732",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "第一市街地整備事務所について　税金に関すること",
+    "revision_id": "24dcdf45-384c-4b57-bd9d-fafa94eed1ab"
+  }
+}

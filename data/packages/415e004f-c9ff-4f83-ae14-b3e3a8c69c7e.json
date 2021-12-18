@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "都営交通お客様センター",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "415e004f-c9ff-4f83-ae14-b3e3a8c69c7e",
+    "metadata_created": "2019-12-23T09:33:54.830923",
+    "metadata_modified": "2021-05-12T06:13:12.327279",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "《都営バス》 - [都営バス　運賃] 普通運賃 > 普通運賃【東京23区内】\n\n※IC運賃は1枚のICカードで運賃全額を一度にお支払いいただく場合に限り適用いたします。\n\n※深夜バスを、定期券、一日乗車券、東京都シルバーパスでご利用のお客様は、一般系統との差額、大人210円（IC 210円）、小児100円（IC 105円）が必要です。\n\n※江東区コミュニティバス「しおかぜ」は、大人・小児とも100円（現金・ICとも）です。定期券、一日券等はご利用できません。\n\n［注］\n\n紙幣でのお支払いは、1000円札のみご使用いただけます。\n",
+        "name": "普通運賃 > 普通運賃【東京23区内】",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/kotsu/bus/bus_fare_ordinary_fare.csv",
+        "cache_last_updated": null,
+        "package_id": "415e004f-c9ff-4f83-ae14-b3e3a8c69c7e",
+        "created": "2019-11-11T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-11-12T08:18:00",
+        "position": 0,
+        "revision_id": "4d80a26c-ce7d-4fd0-97e5-472a96f67ceb",
+        "url_type": null,
+        "id": "ba07888d-60f8-4859-bf5b-8a77a386ac35",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "《都営バス》 - [都営バス　運賃] 普通運賃 > おとな・こども",
+        "name": "普通運賃 > おとな・こども",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/kotsu/bus/bus_fare_adult_child.csv",
+        "cache_last_updated": null,
+        "package_id": "415e004f-c9ff-4f83-ae14-b3e3a8c69c7e",
+        "created": "2019-11-11T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-11-12T08:20:00",
+        "position": 1,
+        "revision_id": "902d48bf-717a-4a7a-876b-a98c9d47b4b6",
+        "url_type": null,
+        "id": "6e836497-12b9-44bc-b432-87e5fd68f3ec",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "交通情報",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c013.png",
+        "title": "交通情報",
+        "id": "38323541-753d-4230-b2dd-d9eb367ae5ed",
+        "name": "c013"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.kotsu.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:22.123863",
+      "title": "東京都交通局",
+      "name": "t000018",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "d47c06bd-1090-4a95-bea1-05d8261663a6",
+      "type": "organization",
+      "id": "058227fa-4a59-4028-a226-9eb858f9947a",
+      "approval_status": "approved"
+    },
+    "name": "t000018d0000000051",
+    "isopen": true,
+    "url": "https://www.kotsu.metro.tokyo.jp/bus/fare/index.html",
+    "notes": "【東京都交通局】都営バス　運賃",
+    "owner_org": "058227fa-4a59-4028-a226-9eb858f9947a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "都営バス　運賃",
+    "revision_id": "4f2cc6fe-301b-44fd-b7b0-6390b39cfd04"
+  }
+}

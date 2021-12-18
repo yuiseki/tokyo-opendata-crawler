@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "都営交通お客様センター",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "2a255d26-32fc-4dcf-8bdd-11c78045f29a",
+    "metadata_created": "2019-12-23T09:17:01.023337",
+    "metadata_modified": "2021-05-11T06:18:36.509915",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "《東京さくらトラム（都電荒川線）》 - [都電荒川線　営業所・窓口一覧] 営業所",
+        "name": "営業所",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/kotsu/toden/toden_branch_sales_office.csv",
+        "cache_last_updated": null,
+        "package_id": "2a255d26-32fc-4dcf-8bdd-11c78045f29a",
+        "created": "2019-07-25T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-02-08T03:28:00",
+        "position": 0,
+        "revision_id": "a60ddd63-2cc4-45fd-8e99-a3ef6eedcf03",
+        "url_type": null,
+        "id": "22419e09-20f0-476a-8245-53cd96014f17",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "《東京さくらトラム（都電荒川線）》 - [都電荒川線　営業所・窓口一覧] 乗車券発売窓口",
+        "name": "乗車券発売窓口",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/kotsu/toden/toden_branch_release_window.csv",
+        "cache_last_updated": null,
+        "package_id": "2a255d26-32fc-4dcf-8bdd-11c78045f29a",
+        "created": "2019-07-25T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-02-08T03:32:00",
+        "position": 1,
+        "revision_id": "a60ddd63-2cc4-45fd-8e99-a3ef6eedcf03",
+        "url_type": null,
+        "id": "2dbb1e21-cfc8-457c-bd34-9a27c0aad0a5",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.kotsu.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:22.123863",
+      "title": "東京都交通局",
+      "name": "t000018",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "d47c06bd-1090-4a95-bea1-05d8261663a6",
+      "type": "organization",
+      "id": "058227fa-4a59-4028-a226-9eb858f9947a",
+      "approval_status": "approved"
+    },
+    "name": "t000018d0000000039",
+    "isopen": true,
+    "url": "https://www.kotsu.metro.tokyo.jp/toden/branch/index.html",
+    "notes": "【東京都交通局】都電荒川線　営業所・窓口一覧",
+    "owner_org": "058227fa-4a59-4028-a226-9eb858f9947a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "都電荒川線　営業所・窓口一覧",
+    "revision_id": "389b9fab-78cd-4bd8-b7db-2061fa844905"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "健康安全部　動物愛護相談センター",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "5cc07df7-22e4-44a2-8717-b4cf98348cf2",
+    "metadata_created": "2019-11-01T04:54:26.869592",
+    "metadata_modified": "2019-11-01T06:10:26.734825",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "注1\n\n八王子市は平成19年4月に、町田市は平成23年4月に保健所政令市となったため、両市の数値は入っていません。\n\n注2\n\n収容状況の計及び処分状況の計は、前年度からの繰り入れ、翌年度への繰り越し頭数があるため合致しません。\n",
+        "name": "事業別動物取扱状況　収容状況",
+        "format": "CSV",
+        "url": "http://www.fukushihoken.metro.tokyo.jp/douso/shiryou/toriatsukai.files/syuyo_1.csv",
+        "cache_last_updated": null,
+        "package_id": "5cc07df7-22e4-44a2-8717-b4cf98348cf2",
+        "created": "2019-02-12T03:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-03-05T15:00:00",
+        "position": 0,
+        "revision_id": "58ddf0b7-9623-4946-8bd9-f8e4d297c91e",
+        "url_type": null,
+        "id": "3542c8d4-caf9-4c04-bdce-5edaf7cce36d",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "注1\n\n八王子市は平成19年4月に、町田市は平成23年4月に保健所政令市となったため、両市の数値は入っていません。\n\n注2\n\n収容状況の計及び処分状況の計は、前年度からの繰り入れ、翌年度への繰り越し頭数があるため合致しません。\n",
+        "name": "事業別動物取扱状況　処分状況",
+        "format": "CSV",
+        "url": "http://www.fukushihoken.metro.tokyo.jp/douso/shiryou/toriatsukai.files/syobun_1.csv",
+        "cache_last_updated": null,
+        "package_id": "5cc07df7-22e4-44a2-8717-b4cf98348cf2",
+        "created": "2019-02-12T03:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-03-05T15:00:00",
+        "position": 1,
+        "revision_id": "5d1ed575-4117-490c-ba6b-59da13899e69",
+        "url_type": null,
+        "id": "c70d1f11-e13d-4b6e-b94f-b02c1a9cc1f9",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "まちづくり",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c003.png",
+        "title": "まちづくり",
+        "id": "dc897c44-8153-4219-bfeb-6110fb85fb99",
+        "name": "c003"
+      },
+      {
+        "display_name": "医療・福祉",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c005.png",
+        "title": "医療・福祉",
+        "id": "0d3cd956-612c-45c5-b1ee-75c1a5835c0e",
+        "name": "c005"
+      },
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.fukushihoken.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.864364",
+      "title": "東京都福祉保健局",
+      "name": "t000010",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000010.jpg",
+      "revision_id": "8d3da6a9-bfe7-4cd1-9d5d-9737b2293939",
+      "type": "organization",
+      "id": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+      "approval_status": "approved"
+    },
+    "name": "t000010d1800000011",
+    "isopen": true,
+    "url": "http://www.fukushihoken.metro.tokyo.jp/douso/shiryou/toriatsukai.html",
+    "notes": "【東京都福祉保健局】",
+    "owner_org": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "東京都動物愛護相談センター_事業別動物取扱状況",
+    "revision_id": "cbb6f133-3755-447c-a877-e930028eb523"
+  }
+}

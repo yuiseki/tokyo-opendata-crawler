@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "市街地整備部防災都市づくり課密集地域整備担当",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "535856bc-17fe-438d-91c0-ecb64dc17981",
+    "metadata_created": "2019-11-01T04:53:33.426805",
+    "metadata_modified": "2019-11-01T05:45:48.007541",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "事業実施地区",
+        "format": "CSV",
+        "url": "http://www.toshiseibi.metro.tokyo.jp/bosai/sokushin/pdf/seibijigyo.csv",
+        "cache_last_updated": null,
+        "package_id": "535856bc-17fe-438d-91c0-ecb64dc17981",
+        "created": "2018-12-27T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-12-27T15:00:00",
+        "position": 0,
+        "revision_id": "7780534f-8cf5-491d-9c90-d2934c8cffda",
+        "url_type": null,
+        "id": "ae73da71-e87f-4343-9cbe-dee9b4317753",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "防災・災害計画",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c001.png",
+        "title": "防災・災害計画",
+        "id": "8eb52f8e-0d10-44f4-8bb4-2a488d0f8465",
+        "name": "c001"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.toshiseibi.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.560358",
+      "title": "東京都都市整備局",
+      "name": "t000008",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "9c234f0e-ff7d-4e2d-8ba4-ea80f312405b",
+      "type": "organization",
+      "id": "16d81025-a2ca-4002-8129-9906c94a4732",
+      "approval_status": "approved"
+    },
+    "name": "t000008d1700000003",
+    "isopen": true,
+    "url": "http://www.toshiseibi.metro.tokyo.jp/bosai/sokushin/seibijigyo.html",
+    "notes": "防災街区整備事業は、市街地再開発事業と同様に、土地・建物から建築物への権利変換による共同化を基本としつつ、土地から土地への権利変換も可能とする柔軟な手法が認められています。\n\n　老朽化した建築物を除却し、防災機能を備えた建築物および公共施設の整備を行う防災街区整備事業は、木密地域を解消する方法のひとつです。都は本事業の認可・補助等を行っています。\n",
+    "owner_org": "16d81025-a2ca-4002-8129-9906c94a4732",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "防災街区整備事業",
+    "revision_id": "39df5d6f-eaa7-4bda-9317-55e1a6e2ac55"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "芝地区総合支所区民課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "f608ebbb-31bf-4841-a4e7-01e0bf308185",
+    "metadata_created": "2020-05-14T08:20:49.784244",
+    "metadata_modified": "2020-05-14T08:20:50.959561",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "【平成30年度行政資料集】住居表示実施状況です。",
+        "name": "【平成30年度行政資料集】住居表示実施状況",
+        "format": "CSV",
+        "url": "https://opendata.city.minato.tokyo.jp/dataset/2683e085-46ea-42ae-b553-62310b8e5a27/resource/6e38530a-5b64-4572-b5b4-8b0deb998a67/download/jukyohyoji_jisshijokyo_2018.csv",
+        "cache_last_updated": null,
+        "package_id": "f608ebbb-31bf-4841-a4e7-01e0bf308185",
+        "created": "2018-08-30T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-12-11T15:00:00",
+        "position": 0,
+        "revision_id": "d31377ac-7888-4ed3-99df-dc730c752c8e",
+        "url_type": null,
+        "id": "f57c6084-029e-4895-b476-a7a787f6edaf",
+        "resource_type": null,
+        "size": 3072
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.minato.tokyo.jp/",
+      "created": "2019-11-01T03:27:24.220357",
+      "title": "港区",
+      "name": "t131032",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131032.jpg",
+      "revision_id": "8f5676eb-3316-4cc6-b26a-4f7e1b39e109",
+      "type": "organization",
+      "id": "6adece4f-1ee9-416a-a7e7-856b8d5fb050",
+      "approval_status": "approved"
+    },
+    "name": "t131032d0000000025",
+    "isopen": true,
+    "url": "https://www.city.minato.tokyo.jp/seisakukenkyu/26gyouseishiryousyuu.html",
+    "notes": "【港区】住居表示実施状況についての情報です。",
+    "owner_org": "6adece4f-1ee9-416a-a7e7-856b8d5fb050",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "更新無"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "【行政資料集】住居表示実施状況",
+    "revision_id": "7b34681d-6927-4da9-8708-41da0be1e4fa"
+  }
+}

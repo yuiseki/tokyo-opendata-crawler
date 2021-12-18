@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "広報広聴課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "a11578ae-ed7e-4adf-9fd7-07320238ed7b",
+    "metadata_created": "2019-11-01T04:57:03.241630",
+    "metadata_modified": "2019-11-01T08:39:14.807197",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "公共施設の緯度経度等のｃｓｖファイル",
+        "name": "公共施設csvデータ",
+        "format": "CSV",
+        "url": "http://www.city.shinagawa.tokyo.jp/ct/other000081600/kokyoshisetsu.csv",
+        "cache_last_updated": null,
+        "package_id": "a11578ae-ed7e-4adf-9fd7-07320238ed7b",
+        "created": "2017-03-24T03:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-03-24T03:00:00",
+        "position": 0,
+        "revision_id": "5448a8a8-fbff-4463-a6ce-726582bea3d7",
+        "url_type": null,
+        "id": "739098b6-e043-41ad-9b5b-f83481d09631",
+        "resource_type": null,
+        "size": 123904
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "公共施設の緯度経度等rdfファイル",
+        "name": "公共施設rdfデータ",
+        "format": "RDF",
+        "url": "http://www.city.shinagawa.tokyo.jp/ct/other000081600/kokyoshisetsu.rdf",
+        "cache_last_updated": null,
+        "package_id": "a11578ae-ed7e-4adf-9fd7-07320238ed7b",
+        "created": "2017-03-24T03:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-03-24T03:00:00",
+        "position": 1,
+        "revision_id": "59073ec8-4af4-4314-9222-12779f41685d",
+        "url_type": null,
+        "id": "95684242-5933-431b-9847-a694b628de16",
+        "resource_type": null,
+        "size": 1048576
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.shinagawa.tokyo.jp/",
+      "created": "2019-11-01T03:27:24.888527",
+      "title": "品川区",
+      "name": "t131091",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131091.png",
+      "revision_id": "a58c6889-2755-423e-bc8c-5146fb74ae73",
+      "type": "organization",
+      "id": "ee5ed3ad-76a9-4a49-aba7-3a63a457eb93",
+      "approval_status": "approved"
+    },
+    "name": "t131091d0000000003",
+    "isopen": true,
+    "url": "",
+    "notes": "【品川区】　品川区の公共施設位置情報",
+    "owner_org": "ee5ed3ad-76a9-4a49-aba7-3a63a457eb93",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "公共施設",
+    "revision_id": "7185a314-af45-4c5d-a677-d0aee0bc05a0"
+  }
+}

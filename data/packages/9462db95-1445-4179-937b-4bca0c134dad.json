@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "清瀬市企画部秘書広報課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "9462db95-1445-4179-937b-4bca0c134dad",
+    "metadata_created": "2021-06-16T02:24:40.057840",
+    "owner_org": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
+    "metadata_modified": "2021-06-16T02:25:09.621261",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "【清瀬市】ホームページ等の問い合わせの一覧です。",
+        "format": "CSV",
+        "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/008/694/132217_r1_siminkaranotoiawase.csv",
+        "created": "2021-03-05T00:50:00",
+        "state": "active",
+        "package_id": "9462db95-1445-4179-937b-4bca0c134dad",
+        "last_modified": "2021-03-05T00:50:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "38438122-9f01-4458-ab80-199439bc2f98",
+        "size": null,
+        "id": "ee674933-2a6a-499c-a41f-03273fe3fcda",
+        "resource_type": null,
+        "name": "市民からの問い合わせ"
+      },
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "【清瀬市】ホームページ等の問い合わせの一覧です。",
+        "format": "XLSX",
+        "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/008/694/132217_r1_siminkaranotoiawase.xlsx",
+        "created": "2021-03-02T01:03:00",
+        "state": "active",
+        "package_id": "9462db95-1445-4179-937b-4bca0c134dad",
+        "last_modified": "2021-03-02T01:03:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 1,
+        "revision_id": "4d130a5c-639a-499d-a327-277f93fa4e6c",
+        "size": null,
+        "id": "ab90d723-db13-426e-95fe-deb6efe44225",
+        "resource_type": null,
+        "name": "市民からの問い合わせ"
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "title": "その他",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      }
+    ],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t132217d0000000042",
+    "isopen": true,
+    "url": "https://www.city.kiyose.lg.jp/opendata/opendataichiran/1008694.html",
+    "notes": "【清瀬市】ホームページ等の問い合わせの一覧です。",
+    "title": "市民からの問い合わせ",
+    "extras": [
+      {
+        "value": "変更の都度",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "https://www.city.kiyose.lg.jp/index.html",
+      "title": "清瀬市",
+      "created": "2020-08-05T08:00:00.206131",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "f8ef546d-d3f4-46e8-9741-39a6eec61618",
+      "type": "organization",
+      "id": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
+      "name": "t132217"
+    },
+    "revision_id": "1c903caa-4452-4dd1-8150-360064c7a00d"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "小金井市総務部地域安全課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "c74437b4-a75c-46fb-846a-954151a29461",
+    "metadata_created": "2019-11-26T04:28:54.439601",
+    "metadata_modified": "2021-10-11T06:42:31.010706",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "AED市内設置場所一覧（小金井市所管分）",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/koganei/aedshinaisecchibasyoichiran.csv",
+        "cache_last_updated": null,
+        "package_id": "c74437b4-a75c-46fb-846a-954151a29461",
+        "created": "2021-09-14T00:30:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-10-06T02:24:00",
+        "position": 0,
+        "revision_id": "c0ab9e02-763f-4070-8de0-ec2f190bf45b",
+        "url_type": null,
+        "id": "9f9cd31d-4d25-4e4f-8844-be7e3e0617c4",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.koganei.lg.jp/",
+      "created": "2019-11-01T03:27:26.932340",
+      "title": "小金井市",
+      "name": "t132101",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "b1893a5d-c492-4ddc-bbe8-de1c201f3c2a",
+      "type": "organization",
+      "id": "419da1a8-a771-449b-8b9a-42b2935a046e",
+      "approval_status": "approved"
+    },
+    "name": "t132101d0000000009",
+    "isopen": true,
+    "url": "https://www.city.koganei.lg.jp/kurashi/472/bosai/bosaiservice/aedsecchibasho.html",
+    "notes": "【小金井市】小金井市が設置するAED設置場所の一覧です。（2019/11/19時点）",
+    "owner_org": "419da1a8-a771-449b-8b9a-42b2935a046e",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "AED市内設置場所一覧（小金井市所管分）",
+    "revision_id": "d58b803e-af35-4b31-99b9-b9f636340946"
+  }
+}

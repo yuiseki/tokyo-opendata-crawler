@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "総務部企画計理課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "b651492c-8b93-48b0-836f-e8044dde82fb",
+    "metadata_created": "2019-11-01T04:55:05.374622",
+    "metadata_modified": "2019-11-01T08:06:07.235298",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "評価結果",
+        "format": "CSV",
+        "url": "http://www.kouwan.metro.tokyo.jp/jigyo/H28shiteikanrisyakekka.csv",
+        "cache_last_updated": null,
+        "package_id": "b651492c-8b93-48b0-836f-e8044dde82fb",
+        "created": "2018-10-04T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-10-04T15:00:00",
+        "position": 0,
+        "revision_id": "fb65954b-516e-4665-a5d0-722d55c2e191",
+        "url_type": null,
+        "id": "eca8a6d4-cc54-46e3-9fa2-09bcfed51773",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.kouwan.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:21.661622",
+      "title": "東京都港湾局",
+      "name": "t000015",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000015.jpg",
+      "revision_id": "0ae0b754-9704-453d-a632-4097dcdb2ebf",
+      "type": "organization",
+      "id": "4a51054b-f927-4a44-902b-889a0a1fa75d",
+      "approval_status": "approved"
+    },
+    "name": "t000015d1800000003",
+    "isopen": true,
+    "url": "http://www.kouwan.metro.tokyo.jp/jigyo/shiteikanrisya/shitei-hiyouka/index.html",
+    "notes": "【東京都港湾局】　",
+    "owner_org": "4a51054b-f927-4a44-902b-889a0a1fa75d",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "1年ごと"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "平成２８年度指定管理者の管理運営状況評価結果について",
+    "revision_id": "709bb3da-6c69-4b3f-97e7-1fc07f848209"
+  }
+}

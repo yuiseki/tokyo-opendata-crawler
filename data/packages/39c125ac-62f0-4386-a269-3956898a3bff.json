@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "環境土木部水とみどりの課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "39c125ac-62f0-4386-a269-3956898a3bff",
+    "metadata_created": "2020-03-17T01:43:13.501266",
+    "owner_org": "beddb482-adb4-4e03-9c25-f229c2a0b028",
+    "metadata_modified": "2021-08-19T00:04:27.601573",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "",
+        "format": "XLSX",
+        "url": "https://www.city.chuo.lg.jp/kusei/statisticaldata/opendata.files/koenichiran.xlsx",
+        "created": "2017-09-19T15:00:00",
+        "state": "active",
+        "package_id": "39c125ac-62f0-4386-a269-3956898a3bff",
+        "last_modified": "2017-09-19T15:00:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "6983a83d-cb24-4bdd-bd5c-cc24e6271e75",
+        "size": 13312,
+        "id": "5b2d8076-ac94-4806-af75-f1b0201492b3",
+        "resource_type": null,
+        "name": "区内の公園一覧"
+      },
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "",
+        "format": "CSV",
+        "url": "https://www.city.chuo.lg.jp/kusei/statisticaldata/opendata.files/koenichiran.csv",
+        "created": "2017-09-19T15:00:00",
+        "state": "active",
+        "package_id": "39c125ac-62f0-4386-a269-3956898a3bff",
+        "last_modified": "2017-09-19T15:00:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 1,
+        "revision_id": "1ac13977-31e2-43b7-8815-9e8e4da425cf",
+        "size": 4096,
+        "id": "2cebf9bb-c082-41a4-973f-f39e81c20aa2",
+        "resource_type": null,
+        "name": "区内の公園一覧"
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "title": "生活",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t131024d0000000011",
+    "isopen": true,
+    "url": "http://www.city.chuo.lg.jp/sisetugaido/koento/kouen_hiroba_ichiran.html",
+    "notes": "区内の公園の名称や所在地、緯度、経度などを地域ごとに掲載しています。",
+    "title": "区内の公園一覧",
+    "extras": [
+      {
+        "value": "随時",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "https://www.city.chuo.lg.jp/",
+      "title": "中央区",
+      "created": "2020-03-16T08:15:28.901611",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131024.png",
+      "revision_id": "fd4c096b-7319-43d7-a1a4-d2411b6beaee",
+      "type": "organization",
+      "id": "beddb482-adb4-4e03-9c25-f229c2a0b028",
+      "name": "t131024"
+    },
+    "revision_id": "7762fc75-489e-4229-8fa4-1ad173a1afb0"
+  }
+}

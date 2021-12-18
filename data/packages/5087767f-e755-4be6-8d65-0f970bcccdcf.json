@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "広報課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "5087767f-e755-4be6-8d65-0f970bcccdcf",
+    "metadata_created": "2021-12-08T05:40:18.735650",
+    "metadata_modified": "2021-12-08T05:40:51.592229",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "【江戸川区】江戸川画像文庫に掲載しているオープンデータの画像です。",
+        "name": "新堀庭園",
+        "format": "JPEG",
+        "url": "https://photo.city.edogawa.tokyo.jp/pages/download_progress.php?ref=1786",
+        "cache_last_updated": null,
+        "package_id": "5087767f-e755-4be6-8d65-0f970bcccdcf",
+        "created": "2021-10-01T00:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": null,
+        "position": 0,
+        "revision_id": "99791ed4-4130-4643-969c-e9d1628d67ed",
+        "url_type": null,
+        "id": "516a48e8-5d7f-4857-ac4d-4ecb544905dc",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "【江戸川区】江戸川画像文庫に掲載しているオープンデータの画像です。",
+        "name": "新堀庭園",
+        "format": "JPEG",
+        "url": "https://photo.city.edogawa.tokyo.jp/pages/download_progress.php?ref=1787",
+        "cache_last_updated": null,
+        "package_id": "5087767f-e755-4be6-8d65-0f970bcccdcf",
+        "created": "2021-10-01T00:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": null,
+        "position": 1,
+        "revision_id": "f2831b78-e21f-44eb-b6d2-321899299915",
+        "url_type": null,
+        "id": "d7a4656c-3402-4506-8886-9bf925694915",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "",
+      "created": "2021-12-08T01:06:59.103737",
+      "title": "江戸川区",
+      "name": "t131237",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "704e0338-a5ce-4a23-ba13-2a2f4550a53b",
+      "type": "organization",
+      "id": "74813543-1d66-46e9-a0f5-bb0af87519c4",
+      "approval_status": "approved"
+    },
+    "name": "t131237d0000000149",
+    "isopen": true,
+    "url": "https://photo.city.edogawa.tokyo.jp/pages/view.php?ref=1786",
+    "notes": "【江戸川区】江戸川画像文庫掲載画像",
+    "owner_org": "74813543-1d66-46e9-a0f5-bb0af87519c4",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "公開時のみ"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "新堀庭園",
+    "revision_id": "f6c5bdcd-ed22-4200-8fab-f1a79ad71e18"
+  }
+}

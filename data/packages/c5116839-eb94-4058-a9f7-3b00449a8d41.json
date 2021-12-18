@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "総務部環境政策課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "c5116839-eb94-4058-a9f7-3b00449a8d41",
+    "metadata_created": "2019-11-01T04:53:44.967378",
+    "metadata_modified": "2019-11-01T05:52:00.351388",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "環境基本計画に掲げる目標の具体的達成状況",
+        "format": "PDF",
+        "url": "http://www.kankyo.metro.tokyo.jp/basic/plan/master_plan/2008/history.files/mokuhyou_2015.3.pdf",
+        "cache_last_updated": null,
+        "package_id": "c5116839-eb94-4058-a9f7-3b00449a8d41",
+        "created": "2017-03-28T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-03-28T15:00:00",
+        "position": 0,
+        "revision_id": "bee9b83c-9e82-4089-b4a1-ade93cc0d43e",
+        "url_type": null,
+        "id": "c1bfd41c-cfef-49ea-811f-95d528c1fc1b",
+        "resource_type": null,
+        "size": 215040
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "環境",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c012.png",
+        "title": "環境",
+        "id": "427f3ee0-b28a-4fd2-b7dc-980507f154d2",
+        "name": "c012"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.kankyo.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.710014",
+      "title": "東京都環境局",
+      "name": "t000009",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "a0bf6c30-64dc-48fe-9782-e38ae248a38d",
+      "type": "organization",
+      "id": "c8b93db3-9754-48d3-8b50-5cbe78d679e7",
+      "approval_status": "approved"
+    },
+    "name": "t000009d0000000001",
+    "isopen": true,
+    "url": "",
+    "notes": "【東京都環境局】　東京都環境基本計画（平成20年３月策定）に掲げる目標の達成状況一覧",
+    "owner_org": "c8b93db3-9754-48d3-8b50-5cbe78d679e7",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "環境基本計画に掲げる目標の具体的達成状況",
+    "revision_id": "bfa57372-a454-4620-af9d-d18f2f0b65f4"
+  }
+}

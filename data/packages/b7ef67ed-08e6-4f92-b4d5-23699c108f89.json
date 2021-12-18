@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "都市整備部土木管理課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "b7ef67ed-08e6-4f92-b4d5-23699c108f89",
+    "metadata_created": "2019-11-01T04:57:14.022256",
+    "metadata_modified": "2019-11-01T08:40:05.148269",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "杉並区の公共基準点の情報です。",
+        "name": "公共基準点 ",
+        "format": "ZIP",
+        "url": "http://www2.wagmap.jp/suginami/opendata/?type=shp&ly=46",
+        "cache_last_updated": null,
+        "package_id": "b7ef67ed-08e6-4f92-b4d5-23699c108f89",
+        "created": "2018-05-13T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-05-13T15:00:00",
+        "position": 0,
+        "revision_id": "3cd5f545-b30f-4453-8f22-2b797762015f",
+        "url_type": null,
+        "id": "42eb099a-7488-4379-a269-a7065e799310",
+        "resource_type": null,
+        "size": 130048
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "まちづくり",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c003.png",
+        "title": "まちづくり",
+        "id": "dc897c44-8153-4219-bfeb-6110fb85fb99",
+        "name": "c003"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.suginami.tokyo.jp/",
+      "created": "2019-11-01T03:27:25.355056",
+      "title": "杉並区",
+      "name": "t131156",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131156.png",
+      "revision_id": "be68f112-909f-46c2-b180-014c0a879593",
+      "type": "organization",
+      "id": "a5be9683-373e-440b-ae39-4e73317a417b",
+      "approval_status": "approved"
+    },
+    "name": "t131156d0000000031",
+    "isopen": true,
+    "url": "",
+    "notes": "【杉並区】",
+    "owner_org": "a5be9683-373e-440b-ae39-4e73317a417b",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "公共基準点",
+    "revision_id": "aab8e4a9-a174-486e-b365-33c80a091d58"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "第一市街地整備事務所",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "b8b44bc0-a9b3-4601-967e-45bfec5da5bf",
+    "metadata_created": "2019-11-01T04:53:34.390580",
+    "metadata_modified": "2019-11-01T05:45:49.158800",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "お問い合わせ先",
+        "format": "CSV",
+        "url": "http://www.toshiseibi.metro.tokyo.jp/daiichiseibi/about/pdf/proof.csv",
+        "cache_last_updated": null,
+        "package_id": "b8b44bc0-a9b3-4601-967e-45bfec5da5bf",
+        "created": "2018-11-08T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-11-08T15:00:00",
+        "position": 0,
+        "revision_id": "cef798f2-e23e-4a36-9f0d-a18086338289",
+        "url_type": null,
+        "id": "e08480eb-064f-4cd7-96ea-a81221a50080",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "まちづくり",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c003.png",
+        "title": "まちづくり",
+        "id": "dc897c44-8153-4219-bfeb-6110fb85fb99",
+        "name": "c003"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.toshiseibi.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.560358",
+      "title": "東京都都市整備局",
+      "name": "t000008",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "9c234f0e-ff7d-4e2d-8ba4-ea80f312405b",
+      "type": "organization",
+      "id": "16d81025-a2ca-4002-8129-9906c94a4732",
+      "approval_status": "approved"
+    },
+    "name": "t000008d1800000008",
+    "isopen": true,
+    "url": "http://www.toshiseibi.metro.tokyo.jp/daiichiseibi/index.html",
+    "notes": "【東京都都市整備局】",
+    "owner_org": "16d81025-a2ca-4002-8129-9906c94a4732",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "東京都第一市街地整備事務所　「仮換地指定証明」の交付",
+    "revision_id": "2bac0de6-d256-4fbc-8d4a-2807a0741b7d"
+  }
+}

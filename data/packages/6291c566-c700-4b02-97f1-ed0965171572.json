@@ -1,0 +1,114 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "施設計画課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "6291c566-c700-4b02-97f1-ed0965171572",
+    "metadata_created": "2019-11-01T04:55:40.857940",
+    "metadata_modified": "2019-11-01T08:26:32.601881",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "表３－３上水道 断水率一覧",
+        "format": "CSV",
+        "url": "https://www.waterworks.metro.tokyo.jp/kouhou/pip/opendata/csv/01_gaiyou29_03_02_1.csv",
+        "cache_last_updated": null,
+        "package_id": "6291c566-c700-4b02-97f1-ed0965171572",
+        "created": "2019-02-18T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-02-18T15:00:00",
+        "position": 0,
+        "revision_id": "0e5739a8-9db1-4fef-9fd1-e8002986c65f",
+        "url_type": null,
+        "id": "2453f4df-c5be-4f63-9bd2-1c30b8cd68ad",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "表３－４連絡管の概要",
+        "format": "CSV",
+        "url": "https://www.waterworks.metro.tokyo.jp/kouhou/pip/opendata/csv/01_gaiyou29_03_02_2.csv",
+        "cache_last_updated": null,
+        "package_id": "6291c566-c700-4b02-97f1-ed0965171572",
+        "created": "2019-02-18T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-02-18T15:00:00",
+        "position": 1,
+        "revision_id": "766c287e-b6d4-4ac1-9e0d-4d136d904c85",
+        "url_type": null,
+        "id": "3f963d83-4761-498e-bf0e-540b4fbb8db5",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "環境",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c012.png",
+        "title": "環境",
+        "id": "427f3ee0-b28a-4fd2-b7dc-980507f154d2",
+        "name": "c012"
+      },
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.waterworks.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:22.280579",
+      "title": "東京都水道局",
+      "name": "t000019",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000019.jpg",
+      "revision_id": "6f93ebbd-34d2-48da-9305-0c1de5e96c27",
+      "type": "organization",
+      "id": "df3e208c-40a5-4f30-b0f2-491ceffa6423",
+      "approval_status": "approved"
+    },
+    "name": "t000019d1800000012",
+    "isopen": true,
+    "url": "http://www.waterworks.metro.tokyo.jp/suidojigyo/gaiyou/29gaiyou.html",
+    "notes": "【東京都水道局】",
+    "owner_org": "df3e208c-40a5-4f30-b0f2-491ceffa6423",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "1年ごと"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "事業概要 平成29年版_震災対策",
+    "revision_id": "459e9f53-2bc9-4856-bf9d-72b38d6ba6ef"
+  }
+}

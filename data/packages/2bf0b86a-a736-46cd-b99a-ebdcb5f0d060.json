@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "選挙課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "2bf0b86a-a736-46cd-b99a-ebdcb5f0d060",
+    "metadata_created": "2019-11-01T04:56:17.435876",
+    "metadata_modified": "2019-11-01T08:32:38.081530",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "年代別・選挙別推定投票率一覧（平成26年）",
+        "format": "CSV",
+        "url": "http://www.senkyo.metro.tokyo.jp/uploads/h26tochiji_nendai_gaiyou_01.csv",
+        "cache_last_updated": null,
+        "package_id": "2bf0b86a-a736-46cd-b99a-ebdcb5f0d060",
+        "created": "2018-01-24T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-01-24T15:00:00",
+        "position": 0,
+        "revision_id": "e43d6c7b-0e38-4397-8b26-58bca4e15ddb",
+        "url_type": null,
+        "id": "90ba1b8a-1bde-4db4-afc7-be59031e19c7",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "年代別推定投票率一覧（平成26年東京都知事選挙）",
+        "format": "CSV",
+        "url": "http://www.senkyo.metro.tokyo.jp/uploads/h26tochiji_nendai_gaiyou_02.csv",
+        "cache_last_updated": null,
+        "package_id": "2bf0b86a-a736-46cd-b99a-ebdcb5f0d060",
+        "created": "2018-01-24T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-01-24T15:00:00",
+        "position": 1,
+        "revision_id": "3a83e9b3-3852-4d2c-b0cc-438e8f785d23",
+        "url_type": null,
+        "id": "d69826a6-5d1b-4209-884c-0f93c0c70a32",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.senkyo.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:22.908491",
+      "title": "東京都選挙管理委員会事務局",
+      "name": "t000023",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "51e026be-6d4c-43bd-ae76-d84805440a07",
+      "type": "organization",
+      "id": "86f1375a-d3c8-4eef-9df0-c4864ee7e3af",
+      "approval_status": "approved"
+    },
+    "name": "t000023d1700000011",
+    "isopen": true,
+    "url": "http://www.senkyo.metro.tokyo.jp/election/",
+    "notes": "【東京都選挙管理委員会事務局】",
+    "owner_org": "86f1375a-d3c8-4eef-9df0-c4864ee7e3af",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "年代別投票行動調査結果　東京都知事選挙（平成26年）",
+    "revision_id": "3021ba89-7851-4f20-a205-abd91b7331fa"
+  }
+}

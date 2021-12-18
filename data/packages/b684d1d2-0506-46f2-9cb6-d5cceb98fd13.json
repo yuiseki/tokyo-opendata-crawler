@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "都営交通お客様センター",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "b684d1d2-0506-46f2-9cb6-d5cceb98fd13",
+    "metadata_created": "2019-12-23T08:58:59.075379",
+    "metadata_modified": "2021-05-11T02:03:52.411485",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "《交通局について》 - [交通局の概要 モノレール] 上野動物園モノレールの概要",
+        "name": "上野動物園モノレールの概要",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/kotsu/about/about_monorail_gaiyou_05.csv",
+        "cache_last_updated": null,
+        "package_id": "b684d1d2-0506-46f2-9cb6-d5cceb98fd13",
+        "created": "2021-01-26T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-01-27T09:03:00",
+        "position": 0,
+        "revision_id": "427a7fc0-028a-4e34-85ff-ebb1442c0842",
+        "url_type": null,
+        "id": "8732dc73-25b1-4540-ab25-eba03217fa52",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.kotsu.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:22.123863",
+      "title": "東京都交通局",
+      "name": "t000018",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "d47c06bd-1090-4a95-bea1-05d8261663a6",
+      "type": "organization",
+      "id": "058227fa-4a59-4028-a226-9eb858f9947a",
+      "approval_status": "approved"
+    },
+    "name": "t000018d0000000006",
+    "isopen": true,
+    "url": "https://www.kotsu.metro.tokyo.jp/about/service/monorail.html",
+    "notes": "【東京都交通局】交通局の概要 モノレール",
+    "owner_org": "058227fa-4a59-4028-a226-9eb858f9947a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "交通局の概要 モノレール",
+    "revision_id": "0284fe14-fc48-486d-a00b-68a03dd5359f"
+  }
+}

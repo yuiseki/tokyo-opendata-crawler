@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "大田区区民部\n戸籍住民課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "b13c889f-09d2-4d7d-95f6-46a169461716",
+    "metadata_created": "2021-04-28T00:59:16.341131",
+    "metadata_modified": "2021-07-29T02:39:20.555816",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "住民基本台帳世帯人口現況表（大森地区）（令和３年３月１日現在）",
+        "format": "XLS",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/ootaku/131113_oomorigenkyou_20210301.xls",
+        "cache_last_updated": null,
+        "package_id": "b13c889f-09d2-4d7d-95f6-46a169461716",
+        "created": "2021-03-22T07:04:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-03-26T02:19:00",
+        "position": 0,
+        "revision_id": "201d7c49-6aec-4af7-ab16-63fab311ff7d",
+        "url_type": null,
+        "id": "3f062dfd-9162-4e13-82df-7646dcc2e49b",
+        "resource_type": null,
+        "size": 48128
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "人口減少・少子高齢化",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c004.png",
+        "title": "人口減少・少子高齢化",
+        "id": "802d7d18-3543-4e8b-a8f5-82b5f1aa752e",
+        "name": "c004"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.ota.tokyo.jp/",
+      "created": "2019-11-01T03:27:25.037394",
+      "title": "大田区",
+      "name": "t131113",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131113.jpg",
+      "revision_id": "03b46cf2-2118-4e53-855d-1025be9188ae",
+      "type": "organization",
+      "id": "0ed84aa5-79d2-4db1-bf8d-3f4ec71815f2",
+      "approval_status": "approved"
+    },
+    "name": "t131113d0000000004",
+    "isopen": true,
+    "url": "https://www.city.ota.tokyo.jp/kuseijoho/suuji/jinkou/setai_jinkou/oota_suji0303.html",
+    "notes": "【大田区】住民基本台帳による特別出張所毎の世帯と人口です。",
+    "owner_org": "0ed84aa5-79d2-4db1-bf8d-3f4ec71815f2",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "月１回"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "住民基本台帳世帯人口現況表（大森地区）（令和３年３月１日現在）",
+    "revision_id": "752bd184-f0cd-4a9d-8345-08a9779fc861"
+  }
+}

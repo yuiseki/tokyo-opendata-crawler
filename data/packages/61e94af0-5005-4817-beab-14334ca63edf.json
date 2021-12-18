@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "61e94af0-5005-4817-beab-14334ca63edf",
+    "metadata_created": "2019-11-01T04:56:26.150497",
+    "metadata_modified": "2019-11-01T08:34:17.415595",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "第２期東京都地域住宅防災・安全整備計画（防災・安全）",
+        "format": "PDF",
+        "url": "http://www.toshiseibi.metro.tokyo.jp/juutaku_seisaku/tiiki/pdf/20111011/tiiki_201509_04.pdf?1509",
+        "cache_last_updated": null,
+        "package_id": "61e94af0-5005-4817-beab-14334ca63edf",
+        "created": "2017-03-24T03:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-03-24T03:00:00",
+        "position": 0,
+        "revision_id": "ecd3a536-0d86-4ad5-8598-e8b69e8b1678",
+        "url_type": null,
+        "id": "79d93d29-5191-4c66-a969-b8b342c479ab",
+        "resource_type": null,
+        "size": 165888
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "防災・災害計画",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c001.png",
+        "title": "防災・災害計画",
+        "id": "8eb52f8e-0d10-44f4-8bb4-2a488d0f8465",
+        "name": "c001"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "所属:東京都",
+      "created": "2019-11-01T03:27:24.052328",
+      "title": "東京都住宅政策本部",
+      "name": "t000030",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "73bcd657-43bb-4348-a873-a0efd0c8f1fb",
+      "type": "organization",
+      "id": "2f48464d-ce84-4cec-bb73-86634a89efeb",
+      "approval_status": "approved"
+    },
+    "name": "t000030d0000000011",
+    "isopen": true,
+    "url": "",
+    "notes": "【東京都住宅政策本部】　",
+    "owner_org": "2f48464d-ce84-4cec-bb73-86634a89efeb",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "公開時のみ"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "第２期東京都地域住宅防災・安全整備計画（防災・安全）",
+    "revision_id": "48482bc1-a9b3-4d4d-8341-7d25ce5ac15c"
+  }
+}

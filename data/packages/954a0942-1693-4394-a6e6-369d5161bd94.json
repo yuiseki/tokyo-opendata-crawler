@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "水道局多摩水",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "954a0942-1693-4394-a6e6-369d5161bd94",
+    "metadata_created": "2021-05-21T02:06:47.948709",
+    "metadata_modified": "2021-05-21T02:07:30.152843",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "多摩地区",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/suidou/R3/tamatikutetuzuki.csv",
+        "cache_last_updated": null,
+        "package_id": "954a0942-1693-4394-a6e6-369d5161bd94",
+        "created": "2021-01-30T04:24:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-01-30T04:24:00",
+        "position": 0,
+        "revision_id": "9a50883d-9659-4fa7-859e-f9f31f321dd7",
+        "url_type": null,
+        "id": "b0a618a4-9684-445e-9dfc-a29478cbc86e",
+        "resource_type": null,
+        "size": 1251
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.waterworks.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:22.280579",
+      "title": "東京都水道局",
+      "name": "t000019",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000019.jpg",
+      "revision_id": "6f93ebbd-34d2-48da-9305-0c1de5e96c27",
+      "type": "organization",
+      "id": "df3e208c-40a5-4f30-b0f2-491ceffa6423",
+      "approval_status": "approved"
+    },
+    "name": "t000019d2000000045",
+    "isopen": true,
+    "url": "http://www.waterworks.metro.tokyo.jp/tetsuduki/madoguchi/kyusuikan/#tm",
+    "notes": "",
+    "owner_org": "df3e208c-40a5-4f30-b0f2-491ceffa6423",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "窓口一覧_サービスステーション（給水装置図面の閲覧、謄本/抄本の交付、給水装置工事に関すること）",
+    "revision_id": "3eb4942e-1a0a-4aeb-92ba-1e9ac826382d"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "健康安全部健康安全課養成施設担当",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "52fd0e38-bb2b-422f-8b2d-97fe5e229142",
+    "metadata_created": "2019-11-01T04:54:17.670470",
+    "metadata_modified": "2019-11-01T06:05:48.798281",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "調理師養成施設一覧",
+        "format": "CSV",
+        "url": "http://www.fukushihoken.metro.tokyo.jp/kenkou/shikaku/youseishisetsu/chouri.files/chouri-ichiran.csv",
+        "cache_last_updated": null,
+        "package_id": "52fd0e38-bb2b-422f-8b2d-97fe5e229142",
+        "created": "2018-10-23T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-10-23T15:00:00",
+        "position": 0,
+        "revision_id": "86744dff-2282-4471-b848-fe0d6dcfeba0",
+        "url_type": null,
+        "id": "269de32e-f08a-49d1-a21d-aa298dfc2bff",
+        "resource_type": null,
+        "size": 13312
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.fukushihoken.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.864364",
+      "title": "東京都福祉保健局",
+      "name": "t000010",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000010.jpg",
+      "revision_id": "8d3da6a9-bfe7-4cd1-9d5d-9737b2293939",
+      "type": "organization",
+      "id": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+      "approval_status": "approved"
+    },
+    "name": "t000010d1700000092",
+    "isopen": true,
+    "url": "http://www.fukushihoken.metro.tokyo.jp/kenkou/shikaku/youseishisetsu/chouri.html",
+    "notes": "【東京都福祉保健局】",
+    "owner_org": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "調理師養成施設一覧",
+    "revision_id": "994b88b7-cf76-4edb-8f96-005f417b982a"
+  }
+}

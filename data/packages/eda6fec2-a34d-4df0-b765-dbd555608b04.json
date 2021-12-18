@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "eda6fec2-a34d-4df0-b765-dbd555608b04",
+    "metadata_created": "2019-11-01T04:54:46.118795",
+    "metadata_modified": "2019-11-01T06:22:49.422866",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "第1章 消費・流通・供給構造の変化と市場の対応(卸売業と小売業の経営指標)",
+        "format": "CSV",
+        "url": "http://www.shijou.metro.tokyo.jp/csv/300124/houkoku5-1_03.csv",
+        "cache_last_updated": null,
+        "package_id": "eda6fec2-a34d-4df0-b765-dbd555608b04",
+        "created": "2018-06-03T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-06-03T15:00:00",
+        "position": 0,
+        "revision_id": "2e74b3bf-0d01-4c2f-b80b-0baabcdd29e5",
+        "url_type": null,
+        "id": "288c37bf-e1d9-4063-81a0-905a1504c992",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "環境",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c012.png",
+        "title": "環境",
+        "id": "427f3ee0-b28a-4fd2-b7dc-980507f154d2",
+        "name": "c012"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.shijou.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:21.341618",
+      "title": "東京都中央卸売市場",
+      "name": "t000013",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "a14a39f1-b5cb-4e72-8d6d-bd986509b203",
+      "type": "organization",
+      "id": "327220fa-dbe9-453c-89b2-ce303b471a71",
+      "approval_status": "approved"
+    },
+    "name": "t000013d1700000013",
+    "isopen": true,
+    "url": "http://www.shijou.metro.tokyo.jp/gyosei/kaigi/shinshijo/concept/houkoku1/",
+    "notes": "【東京都中央卸売市場】",
+    "owner_org": "327220fa-dbe9-453c-89b2-ce303b471a71",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "新市場基本コンセプト懇談会報告書",
+    "revision_id": "bdd6a440-88f0-43af-a9e7-2c68fadea7e1"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "地域教育支援部義務教育課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "6cc035cd-4670-4328-a7c9-459103c96216",
+    "metadata_created": "2019-11-01T04:55:56.597239",
+    "metadata_modified": "2019-11-01T08:29:54.031371",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "都内公立学校数（平成30年4月1日現在）",
+        "format": "CSV",
+        "url": "http://www.kyoiku.metro.tokyo.jp/school/files/number_of_schools_csv/30gakkosu.csv",
+        "cache_last_updated": null,
+        "package_id": "6cc035cd-4670-4328-a7c9-459103c96216",
+        "created": "2018-03-29T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-03-29T15:00:00",
+        "position": 0,
+        "revision_id": "274a96ca-28c0-44e8-8e51-037d323b0aef",
+        "url_type": null,
+        "id": "5f39d3e1-2b2c-4587-8e2e-9641729386bf",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.kyoiku.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:22.598778",
+      "title": "東京都教育庁",
+      "name": "t000021",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000021.png",
+      "revision_id": "3b8eaba6-3e9c-4401-a703-dcd9d28741aa",
+      "type": "organization",
+      "id": "f510f5b2-b249-499d-a00f-440b1f646e13",
+      "approval_status": "approved"
+    },
+    "name": "t000021d1700000012",
+    "isopen": true,
+    "url": "http://www.kyoiku.metro.tokyo.jp/school/number_of_schools.html",
+    "notes": "【東京都教育庁】",
+    "owner_org": "f510f5b2-b249-499d-a00f-440b1f646e13",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "1年ごと"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "都内公立学校数",
+    "revision_id": "588fb32f-6bc7-4f81-af5b-426856507ec3"
+  }
+}

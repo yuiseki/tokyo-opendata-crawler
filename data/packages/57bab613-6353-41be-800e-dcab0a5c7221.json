@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "福祉保健部介護保険課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "57bab613-6353-41be-800e-dcab0a5c7221",
+    "metadata_created": "2020-03-17T01:43:12.646341",
+    "owner_org": "beddb482-adb4-4e03-9c25-f229c2a0b028",
+    "metadata_modified": "2021-08-19T00:04:24.955151",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "",
+        "format": "XLSX",
+        "url": "https://www.city.chuo.lg.jp/kusei/statisticaldata/opendata.files/otosen.xlsx",
+        "created": "2017-12-14T15:00:00",
+        "state": "active",
+        "package_id": "57bab613-6353-41be-800e-dcab0a5c7221",
+        "last_modified": "2019-03-24T15:00:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "109d9b62-3c97-4988-af4c-bc15cdf6a3aa",
+        "size": 10240,
+        "id": "526ea9d8-54ec-4d5d-b271-79b576795551",
+        "resource_type": null,
+        "name": "総合相談窓口　おとしより相談センター（地域包括支援センター）"
+      },
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "",
+        "format": "CSV",
+        "url": "https://www.city.chuo.lg.jp/kusei/statisticaldata/opendata.files/otosen.csv",
+        "created": "2017-12-14T15:00:00",
+        "state": "active",
+        "package_id": "57bab613-6353-41be-800e-dcab0a5c7221",
+        "last_modified": "2019-03-24T15:00:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 1,
+        "revision_id": "dac66d7a-13c8-4595-8053-3518b42997a1",
+        "size": 2048,
+        "id": "b772095a-12e4-432c-b10f-b807e1912d32",
+        "resource_type": null,
+        "name": "総合相談窓口　おとしより相談センター（地域包括支援センター）"
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "医療・福祉",
+        "description": "",
+        "title": "医療・福祉",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c005.png",
+        "id": "0d3cd956-612c-45c5-b1ee-75c1a5835c0e",
+        "name": "c005"
+      }
+    ],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t131024d0000000007",
+    "isopen": true,
+    "url": "http://www.city.chuo.lg.jp/sisetugaido/fukushijinken/otosiyori/madogutiotosiyori.html",
+    "notes": "おとしより相談センター（地域包括支援センター）の名称や所在地、緯度、経度、施設情報などを掲載しています。",
+    "title": "総合相談窓口　おとしより相談センター（地域包括支援センター）",
+    "extras": [
+      {
+        "value": "随時",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "https://www.city.chuo.lg.jp/",
+      "title": "中央区",
+      "created": "2020-03-16T08:15:28.901611",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131024.png",
+      "revision_id": "fd4c096b-7319-43d7-a1a4-d2411b6beaee",
+      "type": "organization",
+      "id": "beddb482-adb4-4e03-9c25-f229c2a0b028",
+      "name": "t131024"
+    },
+    "revision_id": "36d507c9-dbb5-4c10-844d-bd7b60fab9c7"
+  }
+}

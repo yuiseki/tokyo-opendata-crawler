@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "サービス推進部事業支援課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "373643f5-1381-4b18-a111-c3cd0d018086",
+    "metadata_created": "2019-11-01T04:54:37.499388",
+    "metadata_modified": "2019-11-01T06:11:50.061521",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "公益財団法人東京都保健医療公社の病院の住所、電話番号及び診療科（EXCELファイル）",
+        "format": "XLSX",
+        "url": "http://www.opendata.metro.tokyo.jp/2016mar/026_kousha_hospital.xlsx",
+        "cache_last_updated": null,
+        "package_id": "373643f5-1381-4b18-a111-c3cd0d018086",
+        "created": "2017-07-09T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-07-09T15:00:00",
+        "position": 0,
+        "revision_id": "db0f8a7c-d6a3-4386-8733-cf2913d194f7",
+        "url_type": null,
+        "id": "7676a50f-cd75-403e-8f76-085c41ea313c",
+        "resource_type": null,
+        "size": 11264
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "公益財団法人東京都保健医療公社の病院の住所、電話番号及び診療科（CSVファイル）",
+        "format": "CSV",
+        "url": "http://www.opendata.metro.tokyo.jp/2017July/hokeniryoukousyasinryoukameitiran.csv",
+        "cache_last_updated": null,
+        "package_id": "373643f5-1381-4b18-a111-c3cd0d018086",
+        "created": "2017-07-09T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-07-09T15:00:00",
+        "position": 1,
+        "revision_id": "212befd2-8e02-4408-be6e-d09ad7dc13dc",
+        "url_type": null,
+        "id": "d657691f-a3f4-4cf7-97ec-85ba76cd668f",
+        "resource_type": null,
+        "size": 4096
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "医療・福祉",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c005.png",
+        "title": "医療・福祉",
+        "id": "0d3cd956-612c-45c5-b1ee-75c1a5835c0e",
+        "name": "c005"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.byouin.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:21.016626",
+      "title": "東京都病院経営本部",
+      "name": "t000011",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000011.png",
+      "revision_id": "77340b90-8479-4008-bb88-d62c96ed0980",
+      "type": "organization",
+      "id": "d9a3e421-d822-4377-83e8-30729a913e81",
+      "approval_status": "approved"
+    },
+    "name": "t000011d0000000002",
+    "isopen": true,
+    "url": "",
+    "notes": "【東京都病院経営本部】　公益財団法人東京都保健医療公社の病院の住所、電話番号及び診療科",
+    "owner_org": "d9a3e421-d822-4377-83e8-30729a913e81",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "東京都保健医療公社の病院等の診療科目一覧",
+    "revision_id": "df6b0118-8ffa-48a7-8ec1-db0eb2c4f0d8"
+  }
+}

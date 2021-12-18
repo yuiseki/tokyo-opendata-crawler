@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "少子社会対策部家庭支援課母子医療助成担当",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "0c636e87-7cd7-439d-a2f2-c65a2e9b5a1c",
+    "metadata_created": "2019-11-01T04:53:54.814159",
+    "metadata_modified": "2019-11-01T05:54:27.130581",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "医療費助成を受けることのできる医療機関は、全国の指定された養育医療機関になります。東京都が指定する指定養育医療機関は、本ファイルのとおりとなります。",
+        "name": "東京都指定養育医療機関（平成28年10月1日現在）",
+        "format": "CSV",
+        "url": "http://www.fukushihoken.metro.tokyo.jp/kodomo/kosodate/josei/mijukuji.files/shiteiiryokikan.csv",
+        "cache_last_updated": null,
+        "package_id": "0c636e87-7cd7-439d-a2f2-c65a2e9b5a1c",
+        "created": "2017-09-21T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-09-21T15:00:00",
+        "position": 0,
+        "revision_id": "42f0e179-7c95-4c82-885d-36d944a05459",
+        "url_type": null,
+        "id": "ad43ab80-1be5-4ec5-8ac5-5b5235fb9a7d",
+        "resource_type": null,
+        "size": 4096
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "医療費助成を受けることのできる医療機関は、全国の指定された養育医療機関になります。東京都が指定する指定養育医療機関は、本ファイルのとおりとなります。",
+        "name": "東京都指定養育医療機関（平成28年10月1日現在）",
+        "format": "XLS",
+        "url": "http://www.fukushihoken.metro.tokyo.jp/kodomo/kosodate/josei/mijukuji.files/shiteiiryokikan.xls",
+        "cache_last_updated": null,
+        "package_id": "0c636e87-7cd7-439d-a2f2-c65a2e9b5a1c",
+        "created": "2017-09-21T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-09-21T15:00:00",
+        "position": 1,
+        "revision_id": "56ff0684-dad6-44d6-8237-158092a331c8",
+        "url_type": null,
+        "id": "8fc12fbd-84b4-4476-8c56-f0494662a829",
+        "resource_type": null,
+        "size": 37888
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "医療・福祉",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c005.png",
+        "title": "医療・福祉",
+        "id": "0d3cd956-612c-45c5-b1ee-75c1a5835c0e",
+        "name": "c005"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.fukushihoken.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.864364",
+      "title": "東京都福祉保健局",
+      "name": "t000010",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000010.jpg",
+      "revision_id": "8d3da6a9-bfe7-4cd1-9d5d-9737b2293939",
+      "type": "organization",
+      "id": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+      "approval_status": "approved"
+    },
+    "name": "t000010d0000000031",
+    "isopen": true,
+    "url": "",
+    "notes": "【東京都福祉保健局】",
+    "owner_org": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "医療費助成（未熟児養育医療）に関する情報",
+    "revision_id": "1aa1ed6a-f682-4686-8ca1-cec6a60aead6"
+  }
+}

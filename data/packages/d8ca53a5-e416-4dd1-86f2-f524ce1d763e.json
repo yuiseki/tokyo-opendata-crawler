@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "教育推進部児童青少年課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "d8ca53a5-e416-4dd1-86f2-f524ce1d763e",
+    "metadata_created": "2019-11-01T04:56:52.296316",
+    "metadata_modified": "2019-11-01T09:36:03.199334",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "文京区の児童館の一覧です。（EXCELファイル）",
+        "name": "児童館",
+        "format": "XLSX",
+        "url": "https://www.city.bunkyo.lg.jp/library/opendata-bunkyo/02kosodate-kyouiku/06zidokan/zidokan.xlsx",
+        "cache_last_updated": null,
+        "package_id": "d8ca53a5-e416-4dd1-86f2-f524ce1d763e",
+        "created": "2017-11-06T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-11-06T15:00:00",
+        "position": 0,
+        "revision_id": "417958c3-a266-49b8-a54c-828d3a129891",
+        "url_type": null,
+        "id": "03c6eed8-461a-459a-876b-744a0f029888",
+        "resource_type": null,
+        "size": 14336
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "文京区の児童館の一覧です。（CSVファイル）",
+        "name": "児童館",
+        "format": "CSV",
+        "url": "https://www.city.bunkyo.lg.jp/library/opendata-bunkyo/02kosodate-kyouiku/06zidokan/zidokan.csv",
+        "cache_last_updated": null,
+        "package_id": "d8ca53a5-e416-4dd1-86f2-f524ce1d763e",
+        "created": "2017-11-06T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-11-06T15:00:00",
+        "position": 1,
+        "revision_id": "f0a60a48-a890-4168-b3cb-1fb2f718f9ed",
+        "url_type": null,
+        "id": "33a7e251-2fd6-40fe-99a0-ee350be81d8a",
+        "resource_type": null,
+        "size": 4096
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.bunkyo.lg.jp/",
+      "created": "2019-11-01T03:27:24.573898",
+      "title": "文京区",
+      "name": "t131059",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131059.png",
+      "revision_id": "66ab70ed-369f-4eda-b72a-eacf3f7c8095",
+      "type": "organization",
+      "id": "201cae13-e069-464e-b376-1da3ce968538",
+      "approval_status": "approved"
+    },
+    "name": "t131059d0213040002",
+    "isopen": true,
+    "url": "http://www.city.bunkyo.lg.jp/kyoiku/seshonen/jidokan.html",
+    "notes": "【文京区】　文京区の児童館の一覧です。",
+    "owner_org": "201cae13-e069-464e-b376-1da3ce968538",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "1年ごと"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "児童館",
+    "revision_id": "801a4042-074c-40f6-bdf6-4cabb56e9780"
+  }
+}

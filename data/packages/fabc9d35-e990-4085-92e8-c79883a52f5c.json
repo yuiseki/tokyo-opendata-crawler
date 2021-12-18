@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "港湾整備部計画課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "fabc9d35-e990-4085-92e8-c79883a52f5c",
+    "metadata_created": "2021-11-18T06:07:55.789627",
+    "metadata_modified": "2021-11-18T06:07:56.015714",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "【東京都港湾局】港湾局では、高潮時の迅速・的確な避難行動等に役立てて頂くため、海面の様子をわかりやすく提供する「海面ライブカメラ」を設置しています。カメラより得られた映像は、東京都高潮防災総合情報システム（https://www.takashio-bosai.metro.tokyo.lg.jp/im/tkim0101g.html）のホームページにおいて静止画を、東京都高潮防災チャンネル【YouTube】（https://www.youtube.com/channel/UCHasOi3-m3IgOy0OBvm85qA）において動画をリアルタイムで公開しています。",
+        "name": "海面ライブカメラ位置情報",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/kouwan/R3/130001_sea-camera.csv",
+        "cache_last_updated": null,
+        "package_id": "fabc9d35-e990-4085-92e8-c79883a52f5c",
+        "created": "2021-11-18T06:07:56.064350",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": null,
+        "position": 0,
+        "revision_id": "1c9b9907-552b-44b1-bf34-b50545019516",
+        "url_type": null,
+        "id": "b415df68-7114-495e-81fa-eb83533a63fd",
+        "resource_type": null,
+        "size": 1024
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.kouwan.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:21.661622",
+      "title": "東京都港湾局",
+      "name": "t000015",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000015.jpg",
+      "revision_id": "0ae0b754-9704-453d-a632-4097dcdb2ebf",
+      "type": "organization",
+      "id": "4a51054b-f927-4a44-902b-889a0a1fa75d",
+      "approval_status": "approved"
+    },
+    "name": "t000015d0000000038",
+    "isopen": true,
+    "url": "",
+    "notes": "東京都港湾局で設置、公開を行っている海面ライブカメラの位置情報です。（令和3年11月15日現在）",
+    "owner_org": "4a51054b-f927-4a44-902b-889a0a1fa75d",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": " 不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "海面ライブカメラ位置情報データ",
+    "revision_id": "dfe126e5-0fa7-4bf2-9c4f-3f62c438537a"
+  }
+}

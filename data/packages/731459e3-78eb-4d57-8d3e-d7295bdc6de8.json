@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "防災課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "731459e3-78eb-4d57-8d3e-d7295bdc6de8",
+    "metadata_created": "2021-07-06T05:01:03.873727",
+    "metadata_modified": "2021-07-06T05:01:23.483168",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "区民消火隊現況一覧表（令和2年3月16日時点）",
+        "format": "CSV",
+        "url": "https://www.city.sumida.lg.jp/kuseijoho/sumida_info/opendata/opendata_ichiran/bosai_data/kuminsyokatai_data.files/kuminsyokatai_20200316.csv",
+        "cache_last_updated": null,
+        "package_id": "731459e3-78eb-4d57-8d3e-d7295bdc6de8",
+        "created": "2020-03-15T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2020-03-15T15:00:00",
+        "position": 0,
+        "revision_id": "aa782ee7-44b2-47cb-90c8-63e01f09f22f",
+        "url_type": null,
+        "id": "36454f66-588f-405c-b6d1-87b46feb6829",
+        "resource_type": null,
+        "size": 5120
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "区民消火隊現況一覧表（平成27年10月29日時点）",
+        "format": "CSV",
+        "url": "https://www.city.sumida.lg.jp/kuseijoho/sumida_info/opendata/opendata_ichiran/bosai_data/kuminsyokatai_data.files/kuminsyokatai_20151029.csv",
+        "cache_last_updated": null,
+        "package_id": "731459e3-78eb-4d57-8d3e-d7295bdc6de8",
+        "created": "2015-10-28T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2015-10-28T15:00:00",
+        "position": 1,
+        "revision_id": "26680483-5933-49ff-adfb-cee959c59a81",
+        "url_type": null,
+        "id": "261fc70e-be07-41b4-83bb-85f3b2d5f786",
+        "resource_type": null,
+        "size": 5120
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "防災・災害計画",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c001.png",
+        "title": "防災・災害計画",
+        "id": "8eb52f8e-0d10-44f4-8bb4-2a488d0f8465",
+        "name": "c001"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.sumida.lg.jp/",
+      "created": "2021-07-05T23:44:42.617923",
+      "title": "墨田区",
+      "name": "t131075",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "f67005c0-e31a-47df-87af-cf1859f3e09b",
+      "type": "organization",
+      "id": "724ce337-ffb8-4df6-8c3c-eb302e46f786",
+      "approval_status": "approved"
+    },
+    "name": "t131075d0000000106",
+    "isopen": true,
+    "url": "https://www.city.sumida.lg.jp/kuseijoho/sumida_info/opendata/opendata_ichiran/bosai_data/kuminsyokatai_data.html",
+    "notes": "【墨田区】区民消火隊の現況一覧です。",
+    "owner_org": "724ce337-ffb8-4df6-8c3c-eb302e46f786",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "区民消火隊現況一覧表",
+    "revision_id": "75d60353-fcfd-48f4-9c81-bb2841003a29"
+  }
+}

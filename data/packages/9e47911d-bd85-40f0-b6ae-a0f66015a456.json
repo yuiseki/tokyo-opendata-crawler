@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "総合対策部交通安全課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "9e47911d-bd85-40f0-b6ae-a0f66015a456",
+    "metadata_created": "2019-11-01T04:52:18.901725",
+    "metadata_modified": "2019-11-01T05:09:56.720124",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "自転車安全利用の促進に関する協定締結事業者",
+        "format": "CSV",
+        "url": "http://www.opendata.metro.tokyo.jp/seisyounen/index.csv",
+        "cache_last_updated": null,
+        "package_id": "9e47911d-bd85-40f0-b6ae-a0f66015a456",
+        "created": "2019-01-20T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-01-20T15:00:00",
+        "position": 0,
+        "revision_id": "a6365abe-cb33-492a-9dcc-d1d58b6bdcf9",
+        "url_type": null,
+        "id": "fe5b4137-578a-4fea-880d-c7d5cd4b3fd1",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "自転車安全利用の促進に関する協定締結事業者【注釈等】",
+        "format": "TXT",
+        "url": "http://www.opendata.metro.tokyo.jp/seisyounen/benkyou2_4_annotation.txt",
+        "cache_last_updated": null,
+        "package_id": "9e47911d-bd85-40f0-b6ae-a0f66015a456",
+        "created": "2019-01-20T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-01-20T15:00:00",
+        "position": 1,
+        "revision_id": "0e018063-8857-448e-a6d7-4e25b2fa27d1",
+        "url_type": null,
+        "id": "fe9dd545-ff29-4bd9-8195-07880ca793d8",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.tomin-anzen.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:19.596374",
+      "title": "東京都都民安全推進本部",
+      "name": "t000002",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "f682f39e-31cf-419a-98eb-d960bdc02238",
+      "type": "organization",
+      "id": "ce1debcd-3c6c-40b5-9ade-461164a64820",
+      "approval_status": "approved"
+    },
+    "name": "t000002d1800000009",
+    "isopen": true,
+    "url": "http://www.seisyounen-chian.metro.tokyo.jp/kotsu/kakusyutaisaku/jitensha/anzennriyou-sokushin/jitensha-anzenriyou1/index.html",
+    "notes": "【東京都青少年・治安対策本部】",
+    "owner_org": "ce1debcd-3c6c-40b5-9ade-461164a64820",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "自転車安全利用TOKYOキャンペーン_※自転車を利用する皆さんへ",
+    "revision_id": "0b40a29d-9f59-4d97-886f-b25fbca0c708"
+  }
+}

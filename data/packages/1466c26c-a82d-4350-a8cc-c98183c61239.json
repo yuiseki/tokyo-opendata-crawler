@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "水道局環境・エネルギー施策担当",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "1466c26c-a82d-4350-a8cc-c98183c61239",
+    "metadata_created": "2021-05-21T02:06:42.293883",
+    "metadata_modified": "2021-05-21T02:07:15.432232",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "水道事業による二酸化炭素排出量",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/suidou/R3/co2haisyuturyo.csv",
+        "cache_last_updated": null,
+        "package_id": "1466c26c-a82d-4350-a8cc-c98183c61239",
+        "created": "2021-01-23T02:13:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-01-23T02:13:00",
+        "position": 0,
+        "revision_id": "5ef893d7-5ba9-4ac1-8e09-aa6f00508ce3",
+        "url_type": null,
+        "id": "d716a616-1ad9-4b52-bcb3-9d1f6abfabf8",
+        "resource_type": null,
+        "size": 126
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.waterworks.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:22.280579",
+      "title": "東京都水道局",
+      "name": "t000019",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000019.jpg",
+      "revision_id": "6f93ebbd-34d2-48da-9305-0c1de5e96c27",
+      "type": "organization",
+      "id": "df3e208c-40a5-4f30-b0f2-491ceffa6423",
+      "approval_status": "approved"
+    },
+    "name": "t000019d2000000022",
+    "isopen": true,
+    "url": "http://www.waterworks.metro.tokyo.jp/files/items/20371/File/01.pdf",
+    "notes": "",
+    "owner_org": "df3e208c-40a5-4f30-b0f2-491ceffa6423",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "東京水道施設再構築基本構想 ―首都東京を支え続ける安全・安心な水道の創造―_全ページ（PDF18.14MB）",
+    "revision_id": "20cdfa5b-8971-444b-881d-1a6c9000807e"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "経営企画部経営企画課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "0393ac51-b86f-4d03-adc7-b289b1e3e619",
+    "metadata_created": "2021-11-03T22:55:56.885641",
+    "owner_org": "00d1c6b0-b2cc-4a47-a50c-84db3b091fe2",
+    "metadata_modified": "2021-11-03T22:56:01.400323",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "文化財の一覧です。",
+        "format": "CSV",
+        "url": "https://www.city.shibuya.tokyo.jp/assets/mng/131130_cultural_property.csv",
+        "created": "2021-11-03T22:55:59.219856",
+        "state": "active",
+        "package_id": "0393ac51-b86f-4d03-adc7-b289b1e3e619",
+        "last_modified": null,
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "cc20763d-d633-4553-9b66-8828b02a6464",
+        "size": null,
+        "id": "361ac42c-cf30-4c5c-990a-8c1dd40fadf0",
+        "resource_type": null,
+        "name": "文化財一覧"
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t131130d0000000004",
+    "isopen": true,
+    "url": "",
+    "notes": "文化・生涯学習についての情報です。",
+    "title": "文化・生涯学習",
+    "extras": [
+      {
+        "value": "随時",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "https://www.city.shibuya.tokyo.jp/",
+      "title": "渋谷区",
+      "created": "2021-11-01T02:13:29.409173",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131130.jpg",
+      "revision_id": "d9cbbd18-4310-4c7d-b653-f1c6b8f59468",
+      "type": "organization",
+      "id": "00d1c6b0-b2cc-4a47-a50c-84db3b091fe2",
+      "name": "t131130"
+    },
+    "revision_id": "e4bd5b64-a2ec-4eee-90b9-bacfc61466cd"
+  }
+}

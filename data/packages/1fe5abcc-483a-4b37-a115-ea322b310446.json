@@ -1,0 +1,100 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "企画財政部情報システム課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 2,
+    "id": "1fe5abcc-483a-4b37-a115-ea322b310446",
+    "metadata_created": "2019-11-01T04:57:02.265271",
+    "metadata_modified": "2019-11-01T08:39:12.694367",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "台東区無料公衆無線LANアクセスポイントの一覧です",
+        "name": "台東区無料公衆無線LANアクセスポイント",
+        "format": "CSV",
+        "url": "http://www.city.taito.lg.jp/index/kusei/opendata/shisethutizujouhou.files/Taito_freeWi-Fi_AccessPoint.csv",
+        "cache_last_updated": null,
+        "package_id": "1fe5abcc-483a-4b37-a115-ea322b310446",
+        "created": "2017-06-18T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-06-18T15:00:00",
+        "position": 0,
+        "revision_id": "a9752813-14f3-401b-8929-8eb764901a36",
+        "url_type": null,
+        "id": "c875273c-981e-43b7-98bf-1ecc2c347b25",
+        "resource_type": null,
+        "size": 3072
+      }
+    ],
+    "num_resources": 1,
+    "tags": [
+      {
+        "vocabulary_id": null,
+        "state": "active",
+        "display_name": "Wi-Fi",
+        "id": "25e4d541-6b98-49ff-b320-4cf299810e10",
+        "name": "Wi-Fi"
+      },
+      {
+        "vocabulary_id": null,
+        "state": "active",
+        "display_name": "推奨データセット",
+        "id": "8a843f9d-b0c2-465c-86da-1df660de0b32",
+        "name": "推奨データセット"
+      }
+    ],
+    "groups": [
+      {
+        "display_name": "観光",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c008.png",
+        "title": "観光",
+        "id": "420fd8d6-2bde-4746-9354-6344ec19ba93",
+        "name": "c008"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.taito.lg.jp/",
+      "created": "2019-11-01T03:27:24.733512",
+      "title": "台東区",
+      "name": "t131067",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131067.png",
+      "revision_id": "0166c313-a6d1-4eee-9282-f9bacc692e27",
+      "type": "organization",
+      "id": "72ddc2e3-f5ca-4fae-aca0-2e299cc0a94a",
+      "approval_status": "approved"
+    },
+    "name": "t131067d0000000032",
+    "isopen": true,
+    "url": "http://www.city.taito.lg.jp/index/kusei/johokasuishin/wifi.html",
+    "notes": "【台東区】台東区無料公衆無線LANアクセスポイントの一覧です。内閣官房情報通信技術（IT）総合戦略室が平成29年12月22日に公開した、推奨データセットに準拠して作成しています。",
+    "owner_org": "72ddc2e3-f5ca-4fae-aca0-2e299cc0a94a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "台東区無料公衆無線LANアクセスポイント",
+    "revision_id": "f21e2dfb-3995-4d56-8d9f-f904b7c80fd3"
+  }
+}

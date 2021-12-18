@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "総合防災部防災管理課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "f175cb67-5b42-4bbd-ac74-b5fe37f29b55",
+    "metadata_created": "2021-08-25T02:13:33.108821",
+    "owner_org": "5987f8a3-dfbe-4f96-b3cc-e1f3ea0a2717",
+    "metadata_modified": "2021-08-26T01:57:19.451445",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "※１ 直結給水とは、水道水を直接（又は、増圧ポンプ等）で建物内に給水している水である ため、上水道から安定的な供給がある場合に使用可能となる。 ※２ 貯水槽水道とは、水道水のみを貯水槽に貯めて、建物内に給水している水であり、上水 道からの供給が停止している場合には、飲料水、手洗い等としてのみ使用する。 ※３ 飲料水、手洗い等として利用し、他の用途への利用は控える。 ※４ ペットボトル等飲料水は、優先的に飲料水、手洗い等として利用し、他の用途への利用 は控える。 ※５ 井戸水は、日常から飲用に管理されている場合のみ、ろ過及び消毒後、飲料水にできる と考えられるが、飲料水には可能な限り□枠内の水を利用する。 ※６ 雨水には、ゴミやチリが含まれているため、浴用には使用せず、洗濯用水に利用する。 ※７ 河川水、※８プール水は、臭気や着色等の影響がないようであれば洗濯用水に利用する。 ※９ 雑用水は、原則的にトイレ洗浄用として使用されているため、人に触れるような場所で の利用はできない。 なお、温水洗浄便座には水道水が使用されているので、利用を制限する。",
+        "format": "CSV",
+        "url": "https://www.bousai.metro.tokyo.lg.jp/content/opendata/csv/70n2j205_1.csv",
+        "created": "2018-04-12T15:00:00",
+        "state": "active",
+        "package_id": "f175cb67-5b42-4bbd-ac74-b5fe37f29b55",
+        "last_modified": "2018-04-12T15:00:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "3267421a-0195-4221-bb39-866072f01564",
+        "size": null,
+        "id": "7f35d7bb-e71f-4cfe-af4d-778884122bb6",
+        "resource_type": null,
+        "name": "《水の種類による用途》"
+      },
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "",
+        "format": "CSV",
+        "url": "https://www.bousai.metro.tokyo.lg.jp/content/opendata/csv/70n2j205_2.csv",
+        "created": "2018-04-12T15:00:00",
+        "state": "active",
+        "package_id": "f175cb67-5b42-4bbd-ac74-b5fe37f29b55",
+        "last_modified": "2018-04-12T15:00:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 1,
+        "revision_id": "c7a1f8d0-4d6a-496d-bfc4-ce6264b153bb",
+        "size": null,
+        "id": "44fb6ce1-2358-4bc2-ac68-df1af74fa518",
+        "resource_type": null,
+        "name": "《災害用トイレ》"
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "防災・災害計画",
+        "description": "",
+        "title": "防災・災害計画",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c001.png",
+        "id": "8eb52f8e-0d10-44f4-8bb4-2a488d0f8465",
+        "name": "c001"
+      }
+    ],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t000003d1700000016",
+    "isopen": true,
+    "url": "",
+    "notes": "【東京都総務局】",
+    "title": "避難所管理運営の指針（区市町村向け）",
+    "extras": [
+      {
+        "value": "不定期",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "http://www.soumu.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "title": "東京都総務局",
+      "created": "2019-11-01T03:27:19.763566",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000003.png",
+      "revision_id": "c4e16dd4-cb3f-42dc-8be2-2eed0f9e0175",
+      "type": "organization",
+      "id": "5987f8a3-dfbe-4f96-b3cc-e1f3ea0a2717",
+      "name": "t000003"
+    },
+    "revision_id": "c65aa701-b05b-42a8-8192-d3f0647a56e8"
+  }
+}

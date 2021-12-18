@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "経営企画部 総務課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "798e26bc-f5a7-44bd-be58-49864c5a5850",
+    "metadata_created": "2019-11-01T04:54:37.911896",
+    "metadata_modified": "2019-11-01T06:11:50.519069",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "病院別「指定病院」一覧",
+        "format": "CSV",
+        "url": "http://www.opendata.metro.tokyo.jp/byouin/kaikaku-suishin-plan.csv",
+        "cache_last_updated": null,
+        "package_id": "798e26bc-f5a7-44bd-be58-49864c5a5850",
+        "created": "2018-04-26T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-04-26T15:00:00",
+        "position": 0,
+        "revision_id": "2f91a47e-b23c-4373-9770-551903fa1209",
+        "url_type": null,
+        "id": "ab1b1f51-90d9-4c72-bbbc-6ea9e5f828bc",
+        "resource_type": null,
+        "size": 2048
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "医療・福祉",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c005.png",
+        "title": "医療・福祉",
+        "id": "0d3cd956-612c-45c5-b1ee-75c1a5835c0e",
+        "name": "c005"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.byouin.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:21.016626",
+      "title": "東京都病院経営本部",
+      "name": "t000011",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000011.png",
+      "revision_id": "77340b90-8479-4008-bb88-d62c96ed0980",
+      "type": "organization",
+      "id": "d9a3e421-d822-4377-83e8-30729a913e81",
+      "approval_status": "approved"
+    },
+    "name": "t000011d1700000002",
+    "isopen": true,
+    "url": "",
+    "notes": "【東京都病院経営本部】",
+    "owner_org": "d9a3e421-d822-4377-83e8-30729a913e81",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "都立病院改革推進プラン",
+    "revision_id": "fa5e5d23-befc-485b-bde6-bfd87db9eaca"
+  }
+}

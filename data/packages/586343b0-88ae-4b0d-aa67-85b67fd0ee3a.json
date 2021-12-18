@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "障害者施策推進部計画課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "586343b0-88ae-4b0d-aa67-85b67fd0ee3a",
+    "metadata_created": "2019-11-01T04:54:03.934314",
+    "metadata_modified": "2019-11-01T06:03:57.919035",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "区市町村障害者差別解消法所管一覧",
+        "format": "XLSX",
+        "url": "http://www.fukushihoken.metro.tokyo.jp/shougai/sodan/syougaisyakenri.files/kushichouson_sabetsu_houshokan_ichiran.xlsx",
+        "cache_last_updated": null,
+        "package_id": "586343b0-88ae-4b0d-aa67-85b67fd0ee3a",
+        "created": "2018-08-30T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-08-30T15:00:00",
+        "position": 0,
+        "revision_id": "067687a0-6edc-4dc1-b80d-e7fa9a9a8c1f",
+        "url_type": null,
+        "id": "46e8c7ba-0945-4375-986a-9fa736d618ec",
+        "resource_type": null,
+        "size": 18432
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "区市町村障害者差別解消法所管一覧（ＣＳＶ）",
+        "format": "CSV",
+        "url": "http://www.fukushihoken.metro.tokyo.jp/shougai/sodan/syougaisyakenri.files/kushichouson.csv",
+        "cache_last_updated": null,
+        "package_id": "586343b0-88ae-4b0d-aa67-85b67fd0ee3a",
+        "created": "2018-08-30T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-08-30T15:00:00",
+        "position": 1,
+        "revision_id": "4400522e-4b84-4a3a-a1ef-e3bba293550b",
+        "url_type": null,
+        "id": "6fdd8e31-d79b-4444-8e56-3c265ee467ab",
+        "resource_type": null,
+        "size": 9216
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "医療・福祉",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c005.png",
+        "title": "医療・福祉",
+        "id": "0d3cd956-612c-45c5-b1ee-75c1a5835c0e",
+        "name": "c005"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.fukushihoken.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.864364",
+      "title": "東京都福祉保健局",
+      "name": "t000010",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000010.jpg",
+      "revision_id": "8d3da6a9-bfe7-4cd1-9d5d-9737b2293939",
+      "type": "organization",
+      "id": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+      "approval_status": "approved"
+    },
+    "name": "t000010d1700000022",
+    "isopen": true,
+    "url": "",
+    "notes": "【東京都福祉保健局】区市町村の障害者差別解消法の所管一覧を掲載しています。",
+    "owner_org": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "１年ごと"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "区市町村障害者差別解消法所管一覧",
+    "revision_id": "6ec5687b-eda2-477a-b000-67081ca5653c"
+  }
+}

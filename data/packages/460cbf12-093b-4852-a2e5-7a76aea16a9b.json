@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "選挙管理委員会事務局",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "460cbf12-093b-4852-a2e5-7a76aea16a9b",
+    "metadata_created": "2019-11-01T04:58:17.134456",
+    "metadata_modified": "2019-11-01T09:22:58.339047",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "市内の当日投票所の位置情報",
+        "name": "投票所投票区一覧",
+        "format": "XLS",
+        "url": "http://www.city.chofu.tokyo.jp/www/contents/1489393492545/simple/1.xls",
+        "cache_last_updated": null,
+        "package_id": "460cbf12-093b-4852-a2e5-7a76aea16a9b",
+        "created": "2017-03-24T03:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-03-24T03:00:00",
+        "position": 0,
+        "revision_id": "332dea49-80ff-4fb2-93b9-a67edf716baa",
+        "url_type": null,
+        "id": "8f8fed7c-3b0d-426d-939f-5a85c474831d",
+        "resource_type": null,
+        "size": 26624
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "市内の期日前投票所の位置情報",
+        "name": "期日前投票所一覧",
+        "format": "XLS",
+        "url": "http://www.city.chofu.tokyo.jp/www/contents/1489393492545/simple/2.xls",
+        "cache_last_updated": null,
+        "package_id": "460cbf12-093b-4852-a2e5-7a76aea16a9b",
+        "created": "2017-03-24T03:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-03-24T03:00:00",
+        "position": 1,
+        "revision_id": "aef43766-f0c0-4ac0-81ac-307cc588dfa6",
+        "url_type": null,
+        "id": "81cedaca-4c22-4fcf-9591-65f6ddbaf062",
+        "resource_type": null,
+        "size": 18432
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.chofu.tokyo.jp/",
+      "created": "2019-11-01T03:27:26.616591",
+      "title": "調布市",
+      "name": "t132080",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "c666c9e8-e94d-46e1-a28c-7cdf1ea8b7c6",
+      "type": "organization",
+      "id": "8c710e6d-ae95-4768-90a8-8f4c4e98ae41",
+      "approval_status": "approved"
+    },
+    "name": "t132080d0000000003",
+    "isopen": true,
+    "url": "",
+    "notes": "選挙時の投票所の位置情報",
+    "owner_org": "8c710e6d-ae95-4768-90a8-8f4c4e98ae41",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "選挙に関するデータ",
+    "revision_id": "f7bbe12b-3d65-4ff0-a1ec-2e22e9db24c9"
+  }
+}

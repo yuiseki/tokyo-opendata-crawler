@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "e6eabdaa-c77e-41d9-b3f2-3fed1051bb15",
+    "metadata_created": "2019-11-01T04:56:25.473221",
+    "metadata_modified": "2019-11-01T08:34:14.657012",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "上記のＰＤＦファイルです。",
+        "name": "第３期東京都地域住宅計画",
+        "format": "PDF",
+        "url": "http://www.toshiseibi.metro.tokyo.jp/juutaku_seisaku/tiiki/pdf/20111011/tiiki_01.pdf",
+        "cache_last_updated": null,
+        "package_id": "e6eabdaa-c77e-41d9-b3f2-3fed1051bb15",
+        "created": "2017-03-24T03:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-03-24T03:00:00",
+        "position": 0,
+        "revision_id": "8cff88e3-8b32-4910-9319-d8e0e0685a6e",
+        "url_type": null,
+        "id": "064c88fa-67e1-4617-94b5-fdd12a8ac239",
+        "resource_type": null,
+        "size": 862208
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "まちづくり",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c003.png",
+        "title": "まちづくり",
+        "id": "dc897c44-8153-4219-bfeb-6110fb85fb99",
+        "name": "c003"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "所属:東京都",
+      "created": "2019-11-01T03:27:24.052328",
+      "title": "東京都住宅政策本部",
+      "name": "t000030",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "73bcd657-43bb-4348-a873-a0efd0c8f1fb",
+      "type": "organization",
+      "id": "2f48464d-ce84-4cec-bb73-86634a89efeb",
+      "approval_status": "approved"
+    },
+    "name": "t000030d0000000008",
+    "isopen": true,
+    "url": "http://www.toshiseibi.metro.tokyo.jp/juutaku_seisaku/tiiki/tiiki_111011.html",
+    "notes": "【東京都住宅政策本部】　社会資本整備総合交付金の活用を図るために、東京都と都内区市町村が共同で策定している計画です。",
+    "owner_org": "2f48464d-ce84-4cec-bb73-86634a89efeb",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "第３期東京都地域住宅計画",
+    "revision_id": "7fa24f3a-de6e-48fb-bf8a-4d0a58b50fa4"
+  }
+}

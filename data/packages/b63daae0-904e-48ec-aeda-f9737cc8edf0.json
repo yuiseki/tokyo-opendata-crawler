@@ -1,0 +1,93 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "総合調整部調整課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "b63daae0-904e-48ec-aeda-f9737cc8edf0",
+    "metadata_created": "2019-11-01T04:53:24.315140",
+    "metadata_modified": "2019-11-01T05:44:19.821565",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "東京2020大会開催に伴う経済波及効果等の試算結果です。",
+        "name": "東京2020大会開催に伴う経済波及効果（試算結果のまとめ）",
+        "format": "PDF",
+        "url": "http://www.2020games.metro.tokyo.jp/9e1525ac4c454d171c82338c5a9b4c8a_1.pdf",
+        "cache_last_updated": null,
+        "package_id": "b63daae0-904e-48ec-aeda-f9737cc8edf0",
+        "created": "2017-06-25T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-06-25T15:00:00",
+        "position": 0,
+        "revision_id": "34831521-bbc2-4635-ac38-ed4e7f6cc65c",
+        "url_type": null,
+        "id": "17702d18-fd7e-4d61-bfe8-b9289d98b113",
+        "resource_type": null,
+        "size": 1036288
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "オリンピック・パラリンピック",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c009.png",
+        "title": "オリンピック・パラリンピック",
+        "id": "4e11ae7b-55ad-44ce-8ec3-dc7205cc78f6",
+        "name": "c009"
+      },
+      {
+        "display_name": "産業雇用創出",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c011.png",
+        "title": "産業雇用創出",
+        "id": "bb1c42ce-dc7e-48cf-91d4-05cab59db4bd",
+        "name": "c011"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.2020games.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.403001",
+      "title": "東京都オリンピック・パラリンピック準備局",
+      "name": "t000007",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000007.jpg",
+      "revision_id": "90a115f6-e18a-495c-a51b-39ca62c7108c",
+      "type": "organization",
+      "id": "1a6c3963-f987-4d8a-9a29-eafa99c7a0f1",
+      "approval_status": "approved"
+    },
+    "name": "t000007d0000000005",
+    "isopen": true,
+    "url": "http://www.2020games.metro.tokyo.jp/taikaijyunbi/torikumi/keizaihakyuukouka/",
+    "notes": "【東京都オリンピック・パラリンピック準備局】　東京2020大会開催に伴う経済波及効果等の試算結果です。",
+    "owner_org": "1a6c3963-f987-4d8a-9a29-eafa99c7a0f1",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "公開時のみ"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "東京2020大会開催に伴う経済波及効果（試算結果のまとめ）",
+    "revision_id": "9dc54de5-5dd4-4b6b-963d-e4471d694459"
+  }
+}

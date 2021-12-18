@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "財政課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "ba389e8c-7eae-4aed-9de8-ca4870319814",
+    "metadata_created": "2021-10-04T00:58:06.763170",
+    "owner_org": "457d0f12-2dd5-4b86-a227-fb4e01ef0ebc",
+    "metadata_modified": "2021-10-04T00:59:34.847544",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "年度別の普通会計の歳入の決算額を公表しています。",
+        "format": "XLSX",
+        "url": "https://www.city.inagi.tokyo.jp/shisei/gyosei/opendata/opendata_catalogpage/zaisei.files/028.xlsx",
+        "created": "2021-10-04T00:58:26.830108",
+        "state": "active",
+        "package_id": "ba389e8c-7eae-4aed-9de8-ca4870319814",
+        "last_modified": null,
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "6829007f-fd8e-4f21-be09-078fc28f66ff",
+        "size": 18432,
+        "id": "1eb30678-6abb-4418-9594-49b63220acc5",
+        "resource_type": null,
+        "name": "普通会計性質別歳入決算額の推移（EXCELファイル）"
+      },
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "年度別の普通会計の歳入の決算額を公表しています。",
+        "format": "CSV",
+        "url": "https://www.city.inagi.tokyo.jp/shisei/gyosei/opendata/opendata_catalogpage/zaisei.files/028.csv",
+        "created": "2021-10-04T00:58:27.205319",
+        "state": "active",
+        "package_id": "ba389e8c-7eae-4aed-9de8-ca4870319814",
+        "last_modified": null,
+        "mimetype": null,
+        "url_type": null,
+        "position": 1,
+        "revision_id": "1a666a05-8f83-4574-a075-102fbe72effe",
+        "size": 4096,
+        "id": "1d70e21d-9c9f-46c6-aff8-cff9cfc3f962",
+        "resource_type": null,
+        "name": "普通会計性質別歳入決算額の推移（CSVファイル）"
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "税金",
+        "description": "",
+        "title": "税金",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c007.png",
+        "id": "bb8a1d8b-5217-44c2-8eca-81addb671f0e",
+        "name": "c007"
+      }
+    ],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t132250d0000000046",
+    "isopen": true,
+    "url": "",
+    "notes": "【稲城市】",
+    "title": "歳入決算額の推移（普通会計）",
+    "extras": [
+      {
+        "value": "１年ごと",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "https://www.city.inagi.tokyo.jp/",
+      "title": "稲城市",
+      "created": "2019-11-01T03:27:27.462971",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t132250.jpg",
+      "revision_id": "f68dd2e1-e0a9-41bc-a7b4-2a1138104a3f",
+      "type": "organization",
+      "id": "457d0f12-2dd5-4b86-a227-fb4e01ef0ebc",
+      "name": "t132250"
+    },
+    "revision_id": "21cc3207-393b-49e0-8554-bb535db790ff"
+  }
+}

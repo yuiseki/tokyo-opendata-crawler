@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "企画経営部区長室",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "23c86387-2e7c-423c-9b06-4178278eaa2b",
+    "metadata_created": "2020-07-22T00:59:45.017158",
+    "metadata_modified": "2020-07-22T00:59:48.473260",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "第32回港区民世論調査クロス集計表・生活安全についての情報です。",
+        "name": "第32回港区民世論調査クロス集計表・生活安全Q24",
+        "format": "CSV",
+        "url": "https://opendata.city.minato.tokyo.jp/dataset/2c919e7e-c51a-48ea-8ad2-664ae3eafdbf/resource/3d906fdd-b369-41fd-9e46-e04274dd6bac/download/yoronchosa32_cross_q24.csv",
+        "cache_last_updated": null,
+        "package_id": "23c86387-2e7c-423c-9b06-4178278eaa2b",
+        "created": "2020-03-30T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2020-07-15T03:00:00",
+        "position": 0,
+        "revision_id": "88efc479-3536-4879-9744-1113c3d9978b",
+        "url_type": null,
+        "id": "9c07bb1e-48f3-4a38-bd63-9829c2c1880e",
+        "resource_type": null,
+        "size": 14336
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "第32回港区民世論調査クロス集計表・生活安全についての情報です。",
+        "name": "第32回港区民世論調査クロス集計表・生活安全Q25",
+        "format": "CSV",
+        "url": "https://opendata.city.minato.tokyo.jp/dataset/2c919e7e-c51a-48ea-8ad2-664ae3eafdbf/resource/76d4acb7-40c9-4222-b309-98a9d30636b6/download/yoronchosa32_cross_q25.csv",
+        "cache_last_updated": null,
+        "package_id": "23c86387-2e7c-423c-9b06-4178278eaa2b",
+        "created": "2020-03-30T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2020-07-15T03:00:00",
+        "position": 1,
+        "revision_id": "fe44721e-4b43-41b5-9ced-34a78b86a202",
+        "url_type": null,
+        "id": "2f71093d-cf71-482a-bddc-33827cc998e5",
+        "resource_type": null,
+        "size": 13312
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "治安",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c002.png",
+        "title": "治安",
+        "id": "de8273ac-2339-4309-ad15-2800b751b45e",
+        "name": "c002"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.minato.tokyo.jp/",
+      "created": "2019-11-01T03:27:24.220357",
+      "title": "港区",
+      "name": "t131032",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131032.jpg",
+      "revision_id": "8f5676eb-3316-4cc6-b26a-4f7e1b39e109",
+      "type": "organization",
+      "id": "6adece4f-1ee9-416a-a7e7-856b8d5fb050",
+      "approval_status": "approved"
+    },
+    "name": "t131032d0000000090",
+    "isopen": true,
+    "url": "https://www.city.minato.tokyo.jp/kouchou/kuse/chosa/yoronchosa/29hokoku.html",
+    "notes": "【港区】第32回港区民世論調査クロス集計表・生活安全についての情報です。",
+    "owner_org": "6adece4f-1ee9-416a-a7e7-856b8d5fb050",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "更新無"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "第32回港区民世論調査クロス集計表・生活安全について",
+    "revision_id": "6240a9d7-e2c3-4886-9b7e-53693fec8d7e"
+  }
+}

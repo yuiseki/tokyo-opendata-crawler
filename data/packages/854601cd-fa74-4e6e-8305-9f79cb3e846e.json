@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "財務局主計部財政課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "854601cd-fa74-4e6e-8305-9f79cb3e846e",
+    "metadata_created": "2021-07-30T04:36:46.023511",
+    "metadata_modified": "2021-07-30T04:36:46.640770",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "平成27年地価調査地点データ一覧（林地を除く）",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/zaimu/kijunchi/27nen/19data_kakaku.csv",
+        "cache_last_updated": null,
+        "package_id": "854601cd-fa74-4e6e-8305-9f79cb3e846e",
+        "created": "2021-01-30T04:49:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-07-30T04:49:00",
+        "position": 0,
+        "revision_id": "5c6fa86c-d537-4204-828f-0169bce62584",
+        "url_type": null,
+        "id": "21d009fc-09dc-4bd3-bd2f-c11d72239009",
+        "resource_type": null,
+        "size": 3392
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.zaimu.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:19.930633",
+      "title": "東京都財務局",
+      "name": "t000004",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000004.png",
+      "revision_id": "01005f89-2b3c-4cb8-be76-7d28c31f9529",
+      "type": "organization",
+      "id": "e93fd59b-c22c-4c42-8074-368082fec915",
+      "approval_status": "approved"
+    },
+    "name": "t000004d2000000020",
+    "isopen": true,
+    "url": "http://www.zaimu.metro.tokyo.jp/syukei1/zaisei/29yosangaiyou5.pdf",
+    "notes": "",
+    "owner_org": "e93fd59b-c22c-4c42-8074-368082fec915",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "「平成27年地価調査」地点データ一覧",
+    "revision_id": "39793a5e-cae0-4d86-ae3d-45d40013f251"
+  }
+}

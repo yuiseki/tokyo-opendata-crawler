@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "町田市都市づくり部公園緑地課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "144e9ddd-3c58-4289-a3ed-f2c4ed5b2c69",
+    "metadata_created": "2019-11-01T04:58:39.732746",
+    "owner_org": "01ee6b09-cb58-4100-8d95-623ad6b238ef",
+    "metadata_modified": "2020-05-22T09:03:43.778432",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "データ時点：2019年4月現在",
+        "format": "XLSX",
+        "url": "https://www.city.machida.tokyo.jp/shisei/opendata/shisetsu/kouenichiran.files/kouenichiran.xlsx",
+        "created": "2018-03-15T15:00:00",
+        "state": "active",
+        "package_id": "144e9ddd-3c58-4289-a3ed-f2c4ed5b2c69",
+        "last_modified": "2020-03-22T15:00:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "b1e15351-1bd8-4675-b24d-c007498bf233",
+        "size": 218112,
+        "id": "20946561-5bee-4951-8fe4-8e5a5c32469c",
+        "resource_type": null,
+        "name": "公園一覧"
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t132098d0000000015",
+    "isopen": true,
+    "url": "",
+    "notes": "【町田市】",
+    "title": "公園一覧",
+    "extras": [
+      {
+        "value": "随時",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "https://www.city.machida.tokyo.jp/",
+      "title": "町田市",
+      "created": "2019-11-01T03:27:26.775139",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t132098.png",
+      "revision_id": "afc39d6e-faf0-4358-90a5-a32d669724a1",
+      "type": "organization",
+      "id": "01ee6b09-cb58-4100-8d95-623ad6b238ef",
+      "name": "t132098"
+    },
+    "revision_id": "df5b02ad-1a14-4b32-bb9d-d4e9e997dda9"
+  }
+}

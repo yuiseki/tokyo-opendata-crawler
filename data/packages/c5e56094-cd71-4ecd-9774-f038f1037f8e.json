@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "環境リサイクル支援部環境課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "c5e56094-cd71-4ecd-9774-f038f1037f8e",
+    "metadata_created": "2020-05-14T08:20:10.492723",
+    "metadata_modified": "2021-09-09T23:34:36.302796",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "港区内運河の水質調査結果です。",
+        "name": "運河の水質調査",
+        "format": "CSV",
+        "url": "https://opendata.city.minato.tokyo.jp/dataset/917c6689-2580-4ca2-b5f3-f479d4e0d20a/resource/c3bda008-12a2-4781-add4-6297f5175291/download/unga_suishitsu.csv",
+        "cache_last_updated": null,
+        "package_id": "c5e56094-cd71-4ecd-9774-f038f1037f8e",
+        "created": "2021-03-31T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-05-11T15:00:00",
+        "position": 0,
+        "revision_id": "7d9d85f5-073f-4b71-ad03-c9be8f455d7a",
+        "url_type": null,
+        "id": "47eb960b-e2b5-49e0-848d-0044d4dc3a95",
+        "resource_type": null,
+        "size": 7168
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "港区内を流れる古川の水質調査結果です。",
+        "name": "古川の水質調査",
+        "format": "CSV",
+        "url": "https://opendata.city.minato.tokyo.jp/dataset/e1f99225-34b7-4946-8b5f-d71353292923/resource/037821ca-a29c-4f6b-9fdc-12318294d53d/download/furukawa_suishitsu.csv",
+        "cache_last_updated": null,
+        "package_id": "c5e56094-cd71-4ecd-9774-f038f1037f8e",
+        "created": "2021-03-31T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-05-11T15:00:00",
+        "position": 1,
+        "revision_id": "09960b3f-2a79-49b1-bf28-6146de7b1480",
+        "url_type": null,
+        "id": "f2ec899c-2175-429a-a6ec-507eb62c16e4",
+        "resource_type": null,
+        "size": 5120
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "環境",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c012.png",
+        "title": "環境",
+        "id": "427f3ee0-b28a-4fd2-b7dc-980507f154d2",
+        "name": "c012"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.minato.tokyo.jp/",
+      "created": "2019-11-01T03:27:24.220357",
+      "title": "港区",
+      "name": "t131032",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131032.jpg",
+      "revision_id": "8f5676eb-3316-4cc6-b26a-4f7e1b39e109",
+      "type": "organization",
+      "id": "6adece4f-1ee9-416a-a7e7-856b8d5fb050",
+      "approval_status": "approved"
+    },
+    "name": "t131032d0000000004",
+    "isopen": true,
+    "url": "https://www.city.minato.tokyo.jp/kankyoushidou/kankyo-machi/kankyo/chosa/suishitsu/unga/index.html",
+    "notes": "【港区】統計についての情報です。",
+    "owner_org": "6adece4f-1ee9-416a-a7e7-856b8d5fb050",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "年1回"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "港区内の水質統計",
+    "revision_id": "4d65ea99-e443-4bf4-95cb-0840fbd7b309"
+  }
+}

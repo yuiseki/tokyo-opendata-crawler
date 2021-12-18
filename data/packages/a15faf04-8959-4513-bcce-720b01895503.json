@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "選挙管理委員会事務局",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "a15faf04-8959-4513-bcce-720b01895503",
+    "metadata_created": "2021-03-18T07:38:19.672183",
+    "owner_org": "9354a576-4de5-44ab-9e62-18a92b40b5e7",
+    "metadata_modified": "2021-03-18T07:38:49.629458",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "期日前投票所に関するデータです。",
+        "format": "CSV",
+        "url": "https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/010/380/attach_67764_2.csv",
+        "created": "2021-03-18T07:38:45.970414",
+        "state": "active",
+        "package_id": "a15faf04-8959-4513-bcce-720b01895503",
+        "last_modified": null,
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "8c60d39f-690f-4616-b857-ba90baf78f5f",
+        "size": null,
+        "id": "77f15fb1-a46c-4db4-bbce-9a5f1b9778f3",
+        "resource_type": null,
+        "name": "期日前投票所"
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t131199d0000001412",
+    "isopen": true,
+    "url": "https://www.city.itabashi.tokyo.jp/kusei/senkyo/touhyo/1010380.html",
+    "notes": "【板橋区】期日前投票所に関するデータを掲載しています。",
+    "title": "期日前投票所",
+    "extras": [
+      {
+        "value": "随時",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "http://www.city.itabashi.tokyo.jp/",
+      "title": "板橋区",
+      "created": "2019-11-01T03:27:25.673886",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131199.jpg",
+      "revision_id": "1a86d48e-188d-4655-9cc5-c9aedb102db4",
+      "type": "organization",
+      "id": "9354a576-4de5-44ab-9e62-18a92b40b5e7",
+      "name": "t131199"
+    },
+    "revision_id": "01c5e826-4c1c-413c-9d6d-10cde8f07d25"
+  }
+}

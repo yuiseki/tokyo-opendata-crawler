@@ -1,0 +1,93 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "あきる野市総務部情報システム課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 1,
+    "id": "f56481c4-69a0-4942-a5c9-911af0a03276",
+    "metadata_created": "2019-11-01T04:59:09.222235",
+    "metadata_modified": "2019-11-01T09:35:25.799459",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "観光施設一覧",
+        "format": "CSV",
+        "url": "http://www.city.akiruno.tokyo.jp/cmsfiles/contents/0000009/9313/13228_tourism_1.csv",
+        "cache_last_updated": null,
+        "package_id": "f56481c4-69a0-4942-a5c9-911af0a03276",
+        "created": "2019-03-29T02:01:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-03-29T02:01:00",
+        "position": 0,
+        "revision_id": "54fd1b08-3d2c-4d0c-bf6f-5148a36544c6",
+        "url_type": null,
+        "id": "d64a95e7-8058-4548-8464-e712fcb9dac6",
+        "resource_type": null,
+        "size": 1024
+      }
+    ],
+    "num_resources": 1,
+    "tags": [
+      {
+        "vocabulary_id": null,
+        "state": "active",
+        "display_name": "推奨データセット",
+        "id": "8a843f9d-b0c2-465c-86da-1df660de0b32",
+        "name": "推奨データセット"
+      }
+    ],
+    "groups": [
+      {
+        "display_name": "観光",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c008.png",
+        "title": "観光",
+        "id": "420fd8d6-2bde-4746-9354-6344ec19ba93",
+        "name": "c008"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.akiruno.tokyo.jp/",
+      "created": "2019-11-01T03:27:27.785339",
+      "title": "あきる野市",
+      "name": "t132284",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t132284.jpg",
+      "revision_id": "38e8854a-07e3-4713-9a0b-ab34b7a4a4dc",
+      "type": "organization",
+      "id": "ed9d8dcd-7690-484e-be15-8b23eab3bf57",
+      "approval_status": "approved"
+    },
+    "name": "t132284d0000000003",
+    "isopen": true,
+    "url": "http://www.city.akiruno.tokyo.jp/0000009307.html",
+    "notes": "【あきる野市】あきる野市内の観光施設の一覧です。内閣官房情報通信技術（IT）総合戦略室が平成29年12月22日に公開した、推奨データセットに準拠して作成しています。",
+    "owner_org": "ed9d8dcd-7690-484e-be15-8b23eab3bf57",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "年１回（３月頃）"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "観光施設一覧",
+    "revision_id": "bc37d64e-9f9c-4e0a-b613-37861fbad6bf"
+  }
+}

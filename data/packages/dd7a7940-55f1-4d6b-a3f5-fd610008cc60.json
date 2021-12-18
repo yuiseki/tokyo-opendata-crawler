@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "課税課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "dd7a7940-55f1-4d6b-a3f5-fd610008cc60",
+    "metadata_created": "2019-11-01T04:59:01.712346",
+    "metadata_modified": "2021-10-06T08:15:18.829973",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "年度別のたばこの消費量を公表しています。",
+        "name": "たばこ消費量の推移（EXCELファイル）",
+        "format": "XLSX",
+        "url": "https://www.city.inagi.tokyo.jp/shisei/gyosei/opendata/opendata_catalogpage/shiminseikatu.files/060.xlsx",
+        "cache_last_updated": null,
+        "package_id": "dd7a7940-55f1-4d6b-a3f5-fd610008cc60",
+        "created": "2021-10-04T00:58:34.909873",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": null,
+        "position": 0,
+        "revision_id": "937229cb-59d3-46e8-8de0-c8641d69631c",
+        "url_type": null,
+        "id": "5b0c83c6-3e96-49a5-9fdc-1d3e93a98789",
+        "resource_type": null,
+        "size": 10240
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "年度別のたばこの消費量を公表しています。",
+        "name": "たばこ消費量の推移（CSVファイル）",
+        "format": "CSV",
+        "url": "https://www.city.inagi.tokyo.jp/shisei/gyosei/opendata/opendata_catalogpage/shiminseikatu.files/060.csv",
+        "cache_last_updated": null,
+        "package_id": "dd7a7940-55f1-4d6b-a3f5-fd610008cc60",
+        "created": "2021-10-04T00:58:35.221779",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": null,
+        "position": 1,
+        "revision_id": "937229cb-59d3-46e8-8de0-c8641d69631c",
+        "url_type": null,
+        "id": "271fccd7-62af-4683-8e8a-863c5783a595",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.inagi.tokyo.jp/",
+      "created": "2019-11-01T03:27:27.462971",
+      "title": "稲城市",
+      "name": "t132250",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t132250.jpg",
+      "revision_id": "f68dd2e1-e0a9-41bc-a7b4-2a1138104a3f",
+      "type": "organization",
+      "id": "457d0f12-2dd5-4b86-a227-fb4e01ef0ebc",
+      "approval_status": "approved"
+    },
+    "name": "t132250d0000000015",
+    "isopen": true,
+    "url": "",
+    "notes": "【稲城市】",
+    "owner_org": "457d0f12-2dd5-4b86-a227-fb4e01ef0ebc",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "１年ごと"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "たばこの消費量の推移",
+    "revision_id": "cf4e8e2e-5782-413f-b718-dd3d3a78abe0"
+  }
+}

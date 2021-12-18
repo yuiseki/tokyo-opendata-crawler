@@ -1,0 +1,114 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "広報広聴部都民の声課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "639ca703-6ade-4674-ad0a-afcd782af723",
+    "metadata_created": "2019-11-01T04:53:22.207933",
+    "metadata_modified": "2019-11-01T05:43:49.422966",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "オープンデータ一覧（CSVファイル168種、txtファイル82種）",
+        "format": "ZIP",
+        "url": "http://www.metro.tokyo.jp/tosei/hodohappyo/press/2017/03/07/documents/02_01.zip",
+        "cache_last_updated": null,
+        "package_id": "639ca703-6ade-4674-ad0a-afcd782af723",
+        "created": "2019-03-05T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-03-05T15:00:00",
+        "position": 0,
+        "revision_id": "449b92b8-d18e-446b-9421-f6075d58831a",
+        "url_type": null,
+        "id": "ebf556a2-1258-420b-a853-921c7781999a",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "オープンデータ一覧（CSV形式）に含まれるCSVファイルのファイル名を記載した一覧表です。",
+        "name": "ファイル名対応表",
+        "format": "ZIP",
+        "url": "http://www.metro.tokyo.jp/tosei/hodohappyo/press/2017/03/07/documents/description.zip",
+        "cache_last_updated": null,
+        "package_id": "639ca703-6ade-4674-ad0a-afcd782af723",
+        "created": "2019-03-05T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-03-05T15:00:00",
+        "position": 1,
+        "revision_id": "ca734b44-564e-4463-859a-fb7acbf6166c",
+        "url_type": null,
+        "id": "9f9efdfa-93a3-44e5-9abb-b2ae66d0f9c1",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "医療・福祉",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c005.png",
+        "title": "医療・福祉",
+        "id": "0d3cd956-612c-45c5-b1ee-75c1a5835c0e",
+        "name": "c005"
+      },
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.seikatubunka.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.245320",
+      "title": "東京都生活文化局",
+      "name": "t000006",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "e09ebb81-026e-4a29-927c-3490964055ad",
+      "type": "organization",
+      "id": "3f65c30d-0809-4fc6-8f6c-82261b14152e",
+      "approval_status": "approved"
+    },
+    "name": "t000006d1800000002",
+    "isopen": true,
+    "url": "",
+    "notes": "【東京都生活文化局】調査結果の全文",
+    "owner_org": "3f65c30d-0809-4fc6-8f6c-82261b14152e",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "1年ごと"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "「健康と保健医療に関する世論調査」結果",
+    "revision_id": "5bfd1e6e-2fc6-47bc-b66f-41a1ec5317e5"
+  }
+}

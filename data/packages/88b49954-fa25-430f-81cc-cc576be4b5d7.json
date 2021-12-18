@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "総合防災部防災管理課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "88b49954-fa25-430f-81cc-cc576be4b5d7",
+    "metadata_created": "2019-11-01T04:52:52.431131",
+    "metadata_modified": "2021-08-30T10:55:08.949803",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "被災者生活再建支援法に定められている年齢、収入等の支給条件に応じて、避難指示解除 後２年以内に帰島して、自立した生活を開始する世帯に対し、移転費（引越）、物品購入費の 支援が 70 万円限度で受けられます。",
+        "name": "２．長期避難解除世帯特例",
+        "format": "CSV",
+        "url": "http://www.bousai.metro.tokyo.jp/content/opendata/csv/35_document_1.csv",
+        "cache_last_updated": null,
+        "package_id": "88b49954-fa25-430f-81cc-cc576be4b5d7",
+        "created": "2018-04-12T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-04-12T15:00:00",
+        "position": 0,
+        "revision_id": "596a42f6-b42e-4776-ac2c-cefadc03b63e",
+        "url_type": null,
+        "id": "e12ef1ea-d520-436a-9165-b0fb4ccd3848",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "帰島対策本部　総合相談窓口　03-5320-7784",
+        "format": "CSV",
+        "url": "http://www.bousai.metro.tokyo.jp/content/opendata/csv/35_document_2_1.csv",
+        "cache_last_updated": null,
+        "package_id": "88b49954-fa25-430f-81cc-cc576be4b5d7",
+        "created": "2018-04-12T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-04-12T15:00:00",
+        "position": 1,
+        "revision_id": "fa7dce12-c8c7-4cce-9b2d-245731349023",
+        "url_type": null,
+        "id": "5f0aa85b-dd3b-4773-a5b1-bdee83139179",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "防災・災害計画",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c001.png",
+        "title": "防災・災害計画",
+        "id": "8eb52f8e-0d10-44f4-8bb4-2a488d0f8465",
+        "name": "c001"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.soumu.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:19.763566",
+      "title": "東京都総務局",
+      "name": "t000003",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000003.png",
+      "revision_id": "c4e16dd4-cb3f-42dc-8be2-2eed0f9e0175",
+      "type": "organization",
+      "id": "5987f8a3-dfbe-4f96-b3cc-e1f3ea0a2717",
+      "approval_status": "approved"
+    },
+    "name": "t000003d1700000028",
+    "isopen": true,
+    "url": "",
+    "notes": "【東京都総務局】",
+    "owner_org": "5987f8a3-dfbe-4f96-b3cc-e1f3ea0a2717",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "三宅島噴火災害誌 資料編_資料35 帰島・生活再開の手引き（三宅村村民用帰島マニュアル）",
+    "revision_id": "8db7d017-e93f-44c9-9df6-2f5d81efb3f2"
+  }
+}

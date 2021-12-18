@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "産業・地域振興支援部地域振興課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "43e2c604-5f72-4753-b38a-5fe35e966da3",
+    "metadata_created": "2020-05-14T08:11:16.906048",
+    "metadata_modified": "2021-09-09T23:58:27.678350",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "港区の人口・世帯数一覧です。",
+        "name": "港区の人口・世帯数（住民基本台帳に基づく）",
+        "format": "CSV",
+        "url": "https://opendata.city.minato.tokyo.jp/dataset/851d8147-1d61-4eb1-ad9a-72f1b73ef97d/resource/044c2af1-c005-4b8c-88cc-dbf81ec3d29d/download/jinkousetaisuu.csv",
+        "cache_last_updated": null,
+        "package_id": "43e2c604-5f72-4753-b38a-5fe35e966da3",
+        "created": "2021-07-31T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-08-12T15:00:00",
+        "position": 0,
+        "revision_id": "5b10e00b-6378-485c-a495-0102886676c7",
+        "url_type": null,
+        "id": "d903797f-7a93-4dab-891f-de62e72e0d92",
+        "resource_type": null,
+        "size": 81920
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "人口減少・少子高齢化",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c004.png",
+        "title": "人口減少・少子高齢化",
+        "id": "802d7d18-3543-4e8b-a8f5-82b5f1aa752e",
+        "name": "c004"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.minato.tokyo.jp/",
+      "created": "2019-11-01T03:27:24.220357",
+      "title": "港区",
+      "name": "t131032",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131032.jpg",
+      "revision_id": "8f5676eb-3316-4cc6-b26a-4f7e1b39e109",
+      "type": "organization",
+      "id": "6adece4f-1ee9-416a-a7e7-856b8d5fb050",
+      "approval_status": "approved"
+    },
+    "name": "t131032d0000000015",
+    "isopen": true,
+    "url": "https://www.city.minato.tokyo.jp/toukeichousa/kuse/toke/jinko/jinko/index.html",
+    "notes": "【港区】人口・世帯数一覧です。",
+    "owner_org": "6adece4f-1ee9-416a-a7e7-856b8d5fb050",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "月1回"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "港区の人口・世帯数（住民基本台帳に基づく）",
+    "revision_id": "c2858e83-f2ab-419a-b1c8-4b6e578030c6"
+  }
+}

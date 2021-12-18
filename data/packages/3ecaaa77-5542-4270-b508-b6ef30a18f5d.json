@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "東京都建設局第一建設事務所",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "3ecaaa77-5542-4270-b508-b6ef30a18f5d",
+    "metadata_created": "2021-05-19T04:18:28.103997",
+    "metadata_modified": "2021-05-20T03:54:24.943316",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "過去の主な水害記録",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/kensetsu/R3/suigaikiroku.csv",
+        "cache_last_updated": null,
+        "package_id": "3ecaaa77-5542-4270-b508-b6ef30a18f5d",
+        "created": "2021-01-30T04:11:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-01-30T04:11:00",
+        "position": 0,
+        "revision_id": "5707b885-9338-482f-963d-02cbb5078672",
+        "url_type": null,
+        "id": "533d7f5e-cede-454c-90a4-1233ed05233c",
+        "resource_type": null,
+        "size": 433
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.kensetsu.metro.tokyo.jp/index.html\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:21.496451",
+      "title": "東京都建設局",
+      "name": "t000014",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000014.jpg",
+      "revision_id": "06a19049-68df-4566-aae1-4c7d52e3a2dc",
+      "type": "organization",
+      "id": "c6763312-f089-4659-8c88-8b67ec9dc4dd",
+      "approval_status": "approved"
+    },
+    "name": "t000014d2000000014",
+    "isopen": true,
+    "url": "http://www.kensetsu.metro.tokyo.jp/content/000006301.pdf",
+    "notes": "",
+    "owner_org": "c6763312-f089-4659-8c88-8b67ec9dc4dd",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "河川の整備・維持_古川地下調節池のパンフレット",
+    "revision_id": "bcaec219-8bc9-4e50-8acf-7a903b79ba40"
+  }
+}

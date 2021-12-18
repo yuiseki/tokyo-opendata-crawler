@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "区民部区民課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "4992c3ed-28a3-4f73-baea-575175196f3d",
+    "metadata_created": "2019-11-01T04:56:48.923415",
+    "metadata_modified": "2019-11-01T09:36:05.130293",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "文京区の集会施設の一覧です。（EXCELファイル）",
+        "name": "集会施設",
+        "format": "XLSX",
+        "url": "https://www.city.bunkyo.lg.jp/library/opendata-bunkyo/01tetsuduki-kurashi/01shukaishisetsu/syukaishisetsu.xlsx",
+        "cache_last_updated": null,
+        "package_id": "4992c3ed-28a3-4f73-baea-575175196f3d",
+        "created": "2017-11-06T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-11-06T15:00:00",
+        "position": 0,
+        "revision_id": "ce9fb920-c34d-40d2-99d1-65b04ff820d4",
+        "url_type": null,
+        "id": "47cd3e98-28b5-41ec-a575-d988c2245e29",
+        "resource_type": null,
+        "size": 16384
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "文京区の集会施設の一覧です。（CSVファイル）",
+        "name": "集会施設",
+        "format": "CSV",
+        "url": "https://www.city.bunkyo.lg.jp/library/opendata-bunkyo/01tetsuduki-kurashi/01shukaishisetsu/syukaishisetsu.csv",
+        "cache_last_updated": null,
+        "package_id": "4992c3ed-28a3-4f73-baea-575175196f3d",
+        "created": "2017-11-06T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-11-06T15:00:00",
+        "position": 1,
+        "revision_id": "fef9f8f7-c700-4fe2-b9e9-9399b07b72c8",
+        "url_type": null,
+        "id": "f128718e-dfc4-419a-9d84-59e0ffafa39a",
+        "resource_type": null,
+        "size": 4096
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.bunkyo.lg.jp/",
+      "created": "2019-11-01T03:27:24.573898",
+      "title": "文京区",
+      "name": "t131059",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131059.png",
+      "revision_id": "66ab70ed-369f-4eda-b72a-eacf3f7c8095",
+      "type": "organization",
+      "id": "201cae13-e069-464e-b376-1da3ce968538",
+      "approval_status": "approved"
+    },
+    "name": "t131059d0103010001",
+    "isopen": true,
+    "url": "http://www.city.bunkyo.lg.jp/shisetsu/kumin.html",
+    "notes": "【文京区】　文京区の集会施設の一覧です。",
+    "owner_org": "201cae13-e069-464e-b376-1da3ce968538",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "集会施設",
+    "revision_id": "7421633e-2300-4565-ac81-89090fc00b17"
+  }
+}

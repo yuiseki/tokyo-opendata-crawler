@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "河川部指導調整課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "13d3341f-48c7-4faf-b71d-ee5fa45aedc5",
+    "metadata_created": "2019-11-01T04:54:54.222078",
+    "metadata_modified": "2019-11-01T09:36:07.864525",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "東京都管内河川一覧表",
+        "format": "DOC",
+        "url": "http://www.opendata.metro.tokyo.jp/2015dec/017_008_kasen.doc",
+        "cache_last_updated": null,
+        "package_id": "13d3341f-48c7-4faf-b71d-ee5fa45aedc5",
+        "created": "2017-03-24T03:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-03-24T03:00:00",
+        "position": 0,
+        "revision_id": "aa72c525-017e-4593-b5f8-6e5ea948f7d0",
+        "url_type": null,
+        "id": "8ef657a2-f3fc-429a-b979-50e0a6a3268c",
+        "resource_type": null,
+        "size": 116736
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "東京都管内河川一覧表",
+        "format": "CSV",
+        "url": "http://www.kensetsu.metro.tokyo.jp/content/000028250.csv",
+        "cache_last_updated": null,
+        "package_id": "13d3341f-48c7-4faf-b71d-ee5fa45aedc5",
+        "created": "2017-06-05T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-06-05T15:00:00",
+        "position": 1,
+        "revision_id": "506a0d92-136c-449c-9ca2-8f4379449ddd",
+        "url_type": null,
+        "id": "994a7a4d-318c-48f4-a954-a2701ab52910",
+        "resource_type": null,
+        "size": 4096
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "まちづくり",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c003.png",
+        "title": "まちづくり",
+        "id": "dc897c44-8153-4219-bfeb-6110fb85fb99",
+        "name": "c003"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.kensetsu.metro.tokyo.jp/index.html\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:21.496451",
+      "title": "東京都建設局",
+      "name": "t000014",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000014.jpg",
+      "revision_id": "06a19049-68df-4566-aae1-4c7d52e3a2dc",
+      "type": "organization",
+      "id": "c6763312-f089-4659-8c88-8b67ec9dc4dd",
+      "approval_status": "approved"
+    },
+    "name": "t000014d0000000006",
+    "isopen": true,
+    "url": "",
+    "notes": "【東京都建設局】　東京都の河川の名称、延長、分類（一級、二級、準用）、管理者の分類（国、都、区）の情報が一覧になったもの。",
+    "owner_org": "c6763312-f089-4659-8c88-8b67ec9dc4dd",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "1年ごと"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "東京都管内河川一覧表",
+    "revision_id": "4b820b05-b127-479e-8c2e-a2fb540f2cda"
+  }
+}

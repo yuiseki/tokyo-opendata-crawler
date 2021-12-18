@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "建設局河川部防災課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "num_tags": 0,
+    "id": "0f229e24-014c-4cc1-9b39-81f2416a1934",
+    "metadata_created": "2021-11-04T06:39:51.123106",
+    "metadata_modified": "2021-11-04T07:18:13.530611",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": "",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "東京都建設局で設置、公開を行っている河川監視カメラの位置情報です。（令和３年１０月２５日時点）",
+        "name": "河川監視カメラ位置情報一覧データ",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/kensetsu/R3/130001_river-monitoring-cameras.csv",
+        "cache_last_updated": null,
+        "package_id": "0f229e24-014c-4cc1-9b39-81f2416a1934",
+        "created": "2021-11-01T01:38:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-11-01T01:38:00",
+        "position": 0,
+        "revision_id": "b6cf2093-9423-4421-9ec5-a56f4c0b140d",
+        "url_type": null,
+        "id": "2a062b94-ed9e-4741-aec7-3b7a1e72c674",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "防災・災害計画",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c001.png",
+        "title": "防災・災害計画",
+        "id": "8eb52f8e-0d10-44f4-8bb4-2a488d0f8465",
+        "name": "c001"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.kensetsu.metro.tokyo.jp/index.html\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:21.496451",
+      "title": "東京都建設局",
+      "name": "t000014",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000014.jpg",
+      "revision_id": "06a19049-68df-4566-aae1-4c7d52e3a2dc",
+      "type": "organization",
+      "id": "c6763312-f089-4659-8c88-8b67ec9dc4dd",
+      "approval_status": "approved"
+    },
+    "name": "t000014d0000000028",
+    "isopen": true,
+    "url": "http://www.youtube.com/channel/UCaydvLwWthLMbfKLEQSY2UQ",
+    "notes": "【東京都建設局】建設局では、水防活動や迅速な避難行動につながる河川の状況をわかりやすく確実に提供するため、河川監視カメラを設置しています。カメラより得られた映像は、東京都水防災総合情報システム（https://www.kasen-suibo.metro.tokyo.lg.jp/im/uryosuii/tsim0102g.html のホームページにおいて静止画を、東京都水防チャンネル【YouTube】（https://www.youtube.com/channel/UCaydvLwWthLMbfKLEQSY2UQ）において動画をリアルタイムで公開しています。",
+    "owner_org": "c6763312-f089-4659-8c88-8b67ec9dc4dd",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "河川監視カメラ位置情報データ",
+    "revision_id": "96401c98-aa5b-462b-84cf-8994c2fe50ea"
+  }
+}

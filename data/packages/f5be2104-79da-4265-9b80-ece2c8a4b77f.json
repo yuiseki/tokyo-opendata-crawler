@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "情報政策推進部情報政策課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "f5be2104-79da-4265-9b80-ece2c8a4b77f",
+    "metadata_created": "2021-11-04T00:38:29.798758",
+    "owner_org": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
+    "metadata_modified": "2021-12-13T06:14:56.861815",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "",
+        "format": "CSV",
+        "url": "https://data.bodik.jp/dataset/35729c1a-8de0-4ab7-af6d-a023af85fa7a/resource/24857d5d-b1a8-49e9-9878-707fba40163d/download/131105_public_wireless_lan_20200331.csv",
+        "created": "2021-08-11T10:50:00",
+        "state": "active",
+        "package_id": "f5be2104-79da-4265-9b80-ece2c8a4b77f",
+        "last_modified": "2021-08-11T10:50:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "02953cbb-82ce-4803-bc7a-2dea2ae0f82c",
+        "size": 3881,
+        "id": "770fdb7b-0cba-4a84-88b9-f5ea82df4bf5",
+        "resource_type": null,
+        "name": "公衆無線LAN（Meguro Free Wi-Fi)"
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "観光",
+        "description": "",
+        "title": "観光",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c008.png",
+        "id": "420fd8d6-2bde-4746-9354-6344ec19ba93",
+        "name": "c008"
+      }
+    ],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t131105d0000000057",
+    "isopen": true,
+    "url": "https://www.city.meguro.tokyo.jp/gyosei/keikaku/torikumi/johoka/meguro_free_wi-fi.html",
+    "notes": "目黒区内の公衆無線LAN設置場所一覧",
+    "title": "公衆無線LAN",
+    "extras": [
+      {
+        "value": "随時",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "https://odcs.bodik.jp/131105/",
+      "title": "目黒区",
+      "created": "2021-11-01T02:12:22.338293",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131105.png",
+      "revision_id": "e3dc243f-e3a2-4b2b-a319-4e145bb63383",
+      "type": "organization",
+      "id": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
+      "name": "t131105"
+    },
+    "revision_id": "efd2ed51-4a04-4276-9f6c-3e6cfeca9410"
+  }
+}

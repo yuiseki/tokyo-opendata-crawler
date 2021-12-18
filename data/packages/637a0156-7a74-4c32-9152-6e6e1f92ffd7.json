@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "東京都建設局建設局公園緑地部計画課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "637a0156-7a74-4c32-9152-6e6e1f92ffd7",
+    "metadata_created": "2021-05-19T04:18:26.724155",
+    "metadata_modified": "2021-05-20T03:56:34.678677",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "図表 3 公園整備費の推移",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/kensetsu/R3/koenseibihi.csv",
+        "cache_last_updated": null,
+        "package_id": "637a0156-7a74-4c32-9152-6e6e1f92ffd7",
+        "created": "2021-01-30T04:11:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-01-30T04:11:00",
+        "position": 0,
+        "revision_id": "9eb300ef-da39-40f1-84f2-7e98c746397a",
+        "url_type": null,
+        "id": "4da639a6-c47d-4132-b340-62fe221f0fbd",
+        "resource_type": null,
+        "size": 106
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.kensetsu.metro.tokyo.jp/index.html\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:21.496451",
+      "title": "東京都建設局",
+      "name": "t000014",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000014.jpg",
+      "revision_id": "06a19049-68df-4566-aae1-4c7d52e3a2dc",
+      "type": "organization",
+      "id": "c6763312-f089-4659-8c88-8b67ec9dc4dd",
+      "approval_status": "approved"
+    },
+    "name": "t000014d2000000008",
+    "isopen": true,
+    "url": "http://www.kensetsu.metro.tokyo.jp/content/000007672.pdf",
+    "notes": "",
+    "owner_org": "c6763312-f089-4659-8c88-8b67ec9dc4dd",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "「パークマネジメントマスタープラン」策定（平成１６年度）_本文 [1,424KB]",
+    "revision_id": "3ce40053-f9ca-48e5-b225-cddbbf95d73d"
+  }
+}

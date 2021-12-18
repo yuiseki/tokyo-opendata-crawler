@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "大会施設部",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "21563967-728f-4fe1-972e-b7ebfc8f6a60",
+    "metadata_created": "2019-11-01T04:53:26.326552",
+    "metadata_modified": "2019-11-01T05:44:30.238898",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "4者協議資料の資料です。",
+        "name": "1. 会場見直しの成果と将来への投資",
+        "format": "CSV",
+        "url": "http://www.2020games.metro.tokyo.jp/362c63ef1276eb11498b1b8e7fbb2103.csv",
+        "cache_last_updated": null,
+        "package_id": "21563967-728f-4fe1-972e-b7ebfc8f6a60",
+        "created": "2018-10-04T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-10-04T15:00:00",
+        "position": 0,
+        "revision_id": "6980a33f-de75-4d0b-afb6-33eb0e78c6dc",
+        "url_type": null,
+        "id": "c70dd2df-9ce7-4e9e-8e9b-6fc0b8b21645",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "オリンピック・パラリンピック",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c009.png",
+        "title": "オリンピック・パラリンピック",
+        "id": "4e11ae7b-55ad-44ce-8ec3-dc7205cc78f6",
+        "name": "c009"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.2020games.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.403001",
+      "title": "東京都オリンピック・パラリンピック準備局",
+      "name": "t000007",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000007.jpg",
+      "revision_id": "90a115f6-e18a-495c-a51b-39ca62c7108c",
+      "type": "organization",
+      "id": "1a6c3963-f987-4d8a-9a29-eafa99c7a0f1",
+      "approval_status": "approved"
+    },
+    "name": "t000007d1700000005",
+    "isopen": true,
+    "url": "",
+    "notes": "【東京都オリンピック・パラリンピック準備局]4者協議資料の資料です。",
+    "owner_org": "1a6c3963-f987-4d8a-9a29-eafa99c7a0f1",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "4者協議資料",
+    "revision_id": "5af2e4a3-2283-48e9-9058-dbcd66c509ea"
+  }
+}

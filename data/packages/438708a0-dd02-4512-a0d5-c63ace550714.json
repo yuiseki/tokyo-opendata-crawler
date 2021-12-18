@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "総合対策部青少年課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "438708a0-dd02-4512-a0d5-c63ace550714",
+    "metadata_created": "2019-11-01T04:52:10.961328",
+    "metadata_modified": "2021-05-19T00:06:17.685544",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "平成26年度　家庭における青少年の携帯電話・スマートフォン等の利用に関する調査報告書（全体版）",
+        "format": "PDF",
+        "url": "http://www.seisyounen-chian.metro.tokyo.jp/seisyounen/pdf/seisyounen/pdf/11_chousa/kateikeitaichousa.pdf",
+        "cache_last_updated": null,
+        "package_id": "438708a0-dd02-4512-a0d5-c63ace550714",
+        "created": "2017-10-22T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-10-22T15:00:00",
+        "position": 0,
+        "revision_id": "7b4423b5-074b-4f3c-b525-dac378ddba8b",
+        "url_type": null,
+        "id": "7f3bd78e-acf1-4198-a683-8c699662cb2a",
+        "resource_type": null,
+        "size": 2097152
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "平成26年度　家庭における青少年の携帯電話・スマートフォン等の利用に関する調査報告書（概要版）",
+        "format": "PDF",
+        "url": "http://www.seisyounen-chian.metro.tokyo.jp/seisyounen/pdf/seisyounen/pdf/11_chousa/kateikeitaigaiyou.pdf",
+        "cache_last_updated": null,
+        "package_id": "438708a0-dd02-4512-a0d5-c63ace550714",
+        "created": "2017-10-22T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-10-22T15:00:00",
+        "position": 1,
+        "revision_id": "fbb2ba9c-fdf8-430c-bc07-6f41fcd435d4",
+        "url_type": null,
+        "id": "9b8ffe3e-689e-4bf4-9354-61c0b59d564b",
+        "resource_type": null,
+        "size": 517120
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.tomin-anzen.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:19.596374",
+      "title": "東京都都民安全推進本部",
+      "name": "t000002",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "f682f39e-31cf-419a-98eb-d960bdc02238",
+      "type": "organization",
+      "id": "ce1debcd-3c6c-40b5-9ade-461164a64820",
+      "approval_status": "approved"
+    },
+    "name": "t000002d0000000001",
+    "isopen": true,
+    "url": "",
+    "notes": "【東京都青少年・治安対策本部】",
+    "owner_org": "ce1debcd-3c6c-40b5-9ade-461164a64820",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "1年ごと"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "平成26年度　家庭における青少年の携帯電話・スマートフォン等の利用に関する調査報告書",
+    "revision_id": "78cd64f3-83fe-4781-b5a1-6160769aa068"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "消費生活総合センター相談課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "c4d92018-4435-4b7c-af10-233874578d50",
+    "metadata_created": "2019-11-01T04:53:17.306368",
+    "metadata_modified": "2019-11-01T05:41:44.118365",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "平成２８年度 消費生活相談の受付状況と傾向_[６月の東京都消費生活総合センター受付分] （CSVファイル7種） ",
+        "format": "ZIP",
+        "url": "https://www.shouhiseikatu.metro.tokyo.jp/sodan/tokei/documents/sodantokei_uketuke201606.zip",
+        "cache_last_updated": null,
+        "package_id": "c4d92018-4435-4b7c-af10-233874578d50",
+        "created": "2018-04-30T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-04-30T15:00:00",
+        "position": 0,
+        "revision_id": "42c7d42f-c08a-4ee7-a833-c8548a342c76",
+        "url_type": null,
+        "id": "2d3f6f93-b381-40fc-812b-59d782c67427",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.seikatubunka.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.245320",
+      "title": "東京都生活文化局",
+      "name": "t000006",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "e09ebb81-026e-4a29-927c-3490964055ad",
+      "type": "organization",
+      "id": "3f65c30d-0809-4fc6-8f6c-82261b14152e",
+      "approval_status": "approved"
+    },
+    "name": "t000006d1700000005",
+    "isopen": true,
+    "url": "",
+    "notes": "【東京都生活文化局】東京都消費生活総合センターに寄せられた消費生活相談の毎月の受付状況と傾向を掲載しています。",
+    "owner_org": "3f65c30d-0809-4fc6-8f6c-82261b14152e",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "1か月ごと"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "消費生活相談の受付状況と傾向_平成28年度_6月",
+    "revision_id": "88f4592e-ac17-4fbe-ae8c-027e72ae3a41"
+  }
+}

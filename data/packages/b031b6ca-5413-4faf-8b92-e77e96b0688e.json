@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "サイバーセキュリティ対策本部",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "b031b6ca-5413-4faf-8b92-e77e96b0688e",
+    "metadata_created": "2020-06-26T06:21:03.062730",
+    "owner_org": "a80c46c5-d236-4d83-b4f9-656c25d0847d",
+    "metadata_modified": "2020-06-26T06:22:21.566343",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "graph_1.csv サイバー犯罪の検挙状況（都内）_サイバー犯罪検挙件数\n\ngraph_2.csv サイバー犯罪の検挙状況（都内）_サイバー犯罪検挙人員\n\ngraph_3.csv サイバー犯罪の検挙状況（都内）_コンピュータ・電磁的記録対象犯罪、不正指令電磁的記録に関する罪検挙件数\n\ngraph_4.csv サイバー犯罪の検挙状況（都内）_コンピュータ・電磁的記録対象犯罪、不正指令電磁的記録に関する罪検挙人員\n\ngraph_5.csv サイバー犯罪の検挙状況（都内）_その他の罪種別検挙件数の内訳\n\ngraph_6.csv サイバー犯罪の検挙状況（都内）_不正アクセス行為（識別符号窃用型）に係る手口別検挙件数\n\ngraph_7.csv サイバー犯罪の検挙状況（都内）_不正に利用されたサービス別検挙件数（識別符号窃用型）\n\ngraph_8.csv インターネットバンキングに係る不正送金事犯（都内）_発生件数\n\ngraph_9.csv インターネットバンキングに係る不正送金事犯（都内）_被害額\n\ngraph_10.csv インターネットバンキングに係る不正送金事犯（都内）_月別発生件数\n\ngraph_11.csv インターネットバンキングに係る不正送金事犯（都内）_金融機関別の被害状況\n\ngraph_12.csv インターネットバンキングに係る不正送金事犯（都内）_一次送金先口座名義人の国籍\n\ngraph_13.csv サイバー攻撃の情勢（全国）_標的型メールの件数\n\nなお、ZIPファイル内には一覧表となるテキストファイル1種を含みます。\n",
+        "format": "ZIP",
+        "url": "https://www.keishicho.metro.tokyo.jp/kurashi/cyber/joho/info_security.files/graph.zip",
+        "created": "2020-04-09T15:00:00",
+        "state": "active",
+        "package_id": "b031b6ca-5413-4faf-8b92-e77e96b0688e",
+        "last_modified": null,
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "3bb6fee1-f80a-4a0f-90ba-8eccd73dd234",
+        "size": 3072,
+        "id": "f6662b9a-13c2-4059-a423-5943910635b5",
+        "resource_type": null,
+        "name": "サイバー空間をめぐる脅威の情勢について（CSVファイル13種）"
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "治安",
+        "description": "",
+        "title": "治安",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c002.png",
+        "id": "de8273ac-2339-4309-ad15-2800b751b45e",
+        "name": "c002"
+      }
+    ],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t000022d1800000012",
+    "isopen": true,
+    "url": "https://www.keishicho.metro.tokyo.jp/kurashi/cyber/joho/info_security.html",
+    "notes": "【警視庁】",
+    "title": "サイバー空間をめぐる脅威の情勢について",
+    "extras": [
+      {
+        "value": "不定期",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "http://www.keishicho.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "title": "警視庁",
+      "created": "2019-11-01T03:27:22.754561",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000022.jpg",
+      "revision_id": "6ec2a37b-87b3-4747-ac28-2a6800716699",
+      "type": "organization",
+      "id": "a80c46c5-d236-4d83-b4f9-656c25d0847d",
+      "name": "t000022"
+    },
+    "revision_id": "0dc6e69b-b938-4920-b1af-0d51ae35ba7f"
+  }
+}

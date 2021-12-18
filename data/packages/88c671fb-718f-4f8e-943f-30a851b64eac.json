@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "町田市総務部市政情報課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "88c671fb-718f-4f8e-943f-30a851b64eac",
+    "metadata_created": "2019-11-01T04:58:37.580221",
+    "metadata_modified": "2021-07-30T00:54:31.096353",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "人口増減の内訳（出生、死亡、転入、転出、婚姻、離婚等、2003年以降）",
+        "format": "CSV",
+        "url": "https://www.city.machida.tokyo.jp/shisei/opendata/jinko/jinkoudoutai.files/jinkouzougen.csv",
+        "cache_last_updated": null,
+        "package_id": "88c671fb-718f-4f8e-943f-30a851b64eac",
+        "created": "2016-09-30T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-07-25T15:00:00",
+        "position": 0,
+        "revision_id": "0aea2ec5-1af8-4936-b55d-0514a5bc1f4a",
+        "url_type": null,
+        "id": "85170281-9c9e-4e65-a6fe-83c5f475ec78",
+        "resource_type": null,
+        "size": 12288
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.machida.tokyo.jp/",
+      "created": "2019-11-01T03:27:26.775139",
+      "title": "町田市",
+      "name": "t132098",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t132098.png",
+      "revision_id": "afc39d6e-faf0-4358-90a5-a32d669724a1",
+      "type": "organization",
+      "id": "01ee6b09-cb58-4100-8d95-623ad6b238ef",
+      "approval_status": "approved"
+    },
+    "name": "t132098d0000000004",
+    "isopen": true,
+    "url": "",
+    "notes": "【町田市】住民基本台帳に基づく、町田市の人口増減の内訳（出生、死亡、転入、転出、婚姻、離婚等）を各月で集計しています。",
+    "owner_org": "01ee6b09-cb58-4100-8d95-623ad6b238ef",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "1月ごと"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "人口増減の内訳",
+    "revision_id": "d15f4401-0c63-4666-8af0-4bb128613603"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "総合対策部安全・安心まちづくり課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "57bf127f-2681-4ffa-8b86-463b1bf2362c",
+    "metadata_created": "2019-11-01T04:52:20.109471",
+    "metadata_modified": "2019-11-01T05:11:56.846108",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "＜講習会のアンケート結果＞",
+        "format": "CSV",
+        "url": "http://www.opendata.metro.tokyo.jp/seisyounen/p1027_2.csv",
+        "cache_last_updated": null,
+        "package_id": "57bf127f-2681-4ffa-8b86-463b1bf2362c",
+        "created": "2019-01-20T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-01-20T15:00:00",
+        "position": 0,
+        "revision_id": "95c1a3f2-9b63-455e-b383-e0544dd2a702",
+        "url_type": null,
+        "id": "426f2d2e-c5ac-4ab9-b635-ff182d95491b",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.tomin-anzen.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:19.596374",
+      "title": "東京都都民安全推進本部",
+      "name": "t000002",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "f682f39e-31cf-419a-98eb-d960bdc02238",
+      "type": "organization",
+      "id": "ce1debcd-3c6c-40b5-9ade-461164a64820",
+      "approval_status": "approved"
+    },
+    "name": "t000002d1800000015",
+    "isopen": true,
+    "url": "http://www.bouhan.metro.tokyo.jp/90_archive/topic/report_2014/10/p1027.html",
+    "notes": "【東京都青少年・治安対策本部】平成26年度板橋区・府中市と共催",
+    "owner_org": "ce1debcd-3c6c-40b5-9ade-461164a64820",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "地域の危険箇所点検・改善",
+    "revision_id": "4dfd9830-e7c4-44c7-b445-7a4bff0965a6"
+  }
+}

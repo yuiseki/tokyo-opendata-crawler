@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "1a0a876d-a9c5-473a-9d58-ef255b913f6c",
+    "metadata_created": "2019-11-01T04:55:34.690760",
+    "metadata_modified": "2019-11-01T08:11:25.718322",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "収納取扱金融機関一覧（一般行）",
+        "format": "CSV",
+        "url": "https://www.waterworks.metro.tokyo.jp/kouhou/pip/opendata/csv/r_harai-kinyu_1.csv",
+        "cache_last_updated": null,
+        "package_id": "1a0a876d-a9c5-473a-9d58-ef255b913f6c",
+        "created": "2018-03-29T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-03-29T15:00:00",
+        "position": 0,
+        "revision_id": "e3b714d3-005f-41b9-a2ca-5531b3f9edf2",
+        "url_type": null,
+        "id": "45d888b7-ded2-4d89-977d-c5ac427241ad",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "収納取扱金融機関一覧（再委託行）",
+        "format": "CSV",
+        "url": "https://www.waterworks.metro.tokyo.jp/kouhou/pip/opendata/csv/r_harai-kinyu_2.csv",
+        "cache_last_updated": null,
+        "package_id": "1a0a876d-a9c5-473a-9d58-ef255b913f6c",
+        "created": "2018-03-29T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-03-29T15:00:00",
+        "position": 1,
+        "revision_id": "391022de-e698-4b6c-9c52-521c7a1fc3e6",
+        "url_type": null,
+        "id": "fe98852c-735e-473e-b6bc-4d7bcec12d51",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.waterworks.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:22.280579",
+      "title": "東京都水道局",
+      "name": "t000019",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000019.jpg",
+      "revision_id": "6f93ebbd-34d2-48da-9305-0c1de5e96c27",
+      "type": "organization",
+      "id": "df3e208c-40a5-4f30-b0f2-491ceffa6423",
+      "approval_status": "approved"
+    },
+    "name": "t000019d1700000034",
+    "isopen": true,
+    "url": "",
+    "notes": "【東京都水道局】",
+    "owner_org": "df3e208c-40a5-4f30-b0f2-491ceffa6423",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": ""
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "23区及び多摩地区の水道料金等のお取扱い金融機関一覧",
+    "revision_id": "55f2672b-a2f6-4d64-a38f-a26d05236e50"
+  }
+}

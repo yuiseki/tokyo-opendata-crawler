@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "総務部総務課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "c5c709ed-7d53-4b73-9f2e-9df1a96f113a",
+    "metadata_created": "2019-11-01T04:53:44.573516",
+    "metadata_modified": "2019-11-01T05:51:59.533153",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "都市整備局の組織・主な相談・申請などの窓口一覧・予算（分野別・会計別）等について（CSVファイル6種、txtファイル3種）",
+        "format": "ZIP",
+        "url": "http://www.toshiseibi.metro.tokyo.jp/pamphlet/data/udt2018japanese.zip",
+        "cache_last_updated": null,
+        "package_id": "c5c709ed-7d53-4b73-9f2e-9df1a96f113a",
+        "created": "2019-04-01T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-04-01T15:00:00",
+        "position": 0,
+        "revision_id": "0ec678a2-a6c9-453d-957e-1cd8b0927901",
+        "url_type": null,
+        "id": "2c856a7a-2475-49df-afce-261e6fd29a85",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "まちづくり",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c003.png",
+        "title": "まちづくり",
+        "id": "dc897c44-8153-4219-bfeb-6110fb85fb99",
+        "name": "c003"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.toshiseibi.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.560358",
+      "title": "東京都都市整備局",
+      "name": "t000008",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "9c234f0e-ff7d-4e2d-8ba4-ea80f312405b",
+      "type": "organization",
+      "id": "16d81025-a2ca-4002-8129-9906c94a4732",
+      "approval_status": "approved"
+    },
+    "name": "t000008d1800000058",
+    "isopen": true,
+    "url": "http://www.toshiseibi.metro.tokyo.jp/pamphlet/",
+    "notes": "【東京都都市整備局】都市整備局の事業内容を紹介するパンフレットをご覧いただけます。",
+    "owner_org": "16d81025-a2ca-4002-8129-9906c94a4732",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "東京都都市整備2018",
+    "revision_id": "2d6cd94f-c12e-4cf9-a9cf-56e01dd3c6bb"
+  }
+}

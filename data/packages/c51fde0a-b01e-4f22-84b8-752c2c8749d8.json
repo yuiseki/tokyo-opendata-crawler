@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "東京都教育庁地域教育支援部生涯学習課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "c51fde0a-b01e-4f22-84b8-752c2c8749d8",
+    "metadata_created": "2021-05-21T00:01:38.377119",
+    "metadata_modified": "2021-06-24T05:42:39.411591",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "東久留米市",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/kyouiku/R3/skseti_43.csv",
+        "cache_last_updated": null,
+        "package_id": "c51fde0a-b01e-4f22-84b8-752c2c8749d8",
+        "created": "2021-02-05T02:15:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-02-05T02:15:00",
+        "position": 0,
+        "revision_id": "dcaf57f3-c632-4882-bd33-5060f86ec0e5",
+        "url_type": null,
+        "id": "aef46393-d4f1-4187-8ece-fbb1f9c8cf5c",
+        "resource_type": null,
+        "size": 273
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.kyoiku.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:22.598778",
+      "title": "東京都教育庁",
+      "name": "t000021",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000021.png",
+      "revision_id": "3b8eaba6-3e9c-4401-a703-dcd9d28741aa",
+      "type": "organization",
+      "id": "f510f5b2-b249-499d-a00f-440b1f646e13",
+      "approval_status": "approved"
+    },
+    "name": "t000021d2000000116",
+    "isopen": true,
+    "url": "https://www.syougai.metro.tokyo.lg.jp/sisetu/image/2sisetukubupdf/skseti_43.pdf",
+    "notes": "",
+    "owner_org": "f510f5b2-b249-499d-a00f-440b1f646e13",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "施設関連情報_東久留米市",
+    "revision_id": "f2940354-2842-4304-b5a8-0e479306c186"
+  }
+}

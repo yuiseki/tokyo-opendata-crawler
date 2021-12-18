@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "土木部道路課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "17c79b46-d87e-4b05-b2d4-b40b9ddb05c5",
+    "metadata_created": "2019-11-01T04:56:54.584729",
+    "metadata_modified": "2019-11-01T09:36:20.393141",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "文京区が行う道路工事等の一覧です。（EXCELファイル）",
+        "name": "道路工事情報",
+        "format": "XLSX",
+        "url": "https://www.city.bunkyo.lg.jp/library/opendata-bunkyo/05bousai-macidukuri-kankyou/04nenkankouji/nenkandorokoji.xlsx",
+        "cache_last_updated": null,
+        "package_id": "17c79b46-d87e-4b05-b2d4-b40b9ddb05c5",
+        "created": "2017-11-06T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-11-06T15:00:00",
+        "position": 0,
+        "revision_id": "149ef544-ecb6-444d-8a39-1f3f782662c4",
+        "url_type": null,
+        "id": "69647b52-6152-4038-97bd-8dd714fb98a6",
+        "resource_type": null,
+        "size": 14336
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "文京区が行う道路工事等の一覧です。（CSVファイル）",
+        "name": "道路工事情報",
+        "format": "CSV",
+        "url": "https://www.city.bunkyo.lg.jp/library/opendata-bunkyo/05bousai-macidukuri-kankyou/04nenkankouji/nenkandorokoji.csv",
+        "cache_last_updated": null,
+        "package_id": "17c79b46-d87e-4b05-b2d4-b40b9ddb05c5",
+        "created": "2017-11-06T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-11-06T15:00:00",
+        "position": 1,
+        "revision_id": "b12ccd2c-67d4-4411-bf41-0ea31c0a428d",
+        "url_type": null,
+        "id": "2bd59bdc-2011-409b-9e32-7e4277c27c86",
+        "resource_type": null,
+        "size": 4096
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "まちづくり",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c003.png",
+        "title": "まちづくり",
+        "id": "dc897c44-8153-4219-bfeb-6110fb85fb99",
+        "name": "c003"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.bunkyo.lg.jp/",
+      "created": "2019-11-01T03:27:24.573898",
+      "title": "文京区",
+      "name": "t131059",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131059.png",
+      "revision_id": "66ab70ed-369f-4eda-b72a-eacf3f7c8095",
+      "type": "organization",
+      "id": "201cae13-e069-464e-b376-1da3ce968538",
+      "approval_status": "approved"
+    },
+    "name": "t131059d0509030002",
+    "isopen": true,
+    "url": "http://www.city.bunkyo.lg.jp/bosai/doro/koujijyouhou.html",
+    "notes": "【文京区】　文京区が行う道路工事等の一覧です。",
+    "owner_org": "201cae13-e069-464e-b376-1da3ce968538",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "道路工事情報",
+    "revision_id": "30c4fa95-008b-47a2-b55f-389737bc7a82"
+  }
+}

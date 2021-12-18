@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "保健所生活衛生課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "8aa96300-63c1-40b8-b182-daaa9cf3d248",
+    "metadata_created": "2021-11-04T00:38:26.154282",
+    "owner_org": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
+    "metadata_modified": "2021-12-13T06:15:10.169762",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "目黒区内の劇場、シアターの一覧",
+        "format": "CSV",
+        "url": "https://data.bodik.jp/dataset/e0ef3262-6bd0-42ba-9657-85f5e1acfd1d/resource/ed9161e6-c8de-402d-8e9b-4dae1de404a9/download/131105_entertainment_place_20210401.csv",
+        "created": "2021-08-11T02:25:00",
+        "state": "active",
+        "package_id": "8aa96300-63c1-40b8-b182-daaa9cf3d248",
+        "last_modified": "2021-08-11T02:25:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "e2d07906-8f27-4bce-a87e-5feb67b3d25d",
+        "size": 2287,
+        "id": "65ba4357-7f67-4f0b-8ff1-e7a2a73c8f3f",
+        "resource_type": null,
+        "name": "興行場　令和3年4月1日"
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "title": "生活",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t131105d0000000041",
+    "isopen": true,
+    "url": "https://www.city.meguro.tokyo.jp/kurashi/hoken_eisei/eisei/kankyou/index.html",
+    "notes": "目黒区内の興行場の一覧",
+    "title": "興行場",
+    "extras": [
+      {
+        "value": "毎月",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "https://odcs.bodik.jp/131105/",
+      "title": "目黒区",
+      "created": "2021-11-01T02:12:22.338293",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131105.png",
+      "revision_id": "e3dc243f-e3a2-4b2b-a319-4e145bb63383",
+      "type": "organization",
+      "id": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
+      "name": "t131105"
+    },
+    "revision_id": "371771cb-63fe-4a36-b92f-39d680f5c70b"
+  }
+}

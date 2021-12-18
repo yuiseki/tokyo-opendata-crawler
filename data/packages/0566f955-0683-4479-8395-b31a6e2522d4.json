@@ -1,0 +1,114 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "総務部 施設計画課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "0566f955-0683-4479-8395-b31a6e2522d4",
+    "metadata_created": "2019-11-01T04:55:41.914179",
+    "metadata_modified": "2019-11-01T08:26:34.801850",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "＜過去に発生した重大リスク（大規模浄水場停止事故）＞",
+        "format": "CSV",
+        "url": "https://www.waterworks.metro.tokyo.jp/kouhou/pip/opendata/csv/masterplan16_06.csv",
+        "cache_last_updated": null,
+        "package_id": "0566f955-0683-4479-8395-b31a6e2522d4",
+        "created": "2019-02-18T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-02-18T15:00:00",
+        "position": 0,
+        "revision_id": "7de37bd9-501e-4600-965f-f76442174359",
+        "url_type": null,
+        "id": "a83ff3a2-60ad-4bbb-990c-61efe7e90b90",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "＜利根川上流ダム群が8ダム体制となった平成4（1992）年以降の渇水状況＞",
+        "format": "CSV",
+        "url": "https://www.waterworks.metro.tokyo.jp/kouhou/pip/opendata/csv/masterplan16_08.csv",
+        "cache_last_updated": null,
+        "package_id": "0566f955-0683-4479-8395-b31a6e2522d4",
+        "created": "2019-02-18T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-02-18T15:00:00",
+        "position": 1,
+        "revision_id": "11bc6ce5-1c0d-4025-8278-24c2731356cc",
+        "url_type": null,
+        "id": "0f17cb9d-7c71-40e0-bf69-35cbcd03f85f",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "環境",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c012.png",
+        "title": "環境",
+        "id": "427f3ee0-b28a-4fd2-b7dc-980507f154d2",
+        "name": "c012"
+      },
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.waterworks.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:22.280579",
+      "title": "東京都水道局",
+      "name": "t000019",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000019.jpg",
+      "revision_id": "6f93ebbd-34d2-48da-9305-0c1de5e96c27",
+      "type": "organization",
+      "id": "df3e208c-40a5-4f30-b0f2-491ceffa6423",
+      "approval_status": "approved"
+    },
+    "name": "t000019d1800000017",
+    "isopen": true,
+    "url": "http://www.waterworks.metro.tokyo.jp/suidojigyo/torikumi/seisaku/master14/",
+    "notes": "【東京都水道局】水道局では、集中的に更新時期を迎える浄水場や切迫性が指摘される首都直下地震への備えなど、多くの課題に対応するため、今後の施設整備の方向性や１０年間の具体的な取組を示した東京水道施設整備マスタープランを策定しています。",
+    "owner_org": "df3e208c-40a5-4f30-b0f2-491ceffa6423",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "東京水道施設整備マスタープラン（平成28年2月改定）_全ページ",
+    "revision_id": "aa277530-a357-4570-8796-b07566a371a3"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "選挙管理委員会事務局",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "11e96d0f-03e0-4083-82c7-228f1a80be72",
+    "metadata_created": "2021-05-26T07:38:10.712936",
+    "metadata_modified": "2021-05-26T07:38:43.970864",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "政党以外の政治団体（50音順）",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/senkyokanri/R3/seitoigai.csv",
+        "cache_last_updated": null,
+        "package_id": "11e96d0f-03e0-4083-82c7-228f1a80be72",
+        "created": "2021-01-22T07:52:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-01-22T07:52:00",
+        "position": 0,
+        "revision_id": "898c3d17-15b7-4fa6-b9f9-b1105536a974",
+        "url_type": null,
+        "id": "ce325be5-919d-4a90-a0a4-f60d75a5fcad",
+        "resource_type": null,
+        "size": 415493
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.senkyo.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:22.908491",
+      "title": "東京都選挙管理委員会事務局",
+      "name": "t000023",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "51e026be-6d4c-43bd-ae76-d84805440a07",
+      "type": "organization",
+      "id": "86f1375a-d3c8-4eef-9df0-c4864ee7e3af",
+      "approval_status": "approved"
+    },
+    "name": "t000023d2000000018",
+    "isopen": true,
+    "url": "https://www.senkyo.metro.tokyo.lg.jp/uploads/seitoigainoseijidantai-01.pdf",
+    "notes": "",
+    "owner_org": "86f1375a-d3c8-4eef-9df0-c4864ee7e3af",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "政治団体名簿_政党以外の政治団体(PDF形式：2.9MB)",
+    "revision_id": "340402f8-f9b2-4c78-8940-68e81c70dfac"
+  }
+}

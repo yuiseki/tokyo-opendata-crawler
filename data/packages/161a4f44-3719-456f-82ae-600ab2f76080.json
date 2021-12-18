@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "東京都教育庁地域教育支援部生涯学習課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "161a4f44-3719-456f-82ae-600ab2f76080",
+    "metadata_created": "2021-05-21T00:01:37.358357",
+    "metadata_modified": "2021-06-24T05:45:47.495377",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "福生市",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/kyouiku/R3/skseti_39.csv",
+        "cache_last_updated": null,
+        "package_id": "161a4f44-3719-456f-82ae-600ab2f76080",
+        "created": "2021-02-05T02:15:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-02-05T02:15:00",
+        "position": 0,
+        "revision_id": "ccb953e7-cecb-4df8-8edd-211f1f47e326",
+        "url_type": null,
+        "id": "d01dbdfb-3ff4-4012-ac8e-d08f9d33e650",
+        "resource_type": null,
+        "size": 273
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.kyoiku.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:22.598778",
+      "title": "東京都教育庁",
+      "name": "t000021",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000021.png",
+      "revision_id": "3b8eaba6-3e9c-4401-a703-dcd9d28741aa",
+      "type": "organization",
+      "id": "f510f5b2-b249-499d-a00f-440b1f646e13",
+      "approval_status": "approved"
+    },
+    "name": "t000021d2000000112",
+    "isopen": true,
+    "url": "https://www.syougai.metro.tokyo.lg.jp/sisetu/image/2sisetukubupdf/skseti_39.pdf",
+    "notes": "",
+    "owner_org": "f510f5b2-b249-499d-a00f-440b1f646e13",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "施設関連情報_福生市",
+    "revision_id": "479eb027-1bf8-48ba-a16f-3ff30539f173"
+  }
+}

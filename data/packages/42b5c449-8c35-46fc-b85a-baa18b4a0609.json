@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "水道局給水部 給水課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "42b5c449-8c35-46fc-b85a-baa18b4a0609",
+    "metadata_created": "2021-05-21T02:06:38.965766",
+    "metadata_modified": "2021-05-21T02:06:56.867189",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "漏水率の推移",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/suidou/R3/step40.csv",
+        "cache_last_updated": null,
+        "package_id": "42b5c449-8c35-46fc-b85a-baa18b4a0609",
+        "created": "2021-03-19T00:27:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-03-19T00:27:00",
+        "position": 0,
+        "revision_id": "5af758b1-f67a-45d6-b890-c7de9843eaac",
+        "url_type": null,
+        "id": "74fa854d-9e0e-4e95-a862-f26d8bb56ff1",
+        "resource_type": null,
+        "size": 63
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.waterworks.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:22.280579",
+      "title": "東京都水道局",
+      "name": "t000019",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000019.jpg",
+      "revision_id": "6f93ebbd-34d2-48da-9305-0c1de5e96c27",
+      "type": "organization",
+      "id": "df3e208c-40a5-4f30-b0f2-491ceffa6423",
+      "approval_status": "approved"
+    },
+    "name": "t000019d2000000008",
+    "isopen": true,
+    "url": "https://www.waterworks.metro.tokyo.lg.jp/files/items/20766/File/step40.jpg",
+    "notes": "",
+    "owner_org": "df3e208c-40a5-4f30-b0f2-491ceffa6423",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "STEP21　第５章　施設整備の基本構想_漏水率の推移＜JPG 21KB＞",
+    "revision_id": "63aa230e-769c-4b29-9827-a2914d9abd44"
+  }
+}

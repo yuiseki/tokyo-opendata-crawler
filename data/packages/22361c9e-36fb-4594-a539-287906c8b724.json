@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "教育推進部生涯学習スポーツ振興課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "22361c9e-36fb-4594-a539-287906c8b724",
+    "metadata_created": "2020-05-14T08:20:10.804842",
+    "owner_org": "6adece4f-1ee9-416a-a7e7-856b8d5fb050",
+    "metadata_modified": "2020-06-24T02:12:21.042801",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "港区のスポーツ推進委員一覧です。",
+        "format": "CSV",
+        "url": "https://opendata.city.minato.tokyo.jp/dataset/7dab2d95-5f42-445e-8208-ac9cb75baee5/resource/a0457896-3b10-437f-88c1-e23764c61910/download/sportssuishin_2018.csv",
+        "created": "2018-04-30T15:00:00",
+        "state": "active",
+        "package_id": "22361c9e-36fb-4594-a539-287906c8b724",
+        "last_modified": "2018-12-19T15:00:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "70954a70-e280-45c5-9e95-513f21c6daae",
+        "size": 2048,
+        "id": "a15b1ae5-30b1-411c-b91f-ea06b430fc4c",
+        "resource_type": null,
+        "name": "平成30年度、31年度港区スポーツ推進委員"
+      },
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "港区のスポーツ推進委員一覧です。",
+        "format": "CSV",
+        "url": "https://opendata.city.minato.tokyo.jp/dataset/7dab2d95-5f42-445e-8208-ac9cb75baee5/resource/a0457896-3b10-437f-88c1-e23764c61910/download/sportssuishin_2018.csv",
+        "created": "2020-03-31T15:00:00",
+        "state": "active",
+        "package_id": "22361c9e-36fb-4594-a539-287906c8b724",
+        "last_modified": "2020-05-27T08:00:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 1,
+        "revision_id": "34dab970-1023-4fc0-b53b-095cb6fa781a",
+        "size": 2048,
+        "id": "d1d50b0f-d451-4971-84fb-cd65b8cad110",
+        "resource_type": null,
+        "name": "令和2年度、3年度港区スポーツ推進委員"
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "オリンピック・パラリンピック",
+        "description": "",
+        "title": "オリンピック・パラリンピック",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c009.png",
+        "id": "4e11ae7b-55ad-44ce-8ec3-dc7205cc78f6",
+        "name": "c009"
+      }
+    ],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t131032d0000000033",
+    "isopen": true,
+    "url": "https://www.city.minato.tokyo.jp/kouhou/kuse/koho/minato2018/201805/20180511top/06.html",
+    "notes": "【港区】スポーツ推進委員に関する情報です。",
+    "title": "港区スポーツ推進委員",
+    "extras": [
+      {
+        "value": "随時",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "http://www.city.minato.tokyo.jp/",
+      "title": "港区",
+      "created": "2019-11-01T03:27:24.220357",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131032.jpg",
+      "revision_id": "8f5676eb-3316-4cc6-b26a-4f7e1b39e109",
+      "type": "organization",
+      "id": "6adece4f-1ee9-416a-a7e7-856b8d5fb050",
+      "name": "t131032"
+    },
+    "revision_id": "4fb498b4-2819-4cb2-a095-3d90b306b536"
+  }
+}

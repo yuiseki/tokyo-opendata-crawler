@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "環境部ごみ対策課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "bde43ee7-aec2-40c9-be52-01de2cff2b77",
+    "metadata_created": "2021-01-20T01:50:18.141549",
+    "metadata_modified": "2021-01-20T01:50:18.377850",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "調布市清掃事業概要令和2年度版(令和元年度実績)",
+        "format": "XLS",
+        "url": "https://www.city.chofu.tokyo.jp/www/contents/1606204174241/simple/reiwa2nendo.xls",
+        "cache_last_updated": null,
+        "package_id": "bde43ee7-aec2-40c9-be52-01de2cff2b77",
+        "created": "2021-01-20T01:50:18.401081",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": null,
+        "position": 0,
+        "revision_id": "95f69155-472b-43f0-9d16-c3058b667bc0",
+        "url_type": null,
+        "id": "6d73274a-a995-4777-8051-c87b7a73a355",
+        "resource_type": null,
+        "size": 400384
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.chofu.tokyo.jp/",
+      "created": "2019-11-01T03:27:26.616591",
+      "title": "調布市",
+      "name": "t132080",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "c666c9e8-e94d-46e1-a28c-7cdf1ea8b7c6",
+      "type": "organization",
+      "id": "8c710e6d-ae95-4768-90a8-8f4c4e98ae41",
+      "approval_status": "approved"
+    },
+    "name": "t132080d0000000035",
+    "isopen": true,
+    "url": "",
+    "notes": "「調布市清掃事業概要令和2年度版(令和元年度実績)」掲載データ",
+    "owner_org": "8c710e6d-ae95-4768-90a8-8f4c4e98ae41",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "年１回"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "清掃事業に関するデータ",
+    "revision_id": "ce9eecff-460d-4d43-995f-d6958e427756"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "東京都教育庁地域教育支援部",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 1,
+    "id": "445ee18d-ee49-4659-9667-de8630bd0d0e",
+    "metadata_created": "2019-11-01T04:55:53.990257",
+    "metadata_modified": "2021-06-17T04:14:23.417018",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "文化財一覧",
+        "format": "CSV",
+        "url": "http://www.opendata.metro.tokyo.jp/suisyoudataset/130001_cultural_property.csv",
+        "cache_last_updated": null,
+        "package_id": "445ee18d-ee49-4659-9667-de8630bd0d0e",
+        "created": "2019-03-29T17:47:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": null,
+        "position": 0,
+        "revision_id": "0622b59a-de94-4112-8445-b872195d5eeb",
+        "url_type": null,
+        "id": "25c5e6f7-0f8d-44d8-ac37-127e008f7a69",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [
+      {
+        "vocabulary_id": null,
+        "state": "active",
+        "display_name": "推奨データセット",
+        "id": "8a843f9d-b0c2-465c-86da-1df660de0b32",
+        "name": "推奨データセット"
+      }
+    ],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.kyoiku.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:22.598778",
+      "title": "東京都教育庁",
+      "name": "t000021",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000021.png",
+      "revision_id": "3b8eaba6-3e9c-4401-a703-dcd9d28741aa",
+      "type": "organization",
+      "id": "f510f5b2-b249-499d-a00f-440b1f646e13",
+      "approval_status": "approved"
+    },
+    "name": "t000021d0000000017",
+    "isopen": true,
+    "url": "http://bunkazai.metro.tokyo.jp/",
+    "notes": "【東京都教育庁】東京都指定文化財の一覧です。現在は、一般公開されており、所有者・管理者の承諾が得られたもののみを公開しています。内閣官房情報通信技術（IT）総合戦略室が平成29年12月22日に公開した、推奨データセットに準拠して作成しています。",
+    "owner_org": "f510f5b2-b249-499d-a00f-440b1f646e13",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": ""
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "文化財一覧",
+    "revision_id": "3065f4e2-9a0f-4ea2-be4c-c477dde32a12"
+  }
+}

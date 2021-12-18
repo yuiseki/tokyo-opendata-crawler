@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "東京都中央卸売市場",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "34f9e1fb-29b2-42f2-8f1c-c727097e1edf",
+    "metadata_created": "2021-05-26T01:17:18.090345",
+    "metadata_modified": "2021-05-26T01:18:35.356289",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "5．売買参加者",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/shijyou/R3/baibaisankasya.csv",
+        "cache_last_updated": null,
+        "package_id": "34f9e1fb-29b2-42f2-8f1c-c727097e1edf",
+        "created": "2021-01-30T06:35:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-01-30T06:35:00",
+        "position": 0,
+        "revision_id": "42f5d716-ddec-43a3-a9eb-c217b706a0bb",
+        "url_type": null,
+        "id": "2cba17fe-e39e-41d5-9e43-5aaea673bdde",
+        "resource_type": null,
+        "size": 155
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.shijou.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:21.341618",
+      "title": "東京都中央卸売市場",
+      "name": "t000013",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "a14a39f1-b5cb-4e72-8d6d-bd986509b203",
+      "type": "organization",
+      "id": "327220fa-dbe9-453c-89b2-ce303b471a71",
+      "approval_status": "approved"
+    },
+    "name": "t000013d2000000031",
+    "isopen": true,
+    "url": "http://www.shijou.metro.tokyo.jp/gyosei/about/people/",
+    "notes": "",
+    "owner_org": "327220fa-dbe9-453c-89b2-ce303b471a71",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "行政情報_市場に関係する人達",
+    "revision_id": "e9591f36-6453-4283-909a-dbc2ccdfd4dd"
+  }
+}

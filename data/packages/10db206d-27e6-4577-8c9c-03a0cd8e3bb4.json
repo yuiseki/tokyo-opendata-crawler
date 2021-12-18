@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "町田市財務部営繕課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "10db206d-27e6-4577-8c9c-03a0cd8e3bb4",
+    "metadata_created": "2019-11-01T04:58:46.075243",
+    "metadata_modified": "2021-08-25T00:47:12.790267",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "図師町1772_町田市消防団消防器具置場第4分団第1部",
+        "format": "PDF",
+        "url": "https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/zushimachi.files/zushimachi1772.pdf",
+        "cache_last_updated": null,
+        "package_id": "10db206d-27e6-4577-8c9c-03a0cd8e3bb4",
+        "created": "2017-01-31T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-01-31T15:00:00",
+        "position": 0,
+        "revision_id": "72d43c3e-594a-464e-8e76-a595f5df3a22",
+        "url_type": null,
+        "id": "0ab884e5-a4cc-4289-b236-409defc6dc45",
+        "resource_type": null,
+        "size": 313344
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.machida.tokyo.jp/",
+      "created": "2019-11-01T03:27:26.775139",
+      "title": "町田市",
+      "name": "t132098",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t132098.png",
+      "revision_id": "afc39d6e-faf0-4358-90a5-a32d669724a1",
+      "type": "organization",
+      "id": "01ee6b09-cb58-4100-8d95-623ad6b238ef",
+      "approval_status": "approved"
+    },
+    "name": "t132098d0000000046",
+    "isopen": true,
+    "url": "",
+    "notes": "【町田市】町田市が実施した地質調査のボーリング柱状図及び調査位置図を掲載しています。調査報告書中の、ボーリング柱状図及び調査位置図以外の情報は掲載していません。また、調査位置図が掲載されていない場所もあります。",
+    "owner_org": "01ee6b09-cb58-4100-8d95-623ad6b238ef",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "公開時のみ"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "図師町",
+    "revision_id": "e973e2df-04ce-4fee-a52c-ee4ad0238044"
+  }
+}

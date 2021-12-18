@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "区民部区民生活課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "56e81417-8a98-4f58-baa3-995717e483db",
+    "metadata_created": "2020-03-17T01:43:14.991269",
+    "metadata_modified": "2021-12-09T00:21:46.623704",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "中央区の人口データ（各歳別男女別人口）",
+        "format": "ZIP",
+        "url": "https://www.city.chuo.lg.jp/kusei/statisticaldata/opendata.files/chochomokubetsujinko.zip",
+        "cache_last_updated": null,
+        "package_id": "56e81417-8a98-4f58-baa3-995717e483db",
+        "created": "2017-09-19T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-12-06T15:00:00",
+        "position": 0,
+        "revision_id": "66b1823b-106e-4cce-8b50-295a93ca97a2",
+        "url_type": null,
+        "id": "f8b3bcbb-404f-4738-9fb3-f1e12b1e45f0",
+        "resource_type": null,
+        "size": 2361344
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "中央区の人口データ（町丁目別世帯数男女別人口）",
+        "format": "ZIP",
+        "url": "https://www.city.chuo.lg.jp/kusei/statisticaldata/opendata.files/nenreibetsujinko.zip",
+        "cache_last_updated": null,
+        "package_id": "56e81417-8a98-4f58-baa3-995717e483db",
+        "created": "2017-09-19T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-12-06T15:00:00",
+        "position": 1,
+        "revision_id": "6ead8c1d-c5aa-4102-8862-071047ee6310",
+        "url_type": null,
+        "id": "e57729b6-896f-495a-9f58-e8ee32787241",
+        "resource_type": null,
+        "size": 2408448
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "人口減少・少子高齢化",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c004.png",
+        "title": "人口減少・少子高齢化",
+        "id": "802d7d18-3543-4e8b-a8f5-82b5f1aa752e",
+        "name": "c004"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.chuo.lg.jp/",
+      "created": "2020-03-16T08:15:28.901611",
+      "title": "中央区",
+      "name": "t131024",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131024.png",
+      "revision_id": "fd4c096b-7319-43d7-a1a4-d2411b6beaee",
+      "type": "organization",
+      "id": "beddb482-adb4-4e03-9c25-f229c2a0b028",
+      "approval_status": "approved"
+    },
+    "name": "t131024d0000000018",
+    "isopen": true,
+    "url": "http://www.city.chuo.lg.jp/kusei/statisticaldata/zinko/kakutosibetuzinko/index.html",
+    "notes": "区内の人口について月ごとに掲載しています。",
+    "owner_org": "beddb482-adb4-4e03-9c25-f229c2a0b028",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "毎月"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "中央区の人口データ",
+    "revision_id": "a6cd3e28-5600-4559-8e4f-e3cc77583c65"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "子ども家庭部保育課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "49fc57ef-5784-4f2f-ad13-c37fe176d867",
+    "metadata_created": "2019-11-01T04:58:56.979222",
+    "metadata_modified": "2019-11-01T09:34:06.592119",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "認可保育施設一覧",
+        "format": "CSV",
+        "url": "http://www.opendata.metro.tokyo.jp/koganei/132101_preschool_02.csv",
+        "cache_last_updated": null,
+        "package_id": "49fc57ef-5784-4f2f-ad13-c37fe176d867",
+        "created": "2019-09-25T03:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-09-25T03:00:00",
+        "position": 0,
+        "revision_id": "431a6de8-964b-427e-906d-63026e12f20d",
+        "url_type": null,
+        "id": "6de548e5-07d8-4664-bba0-469598440f1f",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.koganei.lg.jp/",
+      "created": "2019-11-01T03:27:26.932340",
+      "title": "小金井市",
+      "name": "t132101",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "b1893a5d-c492-4ddc-bbe8-de1c201f3c2a",
+      "type": "organization",
+      "id": "419da1a8-a771-449b-8b9a-42b2935a046e",
+      "approval_status": "approved"
+    },
+    "name": "t132101d0000000003",
+    "isopen": true,
+    "url": "",
+    "notes": "【小金井市】小金井市にある認可保育施設の一覧です。",
+    "owner_org": "419da1a8-a771-449b-8b9a-42b2935a046e",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "認可保育施設一覧",
+    "revision_id": "6d4b6632-b74c-4a2c-b2cb-0d846ffc5cb2"
+  }
+}

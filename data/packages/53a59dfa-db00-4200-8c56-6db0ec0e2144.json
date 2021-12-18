@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "町田市経済観光部産業政策課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "53a59dfa-db00-4200-8c56-6db0ec0e2144",
+    "metadata_created": "2019-11-01T04:58:51.982919",
+    "owner_org": "01ee6b09-cb58-4100-8d95-623ad6b238ef",
+    "metadata_modified": "2020-05-22T09:11:16.103734",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "データ時点：2019年1月22日現在。本データは、東京都オープンデータ標準フォーマットの様式をもとに作成しています。",
+        "format": "CSV",
+        "url": "https://www.city.machida.tokyo.jp/shisei/opendata/sangyo/event.files/132098_event.csv",
+        "created": "2019-01-27T15:00:00",
+        "state": "active",
+        "package_id": "53a59dfa-db00-4200-8c56-6db0ec0e2144",
+        "last_modified": "2019-01-29T15:00:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "c63da83c-ceb6-4c99-91e9-9450811db045",
+        "size": 6144,
+        "id": "70704079-bae8-4e1a-a435-ed3edd91490a",
+        "resource_type": null,
+        "name": "イベント一覧"
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t132098d0000000075",
+    "isopen": true,
+    "url": "",
+    "notes": "【町田市】",
+    "title": "イベント一覧",
+    "extras": [
+      {
+        "value": "随時",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "https://www.city.machida.tokyo.jp/",
+      "title": "町田市",
+      "created": "2019-11-01T03:27:26.775139",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t132098.png",
+      "revision_id": "afc39d6e-faf0-4358-90a5-a32d669724a1",
+      "type": "organization",
+      "id": "01ee6b09-cb58-4100-8d95-623ad6b238ef",
+      "name": "t132098"
+    },
+    "revision_id": "6cf5cd7d-a65d-4578-a3db-518fb59c7015"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "東京都生活文化局私学部? 私学振興課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "d35c9909-584d-42e8-95c3-26de45f24c12",
+    "metadata_created": "2021-05-20T05:04:11.832976",
+    "metadata_modified": "2021-05-20T05:06:35.752569",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "表1-1 男女別私立学校数",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/seikatubunka/R3/02shigaku_gyosei_1syo_1.csv",
+        "cache_last_updated": null,
+        "package_id": "d35c9909-584d-42e8-95c3-26de45f24c12",
+        "created": "2021-01-22T05:38:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-01-22T05:38:00",
+        "position": 0,
+        "revision_id": "0173d8bb-143e-41dd-ae14-87b2f7d7d7d0",
+        "url_type": null,
+        "id": "3bd0ad66-8b9a-4df9-91f7-afad6d950764",
+        "resource_type": null,
+        "size": 191
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.seikatubunka.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.245320",
+      "title": "東京都生活文化局",
+      "name": "t000006",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "e09ebb81-026e-4a29-927c-3490964055ad",
+      "type": "organization",
+      "id": "3f65c30d-0809-4fc6-8f6c-82261b14152e",
+      "approval_status": "approved"
+    },
+    "name": "t000006d2000000013",
+    "isopen": true,
+    "url": "https://www.seikatubunka.metro.tokyo.lg.jp/shigaku/sonota/files/0000000077/02shigaku_gyosei_1syo.pdf",
+    "notes": "",
+    "owner_org": "3f65c30d-0809-4fc6-8f6c-82261b14152e",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "男女別私立学校数",
+    "revision_id": "4d7aab58-29ad-4f5d-9c28-aefb7c7832a7"
+  }
+}

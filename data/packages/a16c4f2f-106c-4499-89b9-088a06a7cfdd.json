@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "立川市市民生活部市民課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "a16c4f2f-106c-4499-89b9-088a06a7cfdd",
+    "metadata_created": "2021-10-11T02:27:15.987301",
+    "metadata_modified": "2021-10-11T02:27:24.238469",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "・戸籍欄の数値には、非本籍人届出数は含まない。",
+        "name": "戸籍届出処理件数、住民異動届処理件数",
+        "format": "CSV",
+        "url": "https://www.city.tachikawa.lg.jp/somu/opendate/koukai/nennpou/jinnkou/documents/2-1-8kosekitodokedeshorikensu-juminidoushorikensu.csv",
+        "cache_last_updated": null,
+        "package_id": "a16c4f2f-106c-4499-89b9-088a06a7cfdd",
+        "created": "2020-06-30T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2020-06-30T15:00:00",
+        "position": 0,
+        "revision_id": "cbbfe81b-da25-49fe-8dc0-34689032e9b5",
+        "url_type": null,
+        "id": "2af0eae8-35c1-4e79-bd6f-7e4c02c7a895",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "・戸籍欄の数値には、非本籍人届出数は含まない。",
+        "name": "戸籍届出処理件数、住民異動届処理件数",
+        "format": "XLS",
+        "url": "https://www.city.tachikawa.lg.jp/somu/opendate/koukai/nennpou/jinnkou/documents/2-1-8kosekitodokedeshorikensu-juminidoushorikensu.xlsx",
+        "cache_last_updated": null,
+        "package_id": "a16c4f2f-106c-4499-89b9-088a06a7cfdd",
+        "created": "2020-06-30T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2020-06-30T15:00:00",
+        "position": 1,
+        "revision_id": "fff6125e-a7dd-4d7f-ab3f-a515625e732c",
+        "url_type": null,
+        "id": "785a42b1-a057-4089-9f57-403bcced322f",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "",
+      "created": "2021-09-21T02:50:23.993914",
+      "title": "立川市",
+      "name": "t132021",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t132021.png",
+      "revision_id": "8a86ddfe-ada6-4ad2-96a6-f108be8e73fe",
+      "type": "organization",
+      "id": "cc7a01da-dd01-4fb4-8fb9-5fb2b503c1ce",
+      "approval_status": "approved"
+    },
+    "name": "t132021d0000000011",
+    "isopen": true,
+    "url": "https://www.city.tachikawa.lg.jp/somu/opendate/koukai/nennpou/jinnkou/zinkou.html",
+    "notes": "【立川市】立川市の戸籍届出（出生、死亡、婚姻、離婚、転籍、その他）処理件数、住民異動届（転入、転出、転居、その他）処理件数",
+    "owner_org": "cc7a01da-dd01-4fb4-8fb9-5fb2b503c1ce",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "立川市の戸籍届出処理件数、住民異動届処理件数",
+    "revision_id": "3d3eec0f-b02b-4805-884a-6e6288eda8a1"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "水道局浄水部浄水課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "277c5472-a55a-4c58-9d84-5161db2cc1d9",
+    "metadata_created": "2021-05-21T02:06:44.944369",
+    "metadata_modified": "2021-05-21T02:07:24.943304",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "放射性物質測定結果",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/suidou/R3/hosyaseibusitu.csv",
+        "cache_last_updated": null,
+        "package_id": "277c5472-a55a-4c58-9d84-5161db2cc1d9",
+        "created": "2021-01-30T04:24:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-01-30T04:24:00",
+        "position": 0,
+        "revision_id": "406bc2eb-6073-4d7f-90f2-26258edaa741",
+        "url_type": null,
+        "id": "75931fc4-db85-4c8c-8dca-765d3920938f",
+        "resource_type": null,
+        "size": 281
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.waterworks.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:22.280579",
+      "title": "東京都水道局",
+      "name": "t000019",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000019.jpg",
+      "revision_id": "6f93ebbd-34d2-48da-9305-0c1de5e96c27",
+      "type": "organization",
+      "id": "df3e208c-40a5-4f30-b0f2-491ceffa6423",
+      "approval_status": "approved"
+    },
+    "name": "t000019d2000000033",
+    "isopen": true,
+    "url": "http://www.waterworks.metro.tokyo.jp/press/h23/press110513-2.html",
+    "notes": "",
+    "owner_org": "df3e208c-40a5-4f30-b0f2-491ceffa6423",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "東日本大震災に関する過去の報道発表_浄水場発生土の放射能測定結果について　?第78報?",
+    "revision_id": "af27c868-9568-466b-996c-75844fcb0836"
+  }
+}

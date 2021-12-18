@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "町田市財務部営繕課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "269abe37-9c6a-4d51-a4f6-af2bc0960890",
+    "metadata_created": "2019-11-01T04:58:42.958991",
+    "metadata_modified": "2021-08-17T02:56:00.736075",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "小川3-10-1_小川小学校",
+        "format": "PDF",
+        "url": "https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/ogawa.files/ogaawa3-10-1.pdf",
+        "cache_last_updated": null,
+        "package_id": "269abe37-9c6a-4d51-a4f6-af2bc0960890",
+        "created": "2017-04-30T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-04-30T15:00:00",
+        "position": 0,
+        "revision_id": "957f9d36-5947-4140-bcc2-d42e700fde85",
+        "url_type": null,
+        "id": "9061b11e-ea45-4fac-9145-d44263b1e984",
+        "resource_type": null,
+        "size": 67213721
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.machida.tokyo.jp/",
+      "created": "2019-11-01T03:27:26.775139",
+      "title": "町田市",
+      "name": "t132098",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t132098.png",
+      "revision_id": "afc39d6e-faf0-4358-90a5-a32d669724a1",
+      "type": "organization",
+      "id": "01ee6b09-cb58-4100-8d95-623ad6b238ef",
+      "approval_status": "approved"
+    },
+    "name": "t132098d0000000031",
+    "isopen": true,
+    "url": "",
+    "notes": "【町田市】町田市が実施した地質調査のボーリング柱状図及び調査位置図を掲載しています。調査報告書中の、ボーリング柱状図及び調査位置図以外の情報は掲載していません。また、調査位置図が掲載されていない場所もあります。",
+    "owner_org": "01ee6b09-cb58-4100-8d95-623ad6b238ef",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "公開時のみ"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "小川",
+    "revision_id": "cf45e1b7-9917-453e-afeb-8a1044c088d0"
+  }
+}

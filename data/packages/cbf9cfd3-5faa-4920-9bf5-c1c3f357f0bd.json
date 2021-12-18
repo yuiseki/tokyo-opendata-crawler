@@ -1,0 +1,93 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "地域教育支援部生涯学習課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "cbf9cfd3-5faa-4920-9bf5-c1c3f357f0bd",
+    "metadata_created": "2019-11-01T04:55:59.271654",
+    "metadata_modified": "2019-11-01T08:30:22.473218",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "実施教室一覧",
+        "format": "CSV",
+        "url": "http://www.syougai.metro.tokyo.jp/sesaku/tokushihoukago/HTML/csv_tokusiho/tokushiho_ichiran.csv",
+        "cache_last_updated": null,
+        "package_id": "cbf9cfd3-5faa-4920-9bf5-c1c3f357f0bd",
+        "created": "2018-06-03T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-06-03T15:00:00",
+        "position": 0,
+        "revision_id": "fb93c397-b8f2-4365-a637-1bfacbfdd4e2",
+        "url_type": null,
+        "id": "753298b4-4640-4752-a8ac-d65b6424156b",
+        "resource_type": null,
+        "size": 3072
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "まちづくり",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c003.png",
+        "title": "まちづくり",
+        "id": "dc897c44-8153-4219-bfeb-6110fb85fb99",
+        "name": "c003"
+      },
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.kyoiku.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:22.598778",
+      "title": "東京都教育庁",
+      "name": "t000021",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000021.png",
+      "revision_id": "3b8eaba6-3e9c-4401-a703-dcd9d28741aa",
+      "type": "organization",
+      "id": "f510f5b2-b249-499d-a00f-440b1f646e13",
+      "approval_status": "approved"
+    },
+    "name": "t000021d1700000024",
+    "isopen": true,
+    "url": "http://www.syougai.metro.tokyo.jp/sesaku/tokushihoukago/HTML/tokushiho_ichiran.html",
+    "notes": "【東京都教育庁】",
+    "owner_org": "f510f5b2-b249-499d-a00f-440b1f646e13",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "都立特別支援学校放課後子供教室",
+    "revision_id": "fa9f4a99-381b-4d26-ac48-1360fe2daedc"
+  }
+}

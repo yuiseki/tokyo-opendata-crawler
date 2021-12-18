@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "3d2d56aa-0dd3-4eee-b924-47162b6d77d8",
+    "metadata_created": "2019-11-01T04:54:45.713519",
+    "metadata_modified": "2019-11-01T06:22:48.889456",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "参考資料-1(④ 全国中央卸売市場と築地市場の水産・青果年間取扱量)",
+        "format": "CSV",
+        "url": "http://www.shijou.metro.tokyo.jp/csv/300126/reference_1_5.csv",
+        "cache_last_updated": null,
+        "package_id": "3d2d56aa-0dd3-4eee-b924-47162b6d77d8",
+        "created": "2018-06-03T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-06-03T15:00:00",
+        "position": 0,
+        "revision_id": "3b775f62-d12e-414a-8764-437b8b245de0",
+        "url_type": null,
+        "id": "c0d4b80d-e1b8-4c83-acf8-973e8d552f69",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "参考資料-1(⑤ 全国中央卸売市場と築地市場の水産・青果年間取扱金額)",
+        "format": "CSV",
+        "url": "http://www.shijou.metro.tokyo.jp/csv/300126/reference_1_6.csv",
+        "cache_last_updated": null,
+        "package_id": "3d2d56aa-0dd3-4eee-b924-47162b6d77d8",
+        "created": "2018-06-03T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-06-03T15:00:00",
+        "position": 1,
+        "revision_id": "2b1db651-37fb-4133-821f-82d963cf2700",
+        "url_type": null,
+        "id": "7c5755cf-7813-4cdc-afb3-a27a6e608ff3",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "環境",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c012.png",
+        "title": "環境",
+        "id": "427f3ee0-b28a-4fd2-b7dc-980507f154d2",
+        "name": "c012"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.shijou.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:21.341618",
+      "title": "東京都中央卸売市場",
+      "name": "t000013",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "a14a39f1-b5cb-4e72-8d6d-bd986509b203",
+      "type": "organization",
+      "id": "327220fa-dbe9-453c-89b2-ce303b471a71",
+      "approval_status": "approved"
+    },
+    "name": "t000013d1700000011",
+    "isopen": true,
+    "url": "http://www.shijou.metro.tokyo.jp/toyosu/siryou/kousou_siryou/",
+    "notes": "【東京都中央卸売市場】",
+    "owner_org": "327220fa-dbe9-453c-89b2-ce303b471a71",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "豊洲新市場基本構想",
+    "revision_id": "5416b844-a38e-44e5-a755-0773da80c93f"
+  }
+}

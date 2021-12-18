@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "東京都建設局道路管理部",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "749c9910-d243-4efe-976b-47764e2ee6ef",
+    "metadata_created": "2021-05-19T04:18:28.781550",
+    "metadata_modified": "2021-05-20T03:55:06.701955",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "【完成後のアンケート調査結果】(周辺住民・交通事業者を対象に調査)",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/kensetsu/R3/kosatensuisuianketo_1.csv",
+        "cache_last_updated": null,
+        "package_id": "749c9910-d243-4efe-976b-47764e2ee6ef",
+        "created": "2021-01-30T04:11:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-01-30T04:11:00",
+        "position": 0,
+        "revision_id": "51cb46aa-a4d2-4c47-9247-d4cf2e7f6ea0",
+        "url_type": null,
+        "id": "d0bba483-691a-4c69-a569-bf0fec1b2d8e",
+        "resource_type": null,
+        "size": 112
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.kensetsu.metro.tokyo.jp/index.html\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:21.496451",
+      "title": "東京都建設局",
+      "name": "t000014",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000014.jpg",
+      "revision_id": "06a19049-68df-4566-aae1-4c7d52e3a2dc",
+      "type": "organization",
+      "id": "c6763312-f089-4659-8c88-8b67ec9dc4dd",
+      "approval_status": "approved"
+    },
+    "name": "t000014d2000000017",
+    "isopen": true,
+    "url": "http://www.kensetsu.metro.tokyo.jp/jigyo/road/kanri/gaiyo/k_suisui/index.html",
+    "notes": "",
+    "owner_org": "c6763312-f089-4659-8c88-8b67ec9dc4dd",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "道路の整備事業_「第３次交差点すいすいプラン」について",
+    "revision_id": "1aeee06e-a17c-485f-8c78-23b814358391"
+  }
+}

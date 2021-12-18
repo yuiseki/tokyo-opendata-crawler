@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "街づくり支援部地域交通課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "73d3977d-a341-4445-b13d-785a64403300",
+    "metadata_created": "2020-05-14T08:20:13.341430",
+    "metadata_modified": "2020-05-14T08:20:36.397760",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "お台場レインボーバスの時刻表です。",
+        "name": "お台場レインボーバス時刻表　品川・台場循環（平日）",
+        "format": "CSV",
+        "url": "https://opendata.city.minato.tokyo.jp/dataset/6ae0bf85-a48b-4867-a209-2f51ba224c1d/resource/6aefc302-6c29-41b1-a5fb-19dd073d067e/download/rainbowbus_week.csv",
+        "cache_last_updated": null,
+        "package_id": "73d3977d-a341-4445-b13d-785a64403300",
+        "created": "2019-03-31T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-05-22T15:00:00",
+        "position": 0,
+        "revision_id": "9eb12e77-fa43-4091-8995-8ff76e136a7c",
+        "url_type": null,
+        "id": "f642c2c1-4125-4a30-b870-01485aa78ea8",
+        "resource_type": null,
+        "size": 9216
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "お台場レインボーバスの時刻表です。",
+        "name": "お台場レインボーバス時刻表　品川・台場循環（土曜日・日曜日及び祝祭日）",
+        "format": "CSV",
+        "url": "https://opendata.city.minato.tokyo.jp/dataset/23473bb2-85db-494f-a9f9-e5202085f292/resource/9435105b-432b-4614-ab61-d9ba19911a85/download/rainbowbus_sun.csv",
+        "cache_last_updated": null,
+        "package_id": "73d3977d-a341-4445-b13d-785a64403300",
+        "created": "2019-03-31T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-05-22T15:00:00",
+        "position": 1,
+        "revision_id": "d3e43646-a868-46e9-8881-7a2e45c0419b",
+        "url_type": null,
+        "id": "307ade96-b399-45d6-9dcd-88f30fd3c236",
+        "resource_type": null,
+        "size": 8192
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "交通情報",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c013.png",
+        "title": "交通情報",
+        "id": "38323541-753d-4230-b2dd-d9eb367ae5ed",
+        "name": "c013"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.minato.tokyo.jp/",
+      "created": "2019-11-01T03:27:24.220357",
+      "title": "港区",
+      "name": "t131032",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131032.jpg",
+      "revision_id": "8f5676eb-3316-4cc6-b26a-4f7e1b39e109",
+      "type": "organization",
+      "id": "6adece4f-1ee9-416a-a7e7-856b8d5fb050",
+      "approval_status": "approved"
+    },
+    "name": "t131032d0000000055",
+    "isopen": true,
+    "url": "https://www.city.minato.tokyo.jp/kankyo-machi/kotsu/bus/shuttle.html",
+    "notes": "【港区】お台場レインボーバスに関する情報です。",
+    "owner_org": "6adece4f-1ee9-416a-a7e7-856b8d5fb050",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "年1回"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "お台場レインボーバス時刻表",
+    "revision_id": "e0ac1a8b-18a2-43cd-9841-a300d6b92bef"
+  }
+}

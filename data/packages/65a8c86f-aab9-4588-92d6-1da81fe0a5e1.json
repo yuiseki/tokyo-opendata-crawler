@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "65a8c86f-aab9-4588-92d6-1da81fe0a5e1",
+    "metadata_created": "2019-11-01T04:55:19.619820",
+    "metadata_modified": "2019-11-01T08:08:17.472649",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "表１　年齢層別救急搬送人員と初診時程度",
+        "format": "CSV",
+        "url": "http://www.opendata.metro.tokyo.jp/shoubou/2018_03/dryice_index_4.csv",
+        "cache_last_updated": null,
+        "package_id": "65a8c86f-aab9-4588-92d6-1da81fe0a5e1",
+        "created": "2018-03-29T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-03-29T15:00:00",
+        "position": 0,
+        "revision_id": "19f821a6-2dc2-4219-829c-8a66018625c8",
+        "url_type": null,
+        "id": "dff843e8-bb0c-4a70-9753-94bd018806fb",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "防災・災害計画",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c001.png",
+        "title": "防災・災害計画",
+        "id": "8eb52f8e-0d10-44f4-8bb4-2a488d0f8465",
+        "name": "c001"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.tfd.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:21.965529",
+      "title": "東京消防庁",
+      "name": "t000017",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000017.png",
+      "revision_id": "7929d63d-3aaa-469d-a85e-7eee6a1df97d",
+      "type": "organization",
+      "id": "7270d173-e93e-4056-9b29-4b00ec036c81",
+      "approval_status": "approved"
+    },
+    "name": "t000017d1700000022",
+    "isopen": true,
+    "url": "http://www.tfd.metro.tokyo.jp/lfe/topics/nichijou.html",
+    "notes": "【東京消防庁】",
+    "owner_org": "7270d173-e93e-4056-9b29-4b00ec036c81",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "日常生活における事故情報　ドライアイスによる破裂事故に注意！",
+    "revision_id": "d4969a82-9831-49f4-aa85-195dcedb14cd"
+  }
+}

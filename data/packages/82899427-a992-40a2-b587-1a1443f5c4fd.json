@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "中央市場中央卸売市場管理部財務課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "82899427-a992-40a2-b587-1a1443f5c4fd",
+    "metadata_created": "2021-05-26T00:42:45.820337",
+    "metadata_modified": "2021-05-26T00:43:02.980080",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "質問3 市場で多く売られている魚のベスト10は？",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/shijyou/R3/ookuurerusakana.csv",
+        "cache_last_updated": null,
+        "package_id": "82899427-a992-40a2-b587-1a1443f5c4fd",
+        "created": "2021-01-23T01:55:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-01-23T01:55:00",
+        "position": 0,
+        "revision_id": "a84a9068-2597-488e-b101-ec18c3ef3f08",
+        "url_type": null,
+        "id": "b6e8c8ac-2c00-4513-b105-9db8cec2cb3f",
+        "resource_type": null,
+        "size": 268
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.shijou.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:21.341618",
+      "title": "東京都中央卸売市場",
+      "name": "t000013",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "a14a39f1-b5cb-4e72-8d6d-bd986509b203",
+      "type": "organization",
+      "id": "327220fa-dbe9-453c-89b2-ce303b471a71",
+      "approval_status": "approved"
+    },
+    "name": "t000013d2000000004",
+    "isopen": true,
+    "url": "http://www.shijou.metro.tokyo.jp/kids/osiete/fish-a1/",
+    "notes": "",
+    "owner_org": "327220fa-dbe9-453c-89b2-ce303b471a71",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "教えて！市場のこと_質問3 市場で多く売られている魚のベスト１０は？",
+    "revision_id": "985f6b9b-c141-4191-8477-adf749f9267e"
+  }
+}

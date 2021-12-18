@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "区民部戸籍住民課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "bd531b39-48ae-4ef6-a183-bd841c947f8f",
+    "metadata_created": "2019-11-01T04:57:31.121020",
+    "metadata_modified": "2019-11-01T08:43:28.459110",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "土地面積（町丁目別）（平成26年10月1日時点）",
+        "format": "XLSX",
+        "url": "https://www.city.nerima.tokyo.jp/kusei/tokei/opendata/opendatasite/tokei_kusei/tochimenseki.files/tochimenseki1.xlsx",
+        "cache_last_updated": null,
+        "package_id": "bd531b39-48ae-4ef6-a183-bd841c947f8f",
+        "created": "2016-11-29T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2016-11-29T15:00:00",
+        "position": 0,
+        "revision_id": "64bdff1e-68eb-4a9a-9810-d7eee6f272b9",
+        "url_type": null,
+        "id": "ca45c3c1-b1eb-421c-b768-451ef742b880",
+        "resource_type": null,
+        "size": 26624
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.nerima.tokyo.jp/",
+      "created": "2019-11-01T03:27:25.822926",
+      "title": "練馬区",
+      "name": "t131202",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131202.gif",
+      "revision_id": "c9aef7e0-f984-4dce-bc1b-accb7d513a92",
+      "type": "organization",
+      "id": "76020df2-dfd1-42a2-9f7d-dbe5cefc7028",
+      "approval_status": "approved"
+    },
+    "name": "t131202d0000000005",
+    "isopen": true,
+    "url": "https://www.city.nerima.tokyo.jp/kusei/tokei/tokeisho/index.html",
+    "notes": "【練馬区】練馬区統計書に掲載の町丁目別の土地面積一覧表です。",
+    "owner_org": "76020df2-dfd1-42a2-9f7d-dbe5cefc7028",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "土地面積（町丁目別）",
+    "revision_id": "130827ad-ba05-458e-90c8-5703b51c196d"
+  }
+}

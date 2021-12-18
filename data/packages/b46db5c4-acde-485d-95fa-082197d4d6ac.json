@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "b46db5c4-acde-485d-95fa-082197d4d6ac",
+    "metadata_created": "2019-11-01T04:54:45.911813",
+    "metadata_modified": "2019-11-01T06:22:49.153151",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "参考資料１市場業者へのヒアリング調査結果(１　仲卸業者、関連事業者)",
+        "format": "CSV",
+        "url": "http://www.shijou.metro.tokyo.jp/csv/300126/0127_2_5_1.csv",
+        "cache_last_updated": null,
+        "package_id": "b46db5c4-acde-485d-95fa-082197d4d6ac",
+        "created": "2018-06-03T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-06-03T15:00:00",
+        "position": 0,
+        "revision_id": "aea0cade-f620-495a-8ffc-1d808836e2d8",
+        "url_type": null,
+        "id": "aa25720d-f7af-489e-9696-bc581bc780e8",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "環境",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c012.png",
+        "title": "環境",
+        "id": "427f3ee0-b28a-4fd2-b7dc-980507f154d2",
+        "name": "c012"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.shijou.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:21.341618",
+      "title": "東京都中央卸売市場",
+      "name": "t000013",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "a14a39f1-b5cb-4e72-8d6d-bd986509b203",
+      "type": "organization",
+      "id": "327220fa-dbe9-453c-89b2-ce303b471a71",
+      "approval_status": "approved"
+    },
+    "name": "t000013d1700000012",
+    "isopen": true,
+    "url": "http://www.shijou.metro.tokyo.jp/press/2016/0127_2.html",
+    "notes": "【東京都中央卸売市場】",
+    "owner_org": "327220fa-dbe9-453c-89b2-ce303b471a71",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "豊洲市場への移転延期に伴う補償スキームの策定について",
+    "revision_id": "de97742d-6b4d-445f-9e41-076e54cd2772"
+  }
+}

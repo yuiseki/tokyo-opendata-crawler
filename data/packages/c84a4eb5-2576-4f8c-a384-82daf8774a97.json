@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "教育委員会事務局生涯学習推進課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "c84a4eb5-2576-4f8c-a384-82daf8774a97",
+    "metadata_created": "2019-11-01T04:57:10.805721",
+    "metadata_modified": "2019-11-01T08:39:56.203407",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "埋蔵文化財とは、地中に埋もれている文化財のことであり、その土地のことを「埋蔵文化財包蔵地」（＝遺跡） と呼んでいます。遺跡は、土地に刻まれた住居跡・環壕・城館跡など過去の人類の生活の痕跡＝ 遺構と、土器・石器などの遺物からなります。文化財保護法第93 条第１項のいう「周知の埋蔵文化財包蔵地」の範囲内で建築・土木工事等を行う場合には、同法に基づいた手続きが必要となります。",
+        "name": "埋蔵文化財包蔵地 ",
+        "format": "ZIP",
+        "url": "http://www2.wagmap.jp/suginami/opendata/?type=shp&ly=907",
+        "cache_last_updated": null,
+        "package_id": "c84a4eb5-2576-4f8c-a384-82daf8774a97",
+        "created": "2018-05-13T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-05-13T15:00:00",
+        "position": 0,
+        "revision_id": "696c3b38-3bb0-44f9-bef9-5a0b86a9a457",
+        "url_type": null,
+        "id": "fb57cf52-504d-47ce-965e-36cdddd5ed62",
+        "resource_type": null,
+        "size": 81920
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "芸術文化",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c010.png",
+        "title": "芸術文化",
+        "id": "9c1fb21f-bc27-401b-87b7-0fd44c13cc05",
+        "name": "c010"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.suginami.tokyo.jp/",
+      "created": "2019-11-01T03:27:25.355056",
+      "title": "杉並区",
+      "name": "t131156",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131156.png",
+      "revision_id": "be68f112-909f-46c2-b180-014c0a879593",
+      "type": "organization",
+      "id": "a5be9683-373e-440b-ae39-4e73317a417b",
+      "approval_status": "approved"
+    },
+    "name": "t131156d0000000013",
+    "isopen": true,
+    "url": "",
+    "notes": "【杉並区】",
+    "owner_org": "a5be9683-373e-440b-ae39-4e73317a417b",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "公開時のみ"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "埋蔵文化財包蔵地",
+    "revision_id": "c26e6351-e55a-4bb2-81a4-1ccbd4c9ed7a"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "都立学校教育部特別支援教育課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "b749b879-4320-44ea-b321-493c02986414",
+    "metadata_created": "2019-11-01T04:56:00.377837",
+    "metadata_modified": "2019-11-01T08:30:32.673465",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "都立視覚障害特別支援学校、都立聴覚障害特別支援学校、都立肢体不自由特別支援学校、都立知的障害特別支援学校、都立病弱特別支援学校、区立特別支援学校",
+        "name": "特別支援学校（都立・公立）一覧（最終更新日：平成30年（2018）7月17日）",
+        "format": "CSV",
+        "url": "http://www.kyoiku.metro.tokyo.jp/school/special_needs_school/files/school_list/mou.csv",
+        "cache_last_updated": null,
+        "package_id": "b749b879-4320-44ea-b321-493c02986414",
+        "created": "2018-09-13T00:32:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-09-13T00:32:00",
+        "position": 0,
+        "revision_id": "706b35b1-c02d-4902-add5-8c4eb237903c",
+        "url_type": null,
+        "id": "f1aa1fb7-8a09-4661-a740-ee33af261b43",
+        "resource_type": null,
+        "size": 16384
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "都立視覚障害特別支援学校、都立聴覚障害特別支援学校、都立肢体不自由特別支援学校、都立知的障害特別支援学校、都立病弱特別支援学校、区立特別支援学校",
+        "name": "特別支援学校（都立・公立）一覧（最終更新日：平成30年（2018）7月17日）【注釈等】",
+        "format": "TXT",
+        "url": "http://www.kyoiku.metro.tokyo.jp/school/special_needs_school/files/school_list/mou_annotation.txt",
+        "cache_last_updated": null,
+        "package_id": "b749b879-4320-44ea-b321-493c02986414",
+        "created": "2018-09-12T23:42:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-09-12T23:42:00",
+        "position": 1,
+        "revision_id": "fae950ce-26ae-4ce9-b57c-84817cb2b422",
+        "url_type": null,
+        "id": "9f7f3eaf-9db4-4737-83d2-cdbfe26a7cf2",
+        "resource_type": null,
+        "size": 1024
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "環境",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c012.png",
+        "title": "環境",
+        "id": "427f3ee0-b28a-4fd2-b7dc-980507f154d2",
+        "name": "c012"
+      },
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.kyoiku.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:22.598778",
+      "title": "東京都教育庁",
+      "name": "t000021",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000021.png",
+      "revision_id": "3b8eaba6-3e9c-4401-a703-dcd9d28741aa",
+      "type": "organization",
+      "id": "f510f5b2-b249-499d-a00f-440b1f646e13",
+      "approval_status": "approved"
+    },
+    "name": "t000021d1800000001",
+    "isopen": true,
+    "url": "http://www.kyoiku.metro.tokyo.jp/school/special_needs_school/school_list.html",
+    "notes": "【東京都教育庁】",
+    "owner_org": "f510f5b2-b249-499d-a00f-440b1f646e13",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "特別支援学校（都立・公立）一覧",
+    "revision_id": "d013ee42-feef-4d7f-873b-8f6692156ed5"
+  }
+}

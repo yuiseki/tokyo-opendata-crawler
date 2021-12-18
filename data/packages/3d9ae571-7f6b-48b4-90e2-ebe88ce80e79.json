@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "福祉部障がい政策課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "3d9ae571-7f6b-48b4-90e2-ebe88ce80e79",
+    "metadata_created": "2021-03-18T07:38:14.255395",
+    "owner_org": "9354a576-4de5-44ab-9e62-18a92b40b5e7",
+    "metadata_modified": "2021-03-18T07:38:51.289142",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "官公署に関するデータです。",
+        "format": "CSV",
+        "url": "https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/006/127/open02.csv",
+        "created": "2021-03-18T07:38:40.160554",
+        "state": "active",
+        "package_id": "3d9ae571-7f6b-48b4-90e2-ebe88ce80e79",
+        "last_modified": null,
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "f085a8c0-30d9-4eee-92b3-149f0aea6c78",
+        "size": 3379,
+        "id": "afeb0d6f-dde7-4273-9889-f7c9b0ee92cb",
+        "resource_type": null,
+        "name": "官公署"
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t131199d0000000762",
+    "isopen": true,
+    "url": "https://www.city.itabashi.tokyo.jp/bousai/universal/design/1006127.html",
+    "notes": "【板橋区】官公庁に関するデータを掲載しています。",
+    "title": "どこでも誰でもおでかけマップオープンデータ（官公署）",
+    "extras": [
+      {
+        "value": "随時",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "http://www.city.itabashi.tokyo.jp/",
+      "title": "板橋区",
+      "created": "2019-11-01T03:27:25.673886",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131199.jpg",
+      "revision_id": "1a86d48e-188d-4655-9cc5-c9aedb102db4",
+      "type": "organization",
+      "id": "9354a576-4de5-44ab-9e62-18a92b40b5e7",
+      "name": "t131199"
+    },
+    "revision_id": "80ab71dc-8cb5-4612-988c-cb291ebd9994"
+  }
+}

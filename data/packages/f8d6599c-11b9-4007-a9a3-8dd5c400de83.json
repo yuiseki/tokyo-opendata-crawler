@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "公園課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "f8d6599c-11b9-4007-a9a3-8dd5c400de83",
+    "metadata_created": "2019-11-01T04:57:04.536800",
+    "metadata_modified": "2019-11-01T08:39:18.172181",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "トイレ情報(男性用、女性用、男女共用、緯度経度等)のｃｓｖファイル",
+        "name": "トイレ情報csvデータ",
+        "format": "CSV",
+        "url": "http://www.city.shinagawa.tokyo.jp/ct/other000081600/toilet.csv",
+        "cache_last_updated": null,
+        "package_id": "f8d6599c-11b9-4007-a9a3-8dd5c400de83",
+        "created": "2017-03-24T03:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-03-24T03:00:00",
+        "position": 0,
+        "revision_id": "1ca839aa-c0d3-41d8-aec5-d6d2af3ab199",
+        "url_type": null,
+        "id": "5408dede-3ad5-45cd-824e-661e88b38125",
+        "resource_type": null,
+        "size": 14336
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "トイレ情報(男性用、女性用、男女共用、緯度経度等)のrdfファイル",
+        "name": "トイレ情報rdfデータ",
+        "format": "RDF",
+        "url": "http://www.city.shinagawa.tokyo.jp/ct/other000081600/toilet.rdf",
+        "cache_last_updated": null,
+        "package_id": "f8d6599c-11b9-4007-a9a3-8dd5c400de83",
+        "created": "2017-03-24T03:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-03-24T03:00:00",
+        "position": 1,
+        "revision_id": "da35586f-4ac2-4f0b-b23c-5b04abed62e3",
+        "url_type": null,
+        "id": "d280d445-e1d0-4b61-bc20-10f00bc1a27d",
+        "resource_type": null,
+        "size": 223232
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.shinagawa.tokyo.jp/",
+      "created": "2019-11-01T03:27:24.888527",
+      "title": "品川区",
+      "name": "t131091",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131091.png",
+      "revision_id": "a58c6889-2755-423e-bc8c-5146fb74ae73",
+      "type": "organization",
+      "id": "ee5ed3ad-76a9-4a49-aba7-3a63a457eb93",
+      "approval_status": "approved"
+    },
+    "name": "t131091d0000000009",
+    "isopen": true,
+    "url": "",
+    "notes": "【品川区】　トイレ情報(男性用、女性用、男女共用、緯度経度等)",
+    "owner_org": "ee5ed3ad-76a9-4a49-aba7-3a63a457eb93",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "トイレ情報",
+    "revision_id": "3748ad3a-1c36-4cab-a3e6-ce00091cb3e2"
+  }
+}

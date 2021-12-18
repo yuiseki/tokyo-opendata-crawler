@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "危機管理担当部 危機管理課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "12a43650-a1f3-4b08-9c8a-92eb90035c05",
+    "metadata_created": "2021-10-07T05:32:08.160770",
+    "metadata_modified": "2021-10-07T05:32:37.650026",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "新宿区の災害時等の避難所の位置情報です。",
+        "name": "避難所情報",
+        "format": "CSV",
+        "url": "http://data.odp.jig.jp/viewcsv/jp/tokyo/shinjuku/715.csv",
+        "cache_last_updated": null,
+        "package_id": "12a43650-a1f3-4b08-9c8a-92eb90035c05",
+        "created": "2016-08-21T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-01-28T15:00:00",
+        "position": 0,
+        "revision_id": "8ba9514d-9102-419c-aa2d-643b469143a5",
+        "url_type": null,
+        "id": "4cb825de-9658-45e6-83d9-a08f2228c4a4",
+        "resource_type": null,
+        "size": 17408
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "防災・災害計画",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c001.png",
+        "title": "防災・災害計画",
+        "id": "8eb52f8e-0d10-44f4-8bb4-2a488d0f8465",
+        "name": "c001"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "",
+      "created": "2019-11-01T03:27:24.390617",
+      "title": "新宿区",
+      "name": "t131041",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131041.jpg",
+      "revision_id": "32114732-e02e-4a21-95ea-57f0bde433bb",
+      "type": "organization",
+      "id": "dae20c75-717a-45a5-91e9-ca6e6530178c",
+      "approval_status": "approved"
+    },
+    "name": "t131041d0000000055",
+    "isopen": true,
+    "url": "",
+    "notes": "【新宿区】避難所情報です。",
+    "owner_org": "dae20c75-717a-45a5-91e9-ca6e6530178c",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "新宿区の避難所情報",
+    "revision_id": "ac6769f7-57cf-4307-bfb9-0568e96a1c3d"
+  }
+}

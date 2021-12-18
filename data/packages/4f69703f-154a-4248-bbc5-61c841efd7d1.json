@@ -1,0 +1,105 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "東京消防庁震災対策課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "4f69703f-154a-4248-bbc5-61c841efd7d1",
+    "metadata_created": "2021-11-11T01:15:20.220185",
+    "metadata_modified": "2021-11-18T03:57:46.973855",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "東京都の地震時における地域別出火危険度測定（第10回）の町丁目単位データです。",
+        "name": "東京都の地震時における地域別出火危険度（町丁目単位）",
+        "format": "SHP",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/shoubou/2021/fire-risk_municipalitie.zip",
+        "cache_last_updated": null,
+        "package_id": "4f69703f-154a-4248-bbc5-61c841efd7d1",
+        "created": "2021-11-17T00:43:22.636207",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": null,
+        "position": 0,
+        "revision_id": "7259fd7d-2cb0-4799-83a9-e58069cd8aa5",
+        "url_type": null,
+        "id": "84114a74-f4b7-4c0d-87ba-a003d75193e4",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "東京都の地震時における地域別出火危険度測定（第10回）の250mメッシュ単位データです。",
+        "format": "SHP",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/shoubou/2021/fire-risk_250m.zip",
+        "cache_last_updated": null,
+        "package_id": "4f69703f-154a-4248-bbc5-61c841efd7d1",
+        "name": "東京都の地震時における地域別出火危険度（250mメッシュ単位）",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": null,
+        "position": 1,
+        "revision_id": "7259fd7d-2cb0-4799-83a9-e58069cd8aa5",
+        "url_type": null,
+        "id": "12e80ad0-0edc-40dd-af22-5a001b3ad27d",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "防災・災害計画",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c001.png",
+        "title": "防災・災害計画",
+        "id": "8eb52f8e-0d10-44f4-8bb4-2a488d0f8465",
+        "name": "c001"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.tfd.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:21.965529",
+      "title": "東京消防庁",
+      "name": "t000017",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000017.png",
+      "revision_id": "7929d63d-3aaa-469d-a85e-7eee6a1df97d",
+      "type": "organization",
+      "id": "7270d173-e93e-4056-9b29-4b00ec036c81",
+      "approval_status": "approved"
+    },
+    "name": "t000017d0000000006",
+    "isopen": true,
+    "url": "https://www.tfd.metro.tokyo.lg.jp/hp-bousaika/shukkakiken/index.html",
+    "notes": "【東京消防庁】東京都の地震時における地域別出火危険度測定（第10回）のデータです。\n\n詳細は下記ページよりご確認ください。\n\nhttps://www.tfd.metro.tokyo.lg.jp/hp-bousaika/shukkakiken/index.html\n",
+    "owner_org": "7270d173-e93e-4056-9b29-4b00ec036c81",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "地震時における地域別出火危険度測定",
+    "revision_id": "c1341317-fe26-437a-b889-b771aad19002"
+  }
+}

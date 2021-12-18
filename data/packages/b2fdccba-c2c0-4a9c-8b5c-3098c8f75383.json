@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "水道局浄水部浄水課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "b2fdccba-c2c0-4a9c-8b5c-3098c8f75383",
+    "metadata_created": "2021-05-21T02:06:46.753609",
+    "metadata_modified": "2021-05-21T02:07:28.094057",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "多摩川水系 7時現在",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/suidou/R3/jiritsu_kaikaku.csv",
+        "cache_last_updated": null,
+        "package_id": "b2fdccba-c2c0-4a9c-8b5c-3098c8f75383",
+        "created": "2021-01-30T04:24:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-01-30T04:24:00",
+        "position": 0,
+        "revision_id": "04843bd4-b595-421c-aea3-5b679948140a",
+        "url_type": null,
+        "id": "a109cdd6-0f26-4490-9861-aa2293023f8e",
+        "resource_type": null,
+        "size": 262
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.waterworks.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:22.280579",
+      "title": "東京都水道局",
+      "name": "t000019",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000019.jpg",
+      "revision_id": "6f93ebbd-34d2-48da-9305-0c1de5e96c27",
+      "type": "organization",
+      "id": "df3e208c-40a5-4f30-b0f2-491ceffa6423",
+      "approval_status": "approved"
+    },
+    "name": "t000019d2000000040",
+    "isopen": true,
+    "url": "http://www.waterworks.metro.tokyo.jp/files/items/20291/File/jiritsu_kaikaku08.pdf",
+    "notes": "",
+    "owner_org": "df3e208c-40a5-4f30-b0f2-491ceffa6423",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "水道局自律点検・改革_資料２　局の主な取組事項（PDFファイル3,050KB）",
+    "revision_id": "6121a14e-0ab7-450c-b339-afd73bdc5d48"
+  }
+}

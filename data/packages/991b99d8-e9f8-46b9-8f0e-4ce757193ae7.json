@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "防災課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "991b99d8-e9f8-46b9-8f0e-4ce757193ae7",
+    "metadata_created": "2021-07-06T05:01:04.448852",
+    "metadata_modified": "2021-07-06T05:01:25.685458",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "特設災害用公衆電話設置場所一覧（令和2年3月16日時点）",
+        "format": "CSV",
+        "url": "https://www.city.sumida.lg.jp/kuseijoho/sumida_info/opendata/opendata_ichiran/bosai_data/tokusetudenwa_data.files/tokusetudenwa_20200316.csv",
+        "cache_last_updated": null,
+        "package_id": "991b99d8-e9f8-46b9-8f0e-4ce757193ae7",
+        "created": "2020-03-15T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2020-03-15T15:00:00",
+        "position": 0,
+        "revision_id": "c77f8137-7f60-428e-b3dc-ed0d6c306aac",
+        "url_type": null,
+        "id": "d7330906-1bcd-4ae6-8438-1b7641f29696",
+        "resource_type": null,
+        "size": 1024
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "特設災害用公衆電話設置場所一覧（平成27年10月29日掲載）",
+        "format": "CSV",
+        "url": "https://www.city.sumida.lg.jp/kuseijoho/sumida_info/opendata/opendata_ichiran/bosai_data/tokusetudenwa_data.files/tokusetudenwa_20151015.csv",
+        "cache_last_updated": null,
+        "package_id": "991b99d8-e9f8-46b9-8f0e-4ce757193ae7",
+        "created": "2015-10-28T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2015-10-28T15:00:00",
+        "position": 1,
+        "revision_id": "1627394e-c986-49f7-a5f1-71cbd71185fd",
+        "url_type": null,
+        "id": "0d1c55d7-bcd3-4c66-84d5-21a3ec93262f",
+        "resource_type": null,
+        "size": 2048
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "防災・災害計画",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c001.png",
+        "title": "防災・災害計画",
+        "id": "8eb52f8e-0d10-44f4-8bb4-2a488d0f8465",
+        "name": "c001"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.sumida.lg.jp/",
+      "created": "2021-07-05T23:44:42.617923",
+      "title": "墨田区",
+      "name": "t131075",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "f67005c0-e31a-47df-87af-cf1859f3e09b",
+      "type": "organization",
+      "id": "724ce337-ffb8-4df6-8c3c-eb302e46f786",
+      "approval_status": "approved"
+    },
+    "name": "t131075d0000000108",
+    "isopen": true,
+    "url": "https://www.city.sumida.lg.jp/kuseijoho/sumida_info/opendata/opendata_ichiran/bosai_data/tokusetudenwa_data.html",
+    "notes": "【墨田区】特設災害用公衆電話を設置している場所の一覧です。",
+    "owner_org": "724ce337-ffb8-4df6-8c3c-eb302e46f786",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "特設災害用公衆電話設置場所一覧",
+    "revision_id": "ce44d826-b577-4c5d-a2b6-ea2bf970da0f"
+  }
+}

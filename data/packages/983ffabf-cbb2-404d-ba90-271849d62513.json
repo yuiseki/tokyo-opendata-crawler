@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "都立学校教育部高等学校教育課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "983ffabf-cbb2-404d-ba90-271849d62513",
+    "metadata_created": "2019-11-01T04:55:53.170760",
+    "metadata_modified": "2019-11-01T08:27:12.848035",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "平成２８年度東京都立高等学校入学者選抜受検状況のページに掲載するPDFファイル（定時制ページ含む）",
+        "format": "HTML",
+        "url": "http://www.kyoiku.metro.tokyo.jp/press/press_release/2016/release20160224_02.html",
+        "cache_last_updated": null,
+        "package_id": "983ffabf-cbb2-404d-ba90-271849d62513",
+        "created": "2017-03-26T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-03-26T15:00:00",
+        "position": 0,
+        "revision_id": "e3ebc41a-62d8-46f0-8f5d-a411f73dce1b",
+        "url_type": null,
+        "id": "014042cc-629c-46cf-a651-334b335f3dd3",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "平成２９年度東京都立高等学校入学者選抜受検状況のページに掲載するPDFファイル",
+        "format": "HTML",
+        "url": "http://www.kyoiku.metro.tokyo.jp/press/press_release/2017/release20170224_03.html",
+        "cache_last_updated": null,
+        "package_id": "983ffabf-cbb2-404d-ba90-271849d62513",
+        "created": "2017-03-26T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-03-26T15:00:00",
+        "position": 1,
+        "revision_id": "c6c3ceb9-8c32-41a4-9ee8-277a3e9937f7",
+        "url_type": null,
+        "id": "1b3f833e-b6d2-4291-b13c-c2f2723fd0b6",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.kyoiku.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:22.598778",
+      "title": "東京都教育庁",
+      "name": "t000021",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000021.png",
+      "revision_id": "3b8eaba6-3e9c-4401-a703-dcd9d28741aa",
+      "type": "organization",
+      "id": "f510f5b2-b249-499d-a00f-440b1f646e13",
+      "approval_status": "approved"
+    },
+    "name": "t000021d0000000012",
+    "isopen": true,
+    "url": "http://www.kyoiku.metro.tokyo.jp/press/2017/pr170224c.html",
+    "notes": "【東京都教育庁】",
+    "owner_org": "f510f5b2-b249-499d-a00f-440b1f646e13",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "1年ごと"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "東京都立高等学校入学者選抜受検状況",
+    "revision_id": "7e4bb144-7023-4654-b32f-70cd330c373f"
+  }
+}

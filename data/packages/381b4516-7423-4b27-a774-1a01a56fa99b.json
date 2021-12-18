@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "環境土木部中央清掃事務所",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "381b4516-7423-4b27-a774-1a01a56fa99b",
+    "metadata_created": "2020-03-17T01:43:11.726302",
+    "owner_org": "beddb482-adb4-4e03-9c25-f229c2a0b028",
+    "metadata_modified": "2021-08-19T00:04:22.269498",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "",
+        "format": "XLS",
+        "url": "https://www.city.chuo.lg.jp/kusei/statisticaldata/opendata.files/shigenkaishubasho.xls",
+        "created": "2017-09-19T15:00:00",
+        "state": "active",
+        "package_id": "381b4516-7423-4b27-a774-1a01a56fa99b",
+        "last_modified": "2017-07-31T15:00:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "9c6626de-283f-462e-814b-ef79870cc07a",
+        "size": 28672,
+        "id": "6ad03013-d3a6-4307-bc9e-b192f531162d",
+        "resource_type": null,
+        "name": "資源回収場所（小学校等）一覧"
+      },
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "",
+        "format": "CSV",
+        "url": "https://www.city.chuo.lg.jp/kusei/statisticaldata/opendata.files/shigenkaishubasho.csv",
+        "created": "2017-09-19T15:00:00",
+        "state": "active",
+        "package_id": "381b4516-7423-4b27-a774-1a01a56fa99b",
+        "last_modified": "2017-07-31T15:00:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 1,
+        "revision_id": "205ad48d-0d30-40da-b468-448d50199643",
+        "size": 4096,
+        "id": "a8d684a0-c4ac-4698-bbef-ee7c4e2d417a",
+        "resource_type": null,
+        "name": "資源回収場所（小学校等）一覧"
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "title": "生活",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t131024d0000000003",
+    "isopen": true,
+    "url": "http://www.city.chuo.lg.jp/sisetugaido/gomikankyo/sigenkaisyubasyo.html",
+    "notes": "資源回収の可能な小学校、中学校等の施設名や所在地、緯度、経度、回収時間、回収品目などを地域ごとに掲載しています。",
+    "title": "資源回収場所（小学校等）一覧",
+    "extras": [
+      {
+        "value": "随時",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "https://www.city.chuo.lg.jp/",
+      "title": "中央区",
+      "created": "2020-03-16T08:15:28.901611",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131024.png",
+      "revision_id": "fd4c096b-7319-43d7-a1a4-d2411b6beaee",
+      "type": "organization",
+      "id": "beddb482-adb4-4e03-9c25-f229c2a0b028",
+      "name": "t131024"
+    },
+    "revision_id": "2e094f71-cbd4-4177-8552-11756ca8bd43"
+  }
+}

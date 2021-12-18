@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "危機管理室防災計画課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "ef8cc1d8-3f79-44c5-adf1-a35073af1255",
+    "metadata_created": "2019-11-01T04:57:36.779852",
+    "metadata_modified": "2019-11-01T08:44:09.175620",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "学校防災井戸（平成29年4月28日時点）",
+        "format": "CSV",
+        "url": "https://www.city.nerima.tokyo.jp/kusei/tokei/opendata/opendatasite/bosai/gakkoubousaiido.files/gakkoubousaiido.csv",
+        "cache_last_updated": null,
+        "package_id": "ef8cc1d8-3f79-44c5-adf1-a35073af1255",
+        "created": "2017-04-27T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-04-27T15:00:00",
+        "position": 0,
+        "revision_id": "5fd71506-121b-422e-a969-ac60455e2419",
+        "url_type": null,
+        "id": "f7fedd85-b1e6-47cd-8990-d9c5a1626dc9",
+        "resource_type": null,
+        "size": 3072
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "防災・災害計画",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c001.png",
+        "title": "防災・災害計画",
+        "id": "8eb52f8e-0d10-44f4-8bb4-2a488d0f8465",
+        "name": "c001"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.nerima.tokyo.jp/",
+      "created": "2019-11-01T03:27:25.822926",
+      "title": "練馬区",
+      "name": "t131202",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131202.gif",
+      "revision_id": "c9aef7e0-f984-4dce-bc1b-accb7d513a92",
+      "type": "organization",
+      "id": "76020df2-dfd1-42a2-9f7d-dbe5cefc7028",
+      "approval_status": "approved"
+    },
+    "name": "t131202d0000000028",
+    "isopen": true,
+    "url": "https://www.city.nerima.tokyo.jp/kurashi/bosai/jishinsonae/zukan/dai10.html",
+    "notes": "【練馬区】学校防災井戸の所在地の一覧です。",
+    "owner_org": "76020df2-dfd1-42a2-9f7d-dbe5cefc7028",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "学校防災井戸",
+    "revision_id": "c010fb1e-997d-484e-9d54-ee3ea84a1c8b"
+  }
+}

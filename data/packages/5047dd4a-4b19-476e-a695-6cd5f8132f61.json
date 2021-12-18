@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "臨海開発部海上公園課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "5047dd4a-4b19-476e-a695-6cd5f8132f61",
+    "metadata_created": "2019-11-01T04:55:04.966708",
+    "metadata_modified": "2019-11-01T08:06:06.677531",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "１　海上公園と各指定管理者",
+        "format": "CSV",
+        "url": "http://www.kouwan.metro.tokyo.jp/jigyo/kaijyoukouenhyoukaiinnkai_haihushiryou_01.csv",
+        "cache_last_updated": null,
+        "package_id": "5047dd4a-4b19-476e-a695-6cd5f8132f61",
+        "created": "2018-10-04T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-10-04T15:00:00",
+        "position": 0,
+        "revision_id": "e035086e-9cda-4052-a716-2546c9ffb479",
+        "url_type": null,
+        "id": "5c3aedb0-99a9-4341-aa44-9ed2328988a7",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "一次評価結果",
+        "format": "CSV",
+        "url": "http://www.kouwan.metro.tokyo.jp/jigyo/kaijyoukouenhyoukaiinnkai_haihushiryou_02.csv",
+        "cache_last_updated": null,
+        "package_id": "5047dd4a-4b19-476e-a695-6cd5f8132f61",
+        "created": "2018-10-04T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-10-04T15:00:00",
+        "position": 1,
+        "revision_id": "6eba33f9-dc9c-447e-94d5-dec15ab74daf",
+        "url_type": null,
+        "id": "7b9c69f7-6c03-4563-941a-fed2592af256",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.kouwan.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:21.661622",
+      "title": "東京都港湾局",
+      "name": "t000015",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000015.jpg",
+      "revision_id": "0ae0b754-9704-453d-a632-4097dcdb2ebf",
+      "type": "organization",
+      "id": "4a51054b-f927-4a44-902b-889a0a1fa75d",
+      "approval_status": "approved"
+    },
+    "name": "t000015d1800000001",
+    "isopen": true,
+    "url": "http://www.kouwan.metro.tokyo.jp/jigyo/shiteikanrisya/shitei-hiyouka/post_11.html",
+    "notes": "【東京都港湾局】　",
+    "owner_org": "4a51054b-f927-4a44-902b-889a0a1fa75d",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "1年ごと"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "海上公園指定管理者管理運営状況等の評価委員会　配付資料",
+    "revision_id": "96720b11-7ffc-49d4-b7e9-f4078f65e250"
+  }
+}

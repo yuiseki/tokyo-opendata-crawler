@@ -1,0 +1,84 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "東大和市社会教育部社会教育課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "num_tags": 1,
+    "id": "c345e5c6-adca-40ad-8f7e-693638194d2f",
+    "metadata_created": "2020-04-13T02:36:39.908869",
+    "metadata_modified": "2020-04-13T02:39:50.759290",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": "",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "文化財一覧",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/suisyoudataset/132209_cultural_property.csv",
+        "cache_last_updated": null,
+        "package_id": "c345e5c6-adca-40ad-8f7e-693638194d2f",
+        "created": "2020-03-17T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2020-03-17T15:00:00",
+        "position": 0,
+        "revision_id": "7dd98eca-1b84-4161-884c-86568bf30f34",
+        "url_type": null,
+        "id": "49b07a00-6b25-40af-8488-8e149fef45c1",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [
+      {
+        "vocabulary_id": null,
+        "state": "active",
+        "display_name": "推奨データセット",
+        "id": "8a843f9d-b0c2-465c-86da-1df660de0b32",
+        "name": "推奨データセット"
+      }
+    ],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.higashiyamato.lg.jp/",
+      "created": "2020-04-13T02:22:27.517463",
+      "title": "東大和市",
+      "name": "t132209",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "372264a8-af65-4394-ab3a-7f4bc3d78dc9",
+      "type": "organization",
+      "id": "b558e676-e195-4ccb-a5b5-37d5d519df31",
+      "approval_status": "approved"
+    },
+    "name": "t132209d0000000002",
+    "isopen": true,
+    "url": "https://www.city.higashiyamato.lg.jp/index.cfm/34,2279,359,html",
+    "notes": "【東大和市】東大和市が指定等を行った文化財の一覧です。内閣官房情報通信技術（IT）総合戦略室が平成29年12月22日に公開した、推奨データセットに準拠して作成しています。",
+    "owner_org": "b558e676-e195-4ccb-a5b5-37d5d519df31",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "年１回（３月頃）"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "文化財一覧",
+    "revision_id": "399766f2-4a09-4924-9ece-fb98310e774d"
+  }
+}

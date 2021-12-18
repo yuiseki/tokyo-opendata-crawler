@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "企画経営部秘書課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "70deecf7-a3d9-45c9-bb56-1fdf92380527",
+    "metadata_created": "2021-11-04T00:59:27.980675",
+    "owner_org": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
+    "metadata_modified": "2021-12-13T04:46:55.445296",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "",
+        "format": "CSV",
+        "url": "https://data.bodik.jp/dataset/82b53614-a4dd-45e3-8f89-d53adec6dfee/resource/07526899-5148-452a-b7df-50a2e960a7b1/download/131105_kifu_furusato_list_2020.csv",
+        "created": "2021-09-07T11:22:00",
+        "state": "active",
+        "package_id": "70deecf7-a3d9-45c9-bb56-1fdf92380527",
+        "last_modified": "2021-09-16T10:12:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "c08e772b-5443-4069-8d07-f9418a4987e8",
+        "size": 155306,
+        "id": "74ebad2d-ff9d-4e95-b38e-e338d8fcfd14",
+        "resource_type": null,
+        "name": "ふるさと納税　令和3年度"
+      },
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "",
+        "format": "CSV",
+        "url": "https://data.bodik.jp/dataset/82b53614-a4dd-45e3-8f89-d53adec6dfee/resource/07526899-5148-452a-b7df-50a2e960a7b1/download/131105_kifu_furusato_list_2020.csv",
+        "created": "2021-09-07T11:22:00",
+        "state": "active",
+        "package_id": "70deecf7-a3d9-45c9-bb56-1fdf92380527",
+        "last_modified": "2021-10-25T03:13:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 1,
+        "revision_id": "4863a946-6a06-4306-944c-fc516a6532c1",
+        "size": 155306,
+        "id": "eafedcf3-f428-4214-b4bc-f3077ead3c85",
+        "resource_type": null,
+        "name": "ふるさと納税　令和2年度分"
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "税金",
+        "description": "",
+        "title": "税金",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c007.png",
+        "id": "bb8a1d8b-5217-44c2-8eca-81addb671f0e",
+        "name": "c007"
+      }
+    ],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t131105d0000000007",
+    "isopen": true,
+    "url": "https://www.city.meguro.tokyo.jp/gyosei/zaisei/kifu/furusatonozei.html",
+    "notes": "目黒区のふるさと納税の一覧",
+    "title": "ふるさと納税",
+    "extras": [
+      {
+        "value": "1年",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "https://odcs.bodik.jp/131105/",
+      "title": "目黒区",
+      "created": "2021-11-01T02:12:22.338293",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131105.png",
+      "revision_id": "e3dc243f-e3a2-4b2b-a319-4e145bb63383",
+      "type": "organization",
+      "id": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
+      "name": "t131105"
+    },
+    "revision_id": "fc1db2cf-bedb-4d70-9661-878e9c694b73"
+  }
+}

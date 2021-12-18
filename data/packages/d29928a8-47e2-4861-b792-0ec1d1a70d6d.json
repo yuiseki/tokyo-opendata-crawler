@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "産業・地域振興支援部地域振興課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "d29928a8-47e2-4861-b792-0ec1d1a70d6d",
+    "metadata_created": "2020-05-14T08:20:12.997174",
+    "metadata_modified": "2020-05-14T08:20:35.902982",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "平成24年の事業所・企業統計調査です。",
+        "name": "平成24年経済センサス活動調査・港区支所管内別事業所数及び従業者数（活動調査のため民営事業所のみ）",
+        "format": "CSV",
+        "url": "https://opendata.city.minato.tokyo.jp/dataset/646a7649-b0c6-4535-8807-c5996d592954/resource/77bb680c-b036-4791-bc38-7851b41f16d7/download/jigyosho_shishokannai2012.csv",
+        "cache_last_updated": null,
+        "package_id": "d29928a8-47e2-4861-b792-0ec1d1a70d6d",
+        "created": "2017-03-19T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-05-13T15:00:00",
+        "position": 0,
+        "revision_id": "eadc4453-be4f-482e-ac9d-f7b757260425",
+        "url_type": null,
+        "id": "07e6794d-9506-4ff9-8187-bff8dc4e5ee7",
+        "resource_type": null,
+        "size": 1024
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "平成24年の事業所・企業統計調査です。",
+        "name": "平成24年経済センサス活動調査・港区町丁目別事業所数及び従業者数（活動調査のため民営事業所のみ）",
+        "format": "CSV",
+        "url": "https://opendata.city.minato.tokyo.jp/dataset/bdc11bea-f9f1-49b3-8f92-f7708d77e025/resource/6d91813b-7fa8-40d6-befb-95e5f47cc870/download/jigyosho_chochomoku2012.csv",
+        "cache_last_updated": null,
+        "package_id": "d29928a8-47e2-4861-b792-0ec1d1a70d6d",
+        "created": "2017-03-19T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-05-13T15:00:00",
+        "position": 1,
+        "revision_id": "e7aa00c6-287f-4ee6-a107-eda0f58cd1aa",
+        "url_type": null,
+        "id": "5e3695f2-e9c0-4067-9dc2-a6c7ec3b9f15",
+        "resource_type": null,
+        "size": 6144
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "産業雇用創出",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c011.png",
+        "title": "産業雇用創出",
+        "id": "bb1c42ce-dc7e-48cf-91d4-05cab59db4bd",
+        "name": "c011"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.minato.tokyo.jp/",
+      "created": "2019-11-01T03:27:24.220357",
+      "title": "港区",
+      "name": "t131032",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131032.jpg",
+      "revision_id": "8f5676eb-3316-4cc6-b26a-4f7e1b39e109",
+      "type": "organization",
+      "id": "6adece4f-1ee9-416a-a7e7-856b8d5fb050",
+      "approval_status": "approved"
+    },
+    "name": "t131032d0000000052",
+    "isopen": true,
+    "url": "https://www.city.minato.tokyo.jp/toukeichousa/kuse/toke/jigyosho/h24jugyosha.html",
+    "notes": "【港区】平成24年経済センサスに関する情報です。",
+    "owner_org": "6adece4f-1ee9-416a-a7e7-856b8d5fb050",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "更新無"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "平成24年経済センサス",
+    "revision_id": "a4a645fe-078a-44be-8ba9-8df300ca3c9e"
+  }
+}

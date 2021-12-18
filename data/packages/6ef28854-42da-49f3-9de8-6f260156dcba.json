@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "総務部総務課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "6ef28854-42da-49f3-9de8-6f260156dcba",
+    "metadata_created": "2019-11-01T04:57:35.667485",
+    "metadata_modified": "2019-11-01T08:44:07.855696",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "国勢調査（平成28年版練馬区統計書掲載分）",
+        "format": "XLSX",
+        "url": "https://www.city.nerima.tokyo.jp/kusei/tokei/opendata/opendatasite/tokei_kusei/kokuseichousa.files/H28_kokuseichousa.xlsx",
+        "cache_last_updated": null,
+        "package_id": "6ef28854-42da-49f3-9de8-6f260156dcba",
+        "created": "2017-12-26T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-12-26T15:00:00",
+        "position": 0,
+        "revision_id": "44d6d14d-8cf4-4b15-acb3-334635c10b71",
+        "url_type": null,
+        "id": "23bc554a-f04e-4567-b617-a44c8b86b6e4",
+        "resource_type": null,
+        "size": 67584
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "国勢調査（平成29年版練馬区統計書掲載分）",
+        "format": "XLSX",
+        "url": "https://www.city.nerima.tokyo.jp/kusei/tokei/opendata/opendatasite/tokei_kusei/kokuseichousa.files/H29_kokuseichousa.xlsx",
+        "cache_last_updated": null,
+        "package_id": "6ef28854-42da-49f3-9de8-6f260156dcba",
+        "created": "2018-03-31T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-03-06T15:00:00",
+        "position": 1,
+        "revision_id": "c3663a3d-c85c-4eb6-9ab8-31031215ba4a",
+        "url_type": null,
+        "id": "4cdac724-0223-4ded-9284-6c73a92a3daf",
+        "resource_type": null,
+        "size": 70656
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.nerima.tokyo.jp/",
+      "created": "2019-11-01T03:27:25.822926",
+      "title": "練馬区",
+      "name": "t131202",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131202.gif",
+      "revision_id": "c9aef7e0-f984-4dce-bc1b-accb7d513a92",
+      "type": "organization",
+      "id": "76020df2-dfd1-42a2-9f7d-dbe5cefc7028",
+      "approval_status": "approved"
+    },
+    "name": "t131202d0000000023",
+    "isopen": true,
+    "url": "https://www.city.nerima.tokyo.jp/kusei/tokei/somutokei/index.html",
+    "notes": "【練馬区】国勢調査の集計結果について、練馬区に係る分のうち主要なものを掲載しています。",
+    "owner_org": "76020df2-dfd1-42a2-9f7d-dbe5cefc7028",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "国勢調査",
+    "revision_id": "55f37ae1-d0d2-4571-8f17-e24f3e5d177f"
+  }
+}

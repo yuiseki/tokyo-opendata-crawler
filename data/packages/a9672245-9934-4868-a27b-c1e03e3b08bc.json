@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "清瀬市市民環境部産業振興課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "a9672245-9934-4868-a27b-c1e03e3b08bc",
+    "metadata_created": "2020-11-10T01:37:06.692022",
+    "owner_org": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
+    "metadata_modified": "2021-06-16T02:25:16.182647",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "【清瀬市】観光施設の一覧です。",
+        "format": "CSV",
+        "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/001/604/132217_tourism.csv",
+        "created": "2018-06-27T02:53:00",
+        "state": "active",
+        "package_id": "a9672245-9934-4868-a27b-c1e03e3b08bc",
+        "last_modified": "2018-06-27T02:53:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "7693b252-c1e0-4833-8554-1d6f05c426f6",
+        "size": 3072,
+        "id": "f4b83e85-8d96-4861-b24e-044cff7c3b96",
+        "resource_type": null,
+        "name": "観光施設一覧"
+      },
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "【清瀬市】観光施設の一覧です。",
+        "format": "XLSX",
+        "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/001/604/132217_tourism.xlsx",
+        "created": "2018-06-27T02:53:00",
+        "state": "active",
+        "package_id": "a9672245-9934-4868-a27b-c1e03e3b08bc",
+        "last_modified": "2018-06-27T02:53:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 1,
+        "revision_id": "b4f20f85-278a-41f9-a594-a3d7458d8199",
+        "size": 174080,
+        "id": "97c62912-27d5-4906-8aba-3b4b056ac545",
+        "resource_type": null,
+        "name": "観光施設一覧"
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "観光",
+        "description": "",
+        "title": "観光",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c008.png",
+        "id": "420fd8d6-2bde-4746-9354-6344ec19ba93",
+        "name": "c008"
+      }
+    ],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t132217d0000000004",
+    "isopen": true,
+    "url": "https://www.city.kiyose.lg.jp/opendata/opendataichiran/1001604.html",
+    "notes": "【清瀬市】観光施設の一覧です。",
+    "title": "観光施設一覧",
+    "extras": [
+      {
+        "value": "変更の都度",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "https://www.city.kiyose.lg.jp/index.html",
+      "title": "清瀬市",
+      "created": "2020-08-05T08:00:00.206131",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "f8ef546d-d3f4-46e8-9741-39a6eec61618",
+      "type": "organization",
+      "id": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
+      "name": "t132217"
+    },
+    "revision_id": "2f900b59-96ee-459d-94a4-e8b195d06998"
+  }
+}

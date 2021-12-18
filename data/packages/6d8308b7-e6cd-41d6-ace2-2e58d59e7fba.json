@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "葛飾区産業観光部観光課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "6d8308b7-e6cd-41d6-ace2-2e58d59e7fba",
+    "metadata_created": "2020-09-25T04:43:11.750372",
+    "metadata_modified": "2020-09-25T04:43:12.209519",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "葛飾区内の観光施設一覧です。",
+        "name": "観光施設一覧",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/suisyoudataset/131229_tourism.csv",
+        "cache_last_updated": null,
+        "package_id": "6d8308b7-e6cd-41d6-ace2-2e58d59e7fba",
+        "created": "2020-09-10T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2020-09-10T15:00:00",
+        "position": 0,
+        "revision_id": "c967105d-6fc2-4678-b96c-73ca643c44e5",
+        "url_type": null,
+        "id": "79266ea3-6d55-477d-b501-e22310eb9560",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "観光",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c008.png",
+        "title": "観光",
+        "id": "420fd8d6-2bde-4746-9354-6344ec19ba93",
+        "name": "c008"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "",
+      "created": "2019-11-01T03:27:25.970171",
+      "title": "葛飾区",
+      "name": "t131229",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131229.gif",
+      "revision_id": "d5f27446-7493-44b7-beb2-83667838dc90",
+      "type": "organization",
+      "id": "f6704901-a294-4676-af29-4a262e737013",
+      "approval_status": "approved"
+    },
+    "name": "t131229d0000000004",
+    "isopen": true,
+    "url": "http://www.city.katsushika.lg.jp/institution/1000094/index.html",
+    "notes": "葛飾区内の観光施設一覧です。",
+    "owner_org": "f6704901-a294-4676-af29-4a262e737013",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "年１回（４月頃）"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "観光施設一覧",
+    "revision_id": "1e5accdc-f74d-496c-a3b3-fc0184603761"
+  }
+}

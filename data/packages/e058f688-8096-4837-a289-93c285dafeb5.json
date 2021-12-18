@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "総合防災部防災管理課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "e058f688-8096-4837-a289-93c285dafeb5",
+    "metadata_created": "2019-11-01T04:52:56.453961",
+    "metadata_modified": "2021-08-30T08:13:40.358848",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "2.3　元禄型関東地震(M8.1)の津波シュミレーション結果について(総括表)",
+        "name": "元禄型関東地震　総括表",
+        "format": "CSV",
+        "url": "https://www.bousai.metro.tokyo.lg.jp/content/opendata/csv/2-3_2.csv",
+        "cache_last_updated": null,
+        "package_id": "e058f688-8096-4837-a289-93c285dafeb5",
+        "created": "2018-04-12T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-04-12T15:00:00",
+        "position": 0,
+        "revision_id": "9c1ef483-4e3a-4b1b-92ab-545239b39a72",
+        "url_type": null,
+        "id": "a4f4eeac-420c-45b5-b59d-286d172b0854",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "防災・災害計画",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c001.png",
+        "title": "防災・災害計画",
+        "id": "8eb52f8e-0d10-44f4-8bb4-2a488d0f8465",
+        "name": "c001"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.soumu.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:19.763566",
+      "title": "東京都総務局",
+      "name": "t000003",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000003.png",
+      "revision_id": "c4e16dd4-cb3f-42dc-8be2-2eed0f9e0175",
+      "type": "organization",
+      "id": "5987f8a3-dfbe-4f96-b3cc-e1f3ea0a2717",
+      "approval_status": "approved"
+    },
+    "name": "t000003d1700000046",
+    "isopen": true,
+    "url": "",
+    "notes": "【東京都総務局】",
+    "owner_org": "5987f8a3-dfbe-4f96-b3cc-e1f3ea0a2717",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "南海トラフ巨大地震等による東京の被害想定（平成25年5月14日公表）_2 元禄型関東地震による津波の数値シミュレーションについて（島しょ部）",
+    "revision_id": "67ea8248-1eae-4c78-b926-d46fd2b9d97c"
+  }
+}

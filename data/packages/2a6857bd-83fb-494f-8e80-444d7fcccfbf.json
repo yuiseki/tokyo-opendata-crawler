@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "少子社会対策部家庭支援課母子医療助成担当",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "2a6857bd-83fb-494f-8e80-444d7fcccfbf",
+    "metadata_created": "2019-11-01T04:54:29.611093",
+    "metadata_modified": "2019-11-01T06:10:55.284738",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "※東京都少子社会対策部家庭支援課が実施した不妊検査及び一般不妊治療実施医療機関調査において、不妊検査及び一般不妊治療の実施ありと回答し、ホームページ掲載に同意いただいた医療機関を掲載しております。",
+        "name": "都内の不妊検査等実施医療機関",
+        "format": "CSV",
+        "url": "http://www.fukushihoken.metro.tokyo.jp/kodomo/kosodate/josei/funinkensa/gaiyou.files/iryoukikanichiran.csv",
+        "cache_last_updated": null,
+        "package_id": "2a6857bd-83fb-494f-8e80-444d7fcccfbf",
+        "created": "2019-05-29T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-05-29T15:00:00",
+        "position": 0,
+        "revision_id": "3be62029-f31d-4a16-bbb7-ed731bb2ee03",
+        "url_type": null,
+        "id": "cbfef69f-9c5c-4666-a9b1-97dfe5ab7193",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "※東京都少子社会対策部家庭支援課が実施した不妊検査及び一般不妊治療実施医療機関調査において、不妊検査及び一般不妊治療の実施ありと回答し、ホームページ掲載に同意いただいた医療機関を掲載しております。",
+        "name": "都内の不妊検査等実施医療機関【注釈等】",
+        "format": "TXT",
+        "url": "http://www.fukushihoken.metro.tokyo.jp/kodomo/kosodate/josei/funinkensa/gaiyou.files/iryoukikanichiran_annotation.txt",
+        "cache_last_updated": null,
+        "package_id": "2a6857bd-83fb-494f-8e80-444d7fcccfbf",
+        "created": "2019-05-29T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-05-29T15:00:00",
+        "position": 1,
+        "revision_id": "184dc32e-24c7-43e9-a668-570cab17a773",
+        "url_type": null,
+        "id": "208303ca-76e6-41c3-89a1-819623d97427",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "医療・福祉",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c005.png",
+        "title": "医療・福祉",
+        "id": "0d3cd956-612c-45c5-b1ee-75c1a5835c0e",
+        "name": "c005"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.fukushihoken.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.864364",
+      "title": "東京都福祉保健局",
+      "name": "t000010",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000010.jpg",
+      "revision_id": "8d3da6a9-bfe7-4cd1-9d5d-9737b2293939",
+      "type": "organization",
+      "id": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+      "approval_status": "approved"
+    },
+    "name": "t000010d1800000024",
+    "isopen": true,
+    "url": "http://www.fukushihoken.metro.tokyo.jp/kodomo/kosodate/josei/funinkensa/gaiyou.html",
+    "notes": "【東京福祉保健局】東京都が実施した調査でホームページ掲載に同意をいただいた医療機関の一覧となります。",
+    "owner_org": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "不妊検査等助成事業の概要_",
+    "revision_id": "e6568ee0-79bc-43c0-b23d-0372275f39b2"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "文化観光産業部 文化観光課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "437d40b0-cac4-4eae-b1a9-ce23af7d1d63",
+    "metadata_created": "2019-11-01T04:56:47.488999",
+    "metadata_modified": "2019-11-01T08:38:45.182462",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "新宿区の文化財・史跡情報です。",
+        "name": "文化財・史跡",
+        "format": "CSV",
+        "url": "http://www.city.shinjuku.lg.jp/content/000254447.csv",
+        "cache_last_updated": null,
+        "package_id": "437d40b0-cac4-4eae-b1a9-ce23af7d1d63",
+        "created": "2019-01-21T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-01-28T15:00:00",
+        "position": 0,
+        "revision_id": "ec0e29ce-1946-4965-9e76-710aa8c16c9d",
+        "url_type": null,
+        "id": "26f819b4-2870-459b-86f5-6b62d7633afe",
+        "resource_type": null,
+        "size": 20480
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "新宿区の観光スポット情報です。",
+        "name": "観光スポット",
+        "format": "CSV",
+        "url": "http://www.city.shinjuku.lg.jp/content/000254450.csv",
+        "cache_last_updated": null,
+        "package_id": "437d40b0-cac4-4eae-b1a9-ce23af7d1d63",
+        "created": "2019-01-21T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-01-28T15:00:00",
+        "position": 1,
+        "revision_id": "c0f56f67-3be4-48d5-ac6c-32235e2d7e88",
+        "url_type": null,
+        "id": "b607017c-3fb7-48ca-9b84-6035e173dc33",
+        "resource_type": null,
+        "size": 9216
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "観光",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c008.png",
+        "title": "観光",
+        "id": "420fd8d6-2bde-4746-9354-6344ec19ba93",
+        "name": "c008"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "",
+      "created": "2019-11-01T03:27:24.390617",
+      "title": "新宿区",
+      "name": "t131041",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131041.jpg",
+      "revision_id": "32114732-e02e-4a21-95ea-57f0bde433bb",
+      "type": "organization",
+      "id": "dae20c75-717a-45a5-91e9-ca6e6530178c",
+      "approval_status": "approved"
+    },
+    "name": "t131041d0000000004",
+    "isopen": true,
+    "url": "",
+    "notes": "【新宿区】文化財・史跡、観光スポット情報です。",
+    "owner_org": "dae20c75-717a-45a5-91e9-ca6e6530178c",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "新宿区の観光情報",
+    "revision_id": "905b9252-d324-4496-bcc5-5601cc2aaba1"
+  }
+}

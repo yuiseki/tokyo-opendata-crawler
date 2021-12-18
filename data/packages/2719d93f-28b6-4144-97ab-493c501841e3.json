@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "総務部企画計理課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "2719d93f-28b6-4144-97ab-493c501841e3",
+    "metadata_created": "2019-11-01T04:55:04.759984",
+    "metadata_modified": "2019-11-01T08:06:06.199579",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "報告書内の図表22種  \n\nZIPファイルには一覧表となるテキストファイル1種を含みます。\n",
+        "name": "平成28年度海外における特定複合観光施設に関する調査分析業務委託報告書（CSVファイル22種）",
+        "format": "ZIP",
+        "url": "http://www.kouwan.metro.tokyo.jp/jigyo/71.zip",
+        "cache_last_updated": null,
+        "package_id": "2719d93f-28b6-4144-97ab-493c501841e3",
+        "created": "2018-03-11T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-03-11T15:00:00",
+        "position": 0,
+        "revision_id": "3f692859-3770-4c9a-bd02-37b0fb413657",
+        "url_type": null,
+        "id": "475277c6-e170-4380-ab8f-5efcb0274fa9",
+        "resource_type": null,
+        "size": 12288
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "観光",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c008.png",
+        "title": "観光",
+        "id": "420fd8d6-2bde-4746-9354-6344ec19ba93",
+        "name": "c008"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.kouwan.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:21.661622",
+      "title": "東京都港湾局",
+      "name": "t000015",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000015.jpg",
+      "revision_id": "0ae0b754-9704-453d-a632-4097dcdb2ebf",
+      "type": "organization",
+      "id": "4a51054b-f927-4a44-902b-889a0a1fa75d",
+      "approval_status": "approved"
+    },
+    "name": "t000015d1700000006",
+    "isopen": true,
+    "url": "http://www.kouwan.metro.tokyo.jp/jigyo/announcement/irchosa.html",
+    "notes": "【東京都港湾局】　",
+    "owner_org": "4a51054b-f927-4a44-902b-889a0a1fa75d",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "1年ごと"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "平成28年度海外における特定複合観光施設に関する調査分析業務委託報告書",
+    "revision_id": "1c631636-d477-4ae8-bec0-1a8ccaf22cad"
+  }
+}

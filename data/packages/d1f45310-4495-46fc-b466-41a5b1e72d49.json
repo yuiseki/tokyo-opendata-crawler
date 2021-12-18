@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "市民部市民税課税務管理係",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "d1f45310-4495-46fc-b466-41a5b1e72d49",
+    "metadata_created": "2019-12-26T11:17:37.020919",
+    "metadata_modified": "2021-04-22T04:44:17.658413",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "三鷹市における市税情報の概要です。税目別の市税の推移などのデータです。",
+        "name": "市税の概要（平成30年度）",
+        "format": "PDF",
+        "url": "http://www.city.mitaka.lg.jp/c_service/078/attached/attach_78398_1.pdf",
+        "cache_last_updated": null,
+        "package_id": "d1f45310-4495-46fc-b466-41a5b1e72d49",
+        "created": "2019-03-06T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-03-06T15:00:00",
+        "position": 0,
+        "revision_id": "7554c0e1-cb9d-447c-b102-174811b6f6c6",
+        "url_type": null,
+        "id": "d77d604e-135b-4e6b-9ec4-87d889f79ffb",
+        "resource_type": null,
+        "size": 4209664
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "三鷹市における市税情報の概要です。税目別の市税の推移などのデータです。",
+        "name": "市税の概要（令和元年度）",
+        "format": "PDF",
+        "url": "https://www.city.mitaka.lg.jp/c_service/078/attached/attach_78398_2.pdf",
+        "cache_last_updated": null,
+        "package_id": "d1f45310-4495-46fc-b466-41a5b1e72d49",
+        "created": "2021-04-22T04:44:15.429591",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": null,
+        "position": 1,
+        "revision_id": "7faaa383-431a-46e8-9723-d260b27705e6",
+        "url_type": null,
+        "id": "df281730-24ec-4251-a519-1fbb2175f9cd",
+        "resource_type": null,
+        "size": 4430848
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "税金",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c007.png",
+        "title": "税金",
+        "id": "bb8a1d8b-5217-44c2-8eca-81addb671f0e",
+        "name": "c007"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.mitaka.tokyo.jp/",
+      "created": "2019-11-01T03:27:26.290901",
+      "title": "三鷹市",
+      "name": "t132047",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t132047.png",
+      "revision_id": "29067a77-93a5-401f-8cf9-067b0d741280",
+      "type": "organization",
+      "id": "bad8a80a-36ed-489a-89c2-d1669a424860",
+      "approval_status": "approved"
+    },
+    "name": "t132047d0000000015",
+    "isopen": true,
+    "url": "",
+    "notes": "三鷹市における市税情報の概要です。",
+    "owner_org": "bad8a80a-36ed-489a-89c2-d1669a424860",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "1年ごと"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "【予算・決算】市税の概要",
+    "revision_id": "5240ff9d-2e9d-4e8b-a278-69276001f76b"
+  }
+}

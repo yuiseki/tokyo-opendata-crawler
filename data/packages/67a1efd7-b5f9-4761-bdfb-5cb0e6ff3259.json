@@ -1,0 +1,101 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "福生市企画財政部企画調整課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 1,
+    "id": "67a1efd7-b5f9-4761-bdfb-5cb0e6ff3259",
+    "metadata_created": "2019-11-01T04:58:57.550293",
+    "metadata_modified": "2019-11-01T09:34:07.591892",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "イベント一覧",
+        "format": "CSV",
+        "url": "http://www.city.fussa.tokyo.jp/_res/projects/default_project/_page_/001/005/584/132187_event.csv",
+        "cache_last_updated": null,
+        "package_id": "67a1efd7-b5f9-4761-bdfb-5cb0e6ff3259",
+        "created": "2019-03-06T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-03-06T15:00:00",
+        "position": 0,
+        "revision_id": "e50da809-6f7c-4698-826c-2d9afeebfaaf",
+        "url_type": null,
+        "id": "05042ca8-b303-45f6-90a0-e16e0e8fc16c",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [
+      {
+        "vocabulary_id": null,
+        "state": "active",
+        "display_name": "推奨データセット",
+        "id": "8a843f9d-b0c2-465c-86da-1df660de0b32",
+        "name": "推奨データセット"
+      }
+    ],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      },
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "",
+      "created": "2019-11-01T03:27:27.091849",
+      "title": "福生市",
+      "name": "t132187",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t132187.jpg",
+      "revision_id": "a5295988-c761-49a7-8bbb-de8b05d55aff",
+      "type": "organization",
+      "id": "939a4d3d-578e-4a9e-ac59-001eabf177b4",
+      "approval_status": "approved"
+    },
+    "name": "t132187d0000000001",
+    "isopen": true,
+    "url": "",
+    "notes": "【福生市】福生市が主催・共催するイベント情報の一覧です。内閣官房情報通信技術（IT）総合戦略室が平成29年12月22日に公開した、推奨データセットに準拠して作成しています。",
+    "owner_org": "939a4d3d-578e-4a9e-ac59-001eabf177b4",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "イベント一覧",
+    "revision_id": "184924e9-2113-4718-8232-72761e9e3b09"
+  }
+}

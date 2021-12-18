@@ -1,0 +1,93 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "少年育成課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "a4ab2254-517f-45f6-8866-2023a1a9b90f",
+    "metadata_created": "2020-08-21T06:45:54.533015",
+    "metadata_modified": "2020-08-21T06:47:04.662972",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "ZIPファイル内には一覧表となるテキストファイル1種を含みます。",
+        "name": "少年育成活動の概況（CSVファイル 101種）",
+        "format": "ZIP",
+        "url": "https://www.keishicho.metro.tokyo.jp/about_mpd/jokyo_tokei/kakushu/hiko.files/hikou.zip",
+        "cache_last_updated": null,
+        "package_id": "a4ab2254-517f-45f6-8866-2023a1a9b90f",
+        "created": "2020-08-12T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2020-08-12T15:00:00",
+        "position": 0,
+        "revision_id": "4f68b0f3-704e-4637-a3e6-0ce4f4016b8e",
+        "url_type": null,
+        "id": "ea185cc1-0f9e-4188-a10b-c34ed5b43c1b",
+        "resource_type": null,
+        "size": 292864
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "治安",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c002.png",
+        "title": "治安",
+        "id": "de8273ac-2339-4309-ad15-2800b751b45e",
+        "name": "c002"
+      },
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.keishicho.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:22.754561",
+      "title": "警視庁",
+      "name": "t000022",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000022.jpg",
+      "revision_id": "6ec2a37b-87b3-4747-ac28-2a6800716699",
+      "type": "organization",
+      "id": "a80c46c5-d236-4d83-b4f9-656c25d0847d",
+      "approval_status": "approved"
+    },
+    "name": "t000022d0000000036",
+    "isopen": true,
+    "url": "https://www.keishicho.metro.tokyo.jp/about_mpd/jokyo_tokei/kakushu/hiko.html",
+    "notes": "",
+    "owner_org": "a80c46c5-d236-4d83-b4f9-656c25d0847d",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "1年ごと"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "少年育成活動の概況",
+    "revision_id": "d11daae8-4210-465b-8688-d70d9b9a2202"
+  }
+}

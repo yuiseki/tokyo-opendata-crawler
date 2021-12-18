@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "東京都水道局サービス推進部サービス推進課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "3a9222e5-4f8a-4d96-8796-3071261fd3e1",
+    "metadata_created": "2020-04-09T06:28:53.885428",
+    "metadata_modified": "2021-08-10T09:06:46.266316",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "Tokyowater Drinking Station一覧",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/suidou/R3/2021tokyowaterdrinkingstation_210701.csv",
+        "cache_last_updated": null,
+        "package_id": "3a9222e5-4f8a-4d96-8796-3071261fd3e1",
+        "created": "2021-08-10T05:16:19.045724",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": null,
+        "position": 0,
+        "revision_id": "c5fb7c12-1c92-4ba7-9704-513e209e8c4f",
+        "url_type": null,
+        "id": "d1b9eba1-0313-4fef-9139-ee78795be919",
+        "resource_type": null,
+        "size": 55296
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.waterworks.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:22.280579",
+      "title": "東京都水道局",
+      "name": "t000019",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000019.jpg",
+      "revision_id": "6f93ebbd-34d2-48da-9305-0c1de5e96c27",
+      "type": "organization",
+      "id": "df3e208c-40a5-4f30-b0f2-491ceffa6423",
+      "approval_status": "approved"
+    },
+    "name": "t000019d0000000003",
+    "isopen": true,
+    "url": "",
+    "notes": "【東京都水道局】東京都水道局がTokyowater Drinking Station（通称DS）として紹介している、都内の公共性の高い施設等に設置された水飲栓の場所（給水スポット）情報の一覧です。",
+    "owner_org": "df3e208c-40a5-4f30-b0f2-491ceffa6423",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "Tokyowater Drinking Station 一覧",
+    "revision_id": "129991c4-b0dd-4de1-af1d-a8c938beecf4"
+  }
+}

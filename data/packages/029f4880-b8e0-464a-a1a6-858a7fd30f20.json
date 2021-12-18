@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "都市づくり政策部緑地景観課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "029f4880-b8e0-464a-a1a6-858a7fd30f20",
+    "metadata_created": "2019-11-01T04:53:36.625790",
+    "metadata_modified": "2019-11-01T05:49:33.760214",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "図表2-1　景観基本軸設定一覧表",
+        "format": "CSV",
+        "url": "http://www.toshiseibi.metro.tokyo.jp/kenchiku/keikan/data/keikan_ichiran.csv",
+        "cache_last_updated": null,
+        "package_id": "029f4880-b8e0-464a-a1a6-858a7fd30f20",
+        "created": "2019-01-21T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-01-21T15:00:00",
+        "position": 0,
+        "revision_id": "9b4b24bb-2262-49f4-ad4f-332280146c2d",
+        "url_type": null,
+        "id": "b07f7f3d-7988-4b1e-97dd-8a0028230658",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "まちづくり",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c003.png",
+        "title": "まちづくり",
+        "id": "dc897c44-8153-4219-bfeb-6110fb85fb99",
+        "name": "c003"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.toshiseibi.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.560358",
+      "title": "東京都都市整備局",
+      "name": "t000008",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "9c234f0e-ff7d-4e2d-8ba4-ea80f312405b",
+      "type": "organization",
+      "id": "16d81025-a2ca-4002-8129-9906c94a4732",
+      "approval_status": "approved"
+    },
+    "name": "t000008d1800000019",
+    "isopen": true,
+    "url": "http://www.toshiseibi.metro.tokyo.jp/kenchiku/keikan/machinami_16.html",
+    "notes": "【東京都都市整備局】",
+    "owner_org": "16d81025-a2ca-4002-8129-9906c94a4732",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "東京都景観計画 ― 美しく風格のある東京の再生 ―",
+    "revision_id": "e3e51ed0-73fb-45b5-b8ec-c90551ecb18d"
+  }
+}

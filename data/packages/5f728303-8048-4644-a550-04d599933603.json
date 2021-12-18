@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "企画部情報政策課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "5f728303-8048-4644-a550-04d599933603",
+    "metadata_created": "2019-11-01T04:57:35.156916",
+    "metadata_modified": "2019-11-01T08:44:07.138983",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "「図表リスト」に掲げる図表については、練馬区以外の第三者が権利を有する可能性があります。",
+        "name": "練馬区情報化基本計画＜平成28年（2016）年度～平成31年度（2019）年度＞",
+        "format": "DOC",
+        "url": "https://www.city.nerima.tokyo.jp/kusei/tokei/opendata/opendatasite/tokei_kusei/kihonkeikaku.files/kihonkeikaku.doc",
+        "cache_last_updated": null,
+        "package_id": "5f728303-8048-4644-a550-04d599933603",
+        "created": "2017-04-20T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-04-20T15:00:00",
+        "position": 0,
+        "revision_id": "a9306971-5011-4a61-9cad-ac85fb655776",
+        "url_type": null,
+        "id": "da23cf8e-c2ba-4504-9085-3c9c1cdaa9b9",
+        "resource_type": null,
+        "size": 6291456
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "図表リスト",
+        "format": "DOCX",
+        "url": "https://www.city.nerima.tokyo.jp/kusei/tokei/opendata/opendatasite/tokei_kusei/kihonkeikaku.files/list.docx",
+        "cache_last_updated": null,
+        "package_id": "5f728303-8048-4644-a550-04d599933603",
+        "created": "2017-04-20T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-04-20T15:00:00",
+        "position": 1,
+        "revision_id": "f4c64168-32c1-428a-9fb6-f4b082edad13",
+        "url_type": null,
+        "id": "5f2f171b-b7e8-4942-a9f9-8c9450251700",
+        "resource_type": null,
+        "size": 16384
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.nerima.tokyo.jp/",
+      "created": "2019-11-01T03:27:25.822926",
+      "title": "練馬区",
+      "name": "t131202",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131202.gif",
+      "revision_id": "c9aef7e0-f984-4dce-bc1b-accb7d513a92",
+      "type": "organization",
+      "id": "76020df2-dfd1-42a2-9f7d-dbe5cefc7028",
+      "approval_status": "approved"
+    },
+    "name": "t131202d0000000021",
+    "isopen": true,
+    "url": "https://www.city.nerima.tokyo.jp/kusei/keikaku/shisaku/sonota/jyohotusin/kihonkeikaku28-31.html",
+    "notes": "【練馬区】ICT（情報通信技術）を活用した区民サービスの向上や情報システムの効率化・高度化などを推進するため、区の情報化の方向性と各取組を示したものです。",
+    "owner_org": "76020df2-dfd1-42a2-9f7d-dbe5cefc7028",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "練馬区情報化基本計画",
+    "revision_id": "f3098bee-f825-4060-8e7d-509c13e3ba49"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "総務局総合防災部防災管理課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "num_tags": 0,
+    "id": "63f2801c-ac7f-4e2b-be64-a2ddc0620655",
+    "metadata_created": "2021-10-29T04:10:57.107370",
+    "metadata_modified": "2021-12-02T04:25:08.357571",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": "",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "東京都 防災ホームページ 　「コロナ対策リーダー」登録フォームに登録している店舗データ（徹底点検済証が発行済みのものに限る）のうち、第三者提供に同意いただいている店舗のデータです。\n\nこの情報は新型コロナ対策のために収集し、掲載しているものですので、それ以外の目的に用いないようにお願いします。\n\n(注　事業所の所在地は、都において地図掲載に当たり必要となる補正を行ったデータとなります)\n",
+        "name": "コロナ対策リーダー・徹底点検済証発行店舗マップ　登録店舗マップ掲載データ",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/soumu/bousai/130001_tokyo_leadermap.csv",
+        "cache_last_updated": null,
+        "package_id": "63f2801c-ac7f-4e2b-be64-a2ddc0620655",
+        "created": "2021-10-25T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-12-01T15:00:00",
+        "position": 0,
+        "revision_id": "22aeb3ff-d7ca-49bc-88ba-9fb281a0660e",
+        "url_type": null,
+        "id": "2d3d2c99-0ffd-4d4a-bc76-bb1da9fa0b63",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.soumu.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:19.763566",
+      "title": "東京都総務局",
+      "name": "t000003",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000003.png",
+      "revision_id": "c4e16dd4-cb3f-42dc-8be2-2eed0f9e0175",
+      "type": "organization",
+      "id": "5987f8a3-dfbe-4f96-b3cc-e1f3ea0a2717",
+      "approval_status": "approved"
+    },
+    "name": "t000003d0000000100",
+    "isopen": true,
+    "url": "https://www.bousai.metro.tokyo.lg.jp/taisaku/torikumi/1008262/1008420/index.html",
+    "notes": "コロナ対策リーダー・徹底点検済証発行店舗マップ\n\nhttps://www.bousai.metro.tokyo.lg.jp/taisaku/torikumi/～\n\nに登録している店舗データのうち、第三者提供に同意いただいている店舗のデータです。\n\nこの情報は新型コロナ対策のために収集し、掲載しているものですので、それ以外の目的に用いないようにお願いします。\n\n(注　事業所の所在地は、都において地図掲載に当たり必要となる補正を行ったデータとなります)\n",
+    "owner_org": "5987f8a3-dfbe-4f96-b3cc-e1f3ea0a2717",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "月1回予定"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "コロナ対策リーダー・徹底点検済証発行店舗マップ掲載データ",
+    "revision_id": "2001d8f2-4dc5-43a0-a2cb-acb027a2c171"
+  }
+}

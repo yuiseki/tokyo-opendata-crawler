@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "教育委員会",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "41e3e5f3-04a1-427a-adb1-25caa6c5616a",
+    "metadata_created": "2019-11-01T04:56:51.836117",
+    "metadata_modified": "2019-11-01T09:35:46.329454",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "文京区の区立中学校の一覧です。（EXCELファイル）",
+        "name": "区立中学校",
+        "format": "XLSX",
+        "url": "https://www.city.bunkyo.lg.jp/library/opendata-bunkyo/02kosodate-kyouiku/04tyugakko/tyugakko.xlsx",
+        "cache_last_updated": null,
+        "package_id": "41e3e5f3-04a1-427a-adb1-25caa6c5616a",
+        "created": "2017-11-06T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-11-06T15:00:00",
+        "position": 0,
+        "revision_id": "74a17dde-bbfa-42d4-90a4-fbc19166d3ad",
+        "url_type": null,
+        "id": "dd71f79d-e05b-4154-bc6c-54793e6cb991",
+        "resource_type": null,
+        "size": 12288
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "文京区の区立中学校の一覧です。（CSVファイル）",
+        "name": "区立中学校",
+        "format": "CSV",
+        "url": "https://www.city.bunkyo.lg.jp/library/opendata-bunkyo/02kosodate-kyouiku/04tyugakko/tyugakko.csv",
+        "cache_last_updated": null,
+        "package_id": "41e3e5f3-04a1-427a-adb1-25caa6c5616a",
+        "created": "2017-11-06T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-11-06T15:00:00",
+        "position": 1,
+        "revision_id": "fe0869a7-9b8a-4a9b-a5a0-0c7d7cd7177b",
+        "url_type": null,
+        "id": "ed3cc1fe-03cd-443b-8a5b-c35fbe0004c0",
+        "resource_type": null,
+        "size": 2048
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.bunkyo.lg.jp/",
+      "created": "2019-11-01T03:27:24.573898",
+      "title": "文京区",
+      "name": "t131059",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131059.png",
+      "revision_id": "66ab70ed-369f-4eda-b72a-eacf3f7c8095",
+      "type": "organization",
+      "id": "201cae13-e069-464e-b376-1da3ce968538",
+      "approval_status": "approved"
+    },
+    "name": "t131059d0213010003",
+    "isopen": true,
+    "url": "",
+    "notes": "【文京区】　文京区の区立中学校の一覧です。",
+    "owner_org": "201cae13-e069-464e-b376-1da3ce968538",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "区立中学校",
+    "revision_id": "70b874ef-1b40-47b6-800e-3803dfb6ffeb"
+  }
+}

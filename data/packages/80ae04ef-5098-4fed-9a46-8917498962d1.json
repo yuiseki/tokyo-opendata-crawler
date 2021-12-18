@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "区民部文化・生涯学習課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "80ae04ef-5098-4fed-9a46-8917498962d1",
+    "metadata_created": "2020-03-17T01:43:12.847365",
+    "owner_org": "beddb482-adb4-4e03-9c25-f229c2a0b028",
+    "metadata_modified": "2021-08-19T00:04:25.616788",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "",
+        "format": "XLS",
+        "url": "https://www.city.chuo.lg.jp/kusei/statisticaldata/opendata.files/shakaikyoikukaikan.xls",
+        "created": "2018-02-08T15:00:00",
+        "state": "active",
+        "package_id": "80ae04ef-5098-4fed-9a46-8917498962d1",
+        "last_modified": "2021-01-08T15:00:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "194e0781-83b9-4b58-9518-a9f1d1da4649",
+        "size": 31744,
+        "id": "25791316-a54d-4e70-b268-d9b10285df34",
+        "resource_type": null,
+        "name": "社会教育会館"
+      },
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "",
+        "format": "CSV",
+        "url": "https://www.city.chuo.lg.jp/kusei/statisticaldata/opendata.files/shakaikyoikukaikan.csv",
+        "created": "2018-02-08T15:00:00",
+        "state": "active",
+        "package_id": "80ae04ef-5098-4fed-9a46-8917498962d1",
+        "last_modified": "2021-01-08T15:00:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 1,
+        "revision_id": "18f7f255-eb08-466a-8f22-fe9db8976a56",
+        "size": 4096,
+        "id": "380f6a50-3e22-4ea7-bb8c-87730b8c2fa5",
+        "resource_type": null,
+        "name": "社会教育会館"
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "芸術文化",
+        "description": "",
+        "title": "芸術文化",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c010.png",
+        "id": "9c1fb21f-bc27-401b-87b7-0fd44c13cc05",
+        "name": "c010"
+      }
+    ],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t131024d0000000008",
+    "isopen": true,
+    "url": "http://www.city.chuo.lg.jp/bunka/syogaigakusyu/shakaikyoiku/index.html",
+    "notes": "区内の社会教育会館の名称や所在地、緯度、経度、施設情報（利用料金、申込方法など）を掲載しています。",
+    "title": "社会教育会館",
+    "extras": [
+      {
+        "value": "随時",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "https://www.city.chuo.lg.jp/",
+      "title": "中央区",
+      "created": "2020-03-16T08:15:28.901611",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131024.png",
+      "revision_id": "fd4c096b-7319-43d7-a1a4-d2411b6beaee",
+      "type": "organization",
+      "id": "beddb482-adb4-4e03-9c25-f229c2a0b028",
+      "name": "t131024"
+    },
+    "revision_id": "15257fdc-e789-44cb-acb5-7bfff3f2e646"
+  }
+}

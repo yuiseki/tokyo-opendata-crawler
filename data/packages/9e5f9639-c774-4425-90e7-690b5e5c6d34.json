@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "統計部調整課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "9e5f9639-c774-4425-90e7-690b5e5c6d34",
+    "metadata_created": "2021-01-15T04:46:26.192490",
+    "owner_org": "5987f8a3-dfbe-4f96-b3cc-e1f3ea0a2717",
+    "metadata_modified": "2021-01-15T04:47:03.440264",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "",
+        "format": "CSV",
+        "url": "https://www.toukei.metro.tokyo.lg.jp/tnenkan/2018/tn18qv140100.csv",
+        "created": "2021-01-15T04:46:38.545948",
+        "state": "active",
+        "package_id": "9e5f9639-c774-4425-90e7-690b5e5c6d34",
+        "last_modified": null,
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "86f5c538-8cd6-4f96-9a99-f1191afa4ed4",
+        "size": 10240,
+        "id": "422616e8-ffbb-49d5-acd2-d377dbf47544",
+        "resource_type": null,
+        "name": "14-1　１世帯当たり年平均１か月間の用途別生計支出（全世帯）（平成26～30年）"
+      },
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "",
+        "format": "CSV",
+        "url": "https://www.toukei.metro.tokyo.lg.jp/tnenkan/2018/tn18qv140200.csv",
+        "created": "2021-01-15T04:46:38.825825",
+        "state": "active",
+        "package_id": "9e5f9639-c774-4425-90e7-690b5e5c6d34",
+        "last_modified": null,
+        "mimetype": null,
+        "url_type": null,
+        "position": 1,
+        "revision_id": "7da3b3c6-f019-47f9-b764-b08f4e434079",
+        "size": 14336,
+        "id": "154b5d61-bfaf-455f-9d70-f87a6106f4fc",
+        "resource_type": null,
+        "name": "14-2　１世帯当たり年平均１か月間の収入と用途別生計支出（勤労者世帯）（平成26～30年）"
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "title": "生活",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t000003d1900000031",
+    "isopen": true,
+    "url": "https://www.toukei.metro.tokyo.lg.jp/tnenkan/2018/tn18q3i014.htm",
+    "notes": "【東京都総務局】",
+    "title": "東京都統計年鑑　平成30年　14　家計",
+    "extras": [
+      {
+        "value": "1年ごと",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "http://www.soumu.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "title": "東京都総務局",
+      "created": "2019-11-01T03:27:19.763566",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000003.png",
+      "revision_id": "c4e16dd4-cb3f-42dc-8be2-2eed0f9e0175",
+      "type": "organization",
+      "id": "5987f8a3-dfbe-4f96-b3cc-e1f3ea0a2717",
+      "name": "t000003"
+    },
+    "revision_id": "56d9dc02-2c8b-4627-9866-e7c135372f5e"
+  }
+}

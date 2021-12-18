@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "企画経営部区長室",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "109dac3d-7b2d-4c07-ab3e-f177833d062a",
+    "metadata_created": "2020-06-24T02:11:46.477571",
+    "metadata_modified": "2020-06-24T02:12:18.151485",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "第32回港区民世論調査単純集計表・港区の職員に対する印象についての情報です。",
+        "name": "第32回港区民世論調査単純集計表・港区の職員に対する印象Q29",
+        "format": "CSV",
+        "url": "https://opendata.city.minato.tokyo.jp/dataset/b02fcac8-50b1-4820-b294-649986c48c25/resource/a06e95d3-c903-43b9-a66c-3dbd6642ef81/download/yoronchosa32_tanjun_q29.csv",
+        "cache_last_updated": null,
+        "package_id": "109dac3d-7b2d-4c07-ab3e-f177833d062a",
+        "created": "2020-03-30T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2020-06-09T06:00:00",
+        "position": 0,
+        "revision_id": "2497191e-de1e-4ba5-b312-63f934afadac",
+        "url_type": null,
+        "id": "60029489-8b23-4dc7-ac62-02dba8b6f591",
+        "resource_type": null,
+        "size": 23552
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "第32回港区民世論調査単純集計表・港区の職員に対する印象についての情報です。",
+        "name": "第32回港区民世論調査単純集計表・港区の職員に対する印象Q30",
+        "format": "CSV",
+        "url": "https://opendata.city.minato.tokyo.jp/dataset/b02fcac8-50b1-4820-b294-649986c48c25/resource/dad08971-ae25-4a10-a5cc-1072eaba1479/download/yoronchosa32_tanjun_q30.csv",
+        "cache_last_updated": null,
+        "package_id": "109dac3d-7b2d-4c07-ab3e-f177833d062a",
+        "created": "2020-03-30T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2020-06-09T06:00:00",
+        "position": 1,
+        "revision_id": "e2da66ad-137b-4dd4-ab3f-29c92312c16a",
+        "url_type": null,
+        "id": "5d91b37e-5da3-4093-88f7-6e74dbbc2261",
+        "resource_type": null,
+        "size": 23552
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.minato.tokyo.jp/",
+      "created": "2019-11-01T03:27:24.220357",
+      "title": "港区",
+      "name": "t131032",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131032.jpg",
+      "revision_id": "8f5676eb-3316-4cc6-b26a-4f7e1b39e109",
+      "type": "organization",
+      "id": "6adece4f-1ee9-416a-a7e7-856b8d5fb050",
+      "approval_status": "approved"
+    },
+    "name": "t131032d0000000077",
+    "isopen": true,
+    "url": "https://www.city.minato.tokyo.jp/kouchou/kuse/chosa/yoronchosa/29hokoku.html",
+    "notes": "【港区】第32回港区民世論調査単純集計表・港区の職員に対する印象についての情報です。",
+    "owner_org": "6adece4f-1ee9-416a-a7e7-856b8d5fb050",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "更新無"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "第32回港区民世論調査単純集計表・港区の職員に対する印象について",
+    "revision_id": "9a660fe2-6384-43a1-b387-a17a6c798583"
+  }
+}

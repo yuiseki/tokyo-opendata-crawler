@@ -1,0 +1,114 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "資源循環推進部",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "9b57f1f3-4100-4f29-9710-36647217735e",
+    "metadata_created": "2020-11-26T06:35:40.490862",
+    "owner_org": "c8b93db3-9754-48d3-8b50-5cbe78d679e7",
+    "metadata_modified": "2020-11-26T06:36:33.022571",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/kankyo/recycle/R11001jisseki.csv",
+        "created": "2020-11-26T06:35:41.508643",
+        "state": "active",
+        "package_id": "9b57f1f3-4100-4f29-9710-36647217735e",
+        "last_modified": null,
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "f9cc77e1-27ae-4a13-ab41-eb9fadf62c36",
+        "size": null,
+        "id": "d378d1b2-573e-491c-a5bf-612503ed2375",
+        "resource_type": null,
+        "name": "小型家電リサイクル・23区における使用済小型電子機器等のリサイクル取組状況（H31.4.1現在）"
+      },
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/kankyo/recycle/R11001jisseki2.csv",
+        "created": "2020-11-26T06:35:41.783554",
+        "state": "active",
+        "package_id": "9b57f1f3-4100-4f29-9710-36647217735e",
+        "last_modified": null,
+        "mimetype": null,
+        "url_type": null,
+        "position": 1,
+        "revision_id": "901ba26d-7b9d-4c3f-88cb-1da77b758de4",
+        "size": null,
+        "id": "8a2a46d6-8049-41c2-97d2-34d8ad91e8c6",
+        "resource_type": null,
+        "name": "小型家電リサイクル・都内市町村における使用済小型電子機器等のリサイクル取組状況（H31.4.1現在）"
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "環境",
+        "description": "",
+        "title": "環境",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c012.png",
+        "id": "427f3ee0-b28a-4fd2-b7dc-980507f154d2",
+        "name": "c012"
+      },
+      {
+        "display_name": "観光",
+        "description": "",
+        "title": "観光",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c008.png",
+        "id": "420fd8d6-2bde-4746-9354-6344ec19ba93",
+        "name": "c008"
+      }
+    ],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t000009d1900000018",
+    "isopen": true,
+    "url": "https://www.kankyo.metro.tokyo.lg.jp/resource/recycle/small_size_electronics/index.html",
+    "notes": "https://www.kankyo.metro.tokyo.lg.jp/resource/recycle/small_size_electronics/index.files/R11001jisseki.pdf",
+    "title": "都内区市町村における使用済小型電子機器等のリサイクル取組状況",
+    "extras": [
+      {
+        "value": "不定期半年ごと",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "http://www.kankyo.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "title": "東京都環境局",
+      "created": "2019-11-01T03:27:20.710014",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "a0bf6c30-64dc-48fe-9782-e38ae248a38d",
+      "type": "organization",
+      "id": "c8b93db3-9754-48d3-8b50-5cbe78d679e7",
+      "name": "t000009"
+    },
+    "revision_id": "1c1015fe-88f6-41bc-b523-5b7af5511319"
+  }
+}

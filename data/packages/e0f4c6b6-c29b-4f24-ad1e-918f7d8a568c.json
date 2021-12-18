@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "総務部公文書館",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "e0f4c6b6-c29b-4f24-ad1e-918f7d8a568c",
+    "metadata_created": "2020-06-10T05:44:48.364219",
+    "owner_org": "5987f8a3-dfbe-4f96-b3cc-e1f3ea0a2717",
+    "metadata_modified": "2020-06-10T05:45:17.336865",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "都市江戸は、初期城下町の成立後、明暦3年(1657)の大火で大きな被害を受けた後、計画的に都市域を拡大していき、17世紀後半にはほぼ江戸の原型ができあがります。その後も、街道沿いや寺社門前、周辺農村の中にも町場が形成され、江戸の都市域は拡張していきました。幕府はその実態を後追いするように順次町奉行支配に取り込んでいき、18世紀中葉の延享年間に町数は1,678町に達しました。こうした都市域と町奉行支配範囲の拡張を段階的にまとめたのが本表です。",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/soumu/h31/0712edo_hanni.csv",
+        "created": "2020-03-30T15:00:00",
+        "state": "active",
+        "package_id": "e0f4c6b6-c29b-4f24-ad1e-918f7d8a568c",
+        "last_modified": "2020-03-30T15:00:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "258f2ac6-21bb-4fd8-9e2d-a7747f8f66e8",
+        "size": null,
+        "id": "ad24bfca-e9d8-4f06-9893-22a2a06e85d6",
+        "resource_type": null,
+        "name": "江戸の拡張と町数の変遷"
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "title": "生活",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t000003d1900000003",
+    "isopen": true,
+    "url": "http://www.soumu.metro.tokyo.jp/01soumu/archives/07edo_tokyo.htm",
+    "notes": "【東京都総務局】\n\n都市江戸は、初期城下町の成立後、明暦3年(1657)の大火で大きな被害を受けた後、計画的に都市域を拡大していき、17世紀後半にはほぼ江戸の原型ができあがります。その後も、街道沿いや寺社門前、周辺農村の中にも町場が形成され、江戸の都市域は拡張していきました。幕府はその実態を後追いするように順次町奉行支配に取り込んでいき、18世紀中葉の延享年間に町数は1,678町に達しました。こうした都市域と町奉行支配範囲の拡張を段階的にまとめたのが本表です。\n",
+    "title": "江戸の拡張と町数の変遷",
+    "extras": [
+      {
+        "value": "公開時のみ",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "http://www.soumu.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "title": "東京都総務局",
+      "created": "2019-11-01T03:27:19.763566",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000003.png",
+      "revision_id": "c4e16dd4-cb3f-42dc-8be2-2eed0f9e0175",
+      "type": "organization",
+      "id": "5987f8a3-dfbe-4f96-b3cc-e1f3ea0a2717",
+      "name": "t000003"
+    },
+    "revision_id": "d5ef079e-838c-477d-a006-4e48bd85677a"
+  }
+}

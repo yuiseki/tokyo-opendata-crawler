@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "企画財政課企画情報係",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "15a3e2d4-5ecc-42ec-a1d6-1828a61d64fb",
+    "metadata_created": "2019-11-01T04:59:11.030217",
+    "metadata_modified": "2019-11-01T09:35:28.518739",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "町内の主な観光スポットを紹介しています。",
+        "name": "八丈島の主な観光スポット一覧（EXCELファイル）",
+        "format": "XLSX",
+        "url": "http://www.town.hachijo.tokyo.jp/kakuka/kikaku_zaisei/data/sightseeing.xlsx",
+        "cache_last_updated": null,
+        "package_id": "15a3e2d4-5ecc-42ec-a1d6-1828a61d64fb",
+        "created": "2017-12-13T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-12-13T15:00:00",
+        "position": 0,
+        "revision_id": "4c66c21b-0b0e-4f06-81ad-6b7b73f6ca2b",
+        "url_type": null,
+        "id": "10d0bb54-8d5d-4d14-afd3-6d1fe49ef7d4",
+        "resource_type": null,
+        "size": 15360
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "町内の主な観光スポットを紹介しています。",
+        "name": "八丈島の主な観光スポット一覧（CSVファイル）",
+        "format": "CSV",
+        "url": "http://www.town.hachijo.tokyo.jp/kakuka/kikaku_zaisei/data/sightseeing.csv",
+        "cache_last_updated": null,
+        "package_id": "15a3e2d4-5ecc-42ec-a1d6-1828a61d64fb",
+        "created": "2017-12-13T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-12-13T15:00:00",
+        "position": 1,
+        "revision_id": "1723af45-1e80-40a4-885f-fb58ff2971a0",
+        "url_type": null,
+        "id": "080dfc76-6027-4681-a2f9-dd4b40a06b13",
+        "resource_type": null,
+        "size": 8192
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "観光",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c008.png",
+        "title": "観光",
+        "id": "420fd8d6-2bde-4746-9354-6344ec19ba93",
+        "name": "c008"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.town.hachijo.tokyo.jp/",
+      "created": "2019-11-01T03:27:28.104581",
+      "title": "八丈町",
+      "name": "t134015",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t134015.png",
+      "revision_id": "1ab982ed-eacf-4952-83ff-5434bb8ffed9",
+      "type": "organization",
+      "id": "786fc6c0-da63-4f1f-b37c-3c235b216001",
+      "approval_status": "approved"
+    },
+    "name": "t134015d0000000002",
+    "isopen": true,
+    "url": "http://www.town.hachijo.tokyo.jp/kankou_spot/kankou-top.html",
+    "notes": "【八丈町】　町内の主な観光スポットを紹介しています。",
+    "owner_org": "786fc6c0-da63-4f1f-b37c-3c235b216001",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "八丈島の主な観光スポット一覧",
+    "revision_id": "010bb2a8-2e17-44fa-87ad-2b91d0943792"
+  }
+}

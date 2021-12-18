@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "環境改善部環境保安課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "dda0f421-8bc3-49ec-a55b-e1f5134e8fe9",
+    "metadata_created": "2019-11-01T04:53:46.658409",
+    "metadata_modified": "2019-11-01T05:52:09.636932",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "4-1　東京都内における高圧ガスにおける主な事故例(高圧ガス保安法関係)",
+        "format": "CSV",
+        "url": "http://www.kankyo.metro.tokyo.jp/data/publications/safety/safe.files/04_02_1.csv",
+        "cache_last_updated": null,
+        "package_id": "dda0f421-8bc3-49ec-a55b-e1f5134e8fe9",
+        "created": "2019-04-11T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-04-11T15:00:00",
+        "position": 0,
+        "revision_id": "3100bcdb-041a-42cb-9ac3-06005fcc63f5",
+        "url_type": null,
+        "id": "56a4eda8-fdae-46ff-b3cb-946d8a3c18f9",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "4-2　東京都内における高圧ガスによる主な事故例(液化石油ガス法関係)",
+        "format": "CSV",
+        "url": "http://www.kankyo.metro.tokyo.jp/data/publications/safety/safe.files/04_02_2.csv",
+        "cache_last_updated": null,
+        "package_id": "dda0f421-8bc3-49ec-a55b-e1f5134e8fe9",
+        "created": "2019-04-11T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-04-11T15:00:00",
+        "position": 1,
+        "revision_id": "795adebd-6e64-4806-b644-84bb3772f0be",
+        "url_type": null,
+        "id": "1b468fbd-f723-4d20-a173-c7830a81b3b4",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "環境",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c012.png",
+        "title": "環境",
+        "id": "427f3ee0-b28a-4fd2-b7dc-980507f154d2",
+        "name": "c012"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.kankyo.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.710014",
+      "title": "東京都環境局",
+      "name": "t000009",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "a0bf6c30-64dc-48fe-9782-e38ae248a38d",
+      "type": "organization",
+      "id": "c8b93db3-9754-48d3-8b50-5cbe78d679e7",
+      "approval_status": "approved"
+    },
+    "name": "t000009d1800000001",
+    "isopen": true,
+    "url": "http://www.kankyo.metro.tokyo.jp/data/publications/safety/safe.html",
+    "notes": "【東京都環境局】",
+    "owner_org": "c8b93db3-9754-48d3-8b50-5cbe78d679e7",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "東京都内における高圧ガスによる主な事故例",
+    "revision_id": "2368d89d-ee5b-4196-8de5-74fce62a2b84"
+  }
+}

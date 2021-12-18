@@ -1,0 +1,114 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "アカデミー推進部アカデミー推進課（スポーツ施設以外）/アカデミー推進部スポーツ振興課（スポーツ施設）",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "dfee5796-7ef5-4c41-abf2-90e5b40ad6a1",
+    "metadata_created": "2019-11-01T04:56:52.525419",
+    "metadata_modified": "2019-11-01T09:35:32.756586",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "文京区の文化・スポーツ施設の一覧です。（EXCELファイル）",
+        "name": "文化・スポーツ施設",
+        "format": "XLSX",
+        "url": "https://www.city.bunkyo.lg.jp/library/opendata-bunkyo/03bunka-kankou-sports/01bunka-sports/bunka-sports.xlsx",
+        "cache_last_updated": null,
+        "package_id": "dfee5796-7ef5-4c41-abf2-90e5b40ad6a1",
+        "created": "2017-11-06T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-11-06T15:00:00",
+        "position": 0,
+        "revision_id": "26bdf3f4-5085-40a6-a604-c2df27be895a",
+        "url_type": null,
+        "id": "a1a11358-69aa-4cfb-9318-9003a4b8f76a",
+        "resource_type": null,
+        "size": 16384
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "文京区の文化・スポーツ施設の一覧です。（CSVファイル）",
+        "name": "文化・スポーツ施設",
+        "format": "CSV",
+        "url": "https://www.city.bunkyo.lg.jp/library/opendata-bunkyo/03bunka-kankou-sports/01bunka-sports/bunka-sports.csv",
+        "cache_last_updated": null,
+        "package_id": "dfee5796-7ef5-4c41-abf2-90e5b40ad6a1",
+        "created": "2017-11-06T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-11-06T15:00:00",
+        "position": 1,
+        "revision_id": "d925a259-34f1-40af-b9b5-b8db3831d0cd",
+        "url_type": null,
+        "id": "4fb225b9-c79c-47bc-bfe3-adec3f729906",
+        "resource_type": null,
+        "size": 4096
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "オリンピック・パラリンピック",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c009.png",
+        "title": "オリンピック・パラリンピック",
+        "id": "4e11ae7b-55ad-44ce-8ec3-dc7205cc78f6",
+        "name": "c009"
+      },
+      {
+        "display_name": "芸術文化",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c010.png",
+        "title": "芸術文化",
+        "id": "9c1fb21f-bc27-401b-87b7-0fd44c13cc05",
+        "name": "c010"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.bunkyo.lg.jp/",
+      "created": "2019-11-01T03:27:24.573898",
+      "title": "文京区",
+      "name": "t131059",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131059.png",
+      "revision_id": "66ab70ed-369f-4eda-b72a-eacf3f7c8095",
+      "type": "organization",
+      "id": "201cae13-e069-464e-b376-1da3ce968538",
+      "approval_status": "approved"
+    },
+    "name": "t131059d0304010001",
+    "isopen": true,
+    "url": "",
+    "notes": "【文京区】　文京区の文化・スポーツ施設の一覧です。",
+    "owner_org": "201cae13-e069-464e-b376-1da3ce968538",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "文化・スポーツ施設",
+    "revision_id": "a7574b6b-8612-4620-949e-2f7cb2879d88"
+  }
+}

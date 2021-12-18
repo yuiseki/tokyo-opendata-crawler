@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "選挙管理委員会事務局",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "8c62fdbd-893b-48f5-9473-02e5d1a21ea4",
+    "metadata_created": "2021-11-04T00:59:28.959978",
+    "owner_org": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
+    "metadata_modified": "2021-12-13T04:47:01.702901",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "",
+        "format": "CSV",
+        "url": "https://data.bodik.jp/dataset/74eafdae-85d7-4f6a-80bb-d28cd80aac06/resource/e245466c-60cf-44a1-b651-bc9dd68db3aa/download/131105_electoral_voting_results.csv",
+        "created": "2021-08-11T09:54:00",
+        "state": "active",
+        "package_id": "8c62fdbd-893b-48f5-9473-02e5d1a21ea4",
+        "last_modified": "2021-08-11T09:54:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "5ef4fb5f-2521-444a-93a5-8059f97cc75d",
+        "size": 712,
+        "id": "0cb6d0b3-ca61-4ec3-ab1c-08eb16eca5f6",
+        "resource_type": null,
+        "name": "区長・区議会議員選挙投票状況"
+      },
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "",
+        "format": "XLSX",
+        "url": "https://data.bodik.jp/dataset/74eafdae-85d7-4f6a-80bb-d28cd80aac06/resource/949d555a-85f4-4bef-ad9f-ce36410874c6/download/131105_electoral_voting_results.xlsx",
+        "created": "2021-08-14T00:58:00",
+        "state": "active",
+        "package_id": "8c62fdbd-893b-48f5-9473-02e5d1a21ea4",
+        "last_modified": "2021-08-14T00:58:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 1,
+        "revision_id": "88503055-3af3-4ba4-b867-cc696a71a92d",
+        "size": 10669,
+        "id": "2c751d6c-48d6-4b02-ad7f-031432544e7e",
+        "resource_type": null,
+        "name": "区長・区議会議員選挙投票状況"
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "title": "生活",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t131105d0000000011",
+    "isopen": true,
+    "url": "https://www.city.meguro.tokyo.jp/gyosei/senkyo/kiroku.html",
+    "notes": "区長および区議会議員の選挙ごとの投票状況\n",
+    "title": "区長・区議会議員選挙投票状況",
+    "extras": [
+      {
+        "value": "随時",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "https://odcs.bodik.jp/131105/",
+      "title": "目黒区",
+      "created": "2021-11-01T02:12:22.338293",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131105.png",
+      "revision_id": "e3dc243f-e3a2-4b2b-a319-4e145bb63383",
+      "type": "organization",
+      "id": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
+      "name": "t131105"
+    },
+    "revision_id": "498d4a62-5105-4459-b26a-23a553fff1f8"
+  }
+}

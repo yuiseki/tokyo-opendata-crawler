@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "都市づくり政策部緑地景観課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "934d4faf-724c-4848-b587-1785d5fa7bd4",
+    "metadata_created": "2019-11-01T04:53:39.093298",
+    "metadata_modified": "2019-11-01T05:51:23.372685",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "「都市計画公園・緑地の整備方針」都区市町合同改定検討委員会",
+        "format": "CSV",
+        "url": "http://www.toshiseibi.metro.tokyo.jp/seisaku/kaitei_koen_ryokuti/pdf/02/02_019.csv",
+        "cache_last_updated": null,
+        "package_id": "934d4faf-724c-4848-b587-1785d5fa7bd4",
+        "created": "2019-03-07T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-03-07T15:00:00",
+        "position": 0,
+        "revision_id": "3060ef06-6504-4cee-bbe2-0b437d088ed7",
+        "url_type": null,
+        "id": "1c89d778-7641-49a4-9486-5454cd8b0fdf",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "まちづくり",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c003.png",
+        "title": "まちづくり",
+        "id": "dc897c44-8153-4219-bfeb-6110fb85fb99",
+        "name": "c003"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.toshiseibi.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.560358",
+      "title": "東京都都市整備局",
+      "name": "t000008",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "9c234f0e-ff7d-4e2d-8ba4-ea80f312405b",
+      "type": "organization",
+      "id": "16d81025-a2ca-4002-8129-9906c94a4732",
+      "approval_status": "approved"
+    },
+    "name": "t000008d1800000032",
+    "isopen": true,
+    "url": "http://www.toshiseibi.metro.tokyo.jp/seisaku/kaitei_koen_ryokuti/kaitei_02.html",
+    "notes": "【東京都都市整備局】",
+    "owner_org": "16d81025-a2ca-4002-8129-9906c94a4732",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "「都市計画公園・緑地の整備方針(改定)」（平成23年12月）　検討体制、検討の経緯",
+    "revision_id": "bfcbd047-0208-4873-81ce-0f47e473fe92"
+  }
+}

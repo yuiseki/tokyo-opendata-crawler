@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "教育委員会事務局学校教育課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "dc429efe-136e-42fa-87ef-058c62d40c0c",
+    "metadata_created": "2021-10-14T00:57:51.184648",
+    "owner_org": "5e5b6123-ee7e-4097-9e26-dae0bcdb457c",
+    "metadata_modified": "2021-12-15T00:22:58.573934",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "",
+        "format": "CSV",
+        "url": "https://www.city.tokyo-nakano.lg.jp/dept/107000/d027582_d/fil/131148_syougakkoukondate.csv",
+        "created": "2021-03-16T15:00:00",
+        "state": "active",
+        "package_id": "dc429efe-136e-42fa-87ef-058c62d40c0c",
+        "last_modified": "2021-02-25T15:00:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "936c1f0f-2501-4f93-a256-4f0396d0338a",
+        "size": null,
+        "id": "61475ebb-5e61-40b3-a920-82d6461e12e0",
+        "resource_type": null,
+        "name": "区立小学校標準献立表"
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t131148d0000000033",
+    "isopen": true,
+    "url": "https://www.city.tokyo-nakano.lg.jp/dept/212500/d027582.html",
+    "notes": "中野区立小学校の標準献立表です。",
+    "title": "区立小学校標準献立表",
+    "extras": [
+      {
+        "value": "",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "https://www.city.tokyo-nakano.lg.jp/",
+      "title": "中野区",
+      "created": "2019-11-01T03:27:25.195268",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131148.jpg",
+      "revision_id": "6d6159b5-afb0-416b-b34f-be8cfa10c02c",
+      "type": "organization",
+      "id": "5e5b6123-ee7e-4097-9e26-dae0bcdb457c",
+      "name": "t131148"
+    },
+    "revision_id": "2426d812-e2e2-4874-965d-e2e3e6925f5d"
+  }
+}

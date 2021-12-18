@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "昭島市生涯学習部スポーツ振興課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "1977cae1-3c82-461c-8da9-cb2591cfa599",
+    "metadata_created": "2021-09-30T07:34:17.038891",
+    "owner_org": "f9f056fc-d7ea-4208-a7a0-ea94c8d379c7",
+    "metadata_modified": "2021-09-30T07:34:19.508634",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/akishima/132071.csv",
+        "created": "2021-09-07T09:14:00",
+        "state": "active",
+        "package_id": "1977cae1-3c82-461c-8da9-cb2591cfa599",
+        "last_modified": "2021-09-07T09:14:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "7eb134a5-e06b-42af-9fd9-2dd2492b5be3",
+        "size": null,
+        "id": "9a713c8c-4fc0-477f-b4b2-0b6e9e33e27e",
+        "resource_type": null,
+        "name": "運動施設一覧"
+      },
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "",
+        "format": "XLSX",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/akishima/132071.xlsx",
+        "created": "2021-09-07T09:13:00",
+        "state": "active",
+        "package_id": "1977cae1-3c82-461c-8da9-cb2591cfa599",
+        "last_modified": "2021-09-07T09:13:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 1,
+        "revision_id": "9684f498-c8f9-44b8-8ddb-e9a8a38f06c9",
+        "size": null,
+        "id": "327160a9-2096-492d-ade2-78376d7998f0",
+        "resource_type": null,
+        "name": "運動施設一覧"
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "title": "生活",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t132071d0000000002",
+    "isopen": true,
+    "url": "",
+    "notes": "【昭島市】昭島市の運動施設の一覧です。",
+    "title": "運動施設一覧",
+    "extras": [
+      {
+        "value": "年１回",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "",
+      "title": "昭島市",
+      "created": "2021-08-24T01:28:36.135062",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t132071.png",
+      "revision_id": "1a9c019b-311b-4207-94ad-4ae370515f83",
+      "type": "organization",
+      "id": "f9f056fc-d7ea-4208-a7a0-ea94c8d379c7",
+      "name": "t132071"
+    },
+    "revision_id": "01ffaa9b-69a2-4481-82fd-8b32a0222177"
+  }
+}

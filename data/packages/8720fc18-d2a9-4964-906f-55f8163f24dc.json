@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "選挙課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "8720fc18-d2a9-4964-906f-55f8163f24dc",
+    "metadata_created": "2019-11-01T04:56:18.040492",
+    "metadata_modified": "2019-11-01T08:32:39.910515",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "年代別・選挙別推定投票率一覧（平成23年）",
+        "format": "CSV",
+        "url": "http://www.senkyo.metro.tokyo.jp/uploads/h23chiji-kushi_nendai_gaiyou.csv",
+        "cache_last_updated": null,
+        "package_id": "8720fc18-d2a9-4964-906f-55f8163f24dc",
+        "created": "2018-01-24T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-01-24T15:00:00",
+        "position": 0,
+        "revision_id": "41a18d4a-9d56-4e00-93e8-a5a38ee8b201",
+        "url_type": null,
+        "id": "78b7cb38-d2ce-42f1-b488-e3fec8f3a4d3",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.senkyo.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:22.908491",
+      "title": "東京都選挙管理委員会事務局",
+      "name": "t000023",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "51e026be-6d4c-43bd-ae76-d84805440a07",
+      "type": "organization",
+      "id": "86f1375a-d3c8-4eef-9df0-c4864ee7e3af",
+      "approval_status": "approved"
+    },
+    "name": "t000023d1700000014",
+    "isopen": true,
+    "url": "http://www.senkyo.metro.tokyo.jp/election/",
+    "notes": "【東京都選挙管理委員会事務局】",
+    "owner_org": "86f1375a-d3c8-4eef-9df0-c4864ee7e3af",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "年代別投票行動調査結果　東京都知事・区市町村選挙（平成23年）",
+    "revision_id": "09151dfc-88d4-4d25-8417-006a5605f035"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "総合対策部交通安全課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "f6597dc1-15e1-4d17-861b-2ac4f87bb386",
+    "metadata_created": "2019-11-01T04:52:11.173459",
+    "owner_org": "ce1debcd-3c6c-40b5-9ade-461164a64820",
+    "metadata_modified": "2021-05-31T06:05:05.035695",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "",
+        "format": "CSV",
+        "url": "https://www.tomin-anzen.metro.tokyo.lg.jp/kotsu/churinjou.csv",
+        "created": "2017-10-22T15:00:00",
+        "state": "active",
+        "package_id": "f6597dc1-15e1-4d17-861b-2ac4f87bb386",
+        "last_modified": "2017-10-22T15:00:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "b4763dfe-76aa-4595-be84-14bc0722f0d5",
+        "size": 524288,
+        "id": "f1a5b798-3cde-4ec3-b511-44725c0caf58",
+        "resource_type": null,
+        "name": "自転車駐輪場情報"
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "title": "生活",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t000002d0000000002",
+    "isopen": true,
+    "url": "",
+    "notes": "【東京都青少年・治安対策本部】",
+    "title": "自転車駐輪場情報",
+    "extras": [
+      {
+        "value": "随時",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "http://www.tomin-anzen.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "title": "東京都都民安全推進本部",
+      "created": "2019-11-01T03:27:19.596374",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "f682f39e-31cf-419a-98eb-d960bdc02238",
+      "type": "organization",
+      "id": "ce1debcd-3c6c-40b5-9ade-461164a64820",
+      "name": "t000002"
+    },
+    "revision_id": "5640816c-54d4-4199-b07e-322a564fe9af"
+  }
+}

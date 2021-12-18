@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "東京都福祉保健局健康安全部感染症対策課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "ba4545db-94bb-4d77-a6e0-c50c3631e7a2",
+    "metadata_created": "2021-05-21T01:43:41.700972",
+    "metadata_modified": "2021-05-27T06:38:18.057951",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "平成29年度の東京都エイズ対策事業（主なもの）と予算の推移（平成25年度～平成29年度）",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/fukushihoken/R3/28_7_29yosann.csv",
+        "cache_last_updated": null,
+        "package_id": "ba4545db-94bb-4d77-a6e0-c50c3631e7a2",
+        "created": "2021-03-10T08:47:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-03-10T08:47:00",
+        "position": 0,
+        "revision_id": "77430f2e-c3d3-4581-b779-d0771e8b12b8",
+        "url_type": null,
+        "id": "39d38710-96f2-4bf5-bbca-4bca89d8a55e",
+        "resource_type": null,
+        "size": 990
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.fukushihoken.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.864364",
+      "title": "東京都福祉保健局",
+      "name": "t000010",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000010.jpg",
+      "revision_id": "8d3da6a9-bfe7-4cd1-9d5d-9737b2293939",
+      "type": "organization",
+      "id": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+      "approval_status": "approved"
+    },
+    "name": "t000010d2000000185",
+    "isopen": true,
+    "url": "http://www.fukushihoken.metro.tokyo.jp/iryo/kansen/aids/sennmonnkakaigi/28sennmonnkakaigi.files/28_7_29yosann.pdf",
+    "notes": "",
+    "owner_org": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "東京都エイズ専門家会議（平成28年度）_資料6　東京都のエイズ対策事業におけるNPO等多様な主体との連携について（PDF：82KB）",
+    "revision_id": "a9516577-6b6d-40bb-85bb-3be8cbe9f386"
+  }
+}

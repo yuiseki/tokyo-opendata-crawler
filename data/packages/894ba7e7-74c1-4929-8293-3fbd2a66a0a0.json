@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "東京都教育庁都立学校教育部高等学校教育課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "894ba7e7-74c1-4929-8293-3fbd2a66a0a0",
+    "metadata_created": "2021-05-21T00:01:29.952358",
+    "metadata_modified": "2021-05-25T05:00:49.942728",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "平成２９年度東京都立高等学校入学者選抜応募状況（全日制）",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/kyouiku/R3/29soukatsu_10.csv",
+        "cache_last_updated": null,
+        "package_id": "894ba7e7-74c1-4929-8293-3fbd2a66a0a0",
+        "created": "2021-03-16T00:15:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-03-16T00:15:00",
+        "position": 0,
+        "revision_id": "2c2c8f81-2e82-4c76-82f1-be51ead8904c",
+        "url_type": null,
+        "id": "f2201a45-4e19-405f-aeaf-ab74390c9336",
+        "resource_type": null,
+        "size": 5048
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.kyoiku.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:22.598778",
+      "title": "東京都教育庁",
+      "name": "t000021",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000021.png",
+      "revision_id": "3b8eaba6-3e9c-4401-a703-dcd9d28741aa",
+      "type": "organization",
+      "id": "f510f5b2-b249-499d-a00f-440b1f646e13",
+      "approval_status": "approved"
+    },
+    "name": "t000021d2000000086",
+    "isopen": true,
+    "url": "https://www.kyoiku.metro.tokyo.lg.jp/press/press_release/2017/files/release20170207/01_29.pdf",
+    "notes": "",
+    "owner_org": "f510f5b2-b249-499d-a00f-440b1f646e13",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "平成29年度東京都立高等学校入学者選抜応募状況（学力検査入学願書受付1日目）_総括表",
+    "revision_id": "87775ee6-b3a1-4258-8670-02850749d2a5"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "市民協働課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "a37fa60c-87b5-484c-94ec-b55400a5a9b8",
+    "metadata_created": "2019-11-01T04:59:02.114269",
+    "metadata_modified": "2021-10-06T08:17:21.509935",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "相談内容別の消費者相談件数を年度毎に公表しています。",
+        "name": "消費者相談件数の推移（EXCELファイル）",
+        "format": "XLSX",
+        "url": "https://www.city.inagi.tokyo.jp/shisei/gyosei/opendata/opendata_catalogpage/shiminseikatu.files/063.xlsx",
+        "cache_last_updated": null,
+        "package_id": "a37fa60c-87b5-484c-94ec-b55400a5a9b8",
+        "created": "2021-10-04T00:58:36.262887",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": null,
+        "position": 0,
+        "revision_id": "ab57c7d2-e097-40f3-ab8d-ffcf3d7d84f2",
+        "url_type": null,
+        "id": "10c0705e-4395-4b1a-869f-484440f6fac2",
+        "resource_type": null,
+        "size": 13312
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "相談内容別の消費者相談件数を年度毎に公表しています。",
+        "name": "消費者相談件数の推移（CSVファイル）",
+        "format": "CSV",
+        "url": "https://www.city.inagi.tokyo.jp/shisei/gyosei/opendata/opendata_catalogpage/shiminseikatu.files/063.csv",
+        "cache_last_updated": null,
+        "package_id": "a37fa60c-87b5-484c-94ec-b55400a5a9b8",
+        "created": "2021-10-04T00:58:36.570065",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": null,
+        "position": 1,
+        "revision_id": "ab57c7d2-e097-40f3-ab8d-ffcf3d7d84f2",
+        "url_type": null,
+        "id": "52444e6f-ced1-406f-91a3-c0546a577c37",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.inagi.tokyo.jp/",
+      "created": "2019-11-01T03:27:27.462971",
+      "title": "稲城市",
+      "name": "t132250",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t132250.jpg",
+      "revision_id": "f68dd2e1-e0a9-41bc-a7b4-2a1138104a3f",
+      "type": "organization",
+      "id": "457d0f12-2dd5-4b86-a227-fb4e01ef0ebc",
+      "approval_status": "approved"
+    },
+    "name": "t132250d0000000017",
+    "isopen": true,
+    "url": "",
+    "notes": "【稲城市】",
+    "owner_org": "457d0f12-2dd5-4b86-a227-fb4e01ef0ebc",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "１年ごと"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "相談内容別消費者相談件数",
+    "revision_id": "59953d75-f394-45ec-b654-98e2e03484a4"
+  }
+}

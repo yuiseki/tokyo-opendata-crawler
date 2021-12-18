@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "東京都総務局八丈支庁",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "fe388eeb-595e-43ed-9d99-bd25bff2bc3e",
+    "metadata_created": "2021-05-20T05:49:59.591533",
+    "metadata_modified": "2021-05-20T05:51:38.312152",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "年度別事業量及び事業費、事業主体",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/soumu/R3/jigyohisyutai_paipu.csv",
+        "cache_last_updated": null,
+        "package_id": "fe388eeb-595e-43ed-9d99-bd25bff2bc3e",
+        "created": "2021-02-13T02:31:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-02-13T02:31:00",
+        "position": 0,
+        "revision_id": "2e437597-1dec-408b-a129-f228f4fec663",
+        "url_type": null,
+        "id": "07f5c0b2-9642-4a63-9831-6dea1f19377c",
+        "resource_type": null,
+        "size": 252
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.soumu.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:19.763566",
+      "title": "東京都総務局",
+      "name": "t000003",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000003.png",
+      "revision_id": "c4e16dd4-cb3f-42dc-8be2-2eed0f9e0175",
+      "type": "organization",
+      "id": "5987f8a3-dfbe-4f96-b3cc-e1f3ea0a2717",
+      "approval_status": "approved"
+    },
+    "name": "t000003d2000000014",
+    "isopen": true,
+    "url": "http://www.soumu.metro.tokyo.jp/09hatijou/b/b-shigoto/b-noumu/b-pipehouse.pdf",
+    "notes": "",
+    "owner_org": "5987f8a3-dfbe-4f96-b3cc-e1f3ea0a2717",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "農務担当_耐風強化型パイプハウス",
+    "revision_id": "f0021b39-bd56-4779-b3e6-e032ea282dff"
+  }
+}

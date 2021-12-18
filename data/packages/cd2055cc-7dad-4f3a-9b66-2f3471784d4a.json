@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "東京都都市整備局市街地建築部　建築企画課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "cd2055cc-7dad-4f3a-9b66-2f3471784d4a",
+    "metadata_created": "2021-05-20T09:17:03.836156",
+    "metadata_modified": "2021-05-20T09:17:19.343763",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "（別表）",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/toshiseibi/R3/kensakakuninsyobun.csv",
+        "cache_last_updated": null,
+        "package_id": "cd2055cc-7dad-4f3a-9b66-2f3471784d4a",
+        "created": "2021-03-29T06:01:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-03-29T06:01:00",
+        "position": 0,
+        "revision_id": "ed56d400-83eb-47f2-86a8-0873918cdd0d",
+        "url_type": null,
+        "id": "6c257326-b2bc-494f-879f-69fa5e845004",
+        "resource_type": null,
+        "size": 5552
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.toshiseibi.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.560358",
+      "title": "東京都都市整備局",
+      "name": "t000008",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "9c234f0e-ff7d-4e2d-8ba4-ea80f312405b",
+      "type": "organization",
+      "id": "16d81025-a2ca-4002-8129-9906c94a4732",
+      "approval_status": "approved"
+    },
+    "name": "t000008d2000000007",
+    "isopen": true,
+    "url": "http://www.toshiseibi.metro.tokyo.jp/kenchiku/kijun/shitei_shobunkijun.pdf",
+    "notes": "",
+    "owner_org": "16d81025-a2ca-4002-8129-9906c94a4732",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "建築基準法　東京都指定確認検査機関の処分の基準について",
+    "revision_id": "e91e6b8f-6227-4399-8ecd-efd4f6a9b99d"
+  }
+}

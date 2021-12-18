@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "教育庁東京都教育相談センター",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "cd6b8e9e-7e28-4bfc-97e3-48a9b24ffb1d",
+    "metadata_created": "2021-06-28T02:33:22.829328",
+    "metadata_modified": "2021-06-28T02:33:25.547068",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "図２ 校種別内訳（420 件）",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/kyouiku/R3/solve_problems_e(1).csv",
+        "cache_last_updated": null,
+        "package_id": "cd6b8e9e-7e28-4bfc-97e3-48a9b24ffb1d",
+        "created": "2021-03-26T00:22:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-03-26T00:22:00",
+        "position": 0,
+        "revision_id": "697fec8c-8f06-45f2-bcb4-f2b2b5559742",
+        "url_type": null,
+        "id": "d70cc627-20ec-4bb6-aaf2-63299e014a41",
+        "resource_type": null,
+        "size": 121
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.kyoiku.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:22.598778",
+      "title": "東京都教育庁",
+      "name": "t000021",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000021.png",
+      "revision_id": "3b8eaba6-3e9c-4401-a703-dcd9d28741aa",
+      "type": "organization",
+      "id": "f510f5b2-b249-499d-a00f-440b1f646e13",
+      "approval_status": "approved"
+    },
+    "name": "t000021d2000000167",
+    "isopen": true,
+    "url": "http://www.e-sodan.metro.tokyo.jp/pdf/works/solve_problems_e.pdf",
+    "notes": "",
+    "owner_org": "f510f5b2-b249-499d-a00f-440b1f646e13",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "学校問題解決のためのヒント_全ページ（印刷用）（1,598KB）",
+    "revision_id": "39b1f1bd-71ec-4050-8715-89c84f71c487"
+  }
+}

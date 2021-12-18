@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "5dfcced4-3b61-4271-9f5a-6114b6d045e6",
+    "metadata_created": "2019-11-01T04:55:19.820458",
+    "metadata_modified": "2019-11-01T08:08:17.959283",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "表1 熱中症による年代別救急搬送人員と増減率（各年6月～9月）",
+        "format": "CSV",
+        "url": "http://www.opendata.metro.tokyo.jp/shoubou/2018_03/heat_10.csv",
+        "cache_last_updated": null,
+        "package_id": "5dfcced4-3b61-4271-9f5a-6114b6d045e6",
+        "created": "2018-03-29T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-03-29T15:00:00",
+        "position": 0,
+        "revision_id": "fa50fe41-636f-49b2-b34c-089a3ff1077a",
+        "url_type": null,
+        "id": "558e7809-78e9-4af4-8e5a-24cb861e7df8",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "表2 高齢者の熱中症による年代別救急搬送人員と増減率（各年6月～9月）",
+        "format": "CSV",
+        "url": "http://www.opendata.metro.tokyo.jp/shoubou/2018_03/heat_11.csv",
+        "cache_last_updated": null,
+        "package_id": "5dfcced4-3b61-4271-9f5a-6114b6d045e6",
+        "created": "2018-03-29T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-03-29T15:00:00",
+        "position": 1,
+        "revision_id": "116761d4-7b72-4e45-83ab-ad2ee8664e3d",
+        "url_type": null,
+        "id": "8c78d46d-f6a1-48f0-85ab-2e29432cfe17",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "防災・災害計画",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c001.png",
+        "title": "防災・災害計画",
+        "id": "8eb52f8e-0d10-44f4-8bb4-2a488d0f8465",
+        "name": "c001"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.tfd.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:21.965529",
+      "title": "東京消防庁",
+      "name": "t000017",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000017.png",
+      "revision_id": "7929d63d-3aaa-469d-a85e-7eee6a1df97d",
+      "type": "organization",
+      "id": "7270d173-e93e-4056-9b29-4b00ec036c81",
+      "approval_status": "approved"
+    },
+    "name": "t000017d1700000023",
+    "isopen": true,
+    "url": "http://www.tfd.metro.tokyo.jp/lfe/topics/nichijou.html",
+    "notes": "【東京消防庁】",
+    "owner_org": "7270d173-e93e-4056-9b29-4b00ec036c81",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "日常生活における事故情報　今夏の熱中症による救急搬送状況について",
+    "revision_id": "5952c77b-7c5e-48d8-9742-973ca3d40db5"
+  }
+}

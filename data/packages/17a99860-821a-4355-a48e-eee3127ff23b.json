@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "学務課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "17a99860-821a-4355-a48e-eee3127ff23b",
+    "metadata_created": "2021-07-06T05:01:06.987457",
+    "metadata_modified": "2021-07-06T05:01:36.412427",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "通学区域（令和2年3月30日時点）",
+        "format": "CSV",
+        "url": "https://www.city.sumida.lg.jp/kuseijoho/sumida_info/opendata/opendata_ichiran/tugakukuiki_data.files/tugakukuiki_20200330.csv",
+        "cache_last_updated": null,
+        "package_id": "17a99860-821a-4355-a48e-eee3127ff23b",
+        "created": "2020-03-29T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2020-03-29T15:00:00",
+        "position": 0,
+        "revision_id": "4aa69ef7-9347-43b0-98d1-afc668da354e",
+        "url_type": null,
+        "id": "af8c1136-bce1-4300-8d94-81c3a9842fbf",
+        "resource_type": null,
+        "size": 6144
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "通学区域（平成27年10月29日時点）",
+        "format": "CSV",
+        "url": "https://www.city.sumida.lg.jp/kuseijoho/sumida_info/opendata/opendata_ichiran/tugakukuiki_data.files/tugakukuiki_20151029.csv",
+        "cache_last_updated": null,
+        "package_id": "17a99860-821a-4355-a48e-eee3127ff23b",
+        "created": "2015-10-28T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2015-10-28T15:00:00",
+        "position": 1,
+        "revision_id": "e07d450c-7ec4-4e90-8475-d6f0f41f5465",
+        "url_type": null,
+        "id": "77fb7481-089e-4c77-8d99-b66204eedcd9",
+        "resource_type": null,
+        "size": 7168
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.sumida.lg.jp/",
+      "created": "2021-07-05T23:44:42.617923",
+      "title": "墨田区",
+      "name": "t131075",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "f67005c0-e31a-47df-87af-cf1859f3e09b",
+      "type": "organization",
+      "id": "724ce337-ffb8-4df6-8c3c-eb302e46f786",
+      "approval_status": "approved"
+    },
+    "name": "t131075d0000000116",
+    "isopen": true,
+    "url": "https://www.city.sumida.lg.jp/kuseijoho/sumida_info/opendata/opendata_ichiran/tugakukuiki_data.html",
+    "notes": "【墨田区】区内の小・中学校の通学区域の一覧です。",
+    "owner_org": "724ce337-ffb8-4df6-8c3c-eb302e46f786",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "通学区域",
+    "revision_id": "b231ee0d-5726-40f0-99ef-359f1b08570d"
+  }
+}

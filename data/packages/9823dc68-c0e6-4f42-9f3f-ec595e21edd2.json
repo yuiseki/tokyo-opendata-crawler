@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "学校教育部教育政策課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "9823dc68-c0e6-4f42-9f3f-ec595e21edd2",
+    "metadata_created": "2019-11-01T04:57:59.010190",
+    "metadata_modified": "2019-11-01T09:18:45.586821",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "市立小学校一覧",
+        "format": "HTML",
+        "url": "http://www.city.hachioji.tokyo.jp/kurashi/kyoiku/003/010/001/p005412.html",
+        "cache_last_updated": null,
+        "package_id": "9823dc68-c0e6-4f42-9f3f-ec595e21edd2",
+        "created": "2018-08-21T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-08-21T15:00:00",
+        "position": 0,
+        "revision_id": "6342ad9f-8fb2-43b6-80c7-3b6428c8c3c2",
+        "url_type": null,
+        "id": "03092a60-6455-4255-b8ac-747c1197ada7",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "市立中学校一覧",
+        "format": "HTML",
+        "url": "http://www.city.hachioji.tokyo.jp/kurashi/kyoiku/003/010/001/p005414.html",
+        "cache_last_updated": null,
+        "package_id": "9823dc68-c0e6-4f42-9f3f-ec595e21edd2",
+        "created": "2018-08-21T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-08-21T15:00:00",
+        "position": 1,
+        "revision_id": "74608baa-6ba9-4807-be50-085c1b72cb45",
+        "url_type": null,
+        "id": "111b35b9-63c9-41cf-beb1-4168bf83412c",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "",
+      "created": "2019-11-01T03:27:26.131815",
+      "title": "八王子市",
+      "name": "t132012",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t132012.jpg",
+      "revision_id": "5a213ed0-94b4-4de9-ab8b-a962f12f4566",
+      "type": "organization",
+      "id": "99a3bc36-4f2f-4c83-8a04-87ecba771c45",
+      "approval_status": "approved"
+    },
+    "name": "t132012d0000000026",
+    "isopen": true,
+    "url": "",
+    "notes": "【八王子市】教育関連オープンデータ一覧",
+    "owner_org": "99a3bc36-4f2f-4c83-8a04-87ecba771c45",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "市立学校一覧",
+    "revision_id": "cbb540eb-f1ba-43de-9646-ff31a16faf4f"
+  }
+}

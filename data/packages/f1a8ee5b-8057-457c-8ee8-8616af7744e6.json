@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "f1a8ee5b-8057-457c-8ee8-8616af7744e6",
+    "metadata_created": "2019-11-01T04:54:51.318569",
+    "metadata_modified": "2021-02-03T07:29:22.799657",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "平面方向の調査において土壌または地下水から環境基準を超える汚染物質が検出された1,475地点で、深さ方向の汚染状況を把握するために、ガス工場操業時の地盤面から不透水層（水を通しにくい地層）の上端まで、深さ方向に1メートル間隔で、土壌を採取し分析しました。その結果、深さ方向全体に汚染が広がっているわけではないことも明らかになりました。",
+        "name": "深さにおける汚染状況",
+        "format": "CSV",
+        "url": "http://www.shijou.metro.tokyo.jp/csv/310308/03.csv",
+        "cache_last_updated": null,
+        "package_id": "f1a8ee5b-8057-457c-8ee8-8616af7744e6",
+        "created": "2019-04-15T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-04-15T15:00:00",
+        "position": 0,
+        "revision_id": "9407bdff-d7fe-48ff-a257-da08770f20dc",
+        "url_type": null,
+        "id": "925660ba-ec47-46c8-88fe-ec0be3cbfcad",
+        "resource_type": null,
+        "size": 1024
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "豊洲新市場移転に必要な経費と財源（平成23年2月現在）",
+        "format": "CSV",
+        "url": "http://www.shijou.metro.tokyo.jp/csv/310308/05.csv",
+        "cache_last_updated": null,
+        "package_id": "f1a8ee5b-8057-457c-8ee8-8616af7744e6",
+        "created": "2019-04-15T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-04-15T15:00:00",
+        "position": 1,
+        "revision_id": "fc0a8f63-a1ba-4589-9838-5ff4551c4044",
+        "url_type": null,
+        "id": "f69a8251-9e84-4b62-8e51-0919962d3cfb",
+        "resource_type": null,
+        "size": 1024
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "環境",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c012.png",
+        "title": "環境",
+        "id": "427f3ee0-b28a-4fd2-b7dc-980507f154d2",
+        "name": "c012"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.shijou.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:21.341618",
+      "title": "東京都中央卸売市場",
+      "name": "t000013",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "a14a39f1-b5cb-4e72-8d6d-bd986509b203",
+      "type": "organization",
+      "id": "327220fa-dbe9-453c-89b2-ce303b471a71",
+      "approval_status": "approved"
+    },
+    "name": "t000013d1800000022",
+    "isopen": true,
+    "url": "",
+    "notes": "【東京都中央卸売市場】",
+    "owner_org": "327220fa-dbe9-453c-89b2-ce303b471a71",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "新市場Q&A なるほど納得！築地市場移転",
+    "revision_id": "8676d9dc-6095-44e5-befb-2fd0b0a34abd"
+  }
+}

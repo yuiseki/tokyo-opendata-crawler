@@ -1,0 +1,114 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "生活文化スポーツ部スポーツ振興課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "98ab639e-657b-49ea-a33e-b77b9e372f74",
+    "metadata_created": "2019-11-01T04:58:28.609093",
+    "metadata_modified": "2019-11-01T09:25:58.991775",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "市民スポーツ施設及び施設内AED配置場所一覧（CSVファイル）",
+        "format": "CSV",
+        "url": "http://www.city.chofu.tokyo.jp/www/contents/1513142457317/simple/1.csv",
+        "cache_last_updated": null,
+        "package_id": "98ab639e-657b-49ea-a33e-b77b9e372f74",
+        "created": "2017-12-19T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-12-19T15:00:00",
+        "position": 0,
+        "revision_id": "01e266fe-07fd-4761-9ef9-a14047251d20",
+        "url_type": null,
+        "id": "96b4f597-1974-4646-8bdc-f93f6dd96468",
+        "resource_type": null,
+        "size": 2048
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "市民スポーツ施設及び施設内AED配置場所一覧（PDFファイル）",
+        "format": "PDF",
+        "url": "http://www.city.chofu.tokyo.jp/www/contents/1513142457317/simple/2.pdf",
+        "cache_last_updated": null,
+        "package_id": "98ab639e-657b-49ea-a33e-b77b9e372f74",
+        "created": "2017-12-19T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-12-19T15:00:00",
+        "position": 1,
+        "revision_id": "6918a665-0867-402b-9e7a-6e70df63f792",
+        "url_type": null,
+        "id": "4ec817db-06aa-44b0-a727-05c663912ef8",
+        "resource_type": null,
+        "size": 74752
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "オリンピック・パラリンピック",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c009.png",
+        "title": "オリンピック・パラリンピック",
+        "id": "4e11ae7b-55ad-44ce-8ec3-dc7205cc78f6",
+        "name": "c009"
+      },
+      {
+        "display_name": "医療・福祉",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c005.png",
+        "title": "医療・福祉",
+        "id": "0d3cd956-612c-45c5-b1ee-75c1a5835c0e",
+        "name": "c005"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.chofu.tokyo.jp/",
+      "created": "2019-11-01T03:27:26.616591",
+      "title": "調布市",
+      "name": "t132080",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "c666c9e8-e94d-46e1-a28c-7cdf1ea8b7c6",
+      "type": "organization",
+      "id": "8c710e6d-ae95-4768-90a8-8f4c4e98ae41",
+      "approval_status": "approved"
+    },
+    "name": "t132080d0000000054",
+    "isopen": true,
+    "url": "",
+    "notes": "【調布市】　スポーツ施設とAED配置に関するデータ",
+    "owner_org": "8c710e6d-ae95-4768-90a8-8f4c4e98ae41",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "スポーツに関するデータ",
+    "revision_id": "00eb14ce-27e1-4fad-b1a4-a9e99d286f01"
+  }
+}

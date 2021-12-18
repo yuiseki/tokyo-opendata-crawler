@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "清瀬市都市整備部道路交通課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "e9053125-c94b-41a1-be8a-77f06551d982",
+    "metadata_created": "2020-11-10T01:37:07.948235",
+    "owner_org": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
+    "metadata_modified": "2021-06-16T02:25:16.702006",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "【清瀬市】停留所の一覧です。",
+        "format": "CSV",
+        "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/001/604/132217_bus_stop.csv",
+        "created": "2018-05-17T00:53:00",
+        "state": "active",
+        "package_id": "e9053125-c94b-41a1-be8a-77f06551d982",
+        "last_modified": "2018-05-17T00:53:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "2dd38876-c0de-4446-a64d-5741a058ff26",
+        "size": 6144,
+        "id": "a07c4275-0a72-44ea-ae5c-0b45fc7d60d3",
+        "resource_type": null,
+        "name": "停留所等一覧"
+      },
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "【清瀬市】停留所の一覧です。",
+        "format": "XLS",
+        "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/001/604/132217_bus_stop.xls",
+        "created": "2018-05-17T00:51:00",
+        "state": "active",
+        "package_id": "e9053125-c94b-41a1-be8a-77f06551d982",
+        "last_modified": "2018-05-17T00:51:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 1,
+        "revision_id": "c94fb42c-2eff-48d7-9b93-a21e739643e7",
+        "size": 71680,
+        "id": "b2826cd8-145b-4e25-b0fe-6fd6914712b3",
+        "resource_type": null,
+        "name": "停留所等一覧"
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "交通情報",
+        "description": "",
+        "title": "交通情報",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c013.png",
+        "id": "38323541-753d-4230-b2dd-d9eb367ae5ed",
+        "name": "c013"
+      }
+    ],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t132217d0000000008",
+    "isopen": true,
+    "url": "https://www.city.kiyose.lg.jp/opendata/opendataichiran/1001604.html",
+    "notes": "【清瀬市】停留所等の一覧です。",
+    "title": "停留所等一覧",
+    "extras": [
+      {
+        "value": "変更の都度",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "https://www.city.kiyose.lg.jp/index.html",
+      "title": "清瀬市",
+      "created": "2020-08-05T08:00:00.206131",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "f8ef546d-d3f4-46e8-9741-39a6eec61618",
+      "type": "organization",
+      "id": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
+      "name": "t132217"
+    },
+    "revision_id": "621ab2f4-ec8c-404c-8ae5-e8f2aca3041e"
+  }
+}

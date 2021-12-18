@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "保健所生活衛生課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "2c9b02e6-a241-4f24-8a7d-38fca2051048",
+    "metadata_created": "2021-11-04T00:38:26.343706",
+    "owner_org": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
+    "metadata_modified": "2021-12-13T06:15:09.914282",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "目黒区内のプール一覧",
+        "format": "CSV",
+        "url": "https://data.bodik.jp/dataset/5d719db4-b0cc-46a5-83cd-4342468755cb/resource/91ff0ffb-ca77-4267-80bf-308b9cd597a9/download/131105_pool_20210401.csv",
+        "created": "2021-08-11T02:32:00",
+        "state": "active",
+        "package_id": "2c9b02e6-a241-4f24-8a7d-38fca2051048",
+        "last_modified": "2021-08-11T02:32:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "8b6f2185-4e4a-47e1-8d92-98bdb013ef62",
+        "size": 1736,
+        "id": "736ef4ca-83b2-4828-9536-67c69fb599df",
+        "resource_type": null,
+        "name": "プール　令和3年4月1日"
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "title": "生活",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t131105d0000000042",
+    "isopen": true,
+    "url": "https://www.city.meguro.tokyo.jp/kurashi/hoken_eisei/eisei/kankyou/index.html",
+    "notes": "目黒区内のプールの一覧",
+    "title": "プール",
+    "extras": [
+      {
+        "value": "毎月",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "https://odcs.bodik.jp/131105/",
+      "title": "目黒区",
+      "created": "2021-11-01T02:12:22.338293",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131105.png",
+      "revision_id": "e3dc243f-e3a2-4b2b-a319-4e145bb63383",
+      "type": "organization",
+      "id": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
+      "name": "t131105"
+    },
+    "revision_id": "d1907c3a-74dc-4414-8ec1-744111a19d38"
+  }
+}

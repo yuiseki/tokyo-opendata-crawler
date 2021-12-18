@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "選挙管理委員会事務局",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "d4cc532b-207b-457b-b0e9-7b1338044ec2",
+    "metadata_created": "2021-05-26T07:38:14.262089",
+    "metadata_modified": "2021-05-26T07:38:49.481200",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "政党支部　　おおさか維新の会　（１団体）",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/senkyokanri/R3/seitosibu_2.csv",
+        "cache_last_updated": null,
+        "package_id": "d4cc532b-207b-457b-b0e9-7b1338044ec2",
+        "created": "2021-02-13T07:58:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-02-13T07:58:00",
+        "position": 0,
+        "revision_id": "f5ec22ff-df23-4df1-ab28-239f7790c8b5",
+        "url_type": null,
+        "id": "300dd1be-ff1b-4018-8aaf-c31a698b1090",
+        "resource_type": null,
+        "size": 200
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.senkyo.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:22.908491",
+      "title": "東京都選挙管理委員会事務局",
+      "name": "t000023",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "51e026be-6d4c-43bd-ae76-d84805440a07",
+      "type": "organization",
+      "id": "86f1375a-d3c8-4eef-9df0-c4864ee7e3af",
+      "approval_status": "approved"
+    },
+    "name": "t000023d2000000033",
+    "isopen": true,
+    "url": "http://www.senkyo.metro.tokyo.jp/uploads/e86150778449493804737a4722f56e16-1.pdf",
+    "notes": "",
+    "owner_org": "86f1375a-d3c8-4eef-9df0-c4864ee7e3af",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "政治団体名簿_おおさか維新の会(PDF形式：40KB)",
+    "revision_id": "2b269ec8-b5fb-4593-b325-0d5fbc3860f0"
+  }
+}

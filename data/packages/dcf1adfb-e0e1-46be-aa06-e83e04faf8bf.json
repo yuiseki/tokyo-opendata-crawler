@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "町田市道路部道路管理課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "dcf1adfb-e0e1-46be-aa06-e83e04faf8bf",
+    "metadata_created": "2019-11-01T04:58:40.707403",
+    "metadata_modified": "2021-07-30T00:54:31.550433",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "データ時点：2021年4月現在。更新日以降の情報については、主管課までお問い合わせください。道路網図の認定線は、実際の位置とは異なる場合がございます。あらかじめご了承ください。",
+        "name": "道路網図",
+        "format": "ZIP",
+        "url": "https://www.city.machida.tokyo.jp/shisei/opendata/chizujoho/douromouzu.files/douromouzu.zip",
+        "cache_last_updated": null,
+        "package_id": "dcf1adfb-e0e1-46be-aa06-e83e04faf8bf",
+        "created": "2016-12-14T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-07-06T15:00:00",
+        "position": 0,
+        "revision_id": "7df2eae7-a411-4d6a-b7f5-be1693c9bce6",
+        "url_type": null,
+        "id": "4ad36a92-e48d-4a7c-859d-daae67d70de6",
+        "resource_type": null,
+        "size": 1363148
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.machida.tokyo.jp/",
+      "created": "2019-11-01T03:27:26.775139",
+      "title": "町田市",
+      "name": "t132098",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t132098.png",
+      "revision_id": "afc39d6e-faf0-4358-90a5-a32d669724a1",
+      "type": "organization",
+      "id": "01ee6b09-cb58-4100-8d95-623ad6b238ef",
+      "approval_status": "approved"
+    },
+    "name": "t132098d0000000020",
+    "isopen": true,
+    "url": "",
+    "notes": "【町田市】",
+    "owner_org": "01ee6b09-cb58-4100-8d95-623ad6b238ef",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "道路網図",
+    "revision_id": "f7e8e92b-9e05-4cf1-b3c5-6d9add846ea8"
+  }
+}

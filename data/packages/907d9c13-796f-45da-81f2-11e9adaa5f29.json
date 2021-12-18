@@ -1,0 +1,112 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "データ内に記載",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 2,
+    "id": "907d9c13-796f-45da-81f2-11e9adaa5f29",
+    "metadata_created": "2019-11-01T04:56:47.683504",
+    "metadata_modified": "2019-11-01T09:36:07.086865",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "文京区のイベント情報一覧です。",
+        "name": "イベント一覧",
+        "format": "XLSX",
+        "url": "https://www.city.bunkyo.lg.jp/library/opendata-bunkyo/10sonota/01event/131059_event.xlsx",
+        "cache_last_updated": null,
+        "package_id": "907d9c13-796f-45da-81f2-11e9adaa5f29",
+        "created": "2018-10-28T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-10-28T15:00:00",
+        "position": 0,
+        "revision_id": "bfa40ab4-f375-436f-b1ae-e5b89e98e732",
+        "url_type": null,
+        "id": "1d9e6148-93a0-43db-8202-cc5ef70d4375",
+        "resource_type": null,
+        "size": 17408
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "文京区のイベント情報一覧です。",
+        "name": "イベント一覧",
+        "format": "CSV",
+        "url": "https://www.city.bunkyo.lg.jp/library/opendata-bunkyo/10sonota/01event/131059_event.csv",
+        "cache_last_updated": null,
+        "package_id": "907d9c13-796f-45da-81f2-11e9adaa5f29",
+        "created": "2018-10-28T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-10-28T15:00:00",
+        "position": 1,
+        "revision_id": "d8c56f3f-435e-4843-adf1-a4ede2794f74",
+        "url_type": null,
+        "id": "979fe60d-f0ca-4f06-b71c-8f9f07ddb006",
+        "resource_type": null,
+        "size": 6144
+      }
+    ],
+    "num_resources": 2,
+    "tags": [
+      {
+        "vocabulary_id": null,
+        "state": "active",
+        "display_name": "スポーツ",
+        "id": "75397d0a-c248-4a6d-aa83-7602b153ff2a",
+        "name": "スポーツ"
+      },
+      {
+        "vocabulary_id": null,
+        "state": "active",
+        "display_name": "推奨データセット",
+        "id": "8a843f9d-b0c2-465c-86da-1df660de0b32",
+        "name": "推奨データセット"
+      }
+    ],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.bunkyo.lg.jp/",
+      "created": "2019-11-01T03:27:24.573898",
+      "title": "文京区",
+      "name": "t131059",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131059.png",
+      "revision_id": "66ab70ed-369f-4eda-b72a-eacf3f7c8095",
+      "type": "organization",
+      "id": "201cae13-e069-464e-b376-1da3ce968538",
+      "approval_status": "approved"
+    },
+    "name": "t131059d0000000001",
+    "isopen": true,
+    "url": "",
+    "notes": "文京区のイベント情報一覧です。",
+    "owner_org": "201cae13-e069-464e-b376-1da3ce968538",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "イベント一覧",
+    "revision_id": "b26c8a52-dc0a-4001-b691-296df236b58d"
+  }
+}

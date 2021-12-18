@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "雇用就業部労働環境課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "e96e5d8b-d838-45da-87f4-d6c2fc6d0d90",
+    "metadata_created": "2019-11-01T04:54:42.423522",
+    "metadata_modified": "2019-11-01T06:12:20.934961",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "介護離職防止施策検討のための特別調査（アンケート調査集計表）",
+        "format": "XLSX",
+        "url": "http://www.hataraku.metro.tokyo.jp/sodan/chousa/shuukeihyou.xlsx",
+        "cache_last_updated": null,
+        "package_id": "e96e5d8b-d838-45da-87f4-d6c2fc6d0d90",
+        "created": "2018-03-27T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-03-27T15:00:00",
+        "position": 0,
+        "revision_id": "1540fa4c-3218-458a-96ae-e0d4623b45f9",
+        "url_type": null,
+        "id": "407cb7b4-70df-4cfb-8fc5-ab96f2c066c5",
+        "resource_type": null,
+        "size": 348160
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "産業雇用創出",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c011.png",
+        "title": "産業雇用創出",
+        "id": "bb1c42ce-dc7e-48cf-91d4-05cab59db4bd",
+        "name": "c011"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.sangyo-rodo.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:21.167827",
+      "title": "東京都産業労働局",
+      "name": "t000012",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "a8e9fbd3-ce2a-40ce-ae97-99bf0055157e",
+      "type": "organization",
+      "id": "1a30d830-0e5f-4e5a-acd1-e4189276b560",
+      "approval_status": "approved"
+    },
+    "name": "t000012d0000000017",
+    "isopen": true,
+    "url": "http://www.hataraku.metro.tokyo.jp/sodan/chousa/kaigorishoku/index.html",
+    "notes": "【東京都産業労働局】　介護と仕事の両立の現状や課題などを把握し、介護離職の防止に資する、効果的な両立支援策を策定するために、都内企業及び従業員への調査を実施しました。",
+    "owner_org": "1a30d830-0e5f-4e5a-acd1-e4189276b560",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "公開時のみ"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "介護離職防止施策検討のための特別調査",
+    "revision_id": "d168d374-dd3d-456b-b380-df4a169b65c0"
+  }
+}

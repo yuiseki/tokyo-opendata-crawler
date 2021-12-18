@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "東京都総務局統計部人口統計課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "acf0822d-1902-4f7c-97f8-6eb3e208fd58",
+    "metadata_created": "2021-05-25T01:46:47.679667",
+    "metadata_modified": "2021-05-25T01:47:17.769435",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "第21表 賞与の産業別及び規模別支給状況",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/soumu/R3/kinrotokeicyosa_21.csv",
+        "cache_last_updated": null,
+        "package_id": "acf0822d-1902-4f7c-97f8-6eb3e208fd58",
+        "created": "2021-02-18T02:39:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-02-18T02:39:00",
+        "position": 0,
+        "revision_id": "d664fa88-d207-4e1d-80e6-c0ab34a400d3",
+        "url_type": null,
+        "id": "418e9ffc-716f-49e0-927a-ca10ab6c89f2",
+        "resource_type": null,
+        "size": 1041
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.soumu.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:19.763566",
+      "title": "東京都総務局",
+      "name": "t000003",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000003.png",
+      "revision_id": "c4e16dd4-cb3f-42dc-8be2-2eed0f9e0175",
+      "type": "organization",
+      "id": "5987f8a3-dfbe-4f96-b3cc-e1f3ea0a2717",
+      "approval_status": "approved"
+    },
+    "name": "t000003d2000000024",
+    "isopen": true,
+    "url": "https://www.toukei.metro.tokyo.lg.jp/maikin/2020/mk2002a2101.xls",
+    "notes": "",
+    "owner_org": "5987f8a3-dfbe-4f96-b3cc-e1f3ea0a2717",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "東京都の賃金、労働時間及び雇用の動き－毎月勤労統計調査地方調査結果－令和元年特別給与（冬季賞与）",
+    "revision_id": "a6e383ba-ec6a-4cd2-9a55-db2a7cfd9131"
+  }
+}

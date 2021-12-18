@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "都営交通お客様センター",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "bd46e2ab-1bbd-48f2-96f6-394a73487c61",
+    "metadata_created": "2019-12-23T09:15:44.999086",
+    "metadata_modified": "2021-05-11T05:51:23.426031",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "《都営地下鉄》 - [都営地下鉄　運賃] 普通運賃 > 普通旅客運賃\n\n【注1】「きっぷ」を購入して乗車する場合、小児普通旅客運賃（10円単位）は大人普通旅客運賃（10円単位）を折半し、10円未満の端数は10円単位に切り上げます。「ICカード」で乗車する場合、小児普通旅客運賃（1円単位）は大人普通旅客運賃（1円単位）を折半し、1円未満の端数は切り捨てます。\n\n【注2】1キロ未満の端数は1キロ単位に切り上げます。\n\n【注3】実際の乗車経路にかかわらず、最も短い経路のキロ程で計算します。ただし、蔵前駅（浅草線・大江戸線）、東日本橋駅（浅草線）・馬喰横山駅（新宿線）で乗り換える場合は、乗換駅までの運賃が必要となります。\n",
+        "name": "普通運賃 > 普通旅客運賃",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/kotsu/subway/subway_fare_ordinary_fare.csv",
+        "cache_last_updated": null,
+        "package_id": "bd46e2ab-1bbd-48f2-96f6-394a73487c61",
+        "created": "2019-11-11T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-11-12T01:22:00",
+        "position": 0,
+        "revision_id": "792b45b7-6fbf-44ba-81b2-a85f89e52308",
+        "url_type": null,
+        "id": "dda0d273-c66c-4251-8127-cf6304f08a01",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "《都営地下鉄》 - [都営地下鉄　運賃] 普通運賃 > おとな・こども",
+        "name": "普通運賃 > おとな・こども",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/kotsu/subway/subway_fare_adult_child.csv",
+        "cache_last_updated": null,
+        "package_id": "bd46e2ab-1bbd-48f2-96f6-394a73487c61",
+        "created": "2019-11-11T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-11-12T01:26:00",
+        "position": 1,
+        "revision_id": "792b45b7-6fbf-44ba-81b2-a85f89e52308",
+        "url_type": null,
+        "id": "2c67c55a-efbc-4d86-a25b-6289058a02e5",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "交通情報",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c013.png",
+        "title": "交通情報",
+        "id": "38323541-753d-4230-b2dd-d9eb367ae5ed",
+        "name": "c013"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.kotsu.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:22.123863",
+      "title": "東京都交通局",
+      "name": "t000018",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "d47c06bd-1090-4a95-bea1-05d8261663a6",
+      "type": "organization",
+      "id": "058227fa-4a59-4028-a226-9eb858f9947a",
+      "approval_status": "approved"
+    },
+    "name": "t000018d0000000030",
+    "isopen": true,
+    "url": "https://www.kotsu.metro.tokyo.jp/subway/fare/index.html",
+    "notes": "【東京都交通局】都営地下鉄　運賃",
+    "owner_org": "058227fa-4a59-4028-a226-9eb858f9947a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "都営地下鉄　運賃",
+    "revision_id": "e6985146-8c16-4c25-b8a2-b2971ddc5c1d"
+  }
+}

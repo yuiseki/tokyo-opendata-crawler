@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "総務部広報課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "98bd38e8-c620-4703-9676-523674887c60",
+    "metadata_created": "2019-11-01T04:57:10.608422",
+    "metadata_modified": "2019-11-01T08:39:55.956505",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "杉並区内の広報スタンドの位置を確認できます。",
+        "name": "広報スタンド設置場所 ",
+        "format": "ZIP",
+        "url": "http://www2.wagmap.jp/suginami/opendata/?type=shp&ly=94",
+        "cache_last_updated": null,
+        "package_id": "98bd38e8-c620-4703-9676-523674887c60",
+        "created": "2018-05-13T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-05-13T15:00:00",
+        "position": 0,
+        "revision_id": "1fb31c06-818c-435c-958e-4e24a60e5456",
+        "url_type": null,
+        "id": "bd1fc499-4f54-4746-bdd0-255a11897d97",
+        "resource_type": null,
+        "size": 22528
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.suginami.tokyo.jp/",
+      "created": "2019-11-01T03:27:25.355056",
+      "title": "杉並区",
+      "name": "t131156",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131156.png",
+      "revision_id": "be68f112-909f-46c2-b180-014c0a879593",
+      "type": "organization",
+      "id": "a5be9683-373e-440b-ae39-4e73317a417b",
+      "approval_status": "approved"
+    },
+    "name": "t131156d0000000012",
+    "isopen": true,
+    "url": "",
+    "notes": "【杉並区】",
+    "owner_org": "a5be9683-373e-440b-ae39-4e73317a417b",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "広報スタンド設置場所",
+    "revision_id": "282864dd-0829-456f-b579-dbccbed72c81"
+  }
+}
