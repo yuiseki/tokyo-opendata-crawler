@@ -2,7 +2,15 @@ DATE := $(shell date "+%Y/%m/%d")
 DATADIR := data/$(DATE)
 CATALOG_ENDPOINT := https://catalog.data.metro.tokyo.lg.jp/api/3
 
-all: $(DATADIR) $(DATADIR)/resource_list.json $(DATADIR)/resource_url_list.csv $(DATADIR)/packages.txt $(DATADIR)/domains.txt $(DATADIR)/url_status_list.csv 
+all: \
+	$(DATADIR) \
+	$(DATADIR)/resource_list.json \
+	$(DATADIR)/resource_url_list.csv \
+	$(DATADIR)/packages.txt \
+	$(DATADIR)/domains.txt \
+	$(DATADIR)/url_status_list.csv \
+	data/opendata_status.csv \
+	data/packages/finished.txt
 
 $(DATADIR):
 	mkdir -p $(DATADIR)
@@ -23,13 +31,17 @@ $(DATADIR)/packages.txt:
 $(DATADIR)/domains.txt:
 	cat $(DATADIR)/resource_url_list.csv | cut -d ',' -f 3 | cut -d/ -f 3 | sort | uniq > $(DATADIR)/domains.txt
 
+# 全リソースの示すURLのhttp status codeのcsv
+$(DATADIR)/url_status_list.csv:
+	cat $(DATADIR)/resource_url_list.csv | cut -d ',' -f 3 | \
+		xargs -t -I{} sh -c 'curl -L -I -s -m 10 -o /dev/null -w "%{http_code},{}\n" {} >> $(DATADIR)/url_status_list.csv'
+
+data/opendata_status.csv:
+	python aggregate.py
+
 # 全packageのid, organization, maintainer
 data/packages/finished.txt:
 	mkdir -p data/packages
 	date '+%Y/%m/%d %H:%m:%S' > data/packages/started.txt
 	cat data/packages.txt | xargs -t -I{} sh -c 'curl -s "$(CATALOG_ENDPOINT)/action/package_show?id={}" | jq . > data/packages/{}.json'
 	date '+%Y/%m/%d %H:%m:%S' > data/packages/finished.txt
-
-# 全リソースの示すURLのhttp statuscodeのcsv
-$(DATADIR)/url_status_list.csv:
-	cat $(DATADIR)/resource_url_list.csv | cut -d ',' -f 3 | xargs -t -I{} sh -c 'curl -L -I -s -m 5 -o /dev/null -w "%{http_code},{}\n" {} >> $(DATADIR)/url_status_list.csv'
