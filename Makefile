@@ -39,6 +39,7 @@ $(DATADIR)/url_status_list.csv:
 data/opendata_status.csv:
 	python aggregate.py
 
+
 # 全packageのid, organization, maintainer
 data/packages/finished.txt:
 	mkdir -p data/packages
