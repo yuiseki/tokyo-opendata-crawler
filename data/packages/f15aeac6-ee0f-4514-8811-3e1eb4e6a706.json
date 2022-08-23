@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "清瀬市総務部総務課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "f15aeac6-ee0f-4514-8811-3e1eb4e6a706",
+    "metadata_created": "2022-05-27T07:22:54.460998",
+    "metadata_modified": "2022-05-27T07:23:37.109002",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "【清瀬市】公文書開示請求処理状況です。",
+        "name": "公文書開示請求処理状況",
+        "format": "CSV",
+        "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/001/604/132217_sports_facility.csv",
+        "cache_last_updated": null,
+        "package_id": "f15aeac6-ee0f-4514-8811-3e1eb4e6a706",
+        "created": "2022-03-31T08:27:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2022-03-31T08:27:00",
+        "position": 0,
+        "revision_id": "05414b47-2241-4a00-a59d-edce5dca64a6",
+        "url_type": null,
+        "id": "52a20ec9-0f1d-45e0-9a47-66021307225d",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "【清瀬市】公文書開示請求処理状況です。",
+        "name": "公文書開示請求処理状況",
+        "format": "XLSX",
+        "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/001/604/132217_sports_facility.xlsx",
+        "cache_last_updated": null,
+        "package_id": "f15aeac6-ee0f-4514-8811-3e1eb4e6a706",
+        "created": "2022-03-31T08:27:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2022-03-31T08:27:00",
+        "position": 1,
+        "revision_id": "4c716545-c7d4-4189-9814-c351687408fe",
+        "url_type": null,
+        "id": "8868b31f-39d8-4e56-845b-5d8ca8472f24",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.kiyose.lg.jp/index.html",
+      "created": "2020-08-05T08:00:00.206131",
+      "title": "清瀬市",
+      "name": "t132217",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "f8ef546d-d3f4-46e8-9741-39a6eec61618",
+      "type": "organization",
+      "id": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
+      "approval_status": "approved"
+    },
+    "name": "t132217d0000000061",
+    "isopen": true,
+    "url": "https://www.city.kiyose.lg.jp/opendata/opendataichiran/1010465.html",
+    "notes": "【清瀬市】公文書開示請求処理状況です。",
+    "owner_org": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "年1回"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "公文書開示請求処理状況",
+    "revision_id": "8f79428e-0b5d-46b9-9eb1-50d5a4f28163"
+  }
+}

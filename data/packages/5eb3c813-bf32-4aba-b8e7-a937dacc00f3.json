@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "清瀬市都市整備部水と緑と公園課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "5eb3c813-bf32-4aba-b8e7-a937dacc00f3",
+    "metadata_created": "2022-05-27T07:22:50.638799",
+    "metadata_modified": "2022-05-27T07:23:39.402313",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "清瀬市の公園の一覧です。",
+        "name": "公園一覧",
+        "format": "CSV",
+        "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/001/604/10_park.csv",
+        "cache_last_updated": null,
+        "package_id": "5eb3c813-bf32-4aba-b8e7-a937dacc00f3",
+        "created": "2019-12-26T06:35:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-12-26T06:35:00",
+        "position": 0,
+        "revision_id": "1aa71e66-5eba-45bb-9a29-7235a9eb17d9",
+        "url_type": null,
+        "id": "7281ca4c-f233-4302-924d-381a9aacd982",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "【清瀬市】公園の一覧です。",
+        "name": "公園一覧",
+        "format": "XLSX",
+        "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/001/604/10_park.xlsx",
+        "cache_last_updated": null,
+        "package_id": "5eb3c813-bf32-4aba-b8e7-a937dacc00f3",
+        "created": "2019-12-25T00:31:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-12-25T00:31:00",
+        "position": 1,
+        "revision_id": "646695cb-08fc-4718-8d45-3417b5527fed",
+        "url_type": null,
+        "id": "849b6888-c3e2-4c8a-8dba-6263efde9236",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "環境",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c012.png",
+        "title": "環境",
+        "id": "427f3ee0-b28a-4fd2-b7dc-980507f154d2",
+        "name": "c012"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.kiyose.lg.jp/index.html",
+      "created": "2020-08-05T08:00:00.206131",
+      "title": "清瀬市",
+      "name": "t132217",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "f8ef546d-d3f4-46e8-9741-39a6eec61618",
+      "type": "organization",
+      "id": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
+      "approval_status": "approved"
+    },
+    "name": "t132217d0000000046",
+    "isopen": true,
+    "url": "https://www.city.kiyose.lg.jp/opendata/opendataichiran/1001604.html",
+    "notes": "【清瀬市】公園の一覧です。",
+    "owner_org": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "変更の都度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "公園一覧",
+    "revision_id": "02943e91-06a4-449e-ade0-25c83385ea0f"
+  }
+}

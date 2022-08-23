@@ -10,56 +10,55 @@
     "num_tags": 0,
     "id": "8f6f5034-6521-47e6-ba9a-cc325247b03a",
     "metadata_created": "2020-03-17T01:43:13.984329",
-    "owner_org": "beddb482-adb4-4e03-9c25-f229c2a0b028",
     "metadata_modified": "2021-08-19T00:04:28.898988",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "",
+        "name": "区内の橋梁一覧",
         "format": "XLSX",
         "url": "https://www.city.chuo.lg.jp/kusei/statisticaldata/opendata.files/kyoryo.xlsx",
+        "cache_last_updated": null,
+        "package_id": "8f6f5034-6521-47e6-ba9a-cc325247b03a",
         "created": "2017-11-23T15:00:00",
         "state": "active",
-        "package_id": "8f6f5034-6521-47e6-ba9a-cc325247b03a",
+        "mimetype_inner": null,
         "last_modified": "2020-09-04T15:00:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "aaad23c0-f1bb-45fe-815f-402e59fed55b",
-        "size": 16384,
+        "url_type": null,
         "id": "965910e9-2e26-4f87-b26d-46bcd6a834f9",
         "resource_type": null,
-        "name": "区内の橋梁一覧"
+        "size": 16384
       },
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "",
+        "name": "区内の橋梁一覧",
         "format": "CSV",
         "url": "https://www.city.chuo.lg.jp/kusei/statisticaldata/opendata.files/kyoryo.csv",
+        "cache_last_updated": null,
+        "package_id": "8f6f5034-6521-47e6-ba9a-cc325247b03a",
         "created": "2017-11-23T15:00:00",
         "state": "active",
-        "package_id": "8f6f5034-6521-47e6-ba9a-cc325247b03a",
+        "mimetype_inner": null,
         "last_modified": "2020-09-04T15:00:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 1,
         "revision_id": "c24ee730-7591-467a-b803-deb8befa46bc",
-        "size": 6144,
+        "url_type": null,
         "id": "e6d03046-e89b-48cd-ae16-e84a18513822",
         "resource_type": null,
-        "name": "区内の橋梁一覧"
+        "size": 6144
       }
     ],
     "num_resources": 2,
@@ -68,39 +67,40 @@
       {
         "display_name": "まちづくり",
         "description": "",
-        "title": "まちづくり",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c003.png",
+        "title": "まちづくり",
         "id": "dc897c44-8153-4219-bfeb-6110fb85fb99",
         "name": "c003"
       }
     ],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t131024d0000000013",
-    "isopen": true,
-    "url": "http://www.city.chuo.lg.jp/kankyo/dorokyoryo/kunaikyoryo.html",
-    "notes": "区内の橋梁の名称や読み方、所在地、緯度、経度、管理者、橋下状況などを掲載しています。",
-    "title": "区内の橋梁一覧",
-    "extras": [
-      {
-        "value": "随時",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "https://www.city.chuo.lg.jp/",
-      "title": "中央区",
       "created": "2020-03-16T08:15:28.901611",
-      "approval_status": "approved",
+      "title": "中央区",
+      "name": "t131024",
       "is_organization": true,
       "state": "active",
       "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131024.png",
       "revision_id": "fd4c096b-7319-43d7-a1a4-d2411b6beaee",
       "type": "organization",
       "id": "beddb482-adb4-4e03-9c25-f229c2a0b028",
-      "name": "t131024"
+      "approval_status": "approved"
     },
+    "name": "t131024d0000000013",
+    "isopen": true,
+    "url": "http://www.city.chuo.lg.jp/kankyo/dorokyoryo/kunaikyoryo.html",
+    "notes": "区内の橋梁の名称や読み方、所在地、緯度、経度、管理者、橋下状況などを掲載しています。",
+    "owner_org": "beddb482-adb4-4e03-9c25-f229c2a0b028",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "区内の橋梁一覧",
     "revision_id": "01a7c9dd-4ce1-4d3e-af49-291a70765f9e"
   }
 }

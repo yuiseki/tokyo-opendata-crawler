@@ -10,7 +10,7 @@
     "num_tags": 0,
     "id": "6ef28854-42da-49f3-9de8-6f260156dcba",
     "metadata_created": "2019-11-01T04:57:35.667485",
-    "metadata_modified": "2019-11-01T08:44:07.855696",
+    "metadata_modified": "2022-04-26T01:46:57.174441",
     "author": null,
     "author_email": null,
     "state": "active",
@@ -59,9 +59,30 @@
         "id": "4cdac724-0223-4ded-9284-6c73a92a3daf",
         "resource_type": null,
         "size": 70656
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "国勢調査（令和３年版練馬区統計書掲載分）",
+        "format": "XLSX",
+        "url": "https://www.city.nerima.tokyo.jp/kusei/tokei/opendata/opendatasite/tokei_kusei/kokuseichousa.files/R3_kokuseichousa.xlsx",
+        "cache_last_updated": null,
+        "package_id": "6ef28854-42da-49f3-9de8-6f260156dcba",
+        "created": "2022-04-21T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2022-04-21T15:00:00",
+        "position": 2,
+        "revision_id": "1ef97033-1833-4080-b5b7-a7d4f1329485",
+        "url_type": null,
+        "id": "899674ff-01df-44e6-9a12-f21c02f1ab68",
+        "resource_type": null,
+        "size": 71680
       }
     ],
-    "num_resources": 2,
+    "num_resources": 3,
     "tags": [],
     "groups": [
       {

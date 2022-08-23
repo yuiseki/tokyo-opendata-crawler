@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "環境清掃部清掃リサイクル課、台東清掃事務所",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "1105ade9-8540-40b5-a705-266df5043eae",
+    "metadata_created": "2022-03-31T01:16:42.221426",
+    "metadata_modified": "2022-03-31T01:16:44.789651",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "台東区の地域別ごみ収集日の一覧です",
+        "name": "地域別ごみ収集日一覧",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/taitou/chiikibetu_youbi_ichiran.csv",
+        "cache_last_updated": null,
+        "package_id": "1105ade9-8540-40b5-a705-266df5043eae",
+        "created": "2022-03-28T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2022-03-28T15:00:00",
+        "position": 0,
+        "revision_id": "de195b43-c79f-4f61-a76a-6d1215c8e759",
+        "url_type": null,
+        "id": "92535c81-bda8-4444-9645-9145e4cd4b75",
+        "resource_type": null,
+        "size": 4096
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "環境",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c012.png",
+        "title": "環境",
+        "id": "427f3ee0-b28a-4fd2-b7dc-980507f154d2",
+        "name": "c012"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.taito.lg.jp/",
+      "created": "2019-11-01T03:27:24.733512",
+      "title": "台東区",
+      "name": "t131067",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131067.png",
+      "revision_id": "0166c313-a6d1-4eee-9282-f9bacc692e27",
+      "type": "organization",
+      "id": "72ddc2e3-f5ca-4fae-aca0-2e299cc0a94a",
+      "approval_status": "approved"
+    },
+    "name": "t131067d0000000077",
+    "isopen": true,
+    "url": "https://www.city.taito.lg.jp/kurashi/gomi/index.html",
+    "notes": "",
+    "owner_org": "72ddc2e3-f5ca-4fae-aca0-2e299cc0a94a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "地域別ごみ収集日一覧",
+    "revision_id": "9bfb18a1-7b59-489b-932d-cb3f9d466877"
+  }
+}

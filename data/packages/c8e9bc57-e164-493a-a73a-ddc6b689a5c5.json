@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "生活衛生課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "c8e9bc57-e164-493a-a73a-ddc6b689a5c5",
+    "metadata_created": "2022-05-24T06:17:13.173110",
+    "metadata_modified": "2022-05-24T06:17:31.499125",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "【江東区】食品等営業許可・届出についての情報です。",
+        "name": "食品等営業許可・届出一覧",
+        "format": "CSV",
+        "url": "https://www.city.koto.lg.jp/012107/documents/131083_kotocity_food_business_all.csv",
+        "cache_last_updated": null,
+        "package_id": "c8e9bc57-e164-493a-a73a-ddc6b689a5c5",
+        "created": "2022-05-12T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2022-05-12T15:00:00",
+        "position": 0,
+        "revision_id": "95250fa5-32fd-4f66-a6fe-51187d6aa921",
+        "url_type": null,
+        "id": "8ffb0ebf-cb78-4894-8134-ddb17d2f9a01",
+        "resource_type": null,
+        "size": 336
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "",
+      "created": "2021-08-04T07:19:55.726720",
+      "title": "江東区",
+      "name": "t131083",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131083.png",
+      "revision_id": "92ccdda8-5410-4c2a-b31c-b3b2e2fc2fc7",
+      "type": "organization",
+      "id": "171b04bf-0e62-4eaf-b72b-1a9d0a7813e0",
+      "approval_status": "approved"
+    },
+    "name": "t131083d0000000011",
+    "isopen": true,
+    "url": "https://www.city.koto.lg.jp/",
+    "notes": "【江東区】食品等営業許可・届出一覧です。",
+    "owner_org": "171b04bf-0e62-4eaf-b72b-1a9d0a7813e0",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "食品等営業許可・届出一覧",
+    "revision_id": "c6aaf2fe-a597-412a-92af-9bacd55202c3"
+  }
+}

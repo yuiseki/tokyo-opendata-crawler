@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "政策経営部広聴広報課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "4e966724-ac9f-4330-b7d8-8f6237358b4d",
+    "metadata_created": "2022-02-22T07:29:24.981952",
+    "metadata_modified": "2022-02-22T07:30:21.087517",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "志村一里塚の写真です。",
+        "name": "志村一里塚",
+        "format": "JPEG",
+        "url": "https://storage.googleapis.com/storage.openphoto.jp/photos/66/original/g1hmDNj2l2YDBLlJPkKof8208lRcwXluEn7XgmtX.jpg",
+        "cache_last_updated": null,
+        "package_id": "4e966724-ac9f-4330-b7d8-8f6237358b4d",
+        "created": "2022-02-22T07:30:01.424427",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": null,
+        "position": 0,
+        "revision_id": "6821f7bf-fd30-4c1d-a05f-ec040e0427df",
+        "url_type": null,
+        "id": "c04b203a-9172-4333-9f90-79fc0a28863b",
+        "resource_type": null,
+        "size": 7749632
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.itabashi.tokyo.jp/",
+      "created": "2019-11-01T03:27:25.673886",
+      "title": "板橋区",
+      "name": "t131199",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131199.jpg",
+      "revision_id": "1a86d48e-188d-4655-9cc5-c9aedb102db4",
+      "type": "organization",
+      "id": "9354a576-4de5-44ab-9e62-18a92b40b5e7",
+      "approval_status": "approved"
+    },
+    "name": "t131199d0000006094",
+    "isopen": true,
+    "url": "https://openphoto.app/c/ita13119/photo/8261",
+    "notes": "【板橋区】志村一里塚の写真です。",
+    "owner_org": "9354a576-4de5-44ab-9e62-18a92b40b5e7",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "志村一里塚",
+    "revision_id": "04a33afa-3bd9-4fa8-a6e9-c76fd379bf3d"
+  }
+}

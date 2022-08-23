@@ -10,7 +10,7 @@
     "num_tags": 0,
     "id": "4ffadf5a-883c-4158-ad9e-cd016f8be005",
     "metadata_created": "2019-11-01T04:59:03.645053",
-    "metadata_modified": "2021-10-06T08:25:31.891659",
+    "metadata_modified": "2022-06-17T01:36:45.335431",
     "author": null,
     "author_email": null,
     "state": "active",
@@ -28,16 +28,16 @@
         "url": "https://www.city.inagi.tokyo.jp/shisei/gyosei/opendata/opendata_catalogpage/kyouiku.files/071.xlsx",
         "cache_last_updated": null,
         "package_id": "4ffadf5a-883c-4158-ad9e-cd016f8be005",
-        "created": "2021-10-04T00:58:41.651373",
+        "created": "2021-10-04T00:58:00",
         "state": "active",
         "mimetype_inner": null,
         "last_modified": null,
         "position": 0,
-        "revision_id": "83176d8a-4348-445c-a165-65b09aefd7fc",
+        "revision_id": "beba59f8-fb43-45af-b591-bd47b0bc1e2f",
         "url_type": null,
         "id": "881fbb68-dc5c-45ae-949a-e9dfb527aeff",
         "resource_type": null,
-        "size": 25600
+        "size": 30720
       },
       {
         "mimetype": null,

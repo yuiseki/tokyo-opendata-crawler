@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "総務部税務課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "231180f3-6f15-496a-ada2-ff2c27cff186",
+    "metadata_created": "2022-03-08T04:12:03.840242",
+    "metadata_modified": "2022-03-09T05:46:29.891798",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "軽自動車税の税額（グリーン化特例対象車）",
+        "name": "軽自動車税の税額（グリーン化特例対象車）",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/shinagawa/zeigaku_green.csv",
+        "cache_last_updated": null,
+        "package_id": "231180f3-6f15-496a-ada2-ff2c27cff186",
+        "created": "2022-03-08T04:13:12.670757",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": null,
+        "position": 0,
+        "revision_id": "e4e2a3f4-156a-4113-bc4f-4e3c9760b63c",
+        "url_type": null,
+        "id": "f1f8cdb1-6d4f-451d-bea6-2add26a6bf1e",
+        "resource_type": null,
+        "size": 1
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "軽自動車税（環境性能割）の税率",
+        "name": "軽自動車税（環境性能割）の税率",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/shinagawa/kankyoseinouwari.csv",
+        "cache_last_updated": null,
+        "package_id": "231180f3-6f15-496a-ada2-ff2c27cff186",
+        "created": "2022-03-08T04:13:13.028798",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": null,
+        "position": 1,
+        "revision_id": "11075e71-b5fe-4102-9b23-f2c6a560c085",
+        "url_type": null,
+        "id": "cfa882b3-5def-424b-917e-82e8991ba91a",
+        "resource_type": null,
+        "size": 1
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "税金",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c007.png",
+        "title": "税金",
+        "id": "bb8a1d8b-5217-44c2-8eca-81addb671f0e",
+        "name": "c007"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.shinagawa.tokyo.jp/",
+      "created": "2019-11-01T03:27:24.888527",
+      "title": "品川区",
+      "name": "t131091",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131091.png",
+      "revision_id": "a58c6889-2755-423e-bc8c-5146fb74ae73",
+      "type": "organization",
+      "id": "ee5ed3ad-76a9-4a49-aba7-3a63a457eb93",
+      "approval_status": "approved"
+    },
+    "name": "t131091d0000000066",
+    "isopen": true,
+    "url": "https://www.city.shinagawa.tokyo.jp/PC/procedure/procedure-zeikin/procedure-zeikin-keizidousyazei/hpg000033240.html",
+    "notes": "軽自動車税の税額（グリーン化特例対象車）",
+    "owner_org": "ee5ed3ad-76a9-4a49-aba7-3a63a457eb93",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "軽自動車税（環境性能割）の税率",
+    "revision_id": "21089319-f759-437f-9d95-aab495da8580"
+  }
+}

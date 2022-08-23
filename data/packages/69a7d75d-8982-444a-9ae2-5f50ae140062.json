@@ -10,35 +10,34 @@
     "num_tags": 0,
     "id": "69a7d75d-8982-444a-9ae2-5f50ae140062",
     "metadata_created": "2021-11-04T00:38:25.134113",
-    "owner_org": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
     "metadata_modified": "2021-12-13T06:14:49.754846",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "",
+        "name": "ふれあい広場",
         "format": "CSV",
         "url": "https://data.bodik.jp/dataset/2a9efdcf-e69d-4fb8-8aa4-c25d421ba680/resource/90c59e8a-b35e-4b15-b676-0e106c3eb3c2/download/131105_exchange_square_20210401.csv",
+        "cache_last_updated": null,
+        "package_id": "69a7d75d-8982-444a-9ae2-5f50ae140062",
         "created": "2021-08-13T13:33:00",
         "state": "active",
-        "package_id": "69a7d75d-8982-444a-9ae2-5f50ae140062",
+        "mimetype_inner": null,
         "last_modified": "2021-08-13T13:33:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "ddba2750-850b-4050-87c0-7207bb429bb3",
-        "size": 982,
+        "url_type": null,
         "id": "9891e73f-4eb1-4004-98ff-915af2d222b1",
         "resource_type": null,
-        "name": "ふれあい広場"
+        "size": 982
       }
     ],
     "num_resources": 1,
@@ -47,39 +46,40 @@
       {
         "display_name": "まちづくり",
         "description": "",
-        "title": "まちづくり",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c003.png",
+        "title": "まちづくり",
         "id": "dc897c44-8153-4219-bfeb-6110fb85fb99",
         "name": "c003"
       }
     ],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t131105d0000000036",
-    "isopen": true,
-    "url": "https://www.city.meguro.tokyo.jp/kurashi/sports_koen_yoka/koen/index.html",
-    "notes": "目黒区内のふれあい広場一覧",
-    "title": "ふれあい広場",
-    "extras": [
-      {
-        "value": "1年",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "https://odcs.bodik.jp/131105/",
-      "title": "目黒区",
       "created": "2021-11-01T02:12:22.338293",
-      "approval_status": "approved",
+      "title": "目黒区",
+      "name": "t131105",
       "is_organization": true,
       "state": "active",
       "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131105.png",
       "revision_id": "e3dc243f-e3a2-4b2b-a319-4e145bb63383",
       "type": "organization",
       "id": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
-      "name": "t131105"
+      "approval_status": "approved"
     },
+    "name": "t131105d0000000036",
+    "isopen": true,
+    "url": "https://www.city.meguro.tokyo.jp/kurashi/sports_koen_yoka/koen/index.html",
+    "notes": "目黒区内のふれあい広場一覧",
+    "owner_org": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "1年"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "ふれあい広場",
     "revision_id": "09e231d6-1d5f-4b97-bee1-29796217e4c7"
   }
 }

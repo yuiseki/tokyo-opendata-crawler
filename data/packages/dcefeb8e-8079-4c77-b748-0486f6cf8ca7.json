@@ -55,14 +55,14 @@
     "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
     "organization": {
-      "description": "",
+      "description": "https://www.city.tachikawa.lg.jp/",
       "created": "2021-09-21T02:50:23.993914",
       "title": "立川市",
       "name": "t132021",
       "is_organization": true,
       "state": "active",
       "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t132021.png",
-      "revision_id": "8a86ddfe-ada6-4ad2-96a6-f108be8e73fe",
+      "revision_id": "0d0568c2-ecb1-4a75-9d57-aa0b99213e01",
       "type": "organization",
       "id": "cc7a01da-dd01-4fb4-8fb9-5fb2b503c1ce",
       "approval_status": "approved"

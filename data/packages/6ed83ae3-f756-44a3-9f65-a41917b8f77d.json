@@ -10,56 +10,55 @@
     "num_tags": 0,
     "id": "6ed83ae3-f756-44a3-9f65-a41917b8f77d",
     "metadata_created": "2021-11-04T00:59:30.033686",
-    "owner_org": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
     "metadata_modified": "2021-12-13T04:47:02.791088",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "塗分け用ポリゴンデータです。",
+        "name": "塗分け用ポリゴンデータ",
         "format": "GeoJSON",
         "url": "https://data.bodik.jp/dataset/34f9a260-570c-4af0-b4c3-8f2e48c922dd/resource/b3d00b93-906d-436c-9b08-ffbf757c9a61/download/131105_tokyo_meguroku.geojson",
+        "cache_last_updated": null,
+        "package_id": "6ed83ae3-f756-44a3-9f65-a41917b8f77d",
         "created": "2021-07-02T00:46:00",
         "state": "active",
-        "package_id": "6ed83ae3-f756-44a3-9f65-a41917b8f77d",
+        "mimetype_inner": null,
         "last_modified": "2021-07-02T00:46:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "34894b76-166b-405d-ab2c-3feb8392d193",
-        "size": 71290,
+        "url_type": null,
         "id": "b187ce32-2f2e-432c-ab1f-642ae6ebd8a4",
         "resource_type": null,
-        "name": "塗分け用ポリゴンデータ"
+        "size": 71290
       },
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "平成２７年国勢調査（小地域）_男女別人口総数及ひ世帯総数です。",
+        "name": "街区別人口データ",
         "format": "XLSX",
         "url": "https://data.bodik.jp/dataset/34f9a260-570c-4af0-b4c3-8f2e48c922dd/resource/d5dde479-b4b2-4534-b636-161d1515e33c/download/131105_tokyo_meguroku.xlsx",
+        "cache_last_updated": null,
+        "package_id": "6ed83ae3-f756-44a3-9f65-a41917b8f77d",
         "created": "2021-07-02T00:46:00",
         "state": "active",
-        "package_id": "6ed83ae3-f756-44a3-9f65-a41917b8f77d",
+        "mimetype_inner": null,
         "last_modified": "2021-07-02T00:46:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 1,
         "revision_id": "ba8259c3-6fe2-49bc-bec7-ec28c5c5b242",
-        "size": 14088,
+        "url_type": null,
         "id": "069f1886-7b28-410f-88cb-466e359342da",
         "resource_type": null,
-        "name": "街区別人口データ"
+        "size": 14088
       }
     ],
     "num_resources": 2,
@@ -68,39 +67,40 @@
       {
         "display_name": "人口減少・少子高齢化",
         "description": "",
-        "title": "人口減少・少子高齢化",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c004.png",
+        "title": "人口減少・少子高齢化",
         "id": "802d7d18-3543-4e8b-a8f5-82b5f1aa752e",
         "name": "c004"
       }
     ],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t131105d0000000016",
-    "isopen": true,
-    "url": "https://www.city.meguro.tokyo.jp/gyosei/tokei/tokei/jinko/index.html",
-    "notes": "マップ用額別人口（国勢調査2015）\n",
-    "title": "街区別人口",
-    "extras": [
-      {
-        "value": "5年",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "https://odcs.bodik.jp/131105/",
-      "title": "目黒区",
       "created": "2021-11-01T02:12:22.338293",
-      "approval_status": "approved",
+      "title": "目黒区",
+      "name": "t131105",
       "is_organization": true,
       "state": "active",
       "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131105.png",
       "revision_id": "e3dc243f-e3a2-4b2b-a319-4e145bb63383",
       "type": "organization",
       "id": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
-      "name": "t131105"
+      "approval_status": "approved"
     },
+    "name": "t131105d0000000016",
+    "isopen": true,
+    "url": "https://www.city.meguro.tokyo.jp/gyosei/tokei/tokei/jinko/index.html",
+    "notes": "マップ用額別人口（国勢調査2015）\n",
+    "owner_org": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "5年"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "街区別人口",
     "revision_id": "ce94bbef-c667-4133-93bb-c657dd472767"
   }
 }

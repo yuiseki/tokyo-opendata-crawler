@@ -10,56 +10,55 @@
     "num_tags": 0,
     "id": "927c9f3d-3836-4bd8-847c-a6cc7ee1f567",
     "metadata_created": "2020-05-28T09:48:27.458925",
-    "owner_org": "d9a3e421-d822-4377-83e8-30729a913e81",
     "metadata_modified": "2020-05-28T09:48:34.932718",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "",
+        "name": "患者規模　(1) 入院",
         "format": "CSV",
         "url": "https://www.opendata.metro.tokyo.lg.jp/byouin/h31csv/kanjakibo_1_nyuuin.csv",
+        "cache_last_updated": null,
+        "package_id": "927c9f3d-3836-4bd8-847c-a6cc7ee1f567",
         "created": "2020-03-30T15:00:00",
         "state": "active",
-        "package_id": "927c9f3d-3836-4bd8-847c-a6cc7ee1f567",
+        "mimetype_inner": null,
         "last_modified": "2020-03-30T15:00:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "750d98f3-8889-45a8-be7e-ba842693e4a7",
-        "size": null,
+        "url_type": null,
         "id": "59dba4ce-3fde-4b68-8d5b-d89b1b94970f",
         "resource_type": null,
-        "name": "患者規模　(1) 入院"
+        "size": null
       },
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "",
+        "name": "患者規模　(2) 外来",
         "format": "CSV",
         "url": "https://www.opendata.metro.tokyo.lg.jp/byouin/h31csv/kanjakibo_2_gairai.csv",
+        "cache_last_updated": null,
+        "package_id": "927c9f3d-3836-4bd8-847c-a6cc7ee1f567",
         "created": "2020-03-30T15:00:00",
         "state": "active",
-        "package_id": "927c9f3d-3836-4bd8-847c-a6cc7ee1f567",
+        "mimetype_inner": null,
         "last_modified": "2020-03-30T15:00:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 1,
         "revision_id": "51c2f4a2-f606-47b2-9d56-198df10ad30f",
-        "size": null,
+        "url_type": null,
         "id": "f98f5377-cc94-4c67-a13f-fd16420a4d9c",
         "resource_type": null,
-        "name": "患者規模　(2) 外来"
+        "size": null
       }
     ],
     "num_resources": 2,
@@ -68,39 +67,40 @@
       {
         "display_name": "医療・福祉",
         "description": "",
-        "title": "医療・福祉",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c005.png",
+        "title": "医療・福祉",
         "id": "0d3cd956-612c-45c5-b1ee-75c1a5835c0e",
         "name": "c005"
       }
     ],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t000011d1900000003",
-    "isopen": true,
-    "url": "http://www.byouin.metro.tokyo.jp/jigyou/gaiyou/sosikisasuibu.html",
-    "notes": "",
-    "title": "事業案内　組織の概要_予算",
-    "extras": [
-      {
-        "value": "不定期",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "http://www.byouin.metro.tokyo.jp/\r\n\r\n所属:東京都",
-      "title": "東京都病院経営本部",
       "created": "2019-11-01T03:27:21.016626",
-      "approval_status": "approved",
+      "title": "東京都病院経営本部",
+      "name": "t000011",
       "is_organization": true,
       "state": "active",
       "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000011.png",
       "revision_id": "77340b90-8479-4008-bb88-d62c96ed0980",
       "type": "organization",
       "id": "d9a3e421-d822-4377-83e8-30729a913e81",
-      "name": "t000011"
+      "approval_status": "approved"
     },
+    "name": "t000011d1900000003",
+    "isopen": true,
+    "url": "http://www.byouin.metro.tokyo.jp/jigyou/gaiyou/sosikisasuibu.html",
+    "notes": "",
+    "owner_org": "d9a3e421-d822-4377-83e8-30729a913e81",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "事業案内　組織の概要_予算",
     "revision_id": "76a8aa2b-94b1-4a64-8171-efe23b9def11"
   }
 }

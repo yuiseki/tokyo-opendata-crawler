@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "地域振興部地域活動課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "96be1a9e-1869-4113-8307-e88ac1b44e1d",
+    "metadata_created": "2022-03-08T04:12:06.547586",
+    "metadata_modified": "2022-03-09T05:50:24.397127",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "数字でみる品川",
+        "name": "数字でみる品川",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/shinagawa/sujideshinagawa.csv",
+        "cache_last_updated": null,
+        "package_id": "96be1a9e-1869-4113-8307-e88ac1b44e1d",
+        "created": "2022-03-08T04:13:18.013242",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": null,
+        "position": 0,
+        "revision_id": "3ae6d7c4-b071-4a2c-9cbf-2fd667db7f7f",
+        "url_type": null,
+        "id": "49c29e79-65a9-473d-ada4-c5ba547b8571",
+        "resource_type": null,
+        "size": 3
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "数字でみる品川（駅別一日平均乗車人員）",
+        "name": "数字でみる品川（駅別一日平均乗車人員）",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/shinagawa/sujideshinagawa_station.csv",
+        "cache_last_updated": null,
+        "package_id": "96be1a9e-1869-4113-8307-e88ac1b44e1d",
+        "created": "2022-03-08T04:13:18.374717",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": null,
+        "position": 1,
+        "revision_id": "9ef785de-7969-46c6-b02e-3474b644324b",
+        "url_type": null,
+        "id": "639253c0-8242-45ca-a8ba-27027e61d2f0",
+        "resource_type": null,
+        "size": 2
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.shinagawa.tokyo.jp/",
+      "created": "2019-11-01T03:27:24.888527",
+      "title": "品川区",
+      "name": "t131091",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131091.png",
+      "revision_id": "a58c6889-2755-423e-bc8c-5146fb74ae73",
+      "type": "organization",
+      "id": "ee5ed3ad-76a9-4a49-aba7-3a63a457eb93",
+      "approval_status": "approved"
+    },
+    "name": "t131091d0000000075",
+    "isopen": true,
+    "url": "https://www.city.shinagawa.tokyo.jp/PC/kuseizyoho/kuseizyoho-siryo/kuseizyoho-siryo-toukei/hpg000014929.html",
+    "notes": "数字でみる品川",
+    "owner_org": "ee5ed3ad-76a9-4a49-aba7-3a63a457eb93",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "数字でみる品川",
+    "revision_id": "5c665ed8-225a-4681-9179-895b3ec0f6f8"
+  }
+}

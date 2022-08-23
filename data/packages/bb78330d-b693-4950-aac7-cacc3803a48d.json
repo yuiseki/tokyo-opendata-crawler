@@ -10,35 +10,34 @@
     "num_tags": 0,
     "id": "bb78330d-b693-4950-aac7-cacc3803a48d",
     "metadata_created": "2021-07-06T05:01:03.589718",
-    "owner_org": "724ce337-ffb8-4df6-8c3c-eb302e46f786",
     "metadata_modified": "2021-07-06T05:01:39.116740",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "",
+        "name": "固定系子局設置場所一覧表（平成27年10月29日時点）",
         "format": "CSV",
         "url": "https://www.city.sumida.lg.jp/kuseijoho/sumida_info/opendata/opendata_ichiran/bosai_data/koteikokyoku_data.files/koteikokyoku_20151029.csv",
+        "cache_last_updated": null,
+        "package_id": "bb78330d-b693-4950-aac7-cacc3803a48d",
         "created": "2015-10-28T15:00:00",
         "state": "active",
-        "package_id": "bb78330d-b693-4950-aac7-cacc3803a48d",
+        "mimetype_inner": null,
         "last_modified": "2015-10-28T15:00:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "0d598182-2214-4230-bc1a-ef2b7c85c051",
-        "size": 2048,
+        "url_type": null,
         "id": "75d0478a-555a-40cd-85bb-8c3c99598fbb",
         "resource_type": null,
-        "name": "固定系子局設置場所一覧表（平成27年10月29日時点）"
+        "size": 2048
       }
     ],
     "num_resources": 1,
@@ -47,39 +46,40 @@
       {
         "display_name": "防災・災害計画",
         "description": "",
-        "title": "防災・災害計画",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c001.png",
+        "title": "防災・災害計画",
         "id": "8eb52f8e-0d10-44f4-8bb4-2a488d0f8465",
         "name": "c001"
       }
     ],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t131075d0000000105",
-    "isopen": true,
-    "url": "https://www.city.sumida.lg.jp/kuseijoho/sumida_info/opendata/opendata_ichiran/bosai_data/koteikokyoku_data.html",
-    "notes": "【墨田区】防災行政無線の固定系子局を設置している場所の一覧です。",
-    "title": "固定系子局設置場所一覧表",
-    "extras": [
-      {
-        "value": "随時",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "https://www.city.sumida.lg.jp/",
-      "title": "墨田区",
       "created": "2021-07-05T23:44:42.617923",
-      "approval_status": "approved",
+      "title": "墨田区",
+      "name": "t131075",
       "is_organization": true,
       "state": "active",
       "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131075.png",
       "revision_id": "42e38919-ad11-47c9-b8fe-29f803963c1e",
       "type": "organization",
       "id": "724ce337-ffb8-4df6-8c3c-eb302e46f786",
-      "name": "t131075"
+      "approval_status": "approved"
     },
+    "name": "t131075d0000000105",
+    "isopen": true,
+    "url": "https://www.city.sumida.lg.jp/kuseijoho/sumida_info/opendata/opendata_ichiran/bosai_data/koteikokyoku_data.html",
+    "notes": "【墨田区】防災行政無線の固定系子局を設置している場所の一覧です。",
+    "owner_org": "724ce337-ffb8-4df6-8c3c-eb302e46f786",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "固定系子局設置場所一覧表",
     "revision_id": "f26d91b9-6c5c-49b3-8c0f-fd21b66ec07c"
   }
 }

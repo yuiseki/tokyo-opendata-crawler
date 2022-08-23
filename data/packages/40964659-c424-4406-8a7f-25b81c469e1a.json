@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "企画経営部区長室",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "40964659-c424-4406-8a7f-25b81c469e1a",
+    "metadata_created": "2022-08-09T00:07:03.737413",
+    "owner_org": "6adece4f-1ee9-416a-a7e7-856b8d5fb050",
+    "metadata_modified": "2022-08-09T01:01:59.264851",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "第33回港区民世論調査クロス集計表・港区の平和の取組についての情報です。",
+        "format": "CSV",
+        "url": "https://opendata.city.minato.tokyo.jp/dataset/7cf10ebf-867c-4726-aadd-36df3765768a/resource/af1b9321-8bda-4a97-adce-0cadd18bdc8c/download/yoronchosa33_cross_q23.csv",
+        "created": "2022-07-18T15:00:00",
+        "state": "active",
+        "package_id": "40964659-c424-4406-8a7f-25b81c469e1a",
+        "last_modified": "2022-07-18T15:00:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "6771ec9d-99cd-4584-966c-9b1cf3d1af0b",
+        "size": 18432,
+        "id": "a02e3721-519d-40b5-bc9b-c3c298fff89e",
+        "resource_type": null,
+        "name": "第33回港区民世論調査クロス集計表・平和Q23"
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "title": "その他",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      }
+    ],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t131032d0000000132",
+    "isopen": true,
+    "url": "https://www.city.minato.tokyo.jp/kouchou/kuse/chosa/yoronchosa/29hokoku.html",
+    "notes": "【港区】第33回港区民世論調査クロス集計表・港区の平和の取組についての情報です。",
+    "title": "第33回港区民世論調査クロス集計表・港区の平和の取組について",
+    "extras": [
+      {
+        "value": "更新無",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "http://www.city.minato.tokyo.jp/",
+      "title": "港区",
+      "created": "2019-11-01T03:27:24.220357",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131032.jpg",
+      "revision_id": "8f5676eb-3316-4cc6-b26a-4f7e1b39e109",
+      "type": "organization",
+      "id": "6adece4f-1ee9-416a-a7e7-856b8d5fb050",
+      "name": "t131032"
+    },
+    "revision_id": "50e85ea6-8850-49f8-909c-edd739992fa2"
+  }
+}

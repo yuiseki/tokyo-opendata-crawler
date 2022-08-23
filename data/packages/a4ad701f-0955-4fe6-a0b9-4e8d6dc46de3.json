@@ -10,35 +10,34 @@
     "num_tags": 0,
     "id": "a4ad701f-0955-4fe6-a0b9-4e8d6dc46de3",
     "metadata_created": "2021-08-04T08:18:05.538718",
-    "owner_org": "171b04bf-0e62-4eaf-b72b-1a9d0a7813e0",
-    "metadata_modified": "2021-08-04T08:18:22.488480",
+    "metadata_modified": "2022-05-24T07:59:12.763073",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "【江東区】イベント一覧です。",
+        "name": "イベント一覧",
         "format": "CSV",
-        "url": "https://www.city.koto.lg.jp/012105/documents/131083_kotocity_event.csv",
+        "url": "https://www.city.koto.lg.jp/012107/documents/131083_kotocity_event.csv",
+        "cache_last_updated": null,
+        "package_id": "a4ad701f-0955-4fe6-a0b9-4e8d6dc46de3",
         "created": "2019-04-02T15:00:00",
         "state": "active",
-        "package_id": "a4ad701f-0955-4fe6-a0b9-4e8d6dc46de3",
-        "last_modified": "2020-12-17T15:00:00",
-        "mimetype": null,
-        "url_type": null,
+        "mimetype_inner": null,
+        "last_modified": "2022-05-12T15:00:00",
         "position": 0,
-        "revision_id": "1cc3fee2-7cd5-48f7-813f-a1bc9b7c0526",
-        "size": 74752,
-        "id": "0710abbb-646d-4520-a2f7-c982c4ec3b1a",
+        "revision_id": "6bbf1ad2-48b3-483f-8848-c26e7d7e5401",
+        "url_type": null,
+        "id": "b1662b29-e992-4b50-bc6a-18f8516a53db",
         "resource_type": null,
-        "name": "イベント一覧"
+        "size": 78
       }
     ],
     "num_resources": 1,
@@ -47,39 +46,40 @@
       {
         "display_name": "その他",
         "description": "",
-        "title": "その他",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
         "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
         "name": "c014"
       }
     ],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t131083d0000000001",
-    "isopen": true,
-    "url": "https://www.city.koto.lg.jp/",
-    "notes": "【江東区】イベントの一覧です。",
-    "title": "イベント一覧",
-    "extras": [
-      {
-        "value": "1年毎",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "",
-      "title": "江東区",
       "created": "2021-08-04T07:19:55.726720",
-      "approval_status": "approved",
+      "title": "江東区",
+      "name": "t131083",
       "is_organization": true,
       "state": "active",
       "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131083.png",
       "revision_id": "92ccdda8-5410-4c2a-b31c-b3b2e2fc2fc7",
       "type": "organization",
       "id": "171b04bf-0e62-4eaf-b72b-1a9d0a7813e0",
-      "name": "t131083"
+      "approval_status": "approved"
     },
+    "name": "t131083d0000000001",
+    "isopen": true,
+    "url": "https://www.city.koto.lg.jp/",
+    "notes": "【江東区】イベントの一覧です。",
+    "owner_org": "171b04bf-0e62-4eaf-b72b-1a9d0a7813e0",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "1年毎"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "イベント一覧",
     "revision_id": "2e6773a4-5209-4dd2-a523-92362e57042d"
   }
 }

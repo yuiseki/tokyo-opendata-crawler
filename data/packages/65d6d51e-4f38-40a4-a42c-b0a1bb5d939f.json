@@ -10,56 +10,55 @@
     "num_tags": 0,
     "id": "65d6d51e-4f38-40a4-a42c-b0a1bb5d939f",
     "metadata_created": "2021-06-16T02:24:39.208958",
-    "owner_org": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
     "metadata_modified": "2021-06-16T02:25:14.183752",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "【清瀬市】ケヤキロードギャラリーの一覧です。",
+        "name": "ケヤキロードギャラリー",
         "format": "CSV",
         "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/001/607/132217_kiyose_keyaki_road_gallary.csv",
+        "cache_last_updated": null,
+        "package_id": "65d6d51e-4f38-40a4-a42c-b0a1bb5d939f",
         "created": "2021-03-15T06:23:00",
         "state": "active",
-        "package_id": "65d6d51e-4f38-40a4-a42c-b0a1bb5d939f",
+        "mimetype_inner": null,
         "last_modified": "2021-03-15T06:23:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "bed75020-9b1b-461a-851a-200e6a4530ca",
-        "size": null,
+        "url_type": null,
         "id": "751d3e73-d138-4043-b39a-de2386dca15b",
         "resource_type": null,
-        "name": "ケヤキロードギャラリー"
+        "size": null
       },
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "【清瀬市】ケヤキロードギャラリーの一覧です。",
+        "name": "ケヤキロードギャラリー",
         "format": "XLSX",
         "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/001/607/132217_kiyose_keyaki_road_gallary.xlsx",
+        "cache_last_updated": null,
+        "package_id": "65d6d51e-4f38-40a4-a42c-b0a1bb5d939f",
         "created": "2021-03-15T06:23:00",
         "state": "active",
-        "package_id": "65d6d51e-4f38-40a4-a42c-b0a1bb5d939f",
+        "mimetype_inner": null,
         "last_modified": "2021-03-15T06:23:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 1,
         "revision_id": "a29888ad-832b-49f2-b47d-dbad936a6052",
-        "size": null,
+        "url_type": null,
         "id": "8af7f337-8c53-4daa-b37e-bfb3ab752e7d",
         "resource_type": null,
-        "name": "ケヤキロードギャラリー"
+        "size": null
       }
     ],
     "num_resources": 2,
@@ -68,39 +67,40 @@
       {
         "display_name": "観光",
         "description": "",
-        "title": "観光",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c008.png",
+        "title": "観光",
         "id": "420fd8d6-2bde-4746-9354-6344ec19ba93",
         "name": "c008"
       }
     ],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t132217d0000000039",
-    "isopen": true,
-    "url": "https://www.city.kiyose.lg.jp/opendata/opendataichiran/1001607.html",
-    "notes": "【清瀬市】ケヤキロードギャラリーの一覧です。",
-    "title": "ケヤキロードギャラリー",
-    "extras": [
-      {
-        "value": "変更の都度",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "https://www.city.kiyose.lg.jp/index.html",
-      "title": "清瀬市",
       "created": "2020-08-05T08:00:00.206131",
-      "approval_status": "approved",
+      "title": "清瀬市",
+      "name": "t132217",
       "is_organization": true,
       "state": "active",
       "image_url": "",
       "revision_id": "f8ef546d-d3f4-46e8-9741-39a6eec61618",
       "type": "organization",
       "id": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
-      "name": "t132217"
+      "approval_status": "approved"
     },
+    "name": "t132217d0000000039",
+    "isopen": true,
+    "url": "https://www.city.kiyose.lg.jp/opendata/opendataichiran/1001607.html",
+    "notes": "【清瀬市】ケヤキロードギャラリーの一覧です。",
+    "owner_org": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "変更の都度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "ケヤキロードギャラリー",
     "revision_id": "05427bff-290c-4a76-bb4d-f7df78a6407b"
   }
 }

@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "総務部総務課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "2ca3fe20-6053-4cb0-ad7d-64bea26f0714",
+    "metadata_created": "2022-06-03T07:48:47.978486",
+    "metadata_modified": "2022-06-03T07:49:07.486228",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "令和3年度板橋区の統計の警察・消防に関するデータです。",
+        "name": "14　警察・消防",
+        "format": "ZIP",
+        "url": "https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/038/649/14.keisatushoubou.zip",
+        "cache_last_updated": null,
+        "package_id": "2ca3fe20-6053-4cb0-ad7d-64bea26f0714",
+        "created": "2022-06-03T07:48:57.053624",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": null,
+        "position": 0,
+        "revision_id": "8145c30a-112a-434b-8b46-5b1f477ade57",
+        "url_type": null,
+        "id": "a00ba69c-8128-4787-8c58-3b0d8479ff5d",
+        "resource_type": null,
+        "size": 6348
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.itabashi.tokyo.jp/",
+      "created": "2019-11-01T03:27:25.673886",
+      "title": "板橋区",
+      "name": "t131199",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131199.jpg",
+      "revision_id": "1a86d48e-188d-4655-9cc5-c9aedb102db4",
+      "type": "organization",
+      "id": "9354a576-4de5-44ab-9e62-18a92b40b5e7",
+      "approval_status": "approved"
+    },
+    "name": "t131199d0000000258",
+    "isopen": true,
+    "url": "https://www.city.itabashi.tokyo.jp/kusei/shiryo/toukei/toukei/1038612/1038649.html",
+    "notes": "【板橋区】令和3年度板橋区の統計の警察・消防に関するデータを掲載しています。",
+    "owner_org": "9354a576-4de5-44ab-9e62-18a92b40b5e7",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "公開時のみ"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "令和3年度　警察・消防",
+    "revision_id": "b260f871-1092-46ed-9374-2afc61dfec28"
+  }
+}

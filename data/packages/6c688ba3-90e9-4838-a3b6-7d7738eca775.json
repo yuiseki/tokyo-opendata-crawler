@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "政策経営部情報管理課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "6c688ba3-90e9-4838-a3b6-7d7738eca775",
+    "metadata_created": "2022-04-12T23:23:18.618959",
+    "metadata_modified": "2022-04-12T23:23:22.623545",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "公衆トイレ一覧",
+        "format": "CSV",
+        "url": "https://www.city.toshima.lg.jp/020/kuse/electronic/open-data/documents/r3_public_toilet.csv",
+        "cache_last_updated": null,
+        "package_id": "6c688ba3-90e9-4838-a3b6-7d7738eca775",
+        "created": "2022-02-23T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2022-02-23T15:00:00",
+        "position": 0,
+        "revision_id": "05570f92-a458-4a18-867e-b93c6f72e1f9",
+        "url_type": null,
+        "id": "076340c3-1a93-470c-9521-e255a8d0099c",
+        "resource_type": null,
+        "size": 3072
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "まちづくり",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c003.png",
+        "title": "まちづくり",
+        "id": "dc897c44-8153-4219-bfeb-6110fb85fb99",
+        "name": "c003"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.toshima.lg.jp/",
+      "created": "2022-04-12T23:02:34.470693",
+      "title": "豊島区",
+      "name": "t131164",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131164.png",
+      "revision_id": "14fda01f-e105-4e1a-ac84-e5e4fc760deb",
+      "type": "organization",
+      "id": "d5b667a3-96db-44d7-a5d8-f03a94f5c51b",
+      "approval_status": "approved"
+    },
+    "name": "t131164d0000000009",
+    "isopen": true,
+    "url": "https://www.city.toshima.lg.jp/index.html",
+    "notes": "豊島区が公開しているデータ（オープンデータ）をご覧いただけます。",
+    "owner_org": "d5b667a3-96db-44d7-a5d8-f03a94f5c51b",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "年1回"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "公衆トイレ一覧",
+    "revision_id": "2839da0e-5aae-4d42-881f-b989a32de29e"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "行政部区政課、行政部市町村課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "df8ebdd2-d77f-4251-b423-fff6c6a64775",
+    "metadata_created": "2022-07-09T06:29:42.750831",
+    "metadata_modified": "2022-07-09T06:29:55.021470",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "区市町村別ラスパイレス指数（各年4月1日時点）　特別区：23区",
+        "format": "CSV",
+        "url": "https://www.soumu.metro.tokyo.lg.jp/05gyousei/opendata/300124_opendata_2/06_01_1.csv",
+        "cache_last_updated": null,
+        "package_id": "df8ebdd2-d77f-4251-b423-fff6c6a64775",
+        "created": "2018-02-18T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-02-18T15:00:00",
+        "position": 0,
+        "revision_id": "625f4734-2861-410b-8714-9c00eba6835d",
+        "url_type": null,
+        "id": "6091874f-ec03-4ab3-bc6b-1c5f8f8a20fc",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "区市町村別ラスパイレス指数（各年4月1日時点）　市町村：26市5町8村",
+        "format": "CSV",
+        "url": "https://www.soumu.metro.tokyo.lg.jp/05gyousei/opendata/300124_opendata_2/06_01_2.csv",
+        "cache_last_updated": null,
+        "package_id": "df8ebdd2-d77f-4251-b423-fff6c6a64775",
+        "created": "2018-02-18T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-02-18T15:00:00",
+        "position": 1,
+        "revision_id": "6051df70-ee5d-4cc6-a02b-56966dd6a19c",
+        "url_type": null,
+        "id": "036afa9f-6e48-411c-98a7-fd7a57c0c416",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "税金",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c007.png",
+        "title": "税金",
+        "id": "bb8a1d8b-5217-44c2-8eca-81addb671f0e",
+        "name": "c007"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.soumu.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:19.763566",
+      "title": "東京都総務局",
+      "name": "t000003",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000003.png",
+      "revision_id": "c4e16dd4-cb3f-42dc-8be2-2eed0f9e0175",
+      "type": "organization",
+      "id": "5987f8a3-dfbe-4f96-b3cc-e1f3ea0a2717",
+      "approval_status": "approved"
+    },
+    "name": "t000003d1700000071",
+    "isopen": true,
+    "url": "http://www.metro.tokyo.jp/tosei/hodohappyo/press/2016/12/27/06.html",
+    "notes": "【東京都総務局】",
+    "owner_org": "5987f8a3-dfbe-4f96-b3cc-e1f3ea0a2717",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "平成28年東京都区市町村の給与水準（ラスパイレス指数）　区市町村別ラスパイレス指数（各年4月1日時点）",
+    "revision_id": "c2bedb67-1b71-4fed-9b82-8fbccb23eb3a"
+  }
+}

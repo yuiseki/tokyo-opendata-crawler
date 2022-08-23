@@ -10,56 +10,55 @@
     "num_tags": 0,
     "id": "82e95319-c090-469c-9182-dde3f7ee5781",
     "metadata_created": "2020-11-10T01:37:14.084841",
-    "owner_org": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
     "metadata_modified": "2021-06-16T02:25:17.106719",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "【清瀬市】ごみ収集の日程です。",
+        "name": "ごみ収集日程",
         "format": "CSV",
         "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/001/613/11_garbagecollectionday.csv",
+        "cache_last_updated": null,
+        "package_id": "82e95319-c090-469c-9182-dde3f7ee5781",
         "created": "2019-12-26T06:35:00",
         "state": "active",
-        "package_id": "82e95319-c090-469c-9182-dde3f7ee5781",
+        "mimetype_inner": null,
         "last_modified": "2019-12-26T06:35:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "77215180-9054-497e-b4d3-97479def34c2",
-        "size": 6144,
+        "url_type": null,
         "id": "415e5bab-e130-49de-85b8-da7794c161f7",
         "resource_type": null,
-        "name": "ごみ収集日程"
+        "size": 6144
       },
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "【清瀬市】ごみ収集の日程です。",
+        "name": "ごみ収集日程",
         "format": "XLSX",
         "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/001/613/11_garbagecollectionday.xlsx",
+        "cache_last_updated": null,
+        "package_id": "82e95319-c090-469c-9182-dde3f7ee5781",
         "created": "2019-12-18T07:01:00",
         "state": "active",
-        "package_id": "82e95319-c090-469c-9182-dde3f7ee5781",
+        "mimetype_inner": null,
         "last_modified": "2019-12-18T07:01:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 1,
         "revision_id": "6f95fee0-3fe4-43cd-b55c-5edf18dcd8cb",
-        "size": 13312,
+        "url_type": null,
         "id": "e5c65110-a050-490e-b868-79290a17ac8c",
         "resource_type": null,
-        "name": "ごみ収集日程"
+        "size": 13312
       }
     ],
     "num_resources": 2,
@@ -68,39 +67,40 @@
       {
         "display_name": "生活",
         "description": "",
-        "title": "生活",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
         "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
         "name": "c006"
       }
     ],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t132217d0000000028",
-    "isopen": true,
-    "url": "https://www.city.kiyose.lg.jp/opendata/opendataichiran/1001613.html",
-    "notes": "【清瀬市】ごみ収集の日程です。",
-    "title": "ごみ収集日程",
-    "extras": [
-      {
-        "value": "変更の都度",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "https://www.city.kiyose.lg.jp/index.html",
-      "title": "清瀬市",
       "created": "2020-08-05T08:00:00.206131",
-      "approval_status": "approved",
+      "title": "清瀬市",
+      "name": "t132217",
       "is_organization": true,
       "state": "active",
       "image_url": "",
       "revision_id": "f8ef546d-d3f4-46e8-9741-39a6eec61618",
       "type": "organization",
       "id": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
-      "name": "t132217"
+      "approval_status": "approved"
     },
+    "name": "t132217d0000000028",
+    "isopen": true,
+    "url": "https://www.city.kiyose.lg.jp/opendata/opendataichiran/1001613.html",
+    "notes": "【清瀬市】ごみ収集の日程です。",
+    "owner_org": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "変更の都度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "ごみ収集日程",
     "revision_id": "99cd7ee2-bb23-4d35-ba38-ab9bc9a518fa"
   }
 }

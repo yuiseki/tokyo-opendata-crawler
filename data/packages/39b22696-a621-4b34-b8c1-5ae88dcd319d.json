@@ -10,7 +10,7 @@
     "num_tags": 0,
     "id": "39b22696-a621-4b34-b8c1-5ae88dcd319d",
     "metadata_created": "2021-08-10T05:34:46.979163",
-    "metadata_modified": "2021-08-11T22:53:42.994718",
+    "metadata_modified": "2022-05-12T04:30:07.296176",
     "author": "",
     "author_email": "",
     "state": "active",
@@ -22,20 +22,20 @@
         "mimetype": null,
         "cache_url": null,
         "hash": "",
-        "description": "区部多摩215カ所に設置されている災害時給水ステーションの住所、位置情報の一覧です。\r\n",
+        "description": "区部多摩215カ所に設置されている災害時給水ステーションの住所、位置情報の一覧です。",
         "name": "給水拠点一覧データ",
         "format": "CSV",
-        "url": "https://www.opendata.metro.tokyo.lg.jp/suidou/R3/kyoten.csv",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/suidou/R4/kyoten.csv",
         "cache_last_updated": null,
         "package_id": "39b22696-a621-4b34-b8c1-5ae88dcd319d",
-        "created": "2021-08-10T05:34:47.384365",
+        "created": "2022-05-12T04:12:23.321121",
         "state": "active",
         "mimetype_inner": null,
         "last_modified": null,
         "position": 0,
-        "revision_id": "fe0a5646-2ca0-4765-a6bf-046b69973c86",
+        "revision_id": "47d6daeb-8b20-4610-9341-3475154aa987",
         "url_type": null,
-        "id": "b4e73834-6f0a-4b37-8379-f707fe390f0b",
+        "id": "07610333-dc64-4ec4-b83d-52efa9d0026f",
         "resource_type": null,
         "size": 45056
       }
@@ -69,7 +69,7 @@
     },
     "name": "t000019d0000000001",
     "isopen": true,
-    "url": "",
+    "url": "https://www.waterworks.metro.tokyo.lg.jp/kurashi/shinsai/kyoten.html",
     "notes": "【東京都水道局】　区部多摩215カ所に設置されている災害時給水ステーションの住所、位置情報の一覧です。",
     "owner_org": "df3e208c-40a5-4f30-b0f2-491ceffa6423",
     "extras": [
@@ -80,6 +80,6 @@
     ],
     "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "title": "給水拠点一覧データ",
-    "revision_id": "a105ae8f-7388-4446-8c27-cf4b79985e6e"
+    "revision_id": "2c5ffda7-bb24-4c8d-ab57-b034b4dfdebc"
   }
 }

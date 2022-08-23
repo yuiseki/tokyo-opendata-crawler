@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "区民部区民課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "b437750a-7459-467f-bd4f-c7f48c7db932",
+    "metadata_created": "2022-08-01T23:50:12.507509",
+    "owner_org": "72ddc2e3-f5ca-4fae-aca0-2e299cc0a94a",
+    "metadata_modified": "2022-08-01T23:50:45.786260",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "台東区の区民館・公会堂の施設一覧です",
+        "format": "CSV",
+        "url": "https://www.city.taito.lg.jp/kusei/online/opendata/seikatu/shisethutizujouhou.files/sisetu_10.csv",
+        "created": "2017-04-19T15:00:00",
+        "state": "active",
+        "package_id": "b437750a-7459-467f-bd4f-c7f48c7db932",
+        "last_modified": "2022-07-26T15:00:00",
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "26d1b260-071e-46c1-9c34-aed306d8013f",
+        "size": 1024,
+        "id": "147ee980-6fdb-4005-bbeb-87915250ac1c",
+        "resource_type": null,
+        "name": "区民館・公会堂"
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t131067d0000000088",
+    "isopen": true,
+    "url": "http://www.city.taito.lg.jp/index/shisetsu/hall/index.html",
+    "notes": "",
+    "title": "区民館・公会堂",
+    "extras": [
+      {
+        "value": "年1回",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "http://www.city.taito.lg.jp/",
+      "title": "台東区",
+      "created": "2019-11-01T03:27:24.733512",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131067.png",
+      "revision_id": "0166c313-a6d1-4eee-9282-f9bacc692e27",
+      "type": "organization",
+      "id": "72ddc2e3-f5ca-4fae-aca0-2e299cc0a94a",
+      "name": "t131067"
+    },
+    "revision_id": "bd3bff3b-2b7c-4644-86bf-a920a1650ed6"
+  }
+}

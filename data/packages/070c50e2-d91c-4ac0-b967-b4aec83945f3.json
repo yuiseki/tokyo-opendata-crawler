@@ -10,35 +10,34 @@
     "num_tags": 0,
     "id": "070c50e2-d91c-4ac0-b967-b4aec83945f3",
     "metadata_created": "2021-11-04T00:38:28.942784",
-    "owner_org": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
     "metadata_modified": "2021-12-13T06:14:53.111633",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "",
+        "name": "小規模保育所",
         "format": "CSV",
         "url": "https://data.bodik.jp/dataset/a9030288-1de4-4fcb-a99c-c835132e85f7/resource/0c262ac5-e615-4c4f-8ae6-8426612e1d73/download/131105_small_nersury_school_20210401.csv",
+        "cache_last_updated": null,
+        "package_id": "070c50e2-d91c-4ac0-b967-b4aec83945f3",
         "created": "2021-08-11T10:22:00",
         "state": "active",
-        "package_id": "070c50e2-d91c-4ac0-b967-b4aec83945f3",
+        "mimetype_inner": null,
         "last_modified": "2021-08-17T06:07:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "a319dbc9-ee84-4a30-9cba-154ad6a03792",
-        "size": 5154,
+        "url_type": null,
         "id": "8f9c90a8-0e57-4f2a-9ac6-fdbdfe784c1f",
         "resource_type": null,
-        "name": "小規模保育所"
+        "size": 5154
       }
     ],
     "num_resources": 1,
@@ -47,39 +46,40 @@
       {
         "display_name": "人口減少・少子高齢化",
         "description": "",
-        "title": "人口減少・少子高齢化",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c004.png",
+        "title": "人口減少・少子高齢化",
         "id": "802d7d18-3543-4e8b-a8f5-82b5f1aa752e",
         "name": "c004"
       }
     ],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t131105d0000000053",
-    "isopen": true,
-    "url": "https://www.city.meguro.tokyo.jp/kurashi/kosodate/hoiku/ninka/shoukibohoiku.html",
-    "notes": "目黒区内の小規模保育所の所在地、定員、開所時間、運営者等",
-    "title": "小規模保育所",
-    "extras": [
-      {
-        "value": "1年",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "https://odcs.bodik.jp/131105/",
-      "title": "目黒区",
       "created": "2021-11-01T02:12:22.338293",
-      "approval_status": "approved",
+      "title": "目黒区",
+      "name": "t131105",
       "is_organization": true,
       "state": "active",
       "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131105.png",
       "revision_id": "e3dc243f-e3a2-4b2b-a319-4e145bb63383",
       "type": "organization",
       "id": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
-      "name": "t131105"
+      "approval_status": "approved"
     },
+    "name": "t131105d0000000053",
+    "isopen": true,
+    "url": "https://www.city.meguro.tokyo.jp/kurashi/kosodate/hoiku/ninka/shoukibohoiku.html",
+    "notes": "目黒区内の小規模保育所の所在地、定員、開所時間、運営者等",
+    "owner_org": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "1年"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "小規模保育所",
     "revision_id": "f6d3e5a4-1b1a-4393-8abb-c7741052e1ab"
   }
 }

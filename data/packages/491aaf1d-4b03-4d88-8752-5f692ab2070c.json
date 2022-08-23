@@ -10,67 +10,67 @@
     "num_tags": 0,
     "id": "491aaf1d-4b03-4d88-8752-5f692ab2070c",
     "metadata_created": "2019-11-01T04:58:39.361351",
-    "owner_org": "01ee6b09-cb58-4100-8d95-623ad6b238ef",
-    "metadata_modified": "2020-05-22T09:03:43.235302",
+    "metadata_modified": "2022-03-16T04:49:01.090803",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
-        "description": "本データは2017年10月27日時点のものです。本データは地図作成上の誤差を含みます。またデータ上の表示と現況とは異なる場合があります。",
+        "description": "本データは2021年12月時点のものです。本データは地図作成上の誤差を含みます。またデータ上の表示と現況とは異なる場合があります。",
+        "name": "市内駐輪場一覧（市営・公営のみ）",
         "format": "CSV",
         "url": "https://www.city.machida.tokyo.jp/shisei/opendata/shisetsu/churinjou.files/churinjou.csv",
+        "cache_last_updated": null,
+        "package_id": "491aaf1d-4b03-4d88-8752-5f692ab2070c",
         "created": "2017-12-19T15:00:00",
         "state": "active",
-        "package_id": "491aaf1d-4b03-4d88-8752-5f692ab2070c",
-        "last_modified": "2017-12-19T15:00:00",
-        "mimetype": null,
-        "url_type": null,
+        "mimetype_inner": null,
+        "last_modified": "2022-01-18T15:00:00",
         "position": 0,
-        "revision_id": "b2197105-277f-4387-8486-f1642299c12e",
-        "size": 15360,
+        "revision_id": "26cb3684-4f1c-4277-a714-ba210b049f8a",
+        "url_type": null,
         "id": "ef73f906-3a91-4310-829a-e79a3c243f65",
         "resource_type": null,
-        "name": "市内駐輪場一覧（市営・公営のみ）"
+        "size": 16384
       }
     ],
     "num_resources": 1,
     "tags": [],
     "groups": [],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t132098d0000000013",
-    "isopen": true,
-    "url": "",
-    "notes": "【町田市】市内の市営・公営の自転車・バイク駐車場の一覧です。有料・無料含みます。",
-    "title": "市内駐輪場一覧（市営・公営のみ）",
-    "extras": [
-      {
-        "value": "随時",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "https://www.city.machida.tokyo.jp/",
-      "title": "町田市",
       "created": "2019-11-01T03:27:26.775139",
-      "approval_status": "approved",
+      "title": "町田市",
+      "name": "t132098",
       "is_organization": true,
       "state": "active",
       "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t132098.png",
       "revision_id": "afc39d6e-faf0-4358-90a5-a32d669724a1",
       "type": "organization",
       "id": "01ee6b09-cb58-4100-8d95-623ad6b238ef",
-      "name": "t132098"
+      "approval_status": "approved"
     },
-    "revision_id": "4e31f21e-cc64-4645-aa56-b55c903221f0"
+    "name": "t132098d0000000013",
+    "isopen": true,
+    "url": "",
+    "notes": "【町田市】市内の公営の自転車・バイク駐車場の一覧です。(有料)無料駐輪場につきましては、市営になります。",
+    "owner_org": "01ee6b09-cb58-4100-8d95-623ad6b238ef",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "市内駐輪場一覧（市営・公営のみ）",
+    "revision_id": "e93100ce-8eca-464a-b4a8-b44603c7eb37"
   }
 }

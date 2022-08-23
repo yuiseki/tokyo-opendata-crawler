@@ -10,7 +10,7 @@
     "num_tags": 0,
     "id": "5bdad6a0-3190-459c-b63c-74ab0cbb4b8c",
     "metadata_created": "2019-11-01T04:58:59.021523",
-    "metadata_modified": "2021-10-06T07:38:06.841663",
+    "metadata_modified": "2022-06-17T01:36:33.891494",
     "author": null,
     "author_email": null,
     "state": "active",
@@ -70,16 +70,16 @@
         "url": "https://www.city.inagi.tokyo.jp/shisei/gyosei/opendata/opendata_catalogpage/tochimenseki_kisyou.files/006.xlsx",
         "cache_last_updated": null,
         "package_id": "5bdad6a0-3190-459c-b63c-74ab0cbb4b8c",
-        "created": "2021-10-04T00:58:16.990597",
+        "created": "2021-10-04T00:58:00",
         "state": "active",
         "mimetype_inner": null,
         "last_modified": null,
         "position": 2,
-        "revision_id": "1b9a7ee6-855b-4548-856d-b7e86f0c2511",
+        "revision_id": "7c5a3ddd-422a-4e67-836f-4f6983b8c84d",
         "url_type": null,
         "id": "42c99355-b4bd-42be-9bf3-6a357db5fe3e",
         "resource_type": null,
-        "size": 16384
+        "size": 17408
       },
       {
         "mimetype": null,
@@ -112,16 +112,16 @@
         "url": "https://www.city.inagi.tokyo.jp/shisei/gyosei/opendata/opendata_catalogpage/tochimenseki_kisyou.files/007.xlsx",
         "cache_last_updated": null,
         "package_id": "5bdad6a0-3190-459c-b63c-74ab0cbb4b8c",
-        "created": "2021-10-04T00:58:17.743006",
+        "created": "2021-10-04T00:58:00",
         "state": "active",
         "mimetype_inner": null,
         "last_modified": null,
         "position": 4,
-        "revision_id": "1b9a7ee6-855b-4548-856d-b7e86f0c2511",
+        "revision_id": "ebbf8471-8cb8-4c1f-ba34-5cdc89efcb0c",
         "url_type": null,
         "id": "45f09306-efda-446c-9387-0c8f3299a2be",
         "resource_type": null,
-        "size": 16384
+        "size": 17408
       },
       {
         "mimetype": null,
@@ -154,16 +154,16 @@
         "url": "https://www.city.inagi.tokyo.jp/shisei/gyosei/opendata/opendata_catalogpage/tochimenseki_kisyou.files/008.xlsx",
         "cache_last_updated": null,
         "package_id": "5bdad6a0-3190-459c-b63c-74ab0cbb4b8c",
-        "created": "2021-10-04T00:58:18.736974",
+        "created": "2021-10-04T00:58:00",
         "state": "active",
         "mimetype_inner": null,
         "last_modified": null,
         "position": 6,
-        "revision_id": "1b9a7ee6-855b-4548-856d-b7e86f0c2511",
+        "revision_id": "d2920b79-a514-452f-9067-f62562ab9891",
         "url_type": null,
         "id": "50576db8-d489-4065-9d75-93665d5e2424",
         "resource_type": null,
-        "size": 15360
+        "size": 16384
       },
       {
         "mimetype": null,

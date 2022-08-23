@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "企画部情報推進課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "d6a68d45-f77b-4c4e-a97f-170955797c54",
+    "metadata_created": "2022-03-08T04:11:51.140545",
+    "metadata_modified": "2022-03-08T04:12:47.222019",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "SHINAGAWA FREE Wi-Fiの場所情報csvデータ",
+        "name": "SHINAGAWA FREE Wi-Fi(csv形式)",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/shinagawa/PublicWIFI.csv",
+        "cache_last_updated": null,
+        "package_id": "d6a68d45-f77b-4c4e-a97f-170955797c54",
+        "created": "2021-03-03T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-03-03T15:00:00",
+        "position": 0,
+        "revision_id": "36a86481-5842-4897-b233-fe694f8a8190",
+        "url_type": null,
+        "id": "79908016-a9b0-4c1f-bb6d-9af69deac56a",
+        "resource_type": null,
+        "size": 9
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "SHINAGAWA FREE Wi-Fiの場所情報rdfデータ",
+        "name": "SHINAGAWA FREE Wi-Fi(rdf形式)",
+        "format": "RDF",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/shinagawa/PublicWIFI.rdf",
+        "cache_last_updated": null,
+        "package_id": "d6a68d45-f77b-4c4e-a97f-170955797c54",
+        "created": "2021-03-03T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-03-03T15:00:00",
+        "position": 1,
+        "revision_id": "2dbb15e2-50bf-4a23-a004-ed328174a60d",
+        "url_type": null,
+        "id": "be53119d-8b39-4a6c-b7ab-ed8a1d32a12c",
+        "resource_type": null,
+        "size": 148
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.shinagawa.tokyo.jp/",
+      "created": "2019-11-01T03:27:24.888527",
+      "title": "品川区",
+      "name": "t131091",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131091.png",
+      "revision_id": "a58c6889-2755-423e-bc8c-5146fb74ae73",
+      "type": "organization",
+      "id": "ee5ed3ad-76a9-4a49-aba7-3a63a457eb93",
+      "approval_status": "approved"
+    },
+    "name": "t131091d0000000022",
+    "isopen": true,
+    "url": "",
+    "notes": "FREE Wi-Fiの情報",
+    "owner_org": "ee5ed3ad-76a9-4a49-aba7-3a63a457eb93",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "FREE Wi-Fi",
+    "revision_id": "ad4a96ee-b7b3-4b16-97e0-bad62f538529"
+  }
+}

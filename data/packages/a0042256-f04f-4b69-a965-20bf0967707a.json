@@ -10,7 +10,7 @@
     "num_tags": 0,
     "id": "a0042256-f04f-4b69-a965-20bf0967707a",
     "metadata_created": "2019-11-01T04:59:07.590989",
-    "metadata_modified": "2021-10-07T00:12:08.406702",
+    "metadata_modified": "2022-06-17T01:37:10.969974",
     "author": null,
     "author_email": null,
     "state": "active",
@@ -28,16 +28,16 @@
         "url": "https://www.city.inagi.tokyo.jp/shisei/gyosei/opendata/opendata_catalogpage/juutaku.files/143.xlsx",
         "cache_last_updated": null,
         "package_id": "a0042256-f04f-4b69-a965-20bf0967707a",
-        "created": "2021-10-04T01:37:19.196952",
+        "created": "2021-10-04T01:37:00",
         "state": "active",
         "mimetype_inner": null,
         "last_modified": null,
         "position": 0,
-        "revision_id": "6c597b39-a83b-4cc1-8bf2-2e3dba4cbc67",
+        "revision_id": "e17d9b7d-7a32-4260-8ab7-dcf6078e28b7",
         "url_type": null,
         "id": "b2451a2b-464f-4b64-87fb-9e7474d81a46",
         "resource_type": null,
-        "size": 15360
+        "size": 16384
       },
       {
         "mimetype": null,
@@ -70,16 +70,16 @@
         "url": "https://www.city.inagi.tokyo.jp/shisei/gyosei/opendata/opendata_catalogpage/juutaku.files/144.xlsx",
         "cache_last_updated": null,
         "package_id": "a0042256-f04f-4b69-a965-20bf0967707a",
-        "created": "2021-10-04T01:37:19.941756",
+        "created": "2021-10-04T01:37:00",
         "state": "active",
         "mimetype_inner": null,
         "last_modified": null,
         "position": 2,
-        "revision_id": "2351aaff-e99f-4cdc-8b1a-3e42985e36ab",
+        "revision_id": "be615856-f2e2-4b35-9016-f83419c3bd47",
         "url_type": null,
         "id": "3ebfa4b3-5efd-4597-b985-c73c133c60f3",
         "resource_type": null,
-        "size": 14336
+        "size": 15360
       },
       {
         "mimetype": null,
@@ -112,16 +112,16 @@
         "url": "https://www.city.inagi.tokyo.jp/shisei/gyosei/opendata/opendata_catalogpage/juutaku.files/145.xlsx",
         "cache_last_updated": null,
         "package_id": "a0042256-f04f-4b69-a965-20bf0967707a",
-        "created": "2021-10-04T01:37:20.694313",
+        "created": "2021-10-04T01:37:00",
         "state": "active",
         "mimetype_inner": null,
         "last_modified": null,
         "position": 4,
-        "revision_id": "0ee25fc1-8f58-4c74-a139-a34f864dd09c",
+        "revision_id": "a7f984e0-7839-4de0-9366-1a489f055e0e",
         "url_type": null,
         "id": "e2e75687-ae32-4d98-b580-73724a4ec180",
         "resource_type": null,
-        "size": 14336
+        "size": 15360
       },
       {
         "mimetype": null,
@@ -133,16 +133,16 @@
         "url": "https://www.city.inagi.tokyo.jp/shisei/gyosei/opendata/opendata_catalogpage/juutaku.files/145.csv",
         "cache_last_updated": null,
         "package_id": "a0042256-f04f-4b69-a965-20bf0967707a",
-        "created": "2021-10-04T01:37:21.084322",
+        "created": "2021-10-04T01:37:00",
         "state": "active",
         "mimetype_inner": null,
         "last_modified": null,
         "position": 5,
-        "revision_id": "0ee25fc1-8f58-4c74-a139-a34f864dd09c",
+        "revision_id": "fd90ddae-1492-4aa9-9e73-95eb244e87a5",
         "url_type": null,
         "id": "42878385-5120-4f3a-a0b9-913475b9d16f",
         "resource_type": null,
-        "size": null
+        "size": 1024
       }
     ],
     "num_resources": 6,

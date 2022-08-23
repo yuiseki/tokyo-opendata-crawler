@@ -10,7 +10,7 @@
     "num_tags": 0,
     "id": "af9524c8-8fe7-4794-9208-02d3b9dc72e1",
     "metadata_created": "2019-11-01T04:57:34.667961",
-    "metadata_modified": "2021-04-14T01:30:21.493811",
+    "metadata_modified": "2022-04-26T01:46:54.919081",
     "author": null,
     "author_email": null,
     "state": "active",
@@ -33,11 +33,11 @@
         "mimetype_inner": null,
         "last_modified": "2016-11-29T15:00:00",
         "position": 0,
-        "revision_id": "ae72af57-b7f2-4210-94f2-7a76774fcfcf",
+        "revision_id": "4aba4351-7168-451b-b762-bbf0a26e85a2",
         "url_type": null,
         "id": "f0cae5b8-91e9-46d8-a806-5b3ecab1b66a",
         "resource_type": null,
-        "size": 2097152
+        "size": 1836032
       },
       {
         "mimetype": null,
@@ -54,11 +54,11 @@
         "mimetype_inner": null,
         "last_modified": "2016-11-29T15:00:00",
         "position": 1,
-        "revision_id": "06a3a096-fbb2-4f62-96b5-01c50e433abc",
+        "revision_id": "b48697d7-04b6-4395-9170-686c628b4aeb",
         "url_type": null,
         "id": "39a16886-3620-4d26-bea2-ab94d57c54dc",
         "resource_type": null,
-        "size": 5242880
+        "size": 5019648
       },
       {
         "mimetype": null,
@@ -75,11 +75,11 @@
         "mimetype_inner": null,
         "last_modified": "2016-11-29T15:00:00",
         "position": 2,
-        "revision_id": "b9e4404d-437f-4196-832a-e90c6d648628",
+        "revision_id": "0156722a-267d-4123-a336-ea0908e05c3f",
         "url_type": null,
         "id": "c4df9cf4-b13a-4ade-8f38-2e3dd98a049b",
         "resource_type": null,
-        "size": 9437184
+        "size": 9306112
       },
       {
         "mimetype": null,
@@ -96,11 +96,11 @@
         "mimetype_inner": null,
         "last_modified": "2016-11-29T15:00:00",
         "position": 3,
-        "revision_id": "3d68356c-617d-4a1f-8b6d-a75fde81d007",
+        "revision_id": "46ff0e14-44af-4e72-bc8a-fa95e89a033f",
         "url_type": null,
         "id": "2296a244-72e9-4cda-89f4-3a7e72bf64a8",
         "resource_type": null,
-        "size": 12582912
+        "size": 12778496
       },
       {
         "mimetype": null,
@@ -117,11 +117,11 @@
         "mimetype_inner": null,
         "last_modified": "2016-11-29T15:00:00",
         "position": 4,
-        "revision_id": "64883419-355e-4f27-8401-d46a96c7b805",
+        "revision_id": "e44cdf1d-32b5-448b-b88b-4014434b231f",
         "url_type": null,
         "id": "a8f9e025-2cac-41e3-95fb-e6da4ae67b55",
         "resource_type": null,
-        "size": 4194304
+        "size": 4466688
       },
       {
         "mimetype": null,
@@ -138,11 +138,11 @@
         "mimetype_inner": null,
         "last_modified": "2016-11-29T15:00:00",
         "position": 5,
-        "revision_id": "c938992c-34dc-4e43-9500-40b592af3fc0",
+        "revision_id": "b15eb9e9-af99-435d-8a66-57bcd9737ee5",
         "url_type": null,
         "id": "fac92544-52e7-406e-a703-8c2f60f3785b",
         "resource_type": null,
-        "size": 5242880
+        "size": 5013504
       },
       {
         "mimetype": null,
@@ -159,11 +159,11 @@
         "mimetype_inner": null,
         "last_modified": "2017-06-29T15:00:00",
         "position": 6,
-        "revision_id": "8b4d46f5-1331-4f69-a125-51b6769c125b",
+        "revision_id": "e3ac5a15-91c5-4d3f-b03e-85f35830f8d3",
         "url_type": null,
         "id": "794d3ba0-62b1-4f20-b7ca-01f1c369dfa4",
         "resource_type": null,
-        "size": 7340032
+        "size": 7115776
       },
       {
         "mimetype": null,
@@ -180,11 +180,11 @@
         "mimetype_inner": null,
         "last_modified": "2018-02-18T15:00:00",
         "position": 7,
-        "revision_id": "db3e6634-aa18-48cc-a7a6-a44042ccf99a",
+        "revision_id": "7f924963-ea94-4eb1-8e69-62dcc2fb6a18",
         "url_type": null,
         "id": "debd3ef4-9705-4f39-abed-22fb6fe88137",
         "resource_type": null,
-        "size": 4194304
+        "size": 4081664
       },
       {
         "mimetype": null,
@@ -201,11 +201,11 @@
         "mimetype_inner": null,
         "last_modified": "2019-02-19T15:00:00",
         "position": 8,
-        "revision_id": "5950bf6e-9510-4386-9734-705566ebbeda",
+        "revision_id": "62b91002-f628-4d44-a598-3afb6c04a98a",
         "url_type": null,
         "id": "115f79fb-355e-412d-9034-b6eb591c4751",
         "resource_type": null,
-        "size": 5242880
+        "size": 5490688
       },
       {
         "mimetype": null,

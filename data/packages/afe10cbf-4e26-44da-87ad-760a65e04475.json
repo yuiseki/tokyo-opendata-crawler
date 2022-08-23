@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "清瀬市福祉・子ども部子育て支援課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "afe10cbf-4e26-44da-87ad-760a65e04475",
+    "metadata_created": "2022-05-27T07:22:53.167323",
+    "metadata_modified": "2022-05-27T07:23:34.991170",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "【清瀬市】保育園の児童数です。",
+        "name": "保育園児童数",
+        "format": "CSV",
+        "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/008/690/132217_hoiku_jidou.csv",
+        "cache_last_updated": null,
+        "package_id": "afe10cbf-4e26-44da-87ad-760a65e04475",
+        "created": "2021-03-05T00:44:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-03-05T00:44:00",
+        "position": 0,
+        "revision_id": "7f03bc24-64a4-4bd7-945e-1dbe49e6a6f8",
+        "url_type": null,
+        "id": "080c6458-54ec-4784-a312-0fd929379809",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "【清瀬市】保育園の児童数です。",
+        "name": "保育園児童数",
+        "format": "XLSX",
+        "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/008/690/132217_hoiku_jidou.xlsx",
+        "cache_last_updated": null,
+        "package_id": "afe10cbf-4e26-44da-87ad-760a65e04475",
+        "created": "2021-03-04T06:46:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-03-04T06:46:00",
+        "position": 1,
+        "revision_id": "d2749a45-d025-4444-b319-ce0eff986472",
+        "url_type": null,
+        "id": "797e3e41-f54e-4e0b-8e5a-c862edb05cf0",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.kiyose.lg.jp/index.html",
+      "created": "2020-08-05T08:00:00.206131",
+      "title": "清瀬市",
+      "name": "t132217",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "f8ef546d-d3f4-46e8-9741-39a6eec61618",
+      "type": "organization",
+      "id": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
+      "approval_status": "approved"
+    },
+    "name": "t132217d0000000056",
+    "isopen": true,
+    "url": "https://www.city.kiyose.lg.jp/opendata/opendataichiran/1008690.html",
+    "notes": "【清瀬市】保育園の児童数です。",
+    "owner_org": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "変更の都度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "保育園児童数",
+    "revision_id": "a91b462b-95ed-482f-a54b-f51ec92b149a"
+  }
+}

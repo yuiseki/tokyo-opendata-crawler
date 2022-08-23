@@ -10,35 +10,34 @@
     "num_tags": 0,
     "id": "730fb1ec-574c-47d4-858b-9b9944ff14fc",
     "metadata_created": "2020-05-29T07:48:11.136117",
-    "owner_org": "16d81025-a2ca-4002-8129-9906c94a4732",
     "metadata_modified": "2020-05-29T07:48:27.242266",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "",
+        "name": "組織及び事務分掌",
         "format": "CSV",
         "url": "https://www.opendata.metro.tokyo.lg.jp/toshiseibi/h31/sosiki_jimubunsyo.csv",
+        "cache_last_updated": null,
+        "package_id": "730fb1ec-574c-47d4-858b-9b9944ff14fc",
         "created": "2020-05-29T07:48:22.287994",
         "state": "active",
-        "package_id": "730fb1ec-574c-47d4-858b-9b9944ff14fc",
+        "mimetype_inner": null,
         "last_modified": null,
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "c4a8a5dd-44b1-41e6-87c8-2d9a0999dbeb",
-        "size": null,
+        "url_type": null,
         "id": "b2f3b7ee-1efc-45a3-a420-383ae5b41097",
         "resource_type": null,
-        "name": "組織及び事務分掌"
+        "size": null
       }
     ],
     "num_resources": 1,
@@ -47,39 +46,40 @@
       {
         "display_name": "まちづくり",
         "description": "",
-        "title": "まちづくり",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c003.png",
+        "title": "まちづくり",
         "id": "dc897c44-8153-4219-bfeb-6110fb85fb99",
         "name": "c003"
       }
     ],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t000008d1900000010",
-    "isopen": true,
-    "url": "http://www.toshiseibi.metro.tokyo.jp/daiichiseibi/index.html",
-    "notes": "",
-    "title": "東京都第一市街地整備事務所　組織及び事務分掌",
-    "extras": [
-      {
-        "value": "不定期",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "http://www.toshiseibi.metro.tokyo.jp/\r\n\r\n所属:東京都",
-      "title": "東京都都市整備局",
       "created": "2019-11-01T03:27:20.560358",
-      "approval_status": "approved",
+      "title": "東京都都市整備局",
+      "name": "t000008",
       "is_organization": true,
       "state": "active",
       "image_url": "",
       "revision_id": "9c234f0e-ff7d-4e2d-8ba4-ea80f312405b",
       "type": "organization",
       "id": "16d81025-a2ca-4002-8129-9906c94a4732",
-      "name": "t000008"
+      "approval_status": "approved"
     },
+    "name": "t000008d1900000010",
+    "isopen": true,
+    "url": "http://www.toshiseibi.metro.tokyo.jp/daiichiseibi/index.html",
+    "notes": "",
+    "owner_org": "16d81025-a2ca-4002-8129-9906c94a4732",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "東京都第一市街地整備事務所　組織及び事務分掌",
     "revision_id": "2d76ab47-d2e1-4533-982b-0d2deae87596"
   }
 }

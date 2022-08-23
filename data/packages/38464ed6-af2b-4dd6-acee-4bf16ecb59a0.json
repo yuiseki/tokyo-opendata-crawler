@@ -10,35 +10,34 @@
     "num_tags": 0,
     "id": "38464ed6-af2b-4dd6-acee-4bf16ecb59a0",
     "metadata_created": "2021-11-04T00:38:25.780881",
-    "owner_org": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
     "metadata_modified": "2021-12-13T06:14:50.440570",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "",
+        "name": "学童保育クラブ",
         "format": "CSV",
         "url": "https://data.bodik.jp/dataset/e776bc0a-e5dd-449b-a1c2-9d8f47d69a9d/resource/57f82dbf-e389-46aa-b0b9-b1164f619cbe/download/131105_after_school_care_program_club.csv",
+        "cache_last_updated": null,
+        "package_id": "38464ed6-af2b-4dd6-acee-4bf16ecb59a0",
         "created": "2021-08-20T03:12:00",
         "state": "active",
-        "package_id": "38464ed6-af2b-4dd6-acee-4bf16ecb59a0",
+        "mimetype_inner": null,
         "last_modified": "2021-08-20T03:12:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "291d78d8-55c4-4021-b10c-bb669e6d8c99",
-        "size": 24376,
+        "url_type": null,
         "id": "ba533f7a-396e-45c2-9332-587b49273cc0",
         "resource_type": null,
-        "name": "学童保育クラブ"
+        "size": 24376
       }
     ],
     "num_resources": 1,
@@ -47,39 +46,40 @@
       {
         "display_name": "その他",
         "description": "",
-        "title": "その他",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
         "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
         "name": "c014"
       }
     ],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t131105d0000000039",
-    "isopen": true,
-    "url": "https://www.city.meguro.tokyo.jp/kurashi/kosodate/josei/hoiku_club.html",
-    "notes": "目黒区内の学童保育クラブの一覧",
-    "title": "学童保育クラブ",
-    "extras": [
-      {
-        "value": "1年",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "https://odcs.bodik.jp/131105/",
-      "title": "目黒区",
       "created": "2021-11-01T02:12:22.338293",
-      "approval_status": "approved",
+      "title": "目黒区",
+      "name": "t131105",
       "is_organization": true,
       "state": "active",
       "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131105.png",
       "revision_id": "e3dc243f-e3a2-4b2b-a319-4e145bb63383",
       "type": "organization",
       "id": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
-      "name": "t131105"
+      "approval_status": "approved"
     },
+    "name": "t131105d0000000039",
+    "isopen": true,
+    "url": "https://www.city.meguro.tokyo.jp/kurashi/kosodate/josei/hoiku_club.html",
+    "notes": "目黒区内の学童保育クラブの一覧",
+    "owner_org": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "1年"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "学童保育クラブ",
     "revision_id": "4fd9840c-9af4-4a64-821a-07d128bf622f"
   }
 }

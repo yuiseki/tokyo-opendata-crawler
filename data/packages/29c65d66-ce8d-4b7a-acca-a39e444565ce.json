@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "港湾整備部計画課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "29c65d66-ce8d-4b7a-acca-a39e444565ce",
+    "metadata_created": "2022-07-05T00:19:19.854075",
+    "metadata_modified": "2022-07-05T00:19:20.146505",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "高潮防災総合情報システムで公開している潮位、風速・風向、気圧等の観測値の過去データです。",
+        "name": "高潮防災総合情報システム　潮位、風速・風向、気圧等の観測データ",
+        "format": "HTML",
+        "url": "https://www.takashio-bosai.metro.tokyo.lg.jp/im/other/tkim0104g.html",
+        "cache_last_updated": null,
+        "package_id": "29c65d66-ce8d-4b7a-acca-a39e444565ce",
+        "created": "2022-07-05T00:19:20.186842",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": null,
+        "position": 0,
+        "revision_id": "545eb773-ef5e-4a85-956a-36353c2af5fe",
+        "url_type": null,
+        "id": "50d5f21c-7b0c-41db-8fa5-e169da14cc78",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.kouwan.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:21.661622",
+      "title": "東京都港湾局",
+      "name": "t000015",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000015.jpg",
+      "revision_id": "0ae0b754-9704-453d-a632-4097dcdb2ebf",
+      "type": "organization",
+      "id": "4a51054b-f927-4a44-902b-889a0a1fa75d",
+      "approval_status": "approved"
+    },
+    "name": "t000015d0000000039",
+    "isopen": true,
+    "url": "https://www.takashio-bosai.metro.tokyo.lg.jp/im/tkim0101g.html",
+    "notes": "東京都港湾局では、都民の皆様に高潮時の迅速な避難行動等に役立てていただくため、水位や海面の状況などの高潮防災情報をリアルタイムで発信する「高潮防災総合情報システム」を公開しています。\n\n本データは、高潮防災総合情報システムで公開している水位や風速・風向等の観測値の過去データです。\n",
+    "owner_org": "4a51054b-f927-4a44-902b-889a0a1fa75d",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "毎日"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "高潮防災総合情報システム　潮位、風速・風向、気圧等の観測データ",
+    "revision_id": "0ffdf0b9-81dd-4dd7-88d4-b537c26fe80c"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "都市基盤部調整課施設計画担当",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "5bf882d5-2de5-42d3-a630-85c63e7a069b",
+    "metadata_created": "2020-05-29T07:48:12.813265",
+    "metadata_modified": "2020-05-29T07:48:27.101225",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "表 1-2 東京の主な大規模地下街",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/toshiseibi/h31/1-2_toukyou_daikibotikagai.csv",
+        "cache_last_updated": null,
+        "package_id": "5bf882d5-2de5-42d3-a630-85c63e7a069b",
+        "created": "2020-03-30T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2020-03-30T15:00:00",
+        "position": 0,
+        "revision_id": "88df88fd-a45c-417f-a555-83893935fdb8",
+        "url_type": null,
+        "id": "f76da2ce-e6d0-4b56-bbd3-0f959ab5b51c",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "防災・災害計画",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c001.png",
+        "title": "防災・災害計画",
+        "id": "8eb52f8e-0d10-44f4-8bb4-2a488d0f8465",
+        "name": "c001"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.toshiseibi.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.560358",
+      "title": "東京都都市整備局",
+      "name": "t000008",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "9c234f0e-ff7d-4e2d-8ba4-ea80f312405b",
+      "type": "organization",
+      "id": "16d81025-a2ca-4002-8129-9906c94a4732",
+      "approval_status": "approved"
+    },
+    "name": "t000008d1900000016",
+    "isopen": true,
+    "url": "http://www.toshiseibi.metro.tokyo.jp/kiban/gouu_houshin/index.html",
+    "notes": "第1章　降雨状況や浸水被害状況などの変化",
+    "owner_org": "16d81025-a2ca-4002-8129-9906c94a4732",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "東京都豪雨対策基本方針（改定）について",
+    "revision_id": "554523b0-827e-4a14-b812-a350ce37fe8a"
+  }
+}

@@ -10,67 +10,67 @@
     "num_tags": 0,
     "id": "099a1a86-976b-4670-a53b-6a962ce2fd23",
     "metadata_created": "2019-11-01T04:58:52.534806",
-    "owner_org": "01ee6b09-cb58-4100-8d95-623ad6b238ef",
     "metadata_modified": "2020-05-22T09:11:17.782798",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "データ時点：2018年12月現在。本データは、内閣官房情報通信技術(IT)総合戦略室が公開している標準データセットの様式をもとに作成しています。また、本データは地図作成上の誤差を含んでおります。",
+        "name": "文化財・名勝",
         "format": "CSV",
         "url": "https://www.city.machida.tokyo.jp/shisei/opendata/kyoiku/bunkazai.files/132098_cultural_property.csv",
+        "cache_last_updated": null,
+        "package_id": "099a1a86-976b-4670-a53b-6a962ce2fd23",
         "created": "2017-03-19T15:00:00",
         "state": "active",
-        "package_id": "099a1a86-976b-4670-a53b-6a962ce2fd23",
+        "mimetype_inner": null,
         "last_modified": "2019-03-19T15:00:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "ff707e42-a3fe-4583-a3d7-b9daaa44cf0a",
-        "size": 12288,
+        "url_type": null,
         "id": "38d360aa-8c8e-4e25-b5a9-74fac907bccd",
         "resource_type": null,
-        "name": "文化財・名勝"
+        "size": 12288
       }
     ],
     "num_resources": 1,
     "tags": [],
     "groups": [],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t132098d0000000078",
-    "isopen": true,
-    "url": "",
-    "notes": "【町田市】",
-    "title": "文化財・名勝",
-    "extras": [
-      {
-        "value": "随時",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "https://www.city.machida.tokyo.jp/",
-      "title": "町田市",
       "created": "2019-11-01T03:27:26.775139",
-      "approval_status": "approved",
+      "title": "町田市",
+      "name": "t132098",
       "is_organization": true,
       "state": "active",
       "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t132098.png",
       "revision_id": "afc39d6e-faf0-4358-90a5-a32d669724a1",
       "type": "organization",
       "id": "01ee6b09-cb58-4100-8d95-623ad6b238ef",
-      "name": "t132098"
+      "approval_status": "approved"
     },
+    "name": "t132098d0000000078",
+    "isopen": true,
+    "url": "",
+    "notes": "【町田市】",
+    "owner_org": "01ee6b09-cb58-4100-8d95-623ad6b238ef",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "文化財・名勝",
     "revision_id": "1c6a9b2d-12c9-4013-8a8a-49a4ecfe886a"
   }
 }

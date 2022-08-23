@@ -1,0 +1,114 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "防災まちづくり部防災課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "8dc7b838-8e3d-4774-9f66-2a6599a5f82e",
+    "metadata_created": "2022-03-08T04:34:46.860754",
+    "metadata_modified": "2022-03-08T04:35:26.122752",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "消火器（強化液）の位置情報csvデータ",
+        "name": "消火器（強化液）の位置情報(csv形式)",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/shinagawa/shokaki(kyokaeki).csv",
+        "cache_last_updated": null,
+        "package_id": "8dc7b838-8e3d-4774-9f66-2a6599a5f82e",
+        "created": "2017-07-30T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-07-30T15:00:00",
+        "position": 0,
+        "revision_id": "410f8b86-9b52-416b-9351-c2824d31215e",
+        "url_type": null,
+        "id": "bec9f8c7-bbba-4f16-810d-3d0a2e785262",
+        "resource_type": null,
+        "size": 219
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "消火器（強化液）の位置情報rdfデータ",
+        "name": "消火器（強化液）の位置情報(rdf形式)",
+        "format": "RDF",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/shinagawa/shokaki(kyokaeki).rdf",
+        "cache_last_updated": null,
+        "package_id": "8dc7b838-8e3d-4774-9f66-2a6599a5f82e",
+        "created": "2017-07-30T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-07-30T15:00:00",
+        "position": 1,
+        "revision_id": "4d2b7acb-62b7-4d94-8674-6d67bd93ed4f",
+        "url_type": null,
+        "id": "a21cf03f-aff8-475a-a2fd-482ff5ba7ca8",
+        "resource_type": null,
+        "size": 2567
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "環境",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c012.png",
+        "title": "環境",
+        "id": "427f3ee0-b28a-4fd2-b7dc-980507f154d2",
+        "name": "c012"
+      },
+      {
+        "display_name": "防災・災害計画",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c001.png",
+        "title": "防災・災害計画",
+        "id": "8eb52f8e-0d10-44f4-8bb4-2a488d0f8465",
+        "name": "c001"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.shinagawa.tokyo.jp/",
+      "created": "2019-11-01T03:27:24.888527",
+      "title": "品川区",
+      "name": "t131091",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131091.png",
+      "revision_id": "a58c6889-2755-423e-bc8c-5146fb74ae73",
+      "type": "organization",
+      "id": "ee5ed3ad-76a9-4a49-aba7-3a63a457eb93",
+      "approval_status": "approved"
+    },
+    "name": "t131091d0000000125",
+    "isopen": true,
+    "url": "",
+    "notes": "消火器（強化液）の位置情報",
+    "owner_org": "ee5ed3ad-76a9-4a49-aba7-3a63a457eb93",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "消火器（強化液）",
+    "revision_id": "2e24178b-10eb-4476-b961-8049fab96d5c"
+  }
+}

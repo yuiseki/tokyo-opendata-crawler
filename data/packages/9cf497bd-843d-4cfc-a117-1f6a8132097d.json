@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "東京都デジタルサービス局デジタルサービス推進部デジタルサービス推進課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "9cf497bd-843d-4cfc-a117-1f6a8132097d",
+    "metadata_created": "2022-03-29T01:35:44.943401",
+    "metadata_modified": "2022-03-31T01:37:11.521456",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "要件定義書初版の概要版です。",
+        "name": "東京データプラットフォーム　データ連携基盤要件定義書初版（概要版）",
+        "format": "PDF",
+        "url": "https://www.digitalservice.metro.tokyo.lg.jp/society5.0/pdf/tdpf_dataplatform_rd_ver1.0_summary.pdf",
+        "cache_last_updated": null,
+        "package_id": "9cf497bd-843d-4cfc-a117-1f6a8132097d",
+        "created": "2022-03-28T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2022-03-28T15:00:00",
+        "position": 0,
+        "revision_id": "2b751c0c-53de-4606-b6e5-ac74fd0233ac",
+        "url_type": null,
+        "id": "540a0bda-b964-4ce3-831d-c54df5261e9e",
+        "resource_type": null,
+        "size": 1048576
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "要件定義書初版の本編です。",
+        "name": "東京データプラットフォーム　データ連携基盤要件定義書初版",
+        "format": "PDF",
+        "url": "https://www.digitalservice.metro.tokyo.lg.jp/society5.0/pdf/tdpf_dataplatform_rd_ver1.0.pdf",
+        "cache_last_updated": null,
+        "package_id": "9cf497bd-843d-4cfc-a117-1f6a8132097d",
+        "created": "2022-03-28T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2022-03-28T15:00:00",
+        "position": 1,
+        "revision_id": "86c5719a-c1fb-4500-a3f2-a7b659a22d14",
+        "url_type": null,
+        "id": "e3139e91-0568-45a2-805c-2873a3247f81",
+        "resource_type": null,
+        "size": 3879731
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "所属:東京都",
+      "created": "2019-11-01T03:27:23.895580",
+      "title": "東京都デジタルサービス局",
+      "name": "t000029",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://www.digitalservice.metro.tokyo.lg.jp/images/logo.png",
+      "revision_id": "6f0a3e84-39eb-4b71-a006-8585de2d0f10",
+      "type": "organization",
+      "id": "366cc7cd-3038-4e5b-b0a1-170690d29024",
+      "approval_status": "approved"
+    },
+    "name": "t000029d0000000015",
+    "isopen": true,
+    "url": "https://www.digitalservice.metro.tokyo.lg.jp/society5.0/platform.html",
+    "notes": "【東京都デジタルサービス局】\n\n東京データプラットフォーム（TDPF）が構築するデータ連携基盤の実装に向けて、令和3年度TDPF協議会推進会議で定めた「大きなデータベースは作らない」、「リーンスタートと拡張性」、「トラストの確保」という3つのコンセプトの下、データ連携基盤に求められる業務要件及びシステム要件の検討を行い、その結果を初版として取りまとめたものです。今後は令和4年度にTDPF関連事業からのフィードバック及び国や関連団体の動向を踏まえて改版し、TDPF運営組織設立後の速やかなシステム構築につなげて参ります。\n\n\n\n東京データプラットフォーム協議会　事業紹介サイト\n\nhttps://www.digitalservice.metro.tokyo.lg.jp/society5.0/platform.html\n",
+    "owner_org": "366cc7cd-3038-4e5b-b0a1-170690d29024",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "東京データプラットフォーム　データ連携基盤要件定義書初版",
+    "revision_id": "68411f0b-2cad-450e-945b-2ea0e0aa08bd"
+  }
+}

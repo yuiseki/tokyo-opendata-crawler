@@ -10,67 +10,67 @@
     "num_tags": 0,
     "id": "fbee286c-be33-47dc-9ee1-21242ec1db3e",
     "metadata_created": "2019-11-01T04:58:40.498109",
-    "owner_org": "01ee6b09-cb58-4100-8d95-623ad6b238ef",
     "metadata_modified": "2020-05-22T09:03:45.804165",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "2016年7月31日執行の東京都知事選挙時の情報となります。",
+        "name": "選挙",
         "format": "ZIP",
         "url": "https://www.city.machida.tokyo.jp/shisei/opendata/chizujoho/senkyo.files/senkyo.zip",
+        "cache_last_updated": null,
+        "package_id": "fbee286c-be33-47dc-9ee1-21242ec1db3e",
         "created": "2016-12-14T15:00:00",
         "state": "active",
-        "package_id": "fbee286c-be33-47dc-9ee1-21242ec1db3e",
+        "mimetype_inner": null,
         "last_modified": "2017-12-06T15:00:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "4b75f3d1-e48d-499a-8f1a-cdf8a8789987",
-        "size": 369664,
+        "url_type": null,
         "id": "3b386114-1b4a-457d-9572-d34f983031fa",
         "resource_type": null,
-        "name": "選挙"
+        "size": 369664
       }
     ],
     "num_resources": 1,
     "tags": [],
     "groups": [],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t132098d0000000019",
-    "isopen": true,
-    "url": "",
-    "notes": "【町田市】",
-    "title": "選挙",
-    "extras": [
-      {
-        "value": "随時",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "https://www.city.machida.tokyo.jp/",
-      "title": "町田市",
       "created": "2019-11-01T03:27:26.775139",
-      "approval_status": "approved",
+      "title": "町田市",
+      "name": "t132098",
       "is_organization": true,
       "state": "active",
       "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t132098.png",
       "revision_id": "afc39d6e-faf0-4358-90a5-a32d669724a1",
       "type": "organization",
       "id": "01ee6b09-cb58-4100-8d95-623ad6b238ef",
-      "name": "t132098"
+      "approval_status": "approved"
     },
+    "name": "t132098d0000000019",
+    "isopen": true,
+    "url": "",
+    "notes": "【町田市】",
+    "owner_org": "01ee6b09-cb58-4100-8d95-623ad6b238ef",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "選挙",
     "revision_id": "b2eed83a-133a-43a2-9f63-1d6809746486"
   }
 }

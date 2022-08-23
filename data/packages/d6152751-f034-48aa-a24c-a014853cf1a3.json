@@ -10,56 +10,55 @@
     "num_tags": 0,
     "id": "d6152751-f034-48aa-a24c-a014853cf1a3",
     "metadata_created": "2020-03-17T01:43:13.732706",
-    "owner_org": "beddb482-adb4-4e03-9c25-f229c2a0b028",
     "metadata_modified": "2021-08-19T00:04:28.244895",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "",
+        "name": "区内の児童遊園一覧",
         "format": "XLSX",
         "url": "https://www.city.chuo.lg.jp/kusei/statisticaldata/opendata.files/jidoyuenichiran.xlsx",
+        "cache_last_updated": null,
+        "package_id": "d6152751-f034-48aa-a24c-a014853cf1a3",
         "created": "2017-09-19T15:00:00",
         "state": "active",
-        "package_id": "d6152751-f034-48aa-a24c-a014853cf1a3",
+        "mimetype_inner": null,
         "last_modified": "2017-09-19T15:00:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "ab910c8e-cc1b-415d-9865-f26c8c009df2",
-        "size": 12288,
+        "url_type": null,
         "id": "34880713-3fa8-44ca-9ba2-d9695e0ae593",
         "resource_type": null,
-        "name": "区内の児童遊園一覧"
+        "size": 12288
       },
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "",
+        "name": "区内の児童遊園一覧",
         "format": "CSV",
         "url": "https://www.city.chuo.lg.jp/kusei/statisticaldata/opendata.files/jidoyuenichiran.csv",
+        "cache_last_updated": null,
+        "package_id": "d6152751-f034-48aa-a24c-a014853cf1a3",
         "created": "2017-09-19T15:00:00",
         "state": "active",
-        "package_id": "d6152751-f034-48aa-a24c-a014853cf1a3",
+        "mimetype_inner": null,
         "last_modified": "2017-09-19T15:00:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 1,
         "revision_id": "523fb447-8a23-419f-8c2c-8542df403ecf",
-        "size": 2048,
+        "url_type": null,
         "id": "e5aaae21-5113-43b7-9e1c-bf5f62385d35",
         "resource_type": null,
-        "name": "区内の児童遊園一覧"
+        "size": 2048
       }
     ],
     "num_resources": 2,
@@ -68,39 +67,40 @@
       {
         "display_name": "生活",
         "description": "",
-        "title": "生活",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
         "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
         "name": "c006"
       }
     ],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t131024d0000000012",
-    "isopen": true,
-    "url": "http://www.city.chuo.lg.jp/sisetugaido/koento/kouen_hiroba_ichiran.html",
-    "notes": "区内の児童遊園の名称や所在地、緯度、経度などを地域ごとに掲載しています。",
-    "title": "区内の児童遊園一覧",
-    "extras": [
-      {
-        "value": "随時",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "https://www.city.chuo.lg.jp/",
-      "title": "中央区",
       "created": "2020-03-16T08:15:28.901611",
-      "approval_status": "approved",
+      "title": "中央区",
+      "name": "t131024",
       "is_organization": true,
       "state": "active",
       "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131024.png",
       "revision_id": "fd4c096b-7319-43d7-a1a4-d2411b6beaee",
       "type": "organization",
       "id": "beddb482-adb4-4e03-9c25-f229c2a0b028",
-      "name": "t131024"
+      "approval_status": "approved"
     },
+    "name": "t131024d0000000012",
+    "isopen": true,
+    "url": "http://www.city.chuo.lg.jp/sisetugaido/koento/kouen_hiroba_ichiran.html",
+    "notes": "区内の児童遊園の名称や所在地、緯度、経度などを地域ごとに掲載しています。",
+    "owner_org": "beddb482-adb4-4e03-9c25-f229c2a0b028",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "区内の児童遊園一覧",
     "revision_id": "c28725d9-1b00-4952-8f35-91d268f7228c"
   }
 }

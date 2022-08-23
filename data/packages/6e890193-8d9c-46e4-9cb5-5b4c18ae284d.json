@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "心身障害者福祉センター調整課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "6e890193-8d9c-46e4-9cb5-5b4c18ae284d",
+    "metadata_created": "2019-11-01T04:54:04.928969",
+    "metadata_modified": "2020-08-17T01:50:49.585188",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "お問い合わせ先：東京都心身障害者福祉センター（本所）",
+        "format": "CSV",
+        "url": "https://www.fukushihoken.metro.tokyo.lg.jp/shinsho/toiawase.files/20200805toiawase_1.csv",
+        "cache_last_updated": null,
+        "package_id": "6e890193-8d9c-46e4-9cb5-5b4c18ae284d",
+        "created": "2018-08-30T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2020-08-05T15:00:00",
+        "position": 0,
+        "revision_id": "7479dcde-58f7-4eb1-bcb0-4db510421cb6",
+        "url_type": null,
+        "id": "aef7266d-80f3-4755-9f18-7150af50b46a",
+        "resource_type": null,
+        "size": 1024
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "お問い合わせ先：東京都心身障害者福祉センター多摩支所",
+        "format": "CSV",
+        "url": "https://www.fukushihoken.metro.tokyo.lg.jp/shinsho/toiawase.files/20190716_toiawase_2.csv",
+        "cache_last_updated": null,
+        "package_id": "6e890193-8d9c-46e4-9cb5-5b4c18ae284d",
+        "created": "2018-08-30T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2020-08-05T15:00:00",
+        "position": 1,
+        "revision_id": "a5f34d8a-2d8d-40ba-a8b9-e45e69f038aa",
+        "url_type": null,
+        "id": "466511a1-56f7-4fa3-b7b7-29ad670312b0",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "医療・福祉",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c005.png",
+        "title": "医療・福祉",
+        "id": "0d3cd956-612c-45c5-b1ee-75c1a5835c0e",
+        "name": "c005"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.fukushihoken.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.864364",
+      "title": "東京都福祉保健局",
+      "name": "t000010",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000010.jpg",
+      "revision_id": "8d3da6a9-bfe7-4cd1-9d5d-9737b2293939",
+      "type": "organization",
+      "id": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+      "approval_status": "approved"
+    },
+    "name": "t000010d1700000027",
+    "isopen": true,
+    "url": "https://www.fukushihoken.metro.tokyo.lg.jp/shinsho/toiawase.html",
+    "notes": "【東京都福祉保健局】",
+    "owner_org": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "1年に1回程度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "お問い合わせ先（東京都心身障害者福祉センター）",
+    "revision_id": "0daa2a7a-c91d-49bd-91cc-244fd48d8ec6"
+  }
+}

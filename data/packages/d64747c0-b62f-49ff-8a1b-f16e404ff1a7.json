@@ -10,67 +10,87 @@
     "num_tags": 0,
     "id": "d64747c0-b62f-49ff-8a1b-f16e404ff1a7",
     "metadata_created": "2021-03-18T07:38:17.341990",
-    "owner_org": "9354a576-4de5-44ab-9e62-18a92b40b5e7",
-    "metadata_modified": "2021-03-18T07:38:47.911409",
+    "metadata_modified": "2022-06-06T04:08:12.571709",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "令和元年度地下水・湧水水質調査に関するデータです。",
         "format": "ZIP",
         "url": "https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/026/388/r1suisitu.zip",
-        "created": "2021-03-18T07:38:43.296159",
-        "state": "active",
+        "cache_last_updated": null,
         "package_id": "d64747c0-b62f-49ff-8a1b-f16e404ff1a7",
+        "name": "令和元年度地下水・湧水水質調査",
+        "state": "active",
+        "mimetype_inner": null,
         "last_modified": null,
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
-        "revision_id": "3d913fe4-0e4f-497f-b9d7-ecb36f68aca2",
-        "size": 1331,
+        "revision_id": "adb27018-e185-41ce-8155-171c0a7b416e",
+        "url_type": null,
         "id": "30989998-54d4-4eaa-96dc-89a13223fe07",
         "resource_type": null,
-        "name": "令和元年度地下水・湧水水質調査"
+        "size": 1331
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "令和２年度地下水・湧水水質調査に関するデータです。",
+        "name": "令和２年度地下水・湧水水質調査",
+        "format": "ZIP",
+        "url": "https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/026/388/r2yuusui.zip",
+        "cache_last_updated": null,
+        "package_id": "d64747c0-b62f-49ff-8a1b-f16e404ff1a7",
+        "created": "2022-06-03T07:48:59.845575",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": null,
+        "position": 1,
+        "revision_id": "607b678c-a722-43c0-9420-a8c399cbf990",
+        "url_type": null,
+        "id": "c1457ee9-d486-4381-8cd5-92699a1f1ae0",
+        "resource_type": null,
+        "size": 1228
       }
     ],
-    "num_resources": 1,
+    "num_resources": 2,
     "tags": [],
     "groups": [],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t131199d0000000913",
-    "isopen": true,
-    "url": "https://www.city.itabashi.tokyo.jp/bousai/kankyo/hakusho/1026374/1026386/1026388.html",
-    "notes": "【板橋区】地下水・湧水水質調査に関するデータを掲載しています。",
-    "title": "地下水・湧水水質調査",
-    "extras": [
-      {
-        "value": "随時",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "http://www.city.itabashi.tokyo.jp/",
-      "title": "板橋区",
       "created": "2019-11-01T03:27:25.673886",
-      "approval_status": "approved",
+      "title": "板橋区",
+      "name": "t131199",
       "is_organization": true,
       "state": "active",
       "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131199.jpg",
       "revision_id": "1a86d48e-188d-4655-9cc5-c9aedb102db4",
       "type": "organization",
       "id": "9354a576-4de5-44ab-9e62-18a92b40b5e7",
-      "name": "t131199"
+      "approval_status": "approved"
     },
-    "revision_id": "cf3e4cef-0611-4d8e-9e12-544c0ee69fa2"
+    "name": "t131199d0000000913",
+    "isopen": true,
+    "url": "https://www.city.itabashi.tokyo.jp/bousai/kougai/1026374/1026386/1026388.html",
+    "notes": "【板橋区】地下水・湧水水質調査に関するデータを掲載しています。",
+    "owner_org": "9354a576-4de5-44ab-9e62-18a92b40b5e7",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "地下水・湧水水質調査",
+    "revision_id": "0bc4b7a0-b721-434a-9aad-ef499778ed67"
   }
 }

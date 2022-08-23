@@ -10,56 +10,55 @@
     "num_tags": 0,
     "id": "dd9c9839-4eed-4168-850b-54569dd4f4d1",
     "metadata_created": "2021-11-04T00:59:29.173746",
-    "owner_org": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
     "metadata_modified": "2021-12-13T04:47:01.952390",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "",
+        "name": "学童保育クラブ入所児童数の推移",
         "format": "CSV",
         "url": "https://data.bodik.jp/dataset/17e8415c-b2f9-4f4e-9d31-69dd04ed8d85/resource/4c2e6bfc-c0af-4651-868e-3d3c69bb0b11/download/131105_afterschool_daycare_club_children_number.csv",
+        "cache_last_updated": null,
+        "package_id": "dd9c9839-4eed-4168-850b-54569dd4f4d1",
         "created": "2021-08-11T10:02:00",
         "state": "active",
-        "package_id": "dd9c9839-4eed-4168-850b-54569dd4f4d1",
+        "mimetype_inner": null,
         "last_modified": "2021-08-11T10:02:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "26e95011-b3a8-4c72-8012-1f179174a290",
-        "size": 482,
+        "url_type": null,
         "id": "8501de62-3f97-4a42-9840-046e9d2d0019",
         "resource_type": null,
-        "name": "学童保育クラブ入所児童数の推移"
+        "size": 482
       },
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "",
+        "name": "保育所入所待機児童の推移",
         "format": "CSV",
         "url": "https://data.bodik.jp/dataset/2188c340-f90b-4ec4-9b13-5e3f36edaa69/resource/7a93c8ba-8794-491c-a332-e6897abc9ba2/download/131105_nersury_school_taiki.csv",
+        "cache_last_updated": null,
+        "package_id": "dd9c9839-4eed-4168-850b-54569dd4f4d1",
         "created": "2021-08-11T10:42:00",
         "state": "active",
-        "package_id": "dd9c9839-4eed-4168-850b-54569dd4f4d1",
+        "mimetype_inner": null,
         "last_modified": "2021-08-11T10:42:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 1,
         "revision_id": "00a9a332-8162-4cce-a49f-e51891a425ca",
-        "size": 361,
+        "url_type": null,
         "id": "071d655f-1311-498c-ab2e-a88b28739408",
         "resource_type": null,
-        "name": "保育所入所待機児童の推移"
+        "size": 361
       }
     ],
     "num_resources": 2,
@@ -68,39 +67,40 @@
       {
         "display_name": "その他",
         "description": "",
-        "title": "その他",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
         "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
         "name": "c014"
       }
     ],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t131105d0000000012",
-    "isopen": true,
-    "url": "https://www.city.meguro.tokyo.jp/kurashi/kosodate/hoiku/ninka/index.html",
-    "notes": "目黒区内の保育所入所待機児童数の年度別推移\n",
-    "title": "保育所入所待機児童の推移",
-    "extras": [
-      {
-        "value": "1年",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "https://odcs.bodik.jp/131105/",
-      "title": "目黒区",
       "created": "2021-11-01T02:12:22.338293",
-      "approval_status": "approved",
+      "title": "目黒区",
+      "name": "t131105",
       "is_organization": true,
       "state": "active",
       "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131105.png",
       "revision_id": "e3dc243f-e3a2-4b2b-a319-4e145bb63383",
       "type": "organization",
       "id": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
-      "name": "t131105"
+      "approval_status": "approved"
     },
+    "name": "t131105d0000000012",
+    "isopen": true,
+    "url": "https://www.city.meguro.tokyo.jp/kurashi/kosodate/hoiku/ninka/index.html",
+    "notes": "目黒区内の保育所入所待機児童数の年度別推移\n",
+    "owner_org": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "1年"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "保育所入所待機児童の推移",
     "revision_id": "4f9289ea-71ab-40fa-8aeb-443f47f794ba"
   }
 }

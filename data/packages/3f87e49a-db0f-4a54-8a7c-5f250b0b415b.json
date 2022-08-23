@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "都市整備局市街地建築部調整課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "3f87e49a-db0f-4a54-8a7c-5f250b0b415b",
+    "metadata_created": "2022-02-15T00:12:10.919136",
+    "metadata_modified": "2022-02-15T00:12:11.292644",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "記載している内容は、受付時の内容です。",
+        "name": "標識設置届の届出状況【調整課受付】令和３年度4～12月分",
+        "format": "CSV",
+        "url": "https://www.toshiseibi.metro.tokyo.lg.jp/kenchiku/hunsou/hun_09.csv",
+        "cache_last_updated": null,
+        "package_id": "3f87e49a-db0f-4a54-8a7c-5f250b0b415b",
+        "created": "2022-02-15T00:12:11.483095",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": null,
+        "position": 0,
+        "revision_id": "7eec08e2-39b1-4f73-8a24-b1e78daec4c6",
+        "url_type": null,
+        "id": "a95a9291-d44a-4070-981c-a3b02f382e7c",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "まちづくり",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c003.png",
+        "title": "まちづくり",
+        "id": "dc897c44-8153-4219-bfeb-6110fb85fb99",
+        "name": "c003"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.toshiseibi.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.560358",
+      "title": "東京都都市整備局",
+      "name": "t000008",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "9c234f0e-ff7d-4e2d-8ba4-ea80f312405b",
+      "type": "organization",
+      "id": "16d81025-a2ca-4002-8129-9906c94a4732",
+      "approval_status": "approved"
+    },
+    "name": "t000008d0000000035",
+    "isopen": true,
+    "url": "https://www.toshiseibi.metro.tokyo.lg.jp/kenchiku/hunsou/index.html",
+    "notes": "【東京都都市整備局】",
+    "owner_org": "16d81025-a2ca-4002-8129-9906c94a4732",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "標識設置届の届出状況【調整課受付】",
+    "revision_id": "c3e68ab0-a471-4d1b-a119-4179d9f115cd"
+  }
+}

@@ -3,61 +3,62 @@
   "success": true,
   "result": {
     "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
-    "maintainer": "",
+    "maintainer": "防災部水利課",
     "relationships_as_object": [],
     "private": false,
     "maintainer_email": null,
     "num_tags": 0,
     "id": "f19f1ebc-0f0d-445c-9117-0630d402856f",
     "metadata_created": "2021-11-17T00:43:20.323589",
-    "owner_org": "7270d173-e93e-4056-9b29-4b00ec036c81",
-    "metadata_modified": "2021-11-17T02:03:22.197261",
+    "metadata_modified": "2022-04-22T01:38:23.267077",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
         "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
-        "description": "東京消防庁マップ及び東京消防庁公式アプリの消防マップに掲載している東京消防庁管内の消火栓の位置情報です。(令和3年3月31日時点)　※表示された位置情報と実際の位置が一致しない場合があります。",
+        "description": "東京消防庁マップ及び東京消防庁公式アプリの消防マップに掲載している東京消防庁管内の消火栓の位置情報です。(令和4年3月31日時点)　※表示された位置と実際の位置に多少の差異がある場合があります。",
+        "name": "東京消防庁マップ　消火栓　位置情報",
         "format": "CSV",
-        "url": "https://www.opendata.metro.tokyo.lg.jp/shoubou/2021/130001_fire-hydrant.csv",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/shoubou/2022/fire-hydrant.csv",
         "cache_last_updated": null,
-        "state": "active",
         "package_id": "f19f1ebc-0f0d-445c-9117-0630d402856f",
-        "last_modified": null,
-        "url_type": null,
+        "created": "2021-03-31T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2022-03-31T15:00:00",
         "position": 0,
-        "revision_id": "5138cea2-e5bc-4193-a014-594ba08ceffe",
-        "size": null,
-        "id": "7eae1c88-7841-4d17-b60e-a5115060c46d",
+        "revision_id": "47ce7e63-50e6-4b45-afe5-169ff5bc5521",
+        "url_type": null,
+        "id": "d07fd2d6-d6ff-41c6-aa94-4b75b656d4e5",
         "resource_type": null,
-        "name": "東京防災マップ  消火栓 位置情報"
+        "size": null
       },
       {
         "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
-        "description": "東京消防庁マップ及び東京消防庁公式アプリの消防マップに掲載している東京消防庁管内の消火栓の位置情報です。(令和3年3月31日時点)　※表示された位置情報と実際の位置が一致しない場合があります。",
+        "description": "東京消防庁マップ及び東京消防庁公式アプリの消防マップに掲載している東京消防庁管内の防火水槽等の位置情報です。(令和4年3月31日時点)　※表示された位置と実際の位置に多少の差異がある場合があります。",
+        "name": "東京消防庁マップ　防火水槽等　位置情報",
         "format": "CSV",
-        "url": "https://www.opendata.metro.tokyo.lg.jp/shoubou/2021/130001_fireproof-water-tank.csv",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/shoubou/2022/fireproof-water-tank.csv",
         "cache_last_updated": null,
-        "state": "active",
         "package_id": "f19f1ebc-0f0d-445c-9117-0630d402856f",
-        "last_modified": null,
-        "url_type": null,
+        "created": "2021-03-31T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2022-03-31T15:00:00",
         "position": 1,
-        "revision_id": "ac4d249a-2f8f-4a50-ac0c-2fd24860558b",
-        "size": null,
-        "id": "901dee45-43dd-46a5-9857-cf87d0a36f0d",
+        "revision_id": "47ce7e63-50e6-4b45-afe5-169ff5bc5521",
+        "url_type": null,
+        "id": "68755ec9-5869-4580-acd2-c264e180173b",
         "resource_type": null,
-        "name": "東京防災マップ  防火水槽等 位置情報"
+        "size": null
       }
     ],
     "num_resources": 2,
@@ -66,39 +67,40 @@
       {
         "display_name": "防災・災害計画",
         "description": "",
-        "title": "防災・災害計画",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c001.png",
+        "title": "防災・災害計画",
         "id": "8eb52f8e-0d10-44f4-8bb4-2a488d0f8465",
         "name": "c001"
       }
     ],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t000017d0000000007",
-    "isopen": true,
-    "url": "https://www.tfd.metro.tokyo.lg.jp/hp-bousaika/shukkakiken/index.html",
-    "notes": "東京消防庁マップ及び東京消防庁公式アプリの消防マップに掲載している東京消防庁管内の消火栓及び防火水槽等の位置情報です。(令和3年3月31日時点)　※表示された位置情報と実際の位置が一致しない場合があります。",
-    "title": "東京消防庁 消火栓及び防火水槽等",
-    "extras": [
-      {
-        "value": "不定期",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "http://www.tfd.metro.tokyo.jp/\r\n\r\n所属:東京都",
-      "title": "東京消防庁",
       "created": "2019-11-01T03:27:21.965529",
-      "approval_status": "approved",
+      "title": "東京消防庁",
+      "name": "t000017",
       "is_organization": true,
       "state": "active",
       "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000017.png",
       "revision_id": "7929d63d-3aaa-469d-a85e-7eee6a1df97d",
       "type": "organization",
       "id": "7270d173-e93e-4056-9b29-4b00ec036c81",
-      "name": "t000017"
+      "approval_status": "approved"
     },
-    "revision_id": "c5e63404-3306-4f02-88a8-788e99f4c54a"
+    "name": "t000017d0000000007",
+    "isopen": true,
+    "url": "https://fireamap.tokyo.dsvc.jp",
+    "notes": "東京消防庁マップ及び東京消防庁公式アプリの消防マップに掲載している東京消防庁管内の消火栓及び防火水槽等の位置情報です。(令和4年3月31日時点)　※表示された位置と実際の位置に多少の差異がある場合があります。",
+    "owner_org": "7270d173-e93e-4056-9b29-4b00ec036c81",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "１年ごと"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "東京消防庁 消火栓及び防火水槽等",
+    "revision_id": "272c9d74-ff2a-42fd-8c94-c36f5e210004"
   }
 }

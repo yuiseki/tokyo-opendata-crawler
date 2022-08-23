@@ -979,14 +979,14 @@
     "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
     "organization": {
-      "description": "",
+      "description": "https://www.city.edogawa.tokyo.jp/",
       "created": "2021-12-08T01:06:59.103737",
       "title": "江戸川区",
       "name": "t131237",
       "is_organization": true,
       "state": "active",
-      "image_url": "",
-      "revision_id": "704e0338-a5ce-4a23-ba13-2a2f4550a53b",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131237.jpg",
+      "revision_id": "fe649aee-0db3-4f76-830d-cf7a1e69cc91",
       "type": "organization",
       "id": "74813543-1d66-46e9-a0f5-bb0af87519c4",
       "approval_status": "approved"

@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "福祉部管理課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "dda2c7ad-fe19-4220-82b3-7a0265456b9b",
+    "metadata_created": "2022-04-18T00:29:54.241208",
+    "metadata_modified": "2022-06-03T15:56:18.817199",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "バリアフリー情報（令和4年4月1日時点）",
+        "format": "XLSX",
+        "url": "https://www.city.nerima.tokyo.jp/kusei/tokei/opendata/opendatasite/hokenfukushi/barrierfree.files/2022barrierfree.xlsx",
+        "cache_last_updated": null,
+        "package_id": "dda2c7ad-fe19-4220-82b3-7a0265456b9b",
+        "created": "2020-03-31T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2022-05-17T15:00:00",
+        "position": 0,
+        "revision_id": "a82d94e4-01e6-4493-87c4-7cb75c38f2a3",
+        "url_type": null,
+        "id": "99a92024-8662-4ceb-b671-4d71fe9c0718",
+        "resource_type": null,
+        "size": 87040
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "医療・福祉",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c005.png",
+        "title": "医療・福祉",
+        "id": "0d3cd956-612c-45c5-b1ee-75c1a5835c0e",
+        "name": "c005"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.nerima.tokyo.jp/",
+      "created": "2019-11-01T03:27:25.822926",
+      "title": "練馬区",
+      "name": "t131202",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131202.gif",
+      "revision_id": "c9aef7e0-f984-4dce-bc1b-accb7d513a92",
+      "type": "organization",
+      "id": "76020df2-dfd1-42a2-9f7d-dbe5cefc7028",
+      "approval_status": "approved"
+    },
+    "name": "t131202d0000000110",
+    "isopen": true,
+    "url": "https://www.city.nerima.tokyo.jp/hokenfukushi/chiikifukushi/barrier_free.html",
+    "notes": "【練馬区】各施設のバリアフリー情報を掲載しています。",
+    "owner_org": "76020df2-dfd1-42a2-9f7d-dbe5cefc7028",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "毎年"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "バリアフリー情報",
+    "revision_id": "1a420bad-9480-4806-acd8-2b0c611ed3dc"
+  }
+}

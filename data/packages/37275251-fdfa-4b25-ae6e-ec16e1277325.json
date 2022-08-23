@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "都営交通お客様センター",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": "",
+    "num_tags": 0,
+    "id": "37275251-fdfa-4b25-ae6e-ec16e1277325",
+    "metadata_created": "2022-04-18T02:14:09.570848",
+    "metadata_modified": "2022-06-15T08:09:30.868596",
+    "author": "",
+    "author_email": "",
+    "state": "active",
+    "version": "",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "《交通局について》 - [予算　令和３年度予算案] 令和3年度予算案の概要",
+        "name": "令和3年度予算案の概要",
+        "format": "PDF",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/kotsu/about/about_budget_03_2_budget_03_02.pdf",
+        "cache_last_updated": null,
+        "package_id": "37275251-fdfa-4b25-ae6e-ec16e1277325",
+        "created": "2021-12-08T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-12-08T15:00:00",
+        "position": 0,
+        "revision_id": "3c8c3629-8365-42b8-83c1-ec19be5e30b4",
+        "url_type": null,
+        "id": "3b0fed96-c923-44f2-a278-972a1b22b332",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.kotsu.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:22.123863",
+      "title": "東京都交通局",
+      "name": "t000018",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "d47c06bd-1090-4a95-bea1-05d8261663a6",
+      "type": "organization",
+      "id": "058227fa-4a59-4028-a226-9eb858f9947a",
+      "approval_status": "approved"
+    },
+    "name": "t000018d0000000066",
+    "isopen": true,
+    "url": "https://www.kotsu.metro.tokyo.jp/about/information/budget/budget_03_2.html",
+    "notes": "【東京都交通局】予算　令和３年度予算案",
+    "owner_org": "058227fa-4a59-4028-a226-9eb858f9947a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "予算　令和３年度予算案",
+    "revision_id": "5ca45ee9-3d9c-498e-8d26-defa0ecc128d"
+  }
+}

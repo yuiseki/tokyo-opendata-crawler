@@ -10,67 +10,67 @@
     "num_tags": 0,
     "id": "f9e54dbb-e63e-4790-8468-1c352f240dca",
     "metadata_created": "2021-03-18T07:38:16.010193",
-    "owner_org": "9354a576-4de5-44ab-9e62-18a92b40b5e7",
-    "metadata_modified": "2021-03-18T07:38:50.396637",
+    "metadata_modified": "2022-02-17T02:35:24.825794",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "公共施設に関するデータです。",
+        "name": "公園",
         "format": "CSV",
-        "url": "https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/006/127/open07.csv",
+        "url": "https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/006/127/r3-7.csv",
+        "cache_last_updated": null,
+        "package_id": "f9e54dbb-e63e-4790-8468-1c352f240dca",
         "created": "2021-03-18T07:38:41.469222",
         "state": "active",
-        "package_id": "f9e54dbb-e63e-4790-8468-1c352f240dca",
+        "mimetype_inner": null,
         "last_modified": null,
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
-        "revision_id": "84cb39d6-b9f6-41ba-add8-1f4ca3fd0b17",
-        "size": 31232,
+        "revision_id": "e345080f-077c-4136-bbfb-3543ad0246c0",
+        "url_type": null,
         "id": "c56d0887-9536-4c92-a965-8ee0a94d28a5",
         "resource_type": null,
-        "name": "公園"
+        "size": 31232
       }
     ],
     "num_resources": 1,
     "tags": [],
     "groups": [],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t131199d0000000767",
-    "isopen": true,
-    "url": "https://www.city.itabashi.tokyo.jp/bousai/universal/design/1006127.html",
-    "notes": "【板橋区】公園に関するデータを掲載しています。",
-    "title": "どこでも誰でもおでかけマップオープンデータ（公園）",
-    "extras": [
-      {
-        "value": "随時",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "http://www.city.itabashi.tokyo.jp/",
-      "title": "板橋区",
       "created": "2019-11-01T03:27:25.673886",
-      "approval_status": "approved",
+      "title": "板橋区",
+      "name": "t131199",
       "is_organization": true,
       "state": "active",
       "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131199.jpg",
       "revision_id": "1a86d48e-188d-4655-9cc5-c9aedb102db4",
       "type": "organization",
       "id": "9354a576-4de5-44ab-9e62-18a92b40b5e7",
-      "name": "t131199"
+      "approval_status": "approved"
     },
+    "name": "t131199d0000000767",
+    "isopen": true,
+    "url": "https://www.city.itabashi.tokyo.jp/bousai/universal/design/1006127.html",
+    "notes": "【板橋区】公園に関するデータを掲載しています。",
+    "owner_org": "9354a576-4de5-44ab-9e62-18a92b40b5e7",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "どこでも誰でもおでかけマップオープンデータ（公園）",
     "revision_id": "16243ec2-e9cd-4566-8156-0e8af3d8b57a"
   }
 }

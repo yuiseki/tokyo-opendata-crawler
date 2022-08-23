@@ -10,35 +10,34 @@
     "num_tags": 0,
     "id": "94f2479b-e9de-4684-a849-941f76527e55",
     "metadata_created": "2021-11-04T00:38:22.909460",
-    "owner_org": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
     "metadata_modified": "2021-12-13T06:15:07.190031",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "年度別の介護サービス給付件数",
+        "name": "介護サービス給付件数",
         "format": "CSV",
         "url": "https://data.bodik.jp/dataset/cb09d28d-8a41-4a2d-b7b1-c050001fa764/resource/959d6e70-f0d2-45eb-b8ae-551e669a4213/download/131105_care_service_kyuhu_number_20210401.csv",
+        "cache_last_updated": null,
+        "package_id": "94f2479b-e9de-4684-a849-941f76527e55",
         "created": "2021-08-11T08:10:00",
         "state": "active",
-        "package_id": "94f2479b-e9de-4684-a849-941f76527e55",
+        "mimetype_inner": null,
         "last_modified": "2021-08-11T08:10:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "628b0cb1-1759-4e47-918d-b26a7bc21551",
-        "size": 5064,
+        "url_type": null,
         "id": "a352756d-07d5-478c-bc50-4a251db9d2c7",
         "resource_type": null,
-        "name": "介護サービス給付件数"
+        "size": 5064
       }
     ],
     "num_resources": 1,
@@ -47,39 +46,40 @@
       {
         "display_name": "医療・福祉",
         "description": "",
-        "title": "医療・福祉",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c005.png",
+        "title": "医療・福祉",
         "id": "0d3cd956-612c-45c5-b1ee-75c1a5835c0e",
         "name": "c005"
       }
     ],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t131105d0000000026",
-    "isopen": true,
-    "url": "https://www.city.meguro.tokyo.jp/kurashi/kaigo/index.html",
-    "notes": "年度別の介護サービス給付件数",
-    "title": "介護保険介護サービス給付件数",
-    "extras": [
-      {
-        "value": "1年",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "https://odcs.bodik.jp/131105/",
-      "title": "目黒区",
       "created": "2021-11-01T02:12:22.338293",
-      "approval_status": "approved",
+      "title": "目黒区",
+      "name": "t131105",
       "is_organization": true,
       "state": "active",
       "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131105.png",
       "revision_id": "e3dc243f-e3a2-4b2b-a319-4e145bb63383",
       "type": "organization",
       "id": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
-      "name": "t131105"
+      "approval_status": "approved"
     },
+    "name": "t131105d0000000026",
+    "isopen": true,
+    "url": "https://www.city.meguro.tokyo.jp/kurashi/kaigo/index.html",
+    "notes": "年度別の介護サービス給付件数",
+    "owner_org": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "1年"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "介護保険介護サービス給付件数",
     "revision_id": "ec80aa43-013d-43a1-8de8-1ac2180d5e30"
   }
 }

@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "政策経営部情報管理課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "a62f2bac-588f-4fb0-a85f-a77c0c497145",
+    "metadata_created": "2022-04-12T23:23:19.705025",
+    "metadata_modified": "2022-04-12T23:23:25.418885",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "オープンデータ一覧",
+        "format": "CSV",
+        "url": "https://www.city.toshima.lg.jp/020/kuse/electronic/open-data/documents/r3_open_data_list.csv",
+        "cache_last_updated": null,
+        "package_id": "a62f2bac-588f-4fb0-a85f-a77c0c497145",
+        "created": "2022-02-23T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2022-02-23T15:00:00",
+        "position": 0,
+        "revision_id": "4b16bbe7-b014-414f-8e38-0d37279b3ae5",
+        "url_type": null,
+        "id": "cda7da88-0cdd-4aa5-8d08-dd70456c704d",
+        "resource_type": null,
+        "size": 2048
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.toshima.lg.jp/",
+      "created": "2022-04-12T23:02:34.470693",
+      "title": "豊島区",
+      "name": "t131164",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131164.png",
+      "revision_id": "14fda01f-e105-4e1a-ac84-e5e4fc760deb",
+      "type": "organization",
+      "id": "d5b667a3-96db-44d7-a5d8-f03a94f5c51b",
+      "approval_status": "approved"
+    },
+    "name": "t131164d0000000013",
+    "isopen": true,
+    "url": "https://www.city.toshima.lg.jp/index.html",
+    "notes": "豊島区が公開しているデータ（オープンデータ）をご覧いただけます。",
+    "owner_org": "d5b667a3-96db-44d7-a5d8-f03a94f5c51b",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "年1回"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "オープンデータ一覧",
+    "revision_id": "12b4147d-0f8b-4e91-afe3-71625b076081"
+  }
+}

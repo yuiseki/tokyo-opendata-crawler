@@ -6,15 +6,15 @@
     "maintainer": "地域教育支援部生涯学習課",
     "relationships_as_object": [],
     "private": false,
-    "maintainer_email": null,
+    "maintainer_email": "",
     "num_tags": 0,
     "id": "3f5d879a-51ff-48d4-9a05-a7a1ca05ead3",
     "metadata_created": "2019-11-01T04:55:56.990820",
-    "metadata_modified": "2021-02-05T00:38:22.176548",
-    "author": null,
-    "author_email": null,
+    "metadata_modified": "2022-01-17T09:36:46.007888",
+    "author": "",
+    "author_email": "",
     "state": "active",
-    "version": null,
+    "version": "",
     "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
@@ -23,9 +23,9 @@
         "cache_url": null,
         "hash": "",
         "description": "",
-        "name": "平成29年度都立学校学習文化施設開放校一覧（都立高等学校）",
-        "format": "CSV",
-        "url": "http://www.kyoiku.metro.tokyo.jp/lifelong/learning/files/cultural_facility_csv/gb_ichiran_1.csv",
+        "name": "令和３年度都立学校学習文化施設開放校一覧",
+        "format": "PDF",
+        "url": "https://www.syougai.metro.tokyo.lg.jp/sesaku/kaihou/files/gakushu/r03ichiran0104.pdf",
         "cache_last_updated": null,
         "package_id": "3f5d879a-51ff-48d4-9a05-a7a1ca05ead3",
         "created": "2018-03-29T15:00:00",
@@ -33,56 +33,14 @@
         "mimetype_inner": null,
         "last_modified": "2018-03-29T15:00:00",
         "position": 0,
-        "revision_id": "33506b9d-9f68-46b2-b14e-fb7e15ee279a",
-        "url_type": null,
-        "id": "31354726-7c36-44b3-a2b7-c0f7849b5f0a",
-        "resource_type": null,
-        "size": null
-      },
-      {
-        "mimetype": null,
-        "cache_url": null,
-        "hash": "",
-        "description": "",
-        "name": "令和２年度都立学校学習文化施設開放校一覧",
-        "format": "PDF",
-        "url": "https://www.kyoiku.metro.tokyo.lg.jp/lifelong/learning/files/cultural_facility/0207ichiran.pdf",
-        "cache_last_updated": null,
-        "package_id": "3f5d879a-51ff-48d4-9a05-a7a1ca05ead3",
-        "created": "2018-03-29T15:00:00",
-        "state": "active",
-        "mimetype_inner": null,
-        "last_modified": "2018-03-29T15:00:00",
-        "position": 1,
-        "revision_id": "66976300-ede8-4235-946f-74c4e37a26fd",
+        "revision_id": "b9bd157e-6878-4cf9-a3f9-4f64b3a46764",
         "url_type": null,
         "id": "012a1c1f-ed6a-456b-a1bd-fadb330df2f1",
         "resource_type": null,
         "size": null
-      },
-      {
-        "mimetype": null,
-        "cache_url": null,
-        "hash": "",
-        "description": "",
-        "name": "平成29年度都立学校学習文化施設開放校一覧（都立特別支援学校）",
-        "format": "CSV",
-        "url": "http://www.kyoiku.metro.tokyo.jp/lifelong/learning/files/cultural_facility_csv/gb_ichiran_2.csv",
-        "cache_last_updated": null,
-        "package_id": "3f5d879a-51ff-48d4-9a05-a7a1ca05ead3",
-        "created": "2018-03-29T15:00:00",
-        "state": "active",
-        "mimetype_inner": null,
-        "last_modified": "2018-03-29T15:00:00",
-        "position": 2,
-        "revision_id": "66976300-ede8-4235-946f-74c4e37a26fd",
-        "url_type": null,
-        "id": "3ec5fbfb-8644-4ea3-8137-e8b05c4b2cb4",
-        "resource_type": null,
-        "size": null
       }
     ],
-    "num_resources": 3,
+    "num_resources": 1,
     "tags": [],
     "groups": [
       {
@@ -111,17 +69,17 @@
     },
     "name": "t000021d1700000014",
     "isopen": true,
-    "url": "http://www.kyoiku.metro.tokyo.jp/lifelong/learning/cultural_facility.html",
+    "url": "https://www.syougai.metro.tokyo.lg.jp/sesaku/kaihou/gakushu.html",
     "notes": "【東京都教育庁】",
     "owner_org": "f510f5b2-b249-499d-a00f-440b1f646e13",
     "extras": [
       {
         "key": "更新頻度",
-        "value": "1年ごと"
+        "value": "四半期ごと"
       }
     ],
     "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "title": "学習文化施設開放",
-    "revision_id": "1d0973b0-ed98-46f4-b639-4494346118fe"
+    "revision_id": "9a22e7a4-3f22-45dc-881e-700d6c789bb4"
   }
 }

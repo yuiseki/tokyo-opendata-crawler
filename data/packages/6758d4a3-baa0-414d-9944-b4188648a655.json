@@ -10,56 +10,55 @@
     "num_tags": 0,
     "id": "6758d4a3-baa0-414d-9944-b4188648a655",
     "metadata_created": "2021-03-31T06:43:33.154909",
-    "owner_org": "c8b93db3-9754-48d3-8b50-5cbe78d679e7",
     "metadata_modified": "2021-03-31T06:43:34.055865",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "都の大気測定局（一般環境大気測定局及び自動車排出ガス測定局）のうちデジタル化しているPM2.5（微小粒子状物質）の1分間値のデータ（速報値）です。\n\n（速報値のため、確定後のデータ（1時間値）とは必ずしも一致しません。）\n\nなお、このデータは試行的に作成したものであり、今後、削除、またはデータの形式が変更されることがあります。\n",
+        "name": "PM2.5(微小粒子状物質)モニタリングデータ(1分値・2020年4月分)",
         "format": "CSV",
         "url": "https://www.opendata.metro.tokyo.lg.jp/kankyo/air/130001_tokyo_airpollution_pm25_202004.csv",
+        "cache_last_updated": null,
+        "package_id": "6758d4a3-baa0-414d-9944-b4188648a655",
         "created": "2021-03-23T15:00:00",
         "state": "active",
-        "package_id": "6758d4a3-baa0-414d-9944-b4188648a655",
+        "mimetype_inner": null,
         "last_modified": null,
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "9996138b-7e0d-441e-9198-21d442b993d1",
-        "size": 10157056,
+        "url_type": null,
         "id": "85524577-1397-4639-9184-c6f34f81b350",
         "resource_type": null,
-        "name": "PM2.5(微小粒子状物質)モニタリングデータ(1分値・2020年4月分)"
+        "size": 10157056
       },
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "PM2.5(微小粒子状物質)モニタリングデータ(1分値・2020年4月分)のデータ項目定義書です。",
+        "name": "PM2.5(微小粒子状物質)モニタリングデータ(1分値・2020年4月分)データ項目定義書",
         "format": "XLSX",
         "url": "https://www.opendata.metro.tokyo.lg.jp/kankyo/air/130001_tokyo_airpollution_pm25_202004_spec.xlsx",
+        "cache_last_updated": null,
+        "package_id": "6758d4a3-baa0-414d-9944-b4188648a655",
         "created": "2021-03-23T15:00:00",
         "state": "active",
-        "package_id": "6758d4a3-baa0-414d-9944-b4188648a655",
+        "mimetype_inner": null,
         "last_modified": null,
-        "mimetype": null,
-        "url_type": null,
         "position": 1,
         "revision_id": "5c7fb893-d25a-4fa4-b1c5-743b38545ec5",
-        "size": 15360,
+        "url_type": null,
         "id": "7df17740-4f09-4c22-9503-9ed1b733bbb9",
         "resource_type": null,
-        "name": "PM2.5(微小粒子状物質)モニタリングデータ(1分値・2020年4月分)データ項目定義書"
+        "size": 15360
       }
     ],
     "num_resources": 2,
@@ -68,39 +67,40 @@
       {
         "display_name": "環境",
         "description": "",
-        "title": "環境",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c012.png",
+        "title": "環境",
         "id": "427f3ee0-b28a-4fd2-b7dc-980507f154d2",
         "name": "c012"
       }
     ],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t000009d0000000009",
-    "isopen": true,
-    "url": "https://www.kankyo.metro.tokyo.lg.jp/air/index.html",
-    "notes": "【東京都環境局】 都の大気測定局（一般環境大気測定局及び自動車排出ガス測定局）のうちデジタル化しているPM2.5（微小粒子状物質）の1分間値のデータ（速報値）です。",
-    "title": "PM2.5(微小粒子状物質)モニタリングデータ(1分値・2020年4月分)",
-    "extras": [
-      {
-        "value": "不定期",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "http://www.kankyo.metro.tokyo.jp/\r\n\r\n所属:東京都",
-      "title": "東京都環境局",
       "created": "2019-11-01T03:27:20.710014",
-      "approval_status": "approved",
+      "title": "東京都環境局",
+      "name": "t000009",
       "is_organization": true,
       "state": "active",
       "image_url": "",
       "revision_id": "a0bf6c30-64dc-48fe-9782-e38ae248a38d",
       "type": "organization",
       "id": "c8b93db3-9754-48d3-8b50-5cbe78d679e7",
-      "name": "t000009"
+      "approval_status": "approved"
     },
+    "name": "t000009d0000000009",
+    "isopen": true,
+    "url": "https://www.kankyo.metro.tokyo.lg.jp/air/index.html",
+    "notes": "【東京都環境局】 都の大気測定局（一般環境大気測定局及び自動車排出ガス測定局）のうちデジタル化しているPM2.5（微小粒子状物質）の1分間値のデータ（速報値）です。",
+    "owner_org": "c8b93db3-9754-48d3-8b50-5cbe78d679e7",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "PM2.5(微小粒子状物質)モニタリングデータ(1分値・2020年4月分)",
     "revision_id": "c44c3a06-e2a9-4132-b835-7f8445019650"
   }
 }

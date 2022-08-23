@@ -10,56 +10,55 @@
     "num_tags": 0,
     "id": "18c3a16d-43c8-4bed-a8a2-d1eb3dc9c6ec",
     "metadata_created": "2021-11-04T00:38:30.021497",
-    "owner_org": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
     "metadata_modified": "2021-12-13T06:15:07.489189",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "用途別施設ごとのデータ（所在地、施設構成、開館時間、休館日、用途別施設の経費）",
+        "name": "施設別データ　2019",
         "format": "CSV",
         "url": "https://data.bodik.jp/dataset/11329501-1686-400c-a68c-03d26071e491/resource/70cdfd9b-3ae4-4a5d-a9b4-2d0952807e2b/download/131105_public_facility_data_2019.csv",
+        "cache_last_updated": null,
+        "package_id": "18c3a16d-43c8-4bed-a8a2-d1eb3dc9c6ec",
         "created": "2021-08-11T09:22:00",
         "state": "active",
-        "package_id": "18c3a16d-43c8-4bed-a8a2-d1eb3dc9c6ec",
+        "mimetype_inner": null,
         "last_modified": "2021-08-11T09:22:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "0f372900-e532-4024-b340-ead03dd93100",
-        "size": 491405,
+        "url_type": null,
         "id": "685e3fbe-18c7-4a88-a4ed-35fb88b779fa",
         "resource_type": null,
-        "name": "施設別データ　2019"
+        "size": 491405
       },
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "建物ごとのデータ（建物名称、施設形態、建物全体の経費）",
+        "name": "建物別データ　2019",
         "format": "CSV",
         "url": "https://data.bodik.jp/dataset/11329501-1686-400c-a68c-03d26071e491/resource/927b751a-6730-415d-b110-8c7772c65295/download/131105_public_buildings_data_2019.csv",
+        "cache_last_updated": null,
+        "package_id": "18c3a16d-43c8-4bed-a8a2-d1eb3dc9c6ec",
         "created": "2021-08-11T09:22:00",
         "state": "active",
-        "package_id": "18c3a16d-43c8-4bed-a8a2-d1eb3dc9c6ec",
+        "mimetype_inner": null,
         "last_modified": "2021-08-11T09:22:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 1,
         "revision_id": "7cc0f8b2-1953-416e-a1e6-cf96efebe793",
-        "size": 52635,
+        "url_type": null,
         "id": "7ed82057-5d8c-4fc8-a57b-49b4b2d394fd",
         "resource_type": null,
-        "name": "建物別データ　2019"
+        "size": 52635
       }
     ],
     "num_resources": 2,
@@ -68,39 +67,40 @@
       {
         "display_name": "税金",
         "description": "",
-        "title": "税金",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c007.png",
+        "title": "税金",
         "id": "bb8a1d8b-5217-44c2-8eca-81addb671f0e",
         "name": "c007"
       }
     ],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t131105d0000000058",
-    "isopen": true,
-    "url": "https://www.city.meguro.tokyo.jp/gyosei/keikaku/keikaku/shisetsu_minaoshi/shisetsu-datashu.html",
-    "notes": "年度末現在の区有施設等に係る維持管理経費や利用状況等",
-    "title": "施設データ集",
-    "extras": [
-      {
-        "value": "1年",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "https://odcs.bodik.jp/131105/",
-      "title": "目黒区",
       "created": "2021-11-01T02:12:22.338293",
-      "approval_status": "approved",
+      "title": "目黒区",
+      "name": "t131105",
       "is_organization": true,
       "state": "active",
       "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131105.png",
       "revision_id": "e3dc243f-e3a2-4b2b-a319-4e145bb63383",
       "type": "organization",
       "id": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
-      "name": "t131105"
+      "approval_status": "approved"
     },
+    "name": "t131105d0000000058",
+    "isopen": true,
+    "url": "https://www.city.meguro.tokyo.jp/gyosei/keikaku/keikaku/shisetsu_minaoshi/shisetsu-datashu.html",
+    "notes": "年度末現在の区有施設等に係る維持管理経費や利用状況等",
+    "owner_org": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "1年"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "施設データ集",
     "revision_id": "c2bcedfc-5a37-4afb-8fb6-378f76ff7d4e"
   }
 }

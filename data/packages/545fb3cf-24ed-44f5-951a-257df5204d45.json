@@ -6,15 +6,15 @@
     "maintainer": "東京都中央卸売市場",
     "relationships_as_object": [],
     "private": false,
-    "maintainer_email": null,
+    "maintainer_email": "",
     "num_tags": 0,
     "id": "545fb3cf-24ed-44f5-951a-257df5204d45",
     "metadata_created": "2021-04-28T07:38:15.034383",
-    "metadata_modified": "2021-05-20T01:09:53.336395",
-    "author": null,
-    "author_email": null,
+    "metadata_modified": "2022-05-11T00:48:47.007753",
+    "author": "",
+    "author_email": "",
     "state": "active",
-    "version": null,
+    "version": "",
     "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
@@ -343,7 +343,7 @@
     "name": "t000013d0000000003",
     "isopen": true,
     "url": "",
-    "notes": "販売予定数量・水産",
+    "notes": "",
     "owner_org": "327220fa-dbe9-453c-89b2-ce303b471a71",
     "extras": [
       {
@@ -352,7 +352,7 @@
       }
     ],
     "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
-    "title": "東京都卸売市場日報",
-    "revision_id": "e488601b-1cd4-4451-b1b7-f5bc13558e9d"
+    "title": "東京都卸売市場日報（2020年度）",
+    "revision_id": "ea05274f-371b-4cc2-a904-e48ef4706041"
   }
 }

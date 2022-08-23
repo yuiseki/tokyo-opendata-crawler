@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "犯罪抑止対策本部",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "f76e4431-a126-4260-84e4-e964bfb51af9",
+    "metadata_created": "2019-11-01T04:56:02.536704",
+    "metadata_modified": "2020-06-12T05:57:15.719053",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "犯罪発生情報（メールけいしちょうオープンデータ）",
+        "format": "HTML",
+        "url": "https://mail.digipolice.jp/opendata/",
+        "cache_last_updated": null,
+        "package_id": "f76e4431-a126-4260-84e4-e964bfb51af9",
+        "created": "2019-05-23T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-05-23T15:00:00",
+        "position": 0,
+        "revision_id": "c3aa5e00-c4c0-4c54-8f39-05585f82e652",
+        "url_type": null,
+        "id": "ec98ad3e-025b-4610-b312-388d5072cad1",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "治安",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c002.png",
+        "title": "治安",
+        "id": "de8273ac-2339-4309-ad15-2800b751b45e",
+        "name": "c002"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.keishicho.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:22.754561",
+      "title": "警視庁",
+      "name": "t000022",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000022.jpg",
+      "revision_id": "6ec2a37b-87b3-4747-ac28-2a6800716699",
+      "type": "organization",
+      "id": "a80c46c5-d236-4d83-b4f9-656c25d0847d",
+      "approval_status": "approved"
+    },
+    "name": "t000022d0000000033",
+    "isopen": true,
+    "url": "https://www.keishicho.metro.tokyo.jp/kurashi/higai/kodomo/fushin/index.html",
+    "notes": "【警視庁】メールけいしちょうで配信した犯罪発生情報をオープンデータとしてダウンロードできるサイトです。",
+    "owner_org": "a80c46c5-d236-4d83-b4f9-656c25d0847d",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "犯罪発生情報（メールけいしちょうオープンデータ）",
+    "revision_id": "aee87838-79fa-44eb-9409-60d4a8526877"
+  }
+}

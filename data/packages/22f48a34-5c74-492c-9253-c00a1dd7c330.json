@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "情報管理課情報システム係",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "22f48a34-5c74-492c-9253-c00a1dd7c330",
+    "metadata_created": "2022-04-12T04:04:59.940744",
+    "metadata_modified": "2022-04-12T04:05:23.259081",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "東京都国立市にある公共施設の一覧です。",
+        "name": "公共施設一覧",
+        "format": "XLSX",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/kunitachi/132152_public_facility.xlsx",
+        "cache_last_updated": null,
+        "package_id": "22f48a34-5c74-492c-9253-c00a1dd7c330",
+        "created": "2022-03-25T06:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2022-03-25T06:00:00",
+        "position": 0,
+        "revision_id": "881c2c9c-59d0-42e5-bd38-aa8ee075e76c",
+        "url_type": null,
+        "id": "c3d2788f-d4c0-4c20-82b1-26b0034f6c83",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "東京都国立市にある公共施設の一覧です。文字コードはUTF-8（BOM無し）です。",
+        "name": "公共施設一覧",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/kunitachi/132152_public_facility.csv",
+        "cache_last_updated": null,
+        "package_id": "22f48a34-5c74-492c-9253-c00a1dd7c330",
+        "created": "2022-03-25T06:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2022-03-25T06:00:00",
+        "position": 1,
+        "revision_id": "d1039743-2acc-4b83-8fce-9ec89c259683",
+        "url_type": null,
+        "id": "9aa93915-09f3-4f25-a1c7-a9c254a8396b",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "",
+      "created": "2022-03-28T07:52:14.680533",
+      "title": "国立市",
+      "name": "t132152",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t132152.jpg",
+      "revision_id": "11b160f8-bcf4-49b7-980c-dc6986fe7336",
+      "type": "organization",
+      "id": "8ecab4ee-29f4-45cd-a32f-353b6c2460ad",
+      "approval_status": "approved"
+    },
+    "name": "t132152d0000000006",
+    "isopen": true,
+    "url": "https://www.city.kunitachi.tokyo.jp/soshiki/Dept02/Div03/Sec02/gyomu/opendata/1647582892779.html",
+    "notes": "【東京都国立市】公共施設一覧のデータです。",
+    "owner_org": "8ecab4ee-29f4-45cd-a32f-353b6c2460ad",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "公共施設一覧",
+    "revision_id": "62b0aeaa-ff7e-4c36-a93b-a4cb39e72fad"
+  }
+}

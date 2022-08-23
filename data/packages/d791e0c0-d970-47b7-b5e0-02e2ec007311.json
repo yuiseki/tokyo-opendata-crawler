@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "大田区健康政策部\n感染症対策課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "d791e0c0-d970-47b7-b5e0-02e2ec007311",
+    "metadata_created": "2022-02-21T02:49:30.196432",
+    "metadata_modified": "2022-06-28T06:10:10.521681",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "新型コロナウイルス感染症感染者数（日別）",
+        "format": "XLSX",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/ootaku/131113_hibetsukansen.xlsx",
+        "cache_last_updated": null,
+        "package_id": "d791e0c0-d970-47b7-b5e0-02e2ec007311",
+        "created": "2022-06-07T02:26:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2022-06-23T06:07:00",
+        "position": 0,
+        "revision_id": "40ff7709-98f8-4d7c-ae64-259e36bd4aa5",
+        "url_type": null,
+        "id": "effed11a-b6b1-4b5f-8fae-5048372b028c",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "医療・福祉",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c005.png",
+        "title": "医療・福祉",
+        "id": "0d3cd956-612c-45c5-b1ee-75c1a5835c0e",
+        "name": "c005"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.ota.tokyo.jp/",
+      "created": "2019-11-01T03:27:25.037394",
+      "title": "大田区",
+      "name": "t131113",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131113.jpg",
+      "revision_id": "03b46cf2-2118-4e53-855d-1025be9188ae",
+      "type": "organization",
+      "id": "0ed84aa5-79d2-4db1-bf8d-3f4ec71815f2",
+      "approval_status": "approved"
+    },
+    "name": "t131113d0000000028",
+    "isopen": true,
+    "url": "https://www.city.ota.tokyo.jp/cyuumokujoho/infection/kanja.html",
+    "notes": "【大田区】新型コロナウイルス感染症日別感染者数の推移です。",
+    "owner_org": "0ed84aa5-79d2-4db1-bf8d-3f4ec71815f2",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "新型コロナウイルス感染症感染者数（日別）（令和４年６月２日時点）",
+    "revision_id": "7186be02-c464-4222-9a57-28944fe6842d"
+  }
+}

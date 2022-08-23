@@ -10,35 +10,34 @@
     "num_tags": 0,
     "id": "5114d374-ae4a-4488-b9ea-b8951098c329",
     "metadata_created": "2019-11-01T04:56:02.303195",
-    "owner_org": "a80c46c5-d236-4d83-b4f9-656c25d0847d",
     "metadata_modified": "2020-06-12T05:57:15.517823",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "（生活安全総務課　手集計）",
+        "name": "時間帯別発生状況",
         "format": "CSV",
         "url": "https://www.keishicho.metro.tokyo.jp/kurashi/higai/hittakuri/bohan1.files/bohan1_2.csv",
+        "cache_last_updated": null,
+        "package_id": "5114d374-ae4a-4488-b9ea-b8951098c329",
         "created": "2019-01-22T15:00:00",
         "state": "active",
-        "package_id": "5114d374-ae4a-4488-b9ea-b8951098c329",
+        "mimetype_inner": null,
         "last_modified": "2019-01-22T15:00:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "250c1138-7a00-4825-a345-2e40be52d7a8",
-        "size": null,
+        "url_type": null,
         "id": "604795f3-022b-4a29-9d9a-3752a958ab88",
         "resource_type": null,
-        "name": "時間帯別発生状況"
+        "size": null
       }
     ],
     "num_resources": 1,
@@ -47,47 +46,48 @@
       {
         "display_name": "治安",
         "description": "",
-        "title": "治安",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c002.png",
+        "title": "治安",
         "id": "de8273ac-2339-4309-ad15-2800b751b45e",
         "name": "c002"
       },
       {
         "display_name": "生活",
         "description": "",
-        "title": "生活",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
         "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
         "name": "c006"
       }
     ],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t000022d0000000032",
-    "isopen": true,
-    "url": "https://www.keishicho.metro.tokyo.jp/kurashi/higai/hittakuri/bohan1.html",
-    "notes": "【警視庁】",
-    "title": "ひったくりの発生状況②",
-    "extras": [
-      {
-        "value": "不定期",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "http://www.keishicho.metro.tokyo.jp/\r\n\r\n所属:東京都",
-      "title": "警視庁",
       "created": "2019-11-01T03:27:22.754561",
-      "approval_status": "approved",
+      "title": "警視庁",
+      "name": "t000022",
       "is_organization": true,
       "state": "active",
       "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000022.jpg",
       "revision_id": "6ec2a37b-87b3-4747-ac28-2a6800716699",
       "type": "organization",
       "id": "a80c46c5-d236-4d83-b4f9-656c25d0847d",
-      "name": "t000022"
+      "approval_status": "approved"
     },
+    "name": "t000022d0000000032",
+    "isopen": true,
+    "url": "https://www.keishicho.metro.tokyo.jp/kurashi/higai/hittakuri/bohan1.html",
+    "notes": "【警視庁】",
+    "owner_org": "a80c46c5-d236-4d83-b4f9-656c25d0847d",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "ひったくりの発生状況②",
     "revision_id": "314e0c0b-213d-4547-8813-27c0acf8e0bb"
   }
 }

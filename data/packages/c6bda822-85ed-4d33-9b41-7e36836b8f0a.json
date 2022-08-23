@@ -10,56 +10,55 @@
     "num_tags": 0,
     "id": "c6bda822-85ed-4d33-9b41-7e36836b8f0a",
     "metadata_created": "2020-05-26T08:55:28.956298",
-    "owner_org": "2f48464d-ce84-4cec-bb73-86634a89efeb",
     "metadata_modified": "2020-05-26T08:55:32.203440",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "",
+        "name": "重点地区総括表",
         "format": "CSV",
         "url": "https://www.opendata.metro.tokyo.lg.jp/juutakuseisaku/jutentikutoukatuhyou.csv",
+        "cache_last_updated": null,
+        "package_id": "c6bda822-85ed-4d33-9b41-7e36836b8f0a",
         "created": "2020-03-30T15:00:00",
         "state": "active",
-        "package_id": "c6bda822-85ed-4d33-9b41-7e36836b8f0a",
+        "mimetype_inner": null,
         "last_modified": "2020-03-30T15:00:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "e60c27cd-5208-464d-90da-0933652c7ebe",
-        "size": null,
+        "url_type": null,
         "id": "0532908f-e6dc-4d19-b68f-9903f5c3a0b5",
         "resource_type": null,
-        "name": "重点地区総括表"
+        "size": null
       },
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "",
+        "name": "重点地区一覧（東京都市計画）",
         "format": "CSV",
         "url": "https://www.opendata.metro.tokyo.lg.jp/juutakuseisaku/jutentikuitiran.csv",
+        "cache_last_updated": null,
+        "package_id": "c6bda822-85ed-4d33-9b41-7e36836b8f0a",
         "created": "2020-03-30T15:00:00",
         "state": "active",
-        "package_id": "c6bda822-85ed-4d33-9b41-7e36836b8f0a",
+        "mimetype_inner": null,
         "last_modified": "2020-03-30T15:00:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 1,
         "revision_id": "ec48aff2-c033-4dbe-af38-0f0417bb5dbc",
-        "size": null,
+        "url_type": null,
         "id": "cb90289f-5ab5-4458-aed1-b706c12eb54e",
         "resource_type": null,
-        "name": "重点地区一覧（東京都市計画）"
+        "size": null
       }
     ],
     "num_resources": 2,
@@ -68,39 +67,40 @@
       {
         "display_name": "まちづくり",
         "description": "",
-        "title": "まちづくり",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c003.png",
+        "title": "まちづくり",
         "id": "dc897c44-8153-4219-bfeb-6110fb85fb99",
         "name": "c003"
       }
     ],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t000030d1900000001",
-    "isopen": true,
-    "url": "http://www.toshiseibi.metro.tokyo.jp/seisaku/master_plan/master03.htm",
-    "notes": "【東京都住宅政策本部】",
-    "title": "住宅市街地の開発整備の方針の概要　変更概要",
-    "extras": [
-      {
-        "value": "不定期",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "所属:東京都",
-      "title": "東京都住宅政策本部",
       "created": "2019-11-01T03:27:24.052328",
-      "approval_status": "approved",
+      "title": "東京都住宅政策本部",
+      "name": "t000030",
       "is_organization": true,
       "state": "active",
       "image_url": "",
       "revision_id": "73bcd657-43bb-4348-a873-a0efd0c8f1fb",
       "type": "organization",
       "id": "2f48464d-ce84-4cec-bb73-86634a89efeb",
-      "name": "t000030"
+      "approval_status": "approved"
     },
+    "name": "t000030d1900000001",
+    "isopen": true,
+    "url": "http://www.toshiseibi.metro.tokyo.jp/seisaku/master_plan/master03.htm",
+    "notes": "【東京都住宅政策本部】",
+    "owner_org": "2f48464d-ce84-4cec-bb73-86634a89efeb",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "住宅市街地の開発整備の方針の概要　変更概要",
     "revision_id": "e60c27cd-5208-464d-90da-0933652c7ebe"
   }
 }

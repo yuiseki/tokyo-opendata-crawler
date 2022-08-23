@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "清瀬市教育部教育総務課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "fc11611c-49c8-406b-a4cf-bdf188ee2b5d",
+    "metadata_created": "2022-05-27T07:22:52.461195",
+    "metadata_modified": "2022-05-27T07:23:35.606019",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "【清瀬市】小学校の生徒数です。",
+        "name": "小学校生徒数",
+        "format": "CSV",
+        "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/008/690/132217_elementary_school_seito.csv",
+        "cache_last_updated": null,
+        "package_id": "fc11611c-49c8-406b-a4cf-bdf188ee2b5d",
+        "created": "2021-03-15T01:11:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-03-15T01:11:00",
+        "position": 0,
+        "revision_id": "d4856d54-cde7-4f28-ba46-c3108b4e047d",
+        "url_type": null,
+        "id": "38698a39-2cdf-4ffb-9cb1-3356981ac5ce",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "【清瀬市】小学校の生徒数です。",
+        "name": "小学校生徒数",
+        "format": "XLSX",
+        "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/008/690/132217_elementary_school_seito.xlsx",
+        "cache_last_updated": null,
+        "package_id": "fc11611c-49c8-406b-a4cf-bdf188ee2b5d",
+        "created": "2021-03-02T04:23:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-03-02T04:23:00",
+        "position": 1,
+        "revision_id": "55e3e763-4515-47e3-9bc3-562e71a363ce",
+        "url_type": null,
+        "id": "23cd9af6-078c-4490-be95-32ac53d1ee65",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.kiyose.lg.jp/index.html",
+      "created": "2020-08-05T08:00:00.206131",
+      "title": "清瀬市",
+      "name": "t132217",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "f8ef546d-d3f4-46e8-9741-39a6eec61618",
+      "type": "organization",
+      "id": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
+      "approval_status": "approved"
+    },
+    "name": "t132217d0000000053",
+    "isopen": true,
+    "url": "https://www.city.kiyose.lg.jp/opendata/opendataichiran/1008690.html",
+    "notes": "【清瀬市】小学校の生徒数です。",
+    "owner_org": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "変更の都度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "小学校生徒数",
+    "revision_id": "7b944256-2576-421d-a7e1-b447a7f930bc"
+  }
+}

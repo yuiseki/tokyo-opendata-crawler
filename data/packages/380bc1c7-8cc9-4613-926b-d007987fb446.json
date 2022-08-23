@@ -6,15 +6,15 @@
     "maintainer": "少子社会対策部家庭支援課子育て事業担当",
     "relationships_as_object": [],
     "private": false,
-    "maintainer_email": null,
+    "maintainer_email": "",
     "num_tags": 0,
     "id": "380bc1c7-8cc9-4613-926b-d007987fb446",
     "metadata_created": "2019-11-01T04:53:54.216819",
-    "metadata_modified": "2019-11-01T05:54:25.836551",
-    "author": null,
-    "author_email": null,
+    "metadata_modified": "2022-02-21T23:42:04.095296",
+    "author": "",
+    "author_email": "",
     "state": "active",
-    "version": null,
+    "version": "",
     "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
@@ -23,9 +23,9 @@
         "cache_url": null,
         "hash": "",
         "description": "",
-        "name": "学童クラブ事業実施状況（平成29年5月1日現在）",
+        "name": "学童クラブ数・登録児童数・待機児童数（令和3年5月1日現在）",
         "format": "PDF",
-        "url": "http://www.fukushihoken.metro.tokyo.jp/kodomo/hoiku/gakudou_jidoukan/ichiran.files/29WISH.pdf",
+        "url": "https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/hoiku/gakudou_jidoukan/ichiran.files/r3gakudoujyoukyou.pdf",
         "cache_last_updated": null,
         "package_id": "380bc1c7-8cc9-4613-926b-d007987fb446",
         "created": "2017-09-21T15:00:00",
@@ -33,7 +33,7 @@
         "mimetype_inner": null,
         "last_modified": "2017-09-21T15:00:00",
         "position": 0,
-        "revision_id": "d5124078-39a5-4cd1-afcb-bfa4f39e4399",
+        "revision_id": "cbe54297-df5d-4fa7-a26b-a83da0ee7b82",
         "url_type": null,
         "id": "9792f291-2472-4c13-8be2-8bfaf2e22bb1",
         "resource_type": null,
@@ -44,9 +44,9 @@
         "cache_url": null,
         "hash": "",
         "description": "",
-        "name": "学童クラブ実施状況（平成29年5月1日現在）",
+        "name": "学童クラブ数・登録児童数・待機児童数（令和3年5月1日現在）",
         "format": "CSV",
-        "url": "http://www.fukushihoken.metro.tokyo.jp/kodomo/hoiku/gakudou_jidoukan/ichiran.files/29WISH.csv",
+        "url": "https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/hoiku/gakudou_jidoukan/ichiran.files/r3gakudoujyoukyoucsv.csv",
         "cache_last_updated": null,
         "package_id": "380bc1c7-8cc9-4613-926b-d007987fb446",
         "created": "2017-09-21T15:00:00",
@@ -54,7 +54,7 @@
         "mimetype_inner": null,
         "last_modified": "2017-09-21T15:00:00",
         "position": 1,
-        "revision_id": "669f7cfe-5cb7-4fea-8b8a-0ee0185dfc4b",
+        "revision_id": "87b8b297-fbc0-47f4-9c82-01ddba66ba42",
         "url_type": null,
         "id": "cc6f8f45-ca49-4073-9b3e-6ed31886af44",
         "resource_type": null,
@@ -96,11 +96,11 @@
     "extras": [
       {
         "key": "更新頻度",
-        "value": "随時"
+        "value": "１年ごと"
       }
     ],
     "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "title": "学童クラブ事業の区市町村別実施状況",
-    "revision_id": "6625ff9f-7458-4e0f-b4c8-964e0769f2e4"
+    "revision_id": "31e224da-caae-4e89-a2f9-64599818d3e8"
   }
 }

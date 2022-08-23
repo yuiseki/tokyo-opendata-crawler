@@ -10,35 +10,34 @@
     "num_tags": 0,
     "id": "6daa82b3-e034-4f14-9a4b-17f1956fe7cb",
     "metadata_created": "2020-05-28T09:09:25.528908",
-    "owner_org": "1a6c3963-f987-4d8a-9a29-eafa99c7a0f1",
     "metadata_modified": "2020-05-28T09:09:54.035417",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "ＩＯＣ理事会で了承された追加種目の競技会場(平成29年4月5日オリンピック・パラリンピック推進対策特別委員会資料）",
+        "name": "ＩＯＣ理事会で了承された追加種目の競技会場",
         "format": "CSV",
         "url": "https://www.opendata.metro.tokyo.lg.jp/2020games/toukyou2020_tuika.csv",
+        "cache_last_updated": null,
+        "package_id": "6daa82b3-e034-4f14-9a4b-17f1956fe7cb",
         "created": "2020-03-30T15:00:00",
         "state": "active",
-        "package_id": "6daa82b3-e034-4f14-9a4b-17f1956fe7cb",
+        "mimetype_inner": null,
         "last_modified": "2020-03-30T15:00:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "a806a059-1cfc-44d3-8dd0-59cee4024ac3",
-        "size": null,
+        "url_type": null,
         "id": "147411e1-c993-4e93-b2e8-ca946362a7c1",
         "resource_type": null,
-        "name": "ＩＯＣ理事会で了承された追加種目の競技会場"
+        "size": null
       }
     ],
     "num_resources": 1,
@@ -47,39 +46,40 @@
       {
         "display_name": "オリンピック・パラリンピック",
         "description": "",
-        "title": "オリンピック・パラリンピック",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c009.png",
+        "title": "オリンピック・パラリンピック",
         "id": "4e11ae7b-55ad-44ce-8ec3-dc7205cc78f6",
         "name": "c009"
       }
     ],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t000007d1900000001",
-    "isopen": true,
-    "url": "https://www.2020games.metro.tokyo.jp/about/committee/2020/index.html",
-    "notes": "ＩＯＣ理事会で了承された追加種目の競技会場(平成29年4月5日オリンピック・パラリンピック推進対策特別委員会資料）",
-    "title": "オリンピック・パラリンピック等推進対策特別委員会_東京2020オリンピック競技大会の追加種目（その４）",
-    "extras": [
-      {
-        "value": "1年ごと不定期",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "http://www.2020games.metro.tokyo.jp/\r\n\r\n所属:東京都",
-      "title": "東京都オリンピック・パラリンピック準備局",
       "created": "2019-11-01T03:27:20.403001",
-      "approval_status": "approved",
+      "title": "東京都オリンピック・パラリンピック準備局",
+      "name": "t000007",
       "is_organization": true,
       "state": "active",
       "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000007.jpg",
       "revision_id": "90a115f6-e18a-495c-a51b-39ca62c7108c",
       "type": "organization",
       "id": "1a6c3963-f987-4d8a-9a29-eafa99c7a0f1",
-      "name": "t000007"
+      "approval_status": "approved"
     },
+    "name": "t000007d1900000001",
+    "isopen": true,
+    "url": "https://www.2020games.metro.tokyo.jp/about/committee/2020/index.html",
+    "notes": "ＩＯＣ理事会で了承された追加種目の競技会場(平成29年4月5日オリンピック・パラリンピック推進対策特別委員会資料）",
+    "owner_org": "1a6c3963-f987-4d8a-9a29-eafa99c7a0f1",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "1年ごと不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "オリンピック・パラリンピック等推進対策特別委員会_東京2020オリンピック競技大会の追加種目（その４）",
     "revision_id": "0f0c9859-a6d6-4e1f-9219-8ef97cd9a788"
   }
 }

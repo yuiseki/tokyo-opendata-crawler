@@ -10,56 +10,55 @@
     "num_tags": 0,
     "id": "cf933e78-4e2a-44e3-9cac-c19f2725636f",
     "metadata_created": "2020-03-17T01:43:12.434426",
-    "owner_org": "beddb482-adb4-4e03-9c25-f229c2a0b028",
     "metadata_modified": "2021-08-19T00:04:24.309011",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "",
+        "name": "いきいき館（敬老館）",
         "format": "XLS",
         "url": "https://www.city.chuo.lg.jp/kusei/statisticaldata/opendata.files/ikiikikan.xls",
+        "cache_last_updated": null,
+        "package_id": "cf933e78-4e2a-44e3-9cac-c19f2725636f",
         "created": "2017-12-14T15:00:00",
         "state": "active",
-        "package_id": "cf933e78-4e2a-44e3-9cac-c19f2725636f",
+        "mimetype_inner": null,
         "last_modified": "2020-10-11T15:00:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "5ddf2656-cb79-4703-99cf-be44c869476f",
-        "size": 24576,
+        "url_type": null,
         "id": "a2591c97-557d-4895-a718-7ad82c800234",
         "resource_type": null,
-        "name": "いきいき館（敬老館）"
+        "size": 24576
       },
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "",
+        "name": "いきいき館（敬老館）",
         "format": "CSV",
         "url": "https://www.city.chuo.lg.jp/kusei/statisticaldata/opendata.files/ikiikikan.csv",
+        "cache_last_updated": null,
+        "package_id": "cf933e78-4e2a-44e3-9cac-c19f2725636f",
         "created": "2017-12-14T15:00:00",
         "state": "active",
-        "package_id": "cf933e78-4e2a-44e3-9cac-c19f2725636f",
+        "mimetype_inner": null,
         "last_modified": "2020-10-11T15:00:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 1,
         "revision_id": "8da30520-a8e7-4da1-8d89-be40c0af6577",
-        "size": 1024,
+        "url_type": null,
         "id": "a6f57d58-fa7c-4f04-b486-3758dd1c9c17",
         "resource_type": null,
-        "name": "いきいき館（敬老館）"
+        "size": 1024
       }
     ],
     "num_resources": 2,
@@ -68,39 +67,40 @@
       {
         "display_name": "医療・福祉",
         "description": "",
-        "title": "医療・福祉",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c005.png",
+        "title": "医療・福祉",
         "id": "0d3cd956-612c-45c5-b1ee-75c1a5835c0e",
         "name": "c005"
       }
     ],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t131024d0000000006",
-    "isopen": true,
-    "url": "http://www.city.chuo.lg.jp/sisetugaido/fukushijinken/otosiyori/keirokan.html",
-    "notes": "区内のいきいき館（敬老館）の名称や所在地、緯度、経度、施設情報などを掲載しています。\n\n桜川敬老館複合施設の改築に伴う仮設建物への移転情報あり。\n",
-    "title": "いきいき館（敬老館）",
-    "extras": [
-      {
-        "value": "随時",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "https://www.city.chuo.lg.jp/",
-      "title": "中央区",
       "created": "2020-03-16T08:15:28.901611",
-      "approval_status": "approved",
+      "title": "中央区",
+      "name": "t131024",
       "is_organization": true,
       "state": "active",
       "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131024.png",
       "revision_id": "fd4c096b-7319-43d7-a1a4-d2411b6beaee",
       "type": "organization",
       "id": "beddb482-adb4-4e03-9c25-f229c2a0b028",
-      "name": "t131024"
+      "approval_status": "approved"
     },
+    "name": "t131024d0000000006",
+    "isopen": true,
+    "url": "http://www.city.chuo.lg.jp/sisetugaido/fukushijinken/otosiyori/keirokan.html",
+    "notes": "区内のいきいき館（敬老館）の名称や所在地、緯度、経度、施設情報などを掲載しています。\n\n桜川敬老館複合施設の改築に伴う仮設建物への移転情報あり。\n",
+    "owner_org": "beddb482-adb4-4e03-9c25-f229c2a0b028",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "いきいき館（敬老館）",
     "revision_id": "28698e6b-6b97-4db3-a9b7-9741a1e13b42"
   }
 }

@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "企画財政部情報システム課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "49ad20cd-e256-452a-8c79-ec1f4f34ab74",
+    "metadata_created": "2022-03-18T04:06:50.072067",
+    "metadata_modified": "2022-03-18T04:07:12.788389",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "台東区のTaito Free Wi-Fi アクセスポイントの施設一覧です",
+        "name": "Taito Free Wi-Fi アクセスポイント一覧ダウンロード",
+        "format": "CSV",
+        "url": "https://www.city.taito.lg.jp/kusei/online/opendata/seikatu/shisethutizujouhou.files/20211130Taito_freeWi-Fi_AccessPoint.csv",
+        "cache_last_updated": null,
+        "package_id": "49ad20cd-e256-452a-8c79-ec1f4f34ab74",
+        "created": "2017-04-19T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-09-30T15:00:00",
+        "position": 0,
+        "revision_id": "486f14f8-39e1-43f4-8154-bcf1b4abeee5",
+        "url_type": null,
+        "id": "b8debf5f-9fe8-4f4c-b078-b0194c8714d1",
+        "resource_type": null,
+        "size": 12288
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "観光",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c008.png",
+        "title": "観光",
+        "id": "420fd8d6-2bde-4746-9354-6344ec19ba93",
+        "name": "c008"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.taito.lg.jp/",
+      "created": "2019-11-01T03:27:24.733512",
+      "title": "台東区",
+      "name": "t131067",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131067.png",
+      "revision_id": "0166c313-a6d1-4eee-9282-f9bacc692e27",
+      "type": "organization",
+      "id": "72ddc2e3-f5ca-4fae-aca0-2e299cc0a94a",
+      "approval_status": "approved"
+    },
+    "name": "t131067d0000000063",
+    "isopen": true,
+    "url": "http://www.city.taito.lg.jp/index/kusei/johokasuishin/wifi.html",
+    "notes": "",
+    "owner_org": "72ddc2e3-f5ca-4fae-aca0-2e299cc0a94a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "年1回"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "台東区無料公衆無線LANアクセスポイント",
+    "revision_id": "cbc0207d-7e12-4693-ac67-02df6e40ce41"
+  }
+}

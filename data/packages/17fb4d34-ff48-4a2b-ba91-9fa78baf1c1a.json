@@ -10,35 +10,34 @@
     "num_tags": 0,
     "id": "17fb4d34-ff48-4a2b-ba91-9fa78baf1c1a",
     "metadata_created": "2021-11-04T00:59:28.536948",
-    "owner_org": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
     "metadata_modified": "2021-12-13T04:45:30.700150",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "目黒区内の土のうを備蓄しているステーションの一覧",
+        "name": "土のうステーション",
         "format": "CSV",
         "url": "https://data.bodik.jp/dataset/2171d6ce-8cfd-4b81-9917-88cc1fd8a269/resource/6ce611de-49d2-4458-b92e-24b1acd2a623/download/131105_sandbag.csv",
+        "cache_last_updated": null,
+        "package_id": "17fb4d34-ff48-4a2b-ba91-9fa78baf1c1a",
         "created": "2021-08-11T00:54:00",
         "state": "active",
-        "package_id": "17fb4d34-ff48-4a2b-ba91-9fa78baf1c1a",
+        "mimetype_inner": null,
         "last_modified": "2021-08-28T08:08:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "4297b9c6-320e-4331-8181-77535525e893",
-        "size": 7415,
+        "url_type": null,
         "id": "0ba3f3ef-fe3a-4966-b460-17ecaa5ee346",
         "resource_type": null,
-        "name": "土のうステーション"
+        "size": 7415
       }
     ],
     "num_resources": 1,
@@ -47,39 +46,40 @@
       {
         "display_name": "防災・災害計画",
         "description": "",
-        "title": "防災・災害計画",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c001.png",
+        "title": "防災・災害計画",
         "id": "8eb52f8e-0d10-44f4-8bb4-2a488d0f8465",
         "name": "c001"
       }
     ],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t131105d0000000009",
-    "isopen": true,
-    "url": "https://www.city.meguro.tokyo.jp/kurashi/anzen/bosai/type/ooame/index.html",
-    "notes": "目黒区内の土のうステーションの一覧",
-    "title": "土のうステーション",
-    "extras": [
-      {
-        "value": "1年",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "https://odcs.bodik.jp/131105/",
-      "title": "目黒区",
       "created": "2021-11-01T02:12:22.338293",
-      "approval_status": "approved",
+      "title": "目黒区",
+      "name": "t131105",
       "is_organization": true,
       "state": "active",
       "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131105.png",
       "revision_id": "e3dc243f-e3a2-4b2b-a319-4e145bb63383",
       "type": "organization",
       "id": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
-      "name": "t131105"
+      "approval_status": "approved"
     },
+    "name": "t131105d0000000009",
+    "isopen": true,
+    "url": "https://www.city.meguro.tokyo.jp/kurashi/anzen/bosai/type/ooame/index.html",
+    "notes": "目黒区内の土のうステーションの一覧",
+    "owner_org": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "1年"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "土のうステーション",
     "revision_id": "096b3e64-50a3-4035-b461-cf1fe3c1c5bf"
   }
 }

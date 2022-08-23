@@ -10,7 +10,7 @@
     "num_tags": 0,
     "id": "bc1dc8d3-517b-44ff-b6f3-e95e7d75e301",
     "metadata_created": "2019-11-26T04:28:50.112264",
-    "metadata_modified": "2021-12-13T04:04:11.328765",
+    "metadata_modified": "2022-06-30T23:34:32.047774",
     "author": null,
     "author_email": null,
     "state": "active",
@@ -22,20 +22,20 @@
         "mimetype": null,
         "cache_url": null,
         "hash": "",
-        "description": "投票区別選挙人名簿登録者数",
-        "name": "",
-        "format": "CSV",
-        "url": "https://www.opendata.metro.tokyo.lg.jp/koganei/tohyokubetsumeibotorokusyasu.csv",
+        "description": "",
+        "name": "投票区別選挙人名簿登録者数",
+        "format": "PDF",
+        "url": "https://www.city.koganei.lg.jp/smph/shisei/466/snkyoseido/meibo.html",
         "cache_last_updated": null,
         "package_id": "bc1dc8d3-517b-44ff-b6f3-e95e7d75e301",
-        "created": "2021-12-01T02:00:00",
+        "created": "2022-06-01T01:55:00",
         "state": "active",
         "mimetype_inner": null,
-        "last_modified": "2021-12-10T03:17:00",
+        "last_modified": "2022-06-16T02:04:00",
         "position": 0,
-        "revision_id": "575d1cd6-b73f-4e91-92ab-eb4407f0c41f",
+        "revision_id": "698c7612-3dca-4ec4-93e4-2a1580cae3d0",
         "url_type": null,
-        "id": "7344dd73-9cf5-46e2-b9d6-a9aac6cc22b7",
+        "id": "522a9e23-d0a2-4fd8-9394-8539b9e4cfac",
         "resource_type": null,
         "size": null
       }
@@ -61,7 +61,7 @@
     "name": "t132101d0000000006",
     "isopen": true,
     "url": "https://www.city.koganei.lg.jp/smph/shisei/466/snkyoseido/meibo.html",
-    "notes": "【小金井市】小金井市における投票区別選挙人名簿登録者数です。（2021/12/1時点）",
+    "notes": "【小金井市】小金井市における投票区別選挙人名簿登録者数です。（2022/6/1時点）",
     "owner_org": "419da1a8-a771-449b-8b9a-42b2935a046e",
     "extras": [
       {
@@ -71,6 +71,6 @@
     ],
     "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "title": "投票区別選挙人名簿登録者数",
-    "revision_id": "b835f7d2-7ee1-410a-9a61-2c66c34abbe6"
+    "revision_id": "c58b23f9-0e57-4f90-9ccd-1e30bb36dedd"
   }
 }

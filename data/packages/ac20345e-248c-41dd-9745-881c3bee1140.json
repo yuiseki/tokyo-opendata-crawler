@@ -10,7 +10,7 @@
     "num_tags": 0,
     "id": "ac20345e-248c-41dd-9745-881c3bee1140",
     "metadata_created": "2019-11-01T04:59:06.110815",
-    "metadata_modified": "2019-11-01T09:34:46.577305",
+    "metadata_modified": "2022-06-17T01:36:57.010142",
     "author": null,
     "author_email": null,
     "state": "active",
@@ -117,11 +117,11 @@
         "mimetype_inner": null,
         "last_modified": "2018-05-31T15:00:00",
         "position": 4,
-        "revision_id": "cac56526-a918-4504-953b-c3e9f22d905d",
+        "revision_id": "85d7dd6f-08fe-4599-a17b-a563608404e9",
         "url_type": null,
         "id": "5cf9ac69-ae58-4868-8a82-66b3a8f30f01",
         "resource_type": null,
-        "size": 34816
+        "size": 20480
       },
       {
         "mimetype": null,

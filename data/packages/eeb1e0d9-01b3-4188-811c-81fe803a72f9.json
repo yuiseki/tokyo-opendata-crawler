@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "東京都環境局地球環境エネルギー部計画課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "eeb1e0d9-01b3-4188-811c-81fe803a72f9",
+    "metadata_created": "2022-03-31T05:07:51.034161",
+    "metadata_modified": "2022-03-31T05:08:08.701680",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "次の電力量を推計し集計しています。  \n\n・都内に設置された再生可能エネルギー発電設備による電力で、その場で消費されるもの  \n\n・電気事業者から都内に供給される、水力発電等の再生可能エネルギー発電設備による電力（再生可能エネルギーの固定価格買取制度（ＦＩＴ制度）による買取量を除く。）  \n\n・ＦＩＴ制度を活用して全国に設置された発電設備による電力を、都内販売電力量割合（賦課金の負担割合）で按分したもの  \n\n※詳細については、[「都内における再生可能エネルギーの利用状況」（東京都環境局ホームページ）](https://www.kankyo.metro.tokyo.lg.jp/climate/renewable_energy/200100a20180214152237412.html)をご覧ください。\n",
+        "name": "都における再生可能エネルギー電力の利用割合　調査結果（2015～）",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/kankyo/R3/Renewablepower_Usage_Ratio_Tokyo2019.csv",
+        "cache_last_updated": null,
+        "package_id": "eeb1e0d9-01b3-4188-811c-81fe803a72f9",
+        "created": "2022-02-14T06:23:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2022-02-14T06:23:00",
+        "position": 0,
+        "revision_id": "ffe49b58-8e0e-40b4-8111-25531bcd0f41",
+        "url_type": null,
+        "id": "5d73036b-ee58-4acb-a6cc-4532f6156a7a",
+        "resource_type": null,
+        "size": 512
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "環境",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c012.png",
+        "title": "環境",
+        "id": "427f3ee0-b28a-4fd2-b7dc-980507f154d2",
+        "name": "c012"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.kankyo.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.710014",
+      "title": "東京都環境局",
+      "name": "t000009",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "a0bf6c30-64dc-48fe-9782-e38ae248a38d",
+      "type": "organization",
+      "id": "c8b93db3-9754-48d3-8b50-5cbe78d679e7",
+      "approval_status": "approved"
+    },
+    "name": "t000009d0000000021",
+    "isopen": true,
+    "url": "https://www.kankyo.metro.tokyo.lg.jp/climate/renewable_energy/200100a20180214152237412.html",
+    "notes": "【東京都環境局】  \n\nこのデータは、都における再生可能エネルギー電力の利用割合に関する調査結果（2015～2019年度）です。\n",
+    "owner_org": "c8b93db3-9754-48d3-8b50-5cbe78d679e7",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "都における再生可能エネルギー電力の利用割合",
+    "revision_id": "d39b30b2-8ac1-454b-8b36-0ede5c47bde6"
+  }
+}

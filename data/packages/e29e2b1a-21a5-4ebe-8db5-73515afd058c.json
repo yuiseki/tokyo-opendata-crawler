@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "産業経済部くらしと観光課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "e29e2b1a-21a5-4ebe-8db5-73515afd058c",
+    "metadata_created": "2022-02-22T07:29:02.610155",
+    "metadata_modified": "2022-02-22T07:30:22.987465",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "いたばし観光センター外観の写真です。",
+        "name": "いたばし観光センター展示室",
+        "format": "JPEG",
+        "url": "https://storage.googleapis.com/storage.openphoto.jp/photos/66/original/ykQAyLNVgr7fCFxxG8d2oiEOylz7LDK55EnFM9w2.jpg",
+        "cache_last_updated": null,
+        "package_id": "e29e2b1a-21a5-4ebe-8db5-73515afd058c",
+        "created": "2022-02-22T07:29:31.507587",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": null,
+        "position": 0,
+        "revision_id": "deaf81d8-8823-4979-93ce-03fa031d8148",
+        "url_type": null,
+        "id": "ea3fb36d-f19d-4f13-b2be-26086baee1d7",
+        "resource_type": null,
+        "size": 1638400
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.itabashi.tokyo.jp/",
+      "created": "2019-11-01T03:27:25.673886",
+      "title": "板橋区",
+      "name": "t131199",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131199.jpg",
+      "revision_id": "1a86d48e-188d-4655-9cc5-c9aedb102db4",
+      "type": "organization",
+      "id": "9354a576-4de5-44ab-9e62-18a92b40b5e7",
+      "approval_status": "approved"
+    },
+    "name": "t131199d0000006015",
+    "isopen": true,
+    "url": "https://openphoto.app/c/ita13119/photo/8178",
+    "notes": "【板橋区】いたばし観光センター外観の写真です。",
+    "owner_org": "9354a576-4de5-44ab-9e62-18a92b40b5e7",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "いたばし観光センター展示室",
+    "revision_id": "c7a63ccb-53e9-41df-93c2-0c2e3b157eed"
+  }
+}

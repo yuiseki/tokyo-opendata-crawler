@@ -10,35 +10,34 @@
     "num_tags": 0,
     "id": "cb7b49ad-9d7b-433f-ac71-13963165d41f",
     "metadata_created": "2020-06-26T06:20:55.303301",
-    "owner_org": "a80c46c5-d236-4d83-b4f9-656c25d0847d",
     "metadata_modified": "2020-06-26T06:22:18.586168",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "",
+        "name": "街頭防犯カメラシステム整備地区の刑法犯認知件数（各地区運用開始前年から）",
         "format": "CSV",
         "url": "https://www.keishicho.metro.tokyo.jp/kurashi/anzen/anshin/gaitocamera.files/gaitocamera.csv",
+        "cache_last_updated": null,
+        "package_id": "cb7b49ad-9d7b-433f-ac71-13963165d41f",
         "created": "2018-02-18T15:00:00",
         "state": "active",
-        "package_id": "cb7b49ad-9d7b-433f-ac71-13963165d41f",
+        "mimetype_inner": null,
         "last_modified": "2018-02-18T15:00:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "dfa0bc27-b195-415a-a16d-c2571713ebe5",
-        "size": 2048,
+        "url_type": null,
         "id": "1e2a2964-b5fe-4d46-86ee-076078b8e5aa",
         "resource_type": null,
-        "name": "街頭防犯カメラシステム整備地区の刑法犯認知件数（各地区運用開始前年から）"
+        "size": 2048
       }
     ],
     "num_resources": 1,
@@ -47,47 +46,48 @@
       {
         "display_name": "まちづくり",
         "description": "",
-        "title": "まちづくり",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c003.png",
+        "title": "まちづくり",
         "id": "dc897c44-8153-4219-bfeb-6110fb85fb99",
         "name": "c003"
       },
       {
         "display_name": "治安",
         "description": "",
-        "title": "治安",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c002.png",
+        "title": "治安",
         "id": "de8273ac-2339-4309-ad15-2800b751b45e",
         "name": "c002"
       }
     ],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t000022d1700000002",
-    "isopen": true,
-    "url": "https://www.keishicho.metro.tokyo.jp/kurashi/anzen/anshin/gaitocamera.html",
-    "notes": "【警視庁】",
-    "title": "街頭防犯カメラシステム",
-    "extras": [
-      {
-        "value": "随時",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "http://www.keishicho.metro.tokyo.jp/\r\n\r\n所属:東京都",
-      "title": "警視庁",
       "created": "2019-11-01T03:27:22.754561",
-      "approval_status": "approved",
+      "title": "警視庁",
+      "name": "t000022",
       "is_organization": true,
       "state": "active",
       "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000022.jpg",
       "revision_id": "6ec2a37b-87b3-4747-ac28-2a6800716699",
       "type": "organization",
       "id": "a80c46c5-d236-4d83-b4f9-656c25d0847d",
-      "name": "t000022"
+      "approval_status": "approved"
     },
+    "name": "t000022d1700000002",
+    "isopen": true,
+    "url": "https://www.keishicho.metro.tokyo.jp/kurashi/anzen/anshin/gaitocamera.html",
+    "notes": "【警視庁】",
+    "owner_org": "a80c46c5-d236-4d83-b4f9-656c25d0847d",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "街頭防犯カメラシステム",
     "revision_id": "f486cf2f-c52d-4dc1-ac6a-779d3468420f"
   }
 }

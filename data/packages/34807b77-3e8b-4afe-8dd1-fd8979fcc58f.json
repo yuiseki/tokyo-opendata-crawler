@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "町田市財務部営繕課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "34807b77-3e8b-4afe-8dd1-fd8979fcc58f",
+    "metadata_created": "2022-01-19T23:23:00.485289",
+    "metadata_modified": "2022-01-19T23:23:02.151027",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "三輪町330-1_三輪小学校",
+        "format": "PDF",
+        "url": "https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/miwamachi.files/miwamachi330-1.pdf",
+        "cache_last_updated": null,
+        "package_id": "34807b77-3e8b-4afe-8dd1-fd8979fcc58f",
+        "created": "2017-04-30T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-04-30T15:00:00",
+        "position": 0,
+        "revision_id": "959e130e-717a-438b-8044-66d292e9375b",
+        "url_type": null,
+        "id": "757efce0-85d0-4f69-9906-b965389262e0",
+        "resource_type": null,
+        "size": 58720256
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.machida.tokyo.jp/",
+      "created": "2019-11-01T03:27:26.775139",
+      "title": "町田市",
+      "name": "t132098",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t132098.png",
+      "revision_id": "afc39d6e-faf0-4358-90a5-a32d669724a1",
+      "type": "organization",
+      "id": "01ee6b09-cb58-4100-8d95-623ad6b238ef",
+      "approval_status": "approved"
+    },
+    "name": "t132098d0000000066",
+    "isopen": true,
+    "url": "",
+    "notes": "【町田市】町田市が実施した地質調査のボーリング柱状図及び調査位置図を掲載しています。調査報告書中の、ボーリング柱状図及び調査位置図以外の情報は掲載していません。また、調査位置図が掲載されていない場所もあります。",
+    "owner_org": "01ee6b09-cb58-4100-8d95-623ad6b238ef",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "公開時のみ"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "三輪町",
+    "revision_id": "c4540c13-30ff-4bfc-8eac-e70ca6446231"
+  }
+}

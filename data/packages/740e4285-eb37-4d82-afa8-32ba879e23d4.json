@@ -1,0 +1,93 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "総務部企画広報課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "740e4285-eb37-4d82-afa8-32ba879e23d4",
+    "metadata_created": "2022-02-07T01:46:49.697313",
+    "metadata_modified": "2022-07-25T07:07:09.378851",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "東京ビッグサイトにて8月～10月に行われるイベントのスケジュールになります。\n\n・7月25日時点の情報です。\n\n・催事情報は予告なく変更される可能性がございます。\n\n・情報の提供元は各催事主催者となります。\n",
+        "name": "東京ビッグサイト　8月～10月のイベント情報",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/tokyobigsight/ibenntojyouhou.csv",
+        "cache_last_updated": null,
+        "package_id": "740e4285-eb37-4d82-afa8-32ba879e23d4",
+        "created": "2022-07-24T23:36:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2022-07-24T23:49:00",
+        "position": 0,
+        "revision_id": "9fb40780-32c1-4f3d-9180-b372fb2084f5",
+        "url_type": null,
+        "id": "cb9823a2-3c8c-4748-bfd6-3e12fb7b800e",
+        "resource_type": null,
+        "size": 33792
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      },
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "",
+      "created": "2022-02-07T01:30:27.839763",
+      "title": "東京ビッグサイト",
+      "name": "t001001",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "bf0e6352-8e39-4a46-ba2e-add4f91fb614",
+      "type": "organization",
+      "id": "32b11f84-1652-4d91-82c4-4e2066d5bf8d",
+      "approval_status": "approved"
+    },
+    "name": "t001001d0000000001",
+    "isopen": true,
+    "url": "",
+    "notes": "【株式会社東京ビッグサイト】東京ビッグサイトにて行われるイベントのスケジュールになります。",
+    "owner_org": "32b11f84-1652-4d91-82c4-4e2066d5bf8d",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "1カ月ごと"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "東京ビッグサイトのイベント情報",
+    "revision_id": "9dac7932-1f88-43f1-9148-0f86c025049c"
+  }
+}

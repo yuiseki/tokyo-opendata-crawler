@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "政策経営部情報管理課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "ad87f4e6-d7ce-454d-a95d-39470a704c35",
+    "metadata_created": "2022-04-12T23:23:17.778175",
+    "metadata_modified": "2022-04-12T23:23:24.587207",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "イベント一覧（地方公共団体にて開催されるイベントの一覧）",
+        "format": "CSV",
+        "url": "https://www.city.toshima.lg.jp/020/kuse/electronic/open-data/documents/r3_event.csv",
+        "cache_last_updated": null,
+        "package_id": "ad87f4e6-d7ce-454d-a95d-39470a704c35",
+        "created": "2022-02-23T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2022-02-23T15:00:00",
+        "position": 0,
+        "revision_id": "7bb38e0e-a667-4758-acfc-033892f1be59",
+        "url_type": null,
+        "id": "4baa8169-8711-4e27-88b6-6c4ce4f6588e",
+        "resource_type": null,
+        "size": 13312
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "観光",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c008.png",
+        "title": "観光",
+        "id": "420fd8d6-2bde-4746-9354-6344ec19ba93",
+        "name": "c008"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.toshima.lg.jp/",
+      "created": "2022-04-12T23:02:34.470693",
+      "title": "豊島区",
+      "name": "t131164",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131164.png",
+      "revision_id": "14fda01f-e105-4e1a-ac84-e5e4fc760deb",
+      "type": "organization",
+      "id": "d5b667a3-96db-44d7-a5d8-f03a94f5c51b",
+      "approval_status": "approved"
+    },
+    "name": "t131164d0000000006",
+    "isopen": true,
+    "url": "https://www.city.toshima.lg.jp/index.html",
+    "notes": "豊島区が公開しているデータ（オープンデータ）をご覧いただけます。",
+    "owner_org": "d5b667a3-96db-44d7-a5d8-f03a94f5c51b",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "年1回"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "イベント一覧（地方公共団体にて開催されるイベントの一覧）",
+    "revision_id": "2cb3b2f4-e1a8-4e17-9a95-77dcd588f697"
+  }
+}

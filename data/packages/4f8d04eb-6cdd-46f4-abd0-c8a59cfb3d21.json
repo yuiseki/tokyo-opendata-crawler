@@ -10,67 +10,67 @@
     "num_tags": 0,
     "id": "4f8d04eb-6cdd-46f4-abd0-c8a59cfb3d21",
     "metadata_created": "2021-04-27T04:48:01.829826",
-    "owner_org": "9354a576-4de5-44ab-9e62-18a92b40b5e7",
     "metadata_modified": "2021-04-27T04:48:10.321001",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "令和2年度板橋区の統計の文化・余暇に関するデータです。",
+        "name": "17　文化・余暇",
         "format": "ZIP",
         "url": "https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/031/828/bunkayoka.zip",
+        "cache_last_updated": null,
+        "package_id": "4f8d04eb-6cdd-46f4-abd0-c8a59cfb3d21",
         "created": "2021-04-27T04:48:08.880358",
         "state": "active",
-        "package_id": "4f8d04eb-6cdd-46f4-abd0-c8a59cfb3d21",
+        "mimetype_inner": null,
         "last_modified": null,
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "0ffc6110-2e97-466f-b828-ed7b961342d4",
-        "size": 17408,
+        "url_type": null,
         "id": "819189f4-40e5-4270-88ee-e8aa77530c82",
         "resource_type": null,
-        "name": "17　文化・余暇"
+        "size": 17408
       }
     ],
     "num_resources": 1,
     "tags": [],
     "groups": [],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t131199d0000000244",
-    "isopen": true,
-    "url": "https://www.city.itabashi.tokyo.jp/kusei/shiryo/toukei/toukei/1031811/1031828.html",
-    "notes": "【板橋区】令和2年度板橋区の統計の文化・余暇に関するデータを掲載しています。",
-    "title": "令和2年度　文化・余暇",
-    "extras": [
-      {
-        "value": "公開時のみ",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "http://www.city.itabashi.tokyo.jp/",
-      "title": "板橋区",
       "created": "2019-11-01T03:27:25.673886",
-      "approval_status": "approved",
+      "title": "板橋区",
+      "name": "t131199",
       "is_organization": true,
       "state": "active",
       "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131199.jpg",
       "revision_id": "1a86d48e-188d-4655-9cc5-c9aedb102db4",
       "type": "organization",
       "id": "9354a576-4de5-44ab-9e62-18a92b40b5e7",
-      "name": "t131199"
+      "approval_status": "approved"
     },
+    "name": "t131199d0000000244",
+    "isopen": true,
+    "url": "https://www.city.itabashi.tokyo.jp/kusei/shiryo/toukei/toukei/1031811/1031828.html",
+    "notes": "【板橋区】令和2年度板橋区の統計の文化・余暇に関するデータを掲載しています。",
+    "owner_org": "9354a576-4de5-44ab-9e62-18a92b40b5e7",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "公開時のみ"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "令和2年度　文化・余暇",
     "revision_id": "354e8519-aa72-403b-9a67-9a5ba750c0f7"
   }
 }

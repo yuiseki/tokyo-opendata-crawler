@@ -10,7 +10,7 @@
     "num_tags": 0,
     "id": "3750b9e7-d91d-4c37-b6c1-dba72685c543",
     "metadata_created": "2021-09-13T05:31:44.880413",
-    "metadata_modified": "2021-09-13T05:32:14.633195",
+    "metadata_modified": "2022-06-15T02:50:37.954823",
     "author": null,
     "author_email": null,
     "state": "active",
@@ -18,6 +18,27 @@
     "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "令和2年度公文書開示状況",
+        "format": "ZIP",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/gesui/R4/02.zip",
+        "cache_last_updated": null,
+        "package_id": "3750b9e7-d91d-4c37-b6c1-dba72685c543",
+        "created": "2022-05-30T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2022-05-30T15:00:00",
+        "position": 0,
+        "revision_id": "0807d65d-ad2f-4429-bcad-9a56dd9950d4",
+        "url_type": null,
+        "id": "a82502a3-7c09-49f1-8171-16687b1a3773",
+        "resource_type": null,
+        "size": null
+      },
       {
         "mimetype": null,
         "cache_url": null,
@@ -32,8 +53,8 @@
         "state": "active",
         "mimetype_inner": null,
         "last_modified": "2021-08-16T03:00:00",
-        "position": 0,
-        "revision_id": "faa9e167-e9a8-4543-b638-8a1d411b5272",
+        "position": 1,
+        "revision_id": "0807d65d-ad2f-4429-bcad-9a56dd9950d4",
         "url_type": null,
         "id": "865345fa-598a-4054-92d5-e1cccc5b8807",
         "resource_type": null,
@@ -46,19 +67,19 @@
         "description": "",
         "name": "平成30年度公文書開示状況",
         "format": "ZIP",
-        "url": "https://www.opendata.metro.tokyo.lg.jp/gesui/R3/koubunsyo/30.zip",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/gesui/R4/30.zip",
         "cache_last_updated": null,
         "package_id": "3750b9e7-d91d-4c37-b6c1-dba72685c543",
         "created": "2021-08-16T03:00:00",
         "state": "active",
         "mimetype_inner": null,
         "last_modified": "2021-08-16T03:00:00",
-        "position": 1,
-        "revision_id": "99230532-b2de-472c-8ebf-c49c1c5759a3",
+        "position": 2,
+        "revision_id": "5e9eb50b-b155-4f6d-bbb5-eca74aab0169",
         "url_type": null,
-        "id": "7b28385a-66bd-478a-8d30-48d1f89de1e9",
+        "id": "1c12d0b7-7d0e-4c84-acdd-09bb8f29e980",
         "resource_type": null,
-        "size": 3722
+        "size": null
       },
       {
         "mimetype": null,
@@ -67,22 +88,22 @@
         "description": "",
         "name": "平成29年度公文書開示状況",
         "format": "ZIP",
-        "url": "https://www.opendata.metro.tokyo.lg.jp/gesui/R3/koubunsyo/29.zip",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/gesui/R4/29.zip",
         "cache_last_updated": null,
         "package_id": "3750b9e7-d91d-4c37-b6c1-dba72685c543",
         "created": "2021-08-16T03:00:00",
         "state": "active",
         "mimetype_inner": null,
         "last_modified": "2021-08-16T03:00:00",
-        "position": 2,
-        "revision_id": "fce934be-d268-447a-b397-e4d65d425be6",
+        "position": 3,
+        "revision_id": "c585ef3e-bc72-4441-9a4d-6a6e53d8e8b2",
         "url_type": null,
-        "id": "61bbbf6b-1ce0-4dba-8966-3f0b62c4ab66",
+        "id": "a9c184f2-6a77-4cbb-85b6-3340cebc6ed9",
         "resource_type": null,
-        "size": 3473
+        "size": null
       }
     ],
-    "num_resources": 3,
+    "num_resources": 4,
     "tags": [],
     "groups": [
       {
@@ -111,8 +132,8 @@
       "name": "t000020",
       "is_organization": true,
       "state": "active",
-      "image_url": "",
-      "revision_id": "77fc8722-1f7a-4aa8-b96f-179b43fc85cd",
+      "image_url": "https://www.opendata.metro.tokyo.lg.jp/gesui/earth_kun.jpg",
+      "revision_id": "47cd6c6c-5e81-42dc-b89a-c457ba1ce25e",
       "type": "organization",
       "id": "1ae499e6-7963-4e08-bcd1-7495d0cc33dd",
       "approval_status": "approved"
@@ -125,7 +146,7 @@
     "extras": [
       {
         "key": "更新頻度",
-        "value": "1回/月"
+        "value": "1回/年"
       }
     ],
     "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",

@@ -10,7 +10,7 @@
     "num_tags": 0,
     "id": "f0967bf7-f345-42ff-acda-a7d72d2474d5",
     "metadata_created": "2020-05-14T08:02:13.863467",
-    "metadata_modified": "2021-09-09T23:35:12.736050",
+    "metadata_modified": "2022-08-08T02:10:11.778831",
     "author": null,
     "author_email": null,
     "state": "active",
@@ -31,13 +31,13 @@
         "created": "2021-08-31T15:00:00",
         "state": "active",
         "mimetype_inner": null,
-        "last_modified": "2021-09-01T15:00:00",
+        "last_modified": "2022-07-27T15:00:00",
         "position": 0,
-        "revision_id": "ca3f0ae0-698c-46dd-91d5-43c059114d20",
+        "revision_id": "51e8b9f2-22b0-4c1b-91a0-4b4da79cf6b2",
         "url_type": null,
         "id": "8f4c0595-499e-4224-a040-da6423f1b928",
         "resource_type": null,
-        "size": 3072
+        "size": 4096
       }
     ],
     "num_resources": 1,

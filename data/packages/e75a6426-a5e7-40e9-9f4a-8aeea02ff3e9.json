@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "清瀬市総務部DX推進課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "e75a6426-a5e7-40e9-9f4a-8aeea02ff3e9",
+    "metadata_created": "2022-05-27T07:22:57.361082",
+    "metadata_modified": "2022-05-27T07:23:42.492681",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "清瀬市のオープンデータの一覧です。",
+        "name": "オープンデータ一覧",
+        "format": "CSV",
+        "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/001/615/132217_open_data_list4.csv",
+        "cache_last_updated": null,
+        "package_id": "e75a6426-a5e7-40e9-9f4a-8aeea02ff3e9",
+        "created": "2019-02-04T00:29:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2022-05-24T09:18:00",
+        "position": 0,
+        "revision_id": "09bf7e70-c5c1-4ad3-81d5-a54976ef963c",
+        "url_type": null,
+        "id": "c420f9d1-b53f-4e7b-a245-2f59de7f7795",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "清瀬市のオープンデータの一覧です。",
+        "name": "オープンデータ一覧",
+        "format": "XLSX",
+        "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/001/615/132217_open_data_list4.xlsx",
+        "cache_last_updated": null,
+        "package_id": "e75a6426-a5e7-40e9-9f4a-8aeea02ff3e9",
+        "created": "2019-02-04T00:28:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2022-05-24T08:27:00",
+        "position": 1,
+        "revision_id": "5c6d40c8-2223-409d-85df-0e15c4e2cee3",
+        "url_type": null,
+        "id": "ac40e9ca-44c5-4762-8ecb-327c3b76937f",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.kiyose.lg.jp/index.html",
+      "created": "2020-08-05T08:00:00.206131",
+      "title": "清瀬市",
+      "name": "t132217",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "f8ef546d-d3f4-46e8-9741-39a6eec61618",
+      "type": "organization",
+      "id": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
+      "approval_status": "approved"
+    },
+    "name": "t132217d0000000031",
+    "isopen": true,
+    "url": "https://www.city.kiyose.lg.jp/opendata/opendataichiran/1001615.html",
+    "notes": "【清瀬市】オープンデータの一覧です。",
+    "owner_org": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "変更の都度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "オープンデータ一覧",
+    "revision_id": "fd699ad3-6c7e-4f45-b296-f1b090c4c9bc"
+  }
+}

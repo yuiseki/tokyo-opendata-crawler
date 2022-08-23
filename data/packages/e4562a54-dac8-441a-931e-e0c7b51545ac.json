@@ -6,71 +6,71 @@
     "maintainer": "福祉部障がい政策課",
     "relationships_as_object": [],
     "private": false,
-    "maintainer_email": null,
+    "maintainer_email": "",
     "num_tags": 0,
     "id": "e4562a54-dac8-441a-931e-e0c7b51545ac",
     "metadata_created": "2021-03-18T07:38:13.996805",
-    "owner_org": "9354a576-4de5-44ab-9e62-18a92b40b5e7",
-    "metadata_modified": "2021-03-18T07:38:51.445961",
-    "author": null,
-    "author_email": null,
+    "metadata_modified": "2022-02-17T02:24:38.523223",
+    "author": "",
+    "author_email": "",
     "state": "active",
-    "version": null,
-    "license_id": "CC-BY-4.0",
+    "version": "",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "公共施設に関するデータです。",
+        "name": "公共施設",
         "format": "CSV",
-        "url": "https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/006/127/open01.csv",
+        "url": "https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/006/127/r3-1.csv",
+        "cache_last_updated": null,
+        "package_id": "e4562a54-dac8-441a-931e-e0c7b51545ac",
         "created": "2021-03-18T07:38:39.904640",
         "state": "active",
-        "package_id": "e4562a54-dac8-441a-931e-e0c7b51545ac",
+        "mimetype_inner": null,
         "last_modified": null,
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
-        "revision_id": "ed59d8bd-4511-4410-b1cd-bf07605813e7",
-        "size": 54886,
+        "revision_id": "fa167b47-b8a1-498b-bf56-8bc0357fdfd1",
+        "url_type": null,
         "id": "0fb29627-2244-4647-a2e4-3c1daef472ad",
         "resource_type": null,
-        "name": "公共施設"
+        "size": 54886
       }
     ],
     "num_resources": 1,
     "tags": [],
     "groups": [],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t131199d0000000761",
-    "isopen": true,
-    "url": "https://www.city.itabashi.tokyo.jp/bousai/universal/design/1006127.html",
-    "notes": "【板橋区】公共施設に関するデータを掲載しています。",
-    "title": "どこでも誰でもおでかけマップオープンデータ（公共施設）",
-    "extras": [
-      {
-        "value": "随時",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "http://www.city.itabashi.tokyo.jp/",
-      "title": "板橋区",
       "created": "2019-11-01T03:27:25.673886",
-      "approval_status": "approved",
+      "title": "板橋区",
+      "name": "t131199",
       "is_organization": true,
       "state": "active",
       "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131199.jpg",
       "revision_id": "1a86d48e-188d-4655-9cc5-c9aedb102db4",
       "type": "organization",
       "id": "9354a576-4de5-44ab-9e62-18a92b40b5e7",
-      "name": "t131199"
+      "approval_status": "approved"
     },
-    "revision_id": "dfa34665-50c4-4e15-9b95-de1be1d3a7a8"
+    "name": "t131199d0000000761",
+    "isopen": true,
+    "url": "https://www.city.itabashi.tokyo.jp/bousai/universal/design/1006127.html",
+    "notes": "【板橋区】公共施設に関するデータを掲載しています。",
+    "owner_org": "9354a576-4de5-44ab-9e62-18a92b40b5e7",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "どこでも誰でもおでかけマップオープンデータ（公共施設）",
+    "revision_id": "0171d48f-de8e-4aa0-a6d6-751001ed516a"
   }
 }

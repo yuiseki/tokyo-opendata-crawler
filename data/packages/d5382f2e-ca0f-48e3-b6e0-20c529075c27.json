@@ -10,67 +10,67 @@
     "num_tags": 0,
     "id": "d5382f2e-ca0f-48e3-b6e0-20c529075c27",
     "metadata_created": "2021-04-27T04:49:39.683608",
-    "owner_org": "9354a576-4de5-44ab-9e62-18a92b40b5e7",
     "metadata_modified": "2021-04-27T04:49:51.436360",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "令和元年度板橋区の統計の工業に関するデータです。",
+        "name": "5　工業",
         "format": "ZIP",
         "url": "https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/021/835/kougyou.zip",
+        "cache_last_updated": null,
+        "package_id": "d5382f2e-ca0f-48e3-b6e0-20c529075c27",
         "created": "2021-04-27T04:49:46.052367",
         "state": "active",
-        "package_id": "d5382f2e-ca0f-48e3-b6e0-20c529075c27",
+        "mimetype_inner": null,
         "last_modified": null,
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "d5c6ea97-d3d2-405d-87bb-bba389916c1c",
-        "size": 8601,
+        "url_type": null,
         "id": "6b85a869-a2cb-4994-ac93-15f99a2a0df1",
         "resource_type": null,
-        "name": "5　工業"
+        "size": 8601
       }
     ],
     "num_resources": 1,
     "tags": [],
     "groups": [],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t131199d0000000215",
-    "isopen": true,
-    "url": "https://www.city.itabashi.tokyo.jp/kusei/shiryo/toukei/toukei/1021813/1021835.html",
-    "notes": "【板橋区】令和元年度板橋区の統計の工業に関するデータを掲載しています。",
-    "title": "工業",
-    "extras": [
-      {
-        "value": "公開時のみ",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "http://www.city.itabashi.tokyo.jp/",
-      "title": "板橋区",
       "created": "2019-11-01T03:27:25.673886",
-      "approval_status": "approved",
+      "title": "板橋区",
+      "name": "t131199",
       "is_organization": true,
       "state": "active",
       "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131199.jpg",
       "revision_id": "1a86d48e-188d-4655-9cc5-c9aedb102db4",
       "type": "organization",
       "id": "9354a576-4de5-44ab-9e62-18a92b40b5e7",
-      "name": "t131199"
+      "approval_status": "approved"
     },
+    "name": "t131199d0000000215",
+    "isopen": true,
+    "url": "https://www.city.itabashi.tokyo.jp/kusei/shiryo/toukei/toukei/1021813/1021835.html",
+    "notes": "【板橋区】令和元年度板橋区の統計の工業に関するデータを掲載しています。",
+    "owner_org": "9354a576-4de5-44ab-9e62-18a92b40b5e7",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "公開時のみ"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "工業",
     "revision_id": "b88f2891-77b6-4b58-beeb-245c137dd3bf"
   }
 }

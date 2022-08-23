@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "教育委員会児童保育課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "fc44a8b7-8a62-4bb7-a815-5d11ecac2851",
+    "metadata_created": "2022-03-18T04:06:53.135719",
+    "metadata_modified": "2022-05-23T04:08:34.116171",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "入園の第一次利用調整結果（入所下限合計指数一覧）です",
+        "name": "令和4年４月_入園の第一次利用調整結果（入所下限合計指数一覧）",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/taitou/ichijiriyou_tyousei_ichiran.csv",
+        "cache_last_updated": null,
+        "package_id": "fc44a8b7-8a62-4bb7-a815-5d11ecac2851",
+        "created": "2022-03-31T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2022-05-19T15:00:00",
+        "position": 0,
+        "revision_id": "456c5aec-b9b7-4fa9-ad70-18033800fcf8",
+        "url_type": null,
+        "id": "cae2fd62-1fd7-492b-9406-d8a714af6f0b",
+        "resource_type": null,
+        "size": 5120
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.taito.lg.jp/",
+      "created": "2019-11-01T03:27:24.733512",
+      "title": "台東区",
+      "name": "t131067",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131067.png",
+      "revision_id": "0166c313-a6d1-4eee-9282-f9bacc692e27",
+      "type": "organization",
+      "id": "72ddc2e3-f5ca-4fae-aca0-2e299cc0a94a",
+      "approval_status": "approved"
+    },
+    "name": "t131067d0000000074",
+    "isopen": true,
+    "url": "https://www.city.taito.lg.jp/kosodatekyouiku/kosodate/mokutei/hoiku_youjikyouiku/hoikutakuji/hoikuen/hoikuennyuen/12143721858.html",
+    "notes": "",
+    "owner_org": "72ddc2e3-f5ca-4fae-aca0-2e299cc0a94a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "年1回"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "入園の第一次利用調整結果（入所下限合計指数一覧）",
+    "revision_id": "2e66c557-7c6e-45c7-a786-9d5940e104db"
+  }
+}

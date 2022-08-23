@@ -10,67 +10,67 @@
     "num_tags": 0,
     "id": "5b0724f5-6f1d-454e-b768-8b3cef135df5",
     "metadata_created": "2021-06-01T08:52:25.749269",
-    "owner_org": "c8b93db3-9754-48d3-8b50-5cbe78d679e7",
     "metadata_modified": "2021-06-02T09:07:28.816045",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "",
+        "name": "事例１　集合住宅",
         "format": "CSV",
         "url": "https://www.opendata.metro.tokyo.lg.jp/kankyo/R3/kankyo4845.csv",
+        "cache_last_updated": null,
+        "package_id": "5b0724f5-6f1d-454e-b768-8b3cef135df5",
         "created": "2021-03-29T01:35:00",
         "state": "active",
-        "package_id": "5b0724f5-6f1d-454e-b768-8b3cef135df5",
+        "mimetype_inner": null,
         "last_modified": "2021-03-29T01:35:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "d51eca17-bbf5-42bc-8757-ee13da6dc99f",
-        "size": 49,
+        "url_type": null,
         "id": "3fb8fdf4-b05c-4117-9aaa-6232ef68e7d6",
         "resource_type": null,
-        "name": "事例１　集合住宅"
+        "size": 49
       }
     ],
     "num_resources": 1,
     "tags": [],
     "groups": [],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t000009d2000000053",
-    "isopen": true,
-    "url": "https://www.kankyo.metro.tokyo.lg.jp/air/air_pollution/voc/guide/guide.files/kankyo4845.pdf",
-    "notes": "",
-    "title": "刊行物・資料等",
-    "extras": [
-      {
-        "value": "随時",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "http://www.kankyo.metro.tokyo.jp/\r\n\r\n所属:東京都",
-      "title": "東京都環境局",
       "created": "2019-11-01T03:27:20.710014",
-      "approval_status": "approved",
+      "title": "東京都環境局",
+      "name": "t000009",
       "is_organization": true,
       "state": "active",
       "image_url": "",
       "revision_id": "a0bf6c30-64dc-48fe-9782-e38ae248a38d",
       "type": "organization",
       "id": "c8b93db3-9754-48d3-8b50-5cbe78d679e7",
-      "name": "t000009"
+      "approval_status": "approved"
     },
+    "name": "t000009d2000000053",
+    "isopen": true,
+    "url": "https://www.kankyo.metro.tokyo.lg.jp/air/air_pollution/voc/guide/guide.files/kankyo4845.pdf",
+    "notes": "",
+    "owner_org": "c8b93db3-9754-48d3-8b50-5cbe78d679e7",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "刊行物・資料等",
     "revision_id": "3b4a31e4-eb29-4bcf-b377-40b7e95e611a"
   }
 }

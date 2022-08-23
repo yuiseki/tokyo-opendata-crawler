@@ -10,35 +10,34 @@
     "num_tags": 0,
     "id": "9d52f7a2-0a41-44f8-ab7b-27ae5df662f1",
     "metadata_created": "2020-06-26T06:21:00.480205",
-    "owner_org": "a80c46c5-d236-4d83-b4f9-656c25d0847d",
     "metadata_modified": "2020-06-26T06:22:18.997482",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "ZIPファイル内には一覧表となるテキストファイル1種を含みます。",
+        "name": "都内の交通渋滞統計（一般道路、首都高速道路）内の表（CSVファイル32種）",
         "format": "ZIP",
         "url": "https://www.keishicho.metro.tokyo.jp/about_mpd/jokyo_tokei/tokei_jokyo/ippan.files/29tokei.zip",
+        "cache_last_updated": null,
+        "package_id": "9d52f7a2-0a41-44f8-ab7b-27ae5df662f1",
         "created": "2018-02-18T15:00:00",
         "state": "active",
-        "package_id": "9d52f7a2-0a41-44f8-ab7b-27ae5df662f1",
+        "mimetype_inner": null,
         "last_modified": "2018-02-18T15:00:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "ffd1ade2-e127-417b-9cbc-e07021027a0d",
-        "size": 13312,
+        "url_type": null,
         "id": "620b244d-f005-4405-af1a-cb31bf639452",
         "resource_type": null,
-        "name": "都内の交通渋滞統計（一般道路、首都高速道路）内の表（CSVファイル32種）"
+        "size": 13312
       }
     ],
     "num_resources": 1,
@@ -47,47 +46,48 @@
       {
         "display_name": "交通情報",
         "description": "",
-        "title": "交通情報",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c013.png",
+        "title": "交通情報",
         "id": "38323541-753d-4230-b2dd-d9eb367ae5ed",
         "name": "c013"
       },
       {
         "display_name": "治安",
         "description": "",
-        "title": "治安",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c002.png",
+        "title": "治安",
         "id": "de8273ac-2339-4309-ad15-2800b751b45e",
         "name": "c002"
       }
     ],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t000022d1700000027",
-    "isopen": true,
-    "url": "https://www.keishicho.metro.tokyo.jp/about_mpd/jokyo_tokei/tokei_jokyo/ippan.html",
-    "notes": "【警視庁】都内の交通渋滞統計（一般道路、首都高速道路）内の表CSVファイル34種",
-    "title": "都内の交通渋滞統計（一般道路、首都高速道路）",
-    "extras": [
-      {
-        "value": "随時",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "http://www.keishicho.metro.tokyo.jp/\r\n\r\n所属:東京都",
-      "title": "警視庁",
       "created": "2019-11-01T03:27:22.754561",
-      "approval_status": "approved",
+      "title": "警視庁",
+      "name": "t000022",
       "is_organization": true,
       "state": "active",
       "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000022.jpg",
       "revision_id": "6ec2a37b-87b3-4747-ac28-2a6800716699",
       "type": "organization",
       "id": "a80c46c5-d236-4d83-b4f9-656c25d0847d",
-      "name": "t000022"
+      "approval_status": "approved"
     },
+    "name": "t000022d1700000027",
+    "isopen": true,
+    "url": "https://www.keishicho.metro.tokyo.jp/about_mpd/jokyo_tokei/tokei_jokyo/ippan.html",
+    "notes": "【警視庁】都内の交通渋滞統計（一般道路、首都高速道路）内の表CSVファイル34種",
+    "owner_org": "a80c46c5-d236-4d83-b4f9-656c25d0847d",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "都内の交通渋滞統計（一般道路、首都高速道路）",
     "revision_id": "f2f6cbd7-4ca8-40eb-bf31-892cb8d13a9f"
   }
 }

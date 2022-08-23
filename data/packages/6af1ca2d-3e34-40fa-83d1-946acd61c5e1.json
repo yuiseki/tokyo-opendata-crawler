@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "都市環境部環境課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "6af1ca2d-3e34-40fa-83d1-946acd61c5e1",
+    "metadata_created": "2022-03-08T04:12:06.816065",
+    "metadata_modified": "2022-03-09T05:51:22.226040",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "太陽光、太陽熱、雨水などを活用している施設一覧",
+        "name": "環境にやさしい自然エネルギーを活用している施設",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/shinagawa/shizen_ene_shisetu.csv",
+        "cache_last_updated": null,
+        "package_id": "6af1ca2d-3e34-40fa-83d1-946acd61c5e1",
+        "created": "2022-03-08T04:13:18.731731",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": null,
+        "position": 0,
+        "revision_id": "125f100e-f367-4e23-8bdd-a195cf458971",
+        "url_type": null,
+        "id": "c625fc27-5663-4b15-a597-4b55974f6af8",
+        "resource_type": null,
+        "size": 5
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "使用している電力がすべて再生可能エネルギー由来の施設一覧",
+        "name": "再生可能エネルギー100％の電気を使用している施設リスト",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/shinagawa/saisei100_shisetu.csv",
+        "cache_last_updated": null,
+        "package_id": "6af1ca2d-3e34-40fa-83d1-946acd61c5e1",
+        "created": "2022-03-08T04:13:19.113920",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": null,
+        "position": 1,
+        "revision_id": "7c6b3909-c48a-49ac-8e81-01f68ad56a1a",
+        "url_type": null,
+        "id": "d864d146-d9b0-4623-8078-0ef707eea223",
+        "resource_type": null,
+        "size": 1
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.shinagawa.tokyo.jp/",
+      "created": "2019-11-01T03:27:24.888527",
+      "title": "品川区",
+      "name": "t131091",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131091.png",
+      "revision_id": "a58c6889-2755-423e-bc8c-5146fb74ae73",
+      "type": "organization",
+      "id": "ee5ed3ad-76a9-4a49-aba7-3a63a457eb93",
+      "approval_status": "approved"
+    },
+    "name": "t131091d0000000076",
+    "isopen": true,
+    "url": "https://www.city.shinagawa.tokyo.jp/PC/kankyo/kankyo-kankyo/kankyo-kankyo-keikaku/kankyo-kankyo-gakusyu-map/index.html",
+    "notes": "環境にやさしいエネルギーを使用している施設",
+    "owner_org": "ee5ed3ad-76a9-4a49-aba7-3a63a457eb93",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "環境配慮施設",
+    "revision_id": "c37f9d0d-978d-4c93-9352-5ed6863dfdda"
+  }
+}

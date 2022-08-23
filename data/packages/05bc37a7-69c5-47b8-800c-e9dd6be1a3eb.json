@@ -10,35 +10,34 @@
     "num_tags": 0,
     "id": "05bc37a7-69c5-47b8-800c-e9dd6be1a3eb",
     "metadata_created": "2020-05-28T09:09:26.462919",
-    "owner_org": "1a6c3963-f987-4d8a-9a29-eafa99c7a0f1",
     "metadata_modified": "2020-05-28T09:09:54.471136",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "【東京都オリンピック・パラリンピック準備局】平成27年度指定管理者管理運営状況評価結果の一覧",
+        "name": "平成２７年度指定管理者管理運営状況評価 評価結果一覧",
         "format": "CSV",
         "url": "https://www.opendata.metro.tokyo.lg.jp/2020games/kanriuneijoukyouhyouka.csv",
+        "cache_last_updated": null,
+        "package_id": "05bc37a7-69c5-47b8-800c-e9dd6be1a3eb",
         "created": "2020-03-30T15:00:00",
         "state": "active",
-        "package_id": "05bc37a7-69c5-47b8-800c-e9dd6be1a3eb",
+        "mimetype_inner": null,
         "last_modified": "2020-03-30T15:00:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "31090e1a-43df-4644-b877-d3e8e9335f77",
-        "size": null,
+        "url_type": null,
         "id": "c40372a7-cb9c-4c9c-9951-9dca37c92b32",
         "resource_type": null,
-        "name": "平成２７年度指定管理者管理運営状況評価 評価結果一覧"
+        "size": null
       }
     ],
     "num_resources": 1,
@@ -47,39 +46,40 @@
       {
         "display_name": "オリンピック・パラリンピック",
         "description": "",
-        "title": "オリンピック・パラリンピック",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c009.png",
+        "title": "オリンピック・パラリンピック",
         "id": "4e11ae7b-55ad-44ce-8ec3-dc7205cc78f6",
         "name": "c009"
       }
     ],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t000007d1900000005",
-    "isopen": true,
-    "url": "https://www.sports-tokyo.info/policyinformation.html#programCouncil01",
-    "notes": "【東京都オリンピック・パラリンピック準備局】平成27年度指定管理者管理運営状況評価結果の一覧",
-    "title": "スポーツ推進計画・審議会_平成27年度指定管理者管理運営状況評価結果",
-    "extras": [
-      {
-        "value": "不定期",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "http://www.2020games.metro.tokyo.jp/\r\n\r\n所属:東京都",
-      "title": "東京都オリンピック・パラリンピック準備局",
       "created": "2019-11-01T03:27:20.403001",
-      "approval_status": "approved",
+      "title": "東京都オリンピック・パラリンピック準備局",
+      "name": "t000007",
       "is_organization": true,
       "state": "active",
       "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000007.jpg",
       "revision_id": "90a115f6-e18a-495c-a51b-39ca62c7108c",
       "type": "organization",
       "id": "1a6c3963-f987-4d8a-9a29-eafa99c7a0f1",
-      "name": "t000007"
+      "approval_status": "approved"
     },
+    "name": "t000007d1900000005",
+    "isopen": true,
+    "url": "https://www.sports-tokyo.info/policyinformation.html#programCouncil01",
+    "notes": "【東京都オリンピック・パラリンピック準備局】平成27年度指定管理者管理運営状況評価結果の一覧",
+    "owner_org": "1a6c3963-f987-4d8a-9a29-eafa99c7a0f1",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "スポーツ推進計画・審議会_平成27年度指定管理者管理運営状況評価結果",
     "revision_id": "96619f31-91d3-4d88-b987-68152f8ce4da"
   }
 }

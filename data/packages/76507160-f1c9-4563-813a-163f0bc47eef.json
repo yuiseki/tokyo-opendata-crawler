@@ -10,56 +10,55 @@
     "num_tags": 0,
     "id": "76507160-f1c9-4563-813a-163f0bc47eef",
     "metadata_created": "2021-10-12T02:04:23.684792",
-    "owner_org": "4a51054b-f927-4a44-902b-889a0a1fa75d",
     "metadata_modified": "2021-10-12T02:04:24.557243",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "高潮リスク検索サービス（https://hazard.tokyo.kts-map.com/pub/hazard/consent.html）に掲載している高潮浸水想定区域図［想定最大規模］（浸水深）のデータです。",
+        "name": "高潮浸水想定区域図［想定最大規模］（浸水深）",
         "format": "GeoJSON",
         "url": "https://www.opendata.metro.tokyo.lg.jp/kouwan/R3/130001_depth_submersion.geojson",
+        "cache_last_updated": null,
+        "package_id": "76507160-f1c9-4563-813a-163f0bc47eef",
         "created": "2021-10-06T15:00:00",
         "state": "active",
-        "package_id": "76507160-f1c9-4563-813a-163f0bc47eef",
+        "mimetype_inner": null,
         "last_modified": "2021-10-06T15:00:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "ef1734da-af15-4fb5-acb4-8a869ad1c3cc",
-        "size": null,
+        "url_type": null,
         "id": "43742676-c221-43db-af4f-435da9566db3",
         "resource_type": null,
-        "name": "高潮浸水想定区域図［想定最大規模］（浸水深）"
+        "size": null
       },
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "高潮リスク検索サービス（https://hazard.tokyo.kts-map.com/pub/hazard/consent.html）に掲載している高潮浸水想定区域図［想定最大規模］（浸水継続時間）のデータです。",
+        "name": "高潮浸水想定区域図［想定最大規模］（浸水継続時間）",
         "format": "GeoJSON",
         "url": "https://www.opendata.metro.tokyo.lg.jp/kouwan/R3/130001_duration_submersion.geojson",
+        "cache_last_updated": null,
+        "package_id": "76507160-f1c9-4563-813a-163f0bc47eef",
         "created": "2021-10-06T15:00:00",
         "state": "active",
-        "package_id": "76507160-f1c9-4563-813a-163f0bc47eef",
+        "mimetype_inner": null,
         "last_modified": "2021-10-06T15:00:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 1,
         "revision_id": "910fc79e-6c5b-4e2d-9139-74101827dd39",
-        "size": null,
+        "url_type": null,
         "id": "918b3acd-32e1-4a33-bd6b-ee81d891e27b",
         "resource_type": null,
-        "name": "高潮浸水想定区域図［想定最大規模］（浸水継続時間）"
+        "size": null
       }
     ],
     "num_resources": 2,
@@ -68,39 +67,40 @@
       {
         "display_name": "防災・災害計画",
         "description": "",
-        "title": "防災・災害計画",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c001.png",
+        "title": "防災・災害計画",
         "id": "8eb52f8e-0d10-44f4-8bb4-2a488d0f8465",
         "name": "c001"
       }
     ],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t000015d0000000037",
-    "isopen": true,
-    "url": "https://hazard.tokyo.kts-map.com/pub/hazard/consent.html",
-    "notes": "【東京都港湾局】高潮リスク検索サービス（https://hazard.tokyo.kts-map.com/pub/hazard/consent.html）に掲載している高潮浸水想定区域図のデータです。\n\n＜高潮浸水想定区域図のポイント＞\n\n・我が国既往最大規模の台風（室戸台風級：910hPa）を想定\n\n・東京湾に最大の高潮を想定させるような台風の経路を設定\n\n・高潮と同時に河川での洪水を考慮\n\n・最悪の事態を想定し、堤防等の決壊を見込む\n\n浸水等のシュミレーション条件の詳細につきましては\n\n「高潮浸水想定区域図について（説明資料）」等で御確認下さい\n\nhttps://www.kouwan.metro.tokyo.lg.jp/yakuwari/takashio/shinsuisoutei.html\n",
-    "title": "高潮浸水想定区域図",
-    "extras": [
-      {
-        "value": "不定期",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "http://www.kouwan.metro.tokyo.jp/\r\n\r\n所属:東京都",
-      "title": "東京都港湾局",
       "created": "2019-11-01T03:27:21.661622",
-      "approval_status": "approved",
+      "title": "東京都港湾局",
+      "name": "t000015",
       "is_organization": true,
       "state": "active",
       "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000015.jpg",
       "revision_id": "0ae0b754-9704-453d-a632-4097dcdb2ebf",
       "type": "organization",
       "id": "4a51054b-f927-4a44-902b-889a0a1fa75d",
-      "name": "t000015"
+      "approval_status": "approved"
     },
+    "name": "t000015d0000000037",
+    "isopen": true,
+    "url": "https://hazard.tokyo.kts-map.com/pub/hazard/consent.html",
+    "notes": "【東京都港湾局】高潮リスク検索サービス（https://hazard.tokyo.kts-map.com/pub/hazard/consent.html）に掲載している高潮浸水想定区域図のデータです。\n\n＜高潮浸水想定区域図のポイント＞\n\n・我が国既往最大規模の台風（室戸台風級：910hPa）を想定\n\n・東京湾に最大の高潮を想定させるような台風の経路を設定\n\n・高潮と同時に河川での洪水を考慮\n\n・最悪の事態を想定し、堤防等の決壊を見込む\n\n浸水等のシュミレーション条件の詳細につきましては\n\n「高潮浸水想定区域図について（説明資料）」等で御確認下さい\n\nhttps://www.kouwan.metro.tokyo.lg.jp/yakuwari/takashio/shinsuisoutei.html\n",
+    "owner_org": "4a51054b-f927-4a44-902b-889a0a1fa75d",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "高潮浸水想定区域図",
     "revision_id": "274bad7f-ad09-419a-aaad-fbef8fe78b6c"
   }
 }

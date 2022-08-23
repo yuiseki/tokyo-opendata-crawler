@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "子ども未来部保育課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "7ee8ac9e-b6db-41f9-aa5c-2db1f7c996fc",
+    "metadata_created": "2022-03-08T04:11:57.767976",
+    "metadata_modified": "2022-03-08T04:13:01.523241",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "H31小規模保育事業の入園状況・指数csvファイル",
+        "name": "H31小規模保育事業の入園状況・指数(csv形式)",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/shinagawa/h31syokibohoikujyoukyosisuu.csv",
+        "cache_last_updated": null,
+        "package_id": "7ee8ac9e-b6db-41f9-aa5c-2db1f7c996fc",
+        "created": "2020-01-15T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2020-01-15T15:00:00",
+        "position": 0,
+        "revision_id": "787b3535-5690-4155-9ee3-85f0b8d0746a",
+        "url_type": null,
+        "id": "69d51aff-59ba-4702-b33f-0a10cb19fb81",
+        "resource_type": null,
+        "size": 6
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "H31小規模保育事業の入園状況・指数rdfファイル",
+        "name": "H31小規模保育事業の入園状況・指数(rdf形式)",
+        "format": "RDF",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/shinagawa/h31syokibohoikujyoukyosisuu.rdf",
+        "cache_last_updated": null,
+        "package_id": "7ee8ac9e-b6db-41f9-aa5c-2db1f7c996fc",
+        "created": "2020-01-15T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2020-01-15T15:00:00",
+        "position": 1,
+        "revision_id": "3e6e3ccb-53bd-415a-adc9-bedd19e07a49",
+        "url_type": null,
+        "id": "93db0482-4453-4fb8-8467-bb6d06d74745",
+        "resource_type": null,
+        "size": 47
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.shinagawa.tokyo.jp/",
+      "created": "2019-11-01T03:27:24.888527",
+      "title": "品川区",
+      "name": "t131091",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131091.png",
+      "revision_id": "a58c6889-2755-423e-bc8c-5146fb74ae73",
+      "type": "organization",
+      "id": "ee5ed3ad-76a9-4a49-aba7-3a63a457eb93",
+      "approval_status": "approved"
+    },
+    "name": "t131091d0000000045",
+    "isopen": true,
+    "url": "",
+    "notes": "小規模保育事業の入園状況・指数情報",
+    "owner_org": "ee5ed3ad-76a9-4a49-aba7-3a63a457eb93",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "小規模保育事業の入園状況・指数",
+    "revision_id": "5558043d-5427-4d4f-aa28-fc6e19a01a61"
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "子ども未来部保育課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "8c5f3ab8-cdf8-4931-b555-cdc8b89d8cdd",
+    "metadata_created": "2022-03-08T04:11:58.044928",
+    "metadata_modified": "2022-03-08T04:13:02.333918",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "H31認可保育園の入園状況・指数csvファイル",
+        "name": "H31認可保育園の入園状況・指数(csv形式)",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/shinagawa/h31ninkanyuenjyoukyosisuu.csv",
+        "cache_last_updated": null,
+        "package_id": "8c5f3ab8-cdf8-4931-b555-cdc8b89d8cdd",
+        "created": "2020-01-15T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2020-01-15T15:00:00",
+        "position": 0,
+        "revision_id": "b6d6d20e-de01-450e-a63b-7201fcdc5adf",
+        "url_type": null,
+        "id": "19047949-9dff-4832-8962-7d788f03ad9e",
+        "resource_type": null,
+        "size": 60
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "H31認可保育園の入園状況・指数rdfファイル",
+        "name": "H31認可保育園の入園状況・指数(rdf形式)",
+        "format": "RDF",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/shinagawa/h31ninkanyuenjyoukyosisuu.rdf",
+        "cache_last_updated": null,
+        "package_id": "8c5f3ab8-cdf8-4931-b555-cdc8b89d8cdd",
+        "created": "2020-01-15T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2020-01-15T15:00:00",
+        "position": 1,
+        "revision_id": "0e21b283-e736-4dbf-bdbe-ae8b631223e1",
+        "url_type": null,
+        "id": "a3c92ae4-48bb-45e6-b5a7-94434e057180",
+        "resource_type": null,
+        "size": 518
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.shinagawa.tokyo.jp/",
+      "created": "2019-11-01T03:27:24.888527",
+      "title": "品川区",
+      "name": "t131091",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131091.png",
+      "revision_id": "a58c6889-2755-423e-bc8c-5146fb74ae73",
+      "type": "organization",
+      "id": "ee5ed3ad-76a9-4a49-aba7-3a63a457eb93",
+      "approval_status": "approved"
+    },
+    "name": "t131091d0000000046",
+    "isopen": true,
+    "url": "",
+    "notes": "認可保育園の入園状況・指数情報",
+    "owner_org": "ee5ed3ad-76a9-4a49-aba7-3a63a457eb93",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "認可保育園の入園状況・指数",
+    "revision_id": "fa249d5f-9f86-470a-92ee-d779b0b7f09d"
+  }
+}

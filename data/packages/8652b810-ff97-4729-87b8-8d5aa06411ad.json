@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "統計部人口統計課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "8652b810-ff97-4729-87b8-8d5aa06411ad",
+    "metadata_created": "2022-08-09T05:51:26.516841",
+    "owner_org": "5987f8a3-dfbe-4f96-b3cc-e1f3ea0a2717",
+    "metadata_modified": "2022-08-09T05:51:29.310680",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "license_id": "CC-BY-4.0",
+    "type": "dataset",
+    "resources": [
+      {
+        "cache_last_updated": null,
+        "cache_url": null,
+        "mimetype_inner": null,
+        "hash": "",
+        "description": "注１)住民票に記載される国籍・地域の名称は在留管理制度に基づく在留カード等の「国籍・地域」欄の表記によっている。このため、本統計の国籍・地域の名称は、平成29年1月から在留管理制度に基づく法務省「在留外国人統計」の国籍・地域の名称に合わせており、平成28年10月までの本統計の「中国」には台湾を含んでいる。\n\n注２）上位10か国・地域とは、令和４年１月１日現在で外国人人口の多い順の国・地域である。\n\n注３）人口規模を考慮し、島部町村については、支庁単位の集計とした。各支庁管内の町村は次のとおり。大島支庁：大島町、利島村、新島村、神津島村。　八丈支庁 ：八丈町、青ヶ島村。三宅支庁 ：三宅村、御蔵島村。小笠原支庁：小笠原村。\n",
+        "format": "CSV",
+        "url": "https://www.toukei.metro.tokyo.lg.jp/gaikoku/2022/ga22gv0100.csv",
+        "created": "2022-08-09T05:51:28.535508",
+        "state": "active",
+        "package_id": "8652b810-ff97-4729-87b8-8d5aa06411ad",
+        "last_modified": null,
+        "mimetype": null,
+        "url_type": null,
+        "position": 0,
+        "revision_id": "c77b35f2-37f6-47c2-a638-9e9149be9ed3",
+        "size": 6144,
+        "id": "cac701f4-f81c-49c3-90d1-7852be308585",
+        "resource_type": null,
+        "name": "第１表　区市町村別国籍・地域別外国人人口 (上位10か国・地域) （令和４年７月１日現在）"
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "relationships_as_subject": [],
+    "name": "t000003d0000000415",
+    "isopen": true,
+    "url": "https://www.toukei.metro.tokyo.lg.jp/gaikoku/ga-index.htm",
+    "notes": "【東京都総務局】",
+    "title": "外国人人口　令和4年7月",
+    "extras": [
+      {
+        "value": "3か月ごと",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "organization": {
+      "description": "http://www.soumu.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "title": "東京都総務局",
+      "created": "2019-11-01T03:27:19.763566",
+      "approval_status": "approved",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000003.png",
+      "revision_id": "c4e16dd4-cb3f-42dc-8be2-2eed0f9e0175",
+      "type": "organization",
+      "id": "5987f8a3-dfbe-4f96-b3cc-e1f3ea0a2717",
+      "name": "t000003"
+    },
+    "revision_id": "788e3e90-5667-4753-a7ee-88b0d1c6ffb4"
+  }
+}

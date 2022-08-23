@@ -10,7 +10,7 @@
     "num_tags": 0,
     "id": "a56eb840-97ef-426d-adb7-389d4393de82",
     "metadata_created": "2019-11-01T04:57:34.434416",
-    "metadata_modified": "2020-04-21T08:17:35.305156",
+    "metadata_modified": "2022-04-26T01:22:22.693618",
     "author": null,
     "author_email": null,
     "state": "active",
@@ -33,11 +33,11 @@
         "mimetype_inner": null,
         "last_modified": "2017-03-07T15:00:00",
         "position": 0,
-        "revision_id": "226b5864-13bf-410c-8b3e-a01f6108b3f3",
+        "revision_id": "70465c57-1e05-43c2-9bba-3ac699a6df98",
         "url_type": null,
         "id": "87ae691e-e3ea-4dc0-86d1-14ace8faaae5",
         "resource_type": null,
-        "size": 2097152
+        "size": 2072576
       },
       {
         "mimetype": null,
@@ -54,11 +54,11 @@
         "mimetype_inner": null,
         "last_modified": "2017-03-07T15:00:00",
         "position": 1,
-        "revision_id": "d19534e3-3578-47b2-a846-f61a1ef0a73f",
+        "revision_id": "b91916c7-1ab0-4da0-95e8-bb06c4a7f37c",
         "url_type": null,
         "id": "c910305b-c6b7-40be-b2c5-0e771097d00e",
         "resource_type": null,
-        "size": 2097152
+        "size": 2067456
       },
       {
         "mimetype": null,
@@ -180,14 +180,56 @@
         "mimetype_inner": null,
         "last_modified": "2020-04-07T15:00:00",
         "position": 7,
-        "revision_id": "9c5bc9e6-fc33-43fd-a1a1-fe11ce8d2db5",
+        "revision_id": "9b973a1e-b9f8-41a5-ae63-1f894a30341d",
         "url_type": null,
         "id": "a796e4ba-b0cb-4796-abb7-eafb28626f77",
         "resource_type": null,
-        "size": 544768
+        "size": 728064
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "令和元年度　財政状況資料集",
+        "format": "XLSX",
+        "url": "https://www.city.nerima.tokyo.jp/kusei/tokei/opendata/opendatasite/tokei_kusei/hikaku.files/R1_hikaku.xlsx",
+        "cache_last_updated": null,
+        "package_id": "a56eb840-97ef-426d-adb7-389d4393de82",
+        "created": "2021-03-30T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-03-30T15:00:00",
+        "position": 8,
+        "revision_id": "63a0169e-44df-4ee3-b793-03f5d39970d0",
+        "url_type": null,
+        "id": "ae7446e9-7324-4ca8-ba28-d02207f801f3",
+        "resource_type": null,
+        "size": 552960
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "令和2年度　財政状況資料集",
+        "format": "XLSX",
+        "url": "https://www.city.nerima.tokyo.jp/kusei/tokei/opendata/opendatasite/tokei_kusei/hikaku.files/R2_hikaku.xlsx",
+        "cache_last_updated": null,
+        "package_id": "a56eb840-97ef-426d-adb7-389d4393de82",
+        "created": "2022-04-21T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2022-04-21T15:00:00",
+        "position": 9,
+        "revision_id": "4ced611e-5212-48c6-81f9-ad10b4b29789",
+        "url_type": null,
+        "id": "213e6633-dbd6-48ee-b65a-8432adb85a3e",
+        "resource_type": null,
+        "size": 546816
       }
     ],
-    "num_resources": 8,
+    "num_resources": 10,
     "tags": [],
     "groups": [
       {

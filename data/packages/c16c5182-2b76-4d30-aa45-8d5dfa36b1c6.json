@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "政策経営部情報管理課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "c16c5182-2b76-4d30-aa45-8d5dfa36b1c6",
+    "metadata_created": "2022-04-12T23:23:16.352976",
+    "metadata_modified": "2022-04-12T23:23:19.933248",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "AED設置箇所一覧",
+        "format": "CSV",
+        "url": "https://www.city.toshima.lg.jp/020/kuse/electronic/open-data/documents/r3_aed.csv",
+        "cache_last_updated": null,
+        "package_id": "c16c5182-2b76-4d30-aa45-8d5dfa36b1c6",
+        "created": "2022-02-23T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2022-02-23T15:00:00",
+        "position": 0,
+        "revision_id": "ccd02b9f-bc4a-4ecd-9232-dba3faaa6b65",
+        "url_type": null,
+        "id": "2da7f8f8-8c97-47e8-8eee-3e02fe1e1c77",
+        "resource_type": null,
+        "size": 56320
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "防災・災害計画",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c001.png",
+        "title": "防災・災害計画",
+        "id": "8eb52f8e-0d10-44f4-8bb4-2a488d0f8465",
+        "name": "c001"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.toshima.lg.jp/",
+      "created": "2022-04-12T23:02:34.470693",
+      "title": "豊島区",
+      "name": "t131164",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131164.png",
+      "revision_id": "14fda01f-e105-4e1a-ac84-e5e4fc760deb",
+      "type": "organization",
+      "id": "d5b667a3-96db-44d7-a5d8-f03a94f5c51b",
+      "approval_status": "approved"
+    },
+    "name": "t131164d0000000001",
+    "isopen": true,
+    "url": "https://www.city.toshima.lg.jp/index.html",
+    "notes": "豊島区が公開しているデータ（オープンデータ）をご覧いただけます。",
+    "owner_org": "d5b667a3-96db-44d7-a5d8-f03a94f5c51b",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "年1回"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "AED設置箇所一覧",
+    "revision_id": "36e30fc7-4557-455e-863d-03ba9de2a978"
+  }
+}

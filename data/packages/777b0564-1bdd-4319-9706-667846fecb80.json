@@ -10,56 +10,55 @@
     "num_tags": 0,
     "id": "777b0564-1bdd-4319-9706-667846fecb80",
     "metadata_created": "2021-08-26T01:25:06.537475",
-    "owner_org": "f9f056fc-d7ea-4208-a7a0-ea94c8d379c7",
     "metadata_modified": "2021-08-26T01:25:07.707753",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "",
+        "name": "公衆無線LANアクセスポイント一覧",
         "format": "CSV",
         "url": "https://www.opendata.metro.tokyo.lg.jp/akishima/132071_public_wireless_lan.csv",
+        "cache_last_updated": null,
+        "package_id": "777b0564-1bdd-4319-9706-667846fecb80",
         "created": "2021-08-17T00:55:00",
         "state": "active",
-        "package_id": "777b0564-1bdd-4319-9706-667846fecb80",
+        "mimetype_inner": null,
         "last_modified": "2021-08-17T00:55:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "ad48bd37-b62b-495c-9fa0-6790445d7e0c",
-        "size": null,
+        "url_type": null,
         "id": "7762f345-e3af-4f7c-93ae-450b40d58d51",
         "resource_type": null,
-        "name": "公衆無線LANアクセスポイント一覧"
+        "size": null
       },
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "",
+        "name": "公衆無線LANアクセスポイント一覧",
         "format": "XLSX",
         "url": "https://www.opendata.metro.tokyo.lg.jp/akishima/132071_public_wireless_lan.xlsx",
+        "cache_last_updated": null,
+        "package_id": "777b0564-1bdd-4319-9706-667846fecb80",
         "created": "2021-08-17T00:51:00",
         "state": "active",
-        "package_id": "777b0564-1bdd-4319-9706-667846fecb80",
+        "mimetype_inner": null,
         "last_modified": "2021-08-17T00:51:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 1,
         "revision_id": "4f391487-6c19-47d5-bd10-04899e9ae36d",
-        "size": null,
+        "url_type": null,
         "id": "b42624c3-c937-4cfa-997f-523cadb61938",
         "resource_type": null,
-        "name": "公衆無線LANアクセスポイント一覧"
+        "size": null
       }
     ],
     "num_resources": 2,
@@ -68,39 +67,40 @@
       {
         "display_name": "観光",
         "description": "",
-        "title": "観光",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c008.png",
+        "title": "観光",
         "id": "420fd8d6-2bde-4746-9354-6344ec19ba93",
         "name": "c008"
       }
     ],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t132071d0000000001",
-    "isopen": true,
-    "url": "",
-    "notes": "【昭島市】昭島市が設置する公衆無線LANアクセスポイントの一覧です。",
-    "title": "公衆無線LANアクセスポイント一覧",
-    "extras": [
-      {
-        "value": "年１回",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "",
-      "title": "昭島市",
       "created": "2021-08-24T01:28:36.135062",
-      "approval_status": "approved",
+      "title": "昭島市",
+      "name": "t132071",
       "is_organization": true,
       "state": "active",
       "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t132071.png",
       "revision_id": "1a9c019b-311b-4207-94ad-4ae370515f83",
       "type": "organization",
       "id": "f9f056fc-d7ea-4208-a7a0-ea94c8d379c7",
-      "name": "t132071"
+      "approval_status": "approved"
     },
+    "name": "t132071d0000000001",
+    "isopen": true,
+    "url": "",
+    "notes": "【昭島市】昭島市が設置する公衆無線LANアクセスポイントの一覧です。",
+    "owner_org": "f9f056fc-d7ea-4208-a7a0-ea94c8d379c7",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "年１回"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "公衆無線LANアクセスポイント一覧",
     "revision_id": "0d27f57e-1db6-4125-9742-62299530d236"
   }
 }

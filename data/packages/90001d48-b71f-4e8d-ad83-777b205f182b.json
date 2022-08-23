@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "防災まちづくり部公園課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "90001d48-b71f-4e8d-ad83-777b205f182b",
+    "metadata_created": "2022-03-08T04:34:43.731872",
+    "metadata_modified": "2022-03-08T04:35:46.644958",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "樹林分布情報zipデータ",
+        "name": "樹林分布情報(zip形式)",
+        "format": "ZIP",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/shinagawa/jurinbunpu.zip",
+        "cache_last_updated": null,
+        "package_id": "90001d48-b71f-4e8d-ad83-777b205f182b",
+        "created": "2017-07-30T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-07-30T15:00:00",
+        "position": 0,
+        "revision_id": "be0f6018-0a42-4acf-8097-7e957a877329",
+        "url_type": null,
+        "id": "15e79b29-697b-4aae-9814-bcc54689f5ed",
+        "resource_type": null,
+        "size": 1189
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "環境",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c012.png",
+        "title": "環境",
+        "id": "427f3ee0-b28a-4fd2-b7dc-980507f154d2",
+        "name": "c012"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.shinagawa.tokyo.jp/",
+      "created": "2019-11-01T03:27:24.888527",
+      "title": "品川区",
+      "name": "t131091",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131091.png",
+      "revision_id": "a58c6889-2755-423e-bc8c-5146fb74ae73",
+      "type": "organization",
+      "id": "ee5ed3ad-76a9-4a49-aba7-3a63a457eb93",
+      "approval_status": "approved"
+    },
+    "name": "t131091d0000000114",
+    "isopen": true,
+    "url": "",
+    "notes": "樹林分布情報",
+    "owner_org": "ee5ed3ad-76a9-4a49-aba7-3a63a457eb93",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "樹林分布",
+    "revision_id": "32fbd1d7-29c8-4dad-a3e1-4029acc6a44e"
+  }
+}

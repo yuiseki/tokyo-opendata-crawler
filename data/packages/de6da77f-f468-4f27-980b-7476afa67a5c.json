@@ -10,56 +10,55 @@
     "num_tags": 0,
     "id": "de6da77f-f468-4f27-980b-7476afa67a5c",
     "metadata_created": "2020-03-17T01:43:14.407259",
-    "owner_org": "beddb482-adb4-4e03-9c25-f229c2a0b028",
     "metadata_modified": "2021-08-19T00:04:30.234016",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "",
+        "name": "区営二輪車駐車場一覧",
         "format": "XLSX",
         "url": "https://www.city.chuo.lg.jp/kusei/statisticaldata/opendata.files/kuei_nirinsha.xlsx",
+        "cache_last_updated": null,
+        "package_id": "de6da77f-f468-4f27-980b-7476afa67a5c",
         "created": "2017-11-23T15:00:00",
         "state": "active",
-        "package_id": "de6da77f-f468-4f27-980b-7476afa67a5c",
+        "mimetype_inner": null,
         "last_modified": "2019-07-18T15:00:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "6121f67c-7097-4d34-8051-5fbee77408b7",
-        "size": 11264,
+        "url_type": null,
         "id": "c5db2b5a-225b-4c5f-9e69-9779385b98e6",
         "resource_type": null,
-        "name": "区営二輪車駐車場一覧"
+        "size": 11264
       },
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "",
+        "name": "区営二輪車駐車場一覧",
         "format": "CSV",
         "url": "https://www.city.chuo.lg.jp/kusei/statisticaldata/opendata.files/kuei_nirinsha.csv",
+        "cache_last_updated": null,
+        "package_id": "de6da77f-f468-4f27-980b-7476afa67a5c",
         "created": "2017-11-23T15:00:00",
         "state": "active",
-        "package_id": "de6da77f-f468-4f27-980b-7476afa67a5c",
+        "mimetype_inner": null,
         "last_modified": "2019-07-18T15:00:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 1,
         "revision_id": "675aa39f-d4a8-4f0d-863e-082c58564eea",
-        "size": 1024,
+        "url_type": null,
         "id": "9acec5df-15d4-4259-aa5a-2cd714e8377b",
         "resource_type": null,
-        "name": "区営二輪車駐車場一覧"
+        "size": 1024
       }
     ],
     "num_resources": 2,
@@ -68,39 +67,40 @@
       {
         "display_name": "まちづくり",
         "description": "",
-        "title": "まちづくり",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c003.png",
+        "title": "まちづくり",
         "id": "dc897c44-8153-4219-bfeb-6110fb85fb99",
         "name": "c003"
       }
     ],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t131024d0000000015",
-    "isopen": true,
-    "url": "http://www.city.chuo.lg.jp/sisetugaido/tyusyazyo/kurisuobike.html",
-    "notes": "区営オートバイ駐車場の名称や所在地、緯度、経度、利用時間、駐車料金などを掲載しています。",
-    "title": "区営二輪車駐車場一覧",
-    "extras": [
-      {
-        "value": "随時",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "https://www.city.chuo.lg.jp/",
-      "title": "中央区",
       "created": "2020-03-16T08:15:28.901611",
-      "approval_status": "approved",
+      "title": "中央区",
+      "name": "t131024",
       "is_organization": true,
       "state": "active",
       "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131024.png",
       "revision_id": "fd4c096b-7319-43d7-a1a4-d2411b6beaee",
       "type": "organization",
       "id": "beddb482-adb4-4e03-9c25-f229c2a0b028",
-      "name": "t131024"
+      "approval_status": "approved"
     },
+    "name": "t131024d0000000015",
+    "isopen": true,
+    "url": "http://www.city.chuo.lg.jp/sisetugaido/tyusyazyo/kurisuobike.html",
+    "notes": "区営オートバイ駐車場の名称や所在地、緯度、経度、利用時間、駐車料金などを掲載しています。",
+    "owner_org": "beddb482-adb4-4e03-9c25-f229c2a0b028",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "区営二輪車駐車場一覧",
     "revision_id": "c4a6e9b4-ca3d-450b-886c-840336b78efb"
   }
 }

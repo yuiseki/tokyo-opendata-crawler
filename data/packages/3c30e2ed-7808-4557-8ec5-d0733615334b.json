@@ -1,0 +1,114 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "防災まちづくり部防災課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "3c30e2ed-7808-4557-8ec5-d0733615334b",
+    "metadata_created": "2022-03-08T04:34:50.634461",
+    "metadata_modified": "2022-03-08T04:35:37.312481",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "避難所・広域避難場所csvデータ",
+        "name": "避難所・広域避難場所(csv形式)",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/shinagawa/hinanjo.csv",
+        "cache_last_updated": null,
+        "package_id": "3c30e2ed-7808-4557-8ec5-d0733615334b",
+        "created": "2018-12-13T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-12-13T15:00:00",
+        "position": 0,
+        "revision_id": "fcbb85e6-1c99-4965-a4fd-79ec94200ab7",
+        "url_type": null,
+        "id": "fd6fbe5c-02e5-4cd4-abc5-a8a6234a8816",
+        "resource_type": null,
+        "size": 36
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "避難所・広域避難場所rdfデータ",
+        "name": "避難所・広域避難場所(rdf形式)",
+        "format": "RDF",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/shinagawa/hinanjo.rdf",
+        "cache_last_updated": null,
+        "package_id": "3c30e2ed-7808-4557-8ec5-d0733615334b",
+        "created": "2018-12-13T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-12-13T15:00:00",
+        "position": 1,
+        "revision_id": "8a83107b-67ab-42ae-af0e-285b1196af92",
+        "url_type": null,
+        "id": "6c320203-10f3-4b57-8494-3910b857a76c",
+        "resource_type": null,
+        "size": 328
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "環境",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c012.png",
+        "title": "環境",
+        "id": "427f3ee0-b28a-4fd2-b7dc-980507f154d2",
+        "name": "c012"
+      },
+      {
+        "display_name": "防災・災害計画",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c001.png",
+        "title": "防災・災害計画",
+        "id": "8eb52f8e-0d10-44f4-8bb4-2a488d0f8465",
+        "name": "c001"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.shinagawa.tokyo.jp/",
+      "created": "2019-11-01T03:27:24.888527",
+      "title": "品川区",
+      "name": "t131091",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131091.png",
+      "revision_id": "a58c6889-2755-423e-bc8c-5146fb74ae73",
+      "type": "organization",
+      "id": "ee5ed3ad-76a9-4a49-aba7-3a63a457eb93",
+      "approval_status": "approved"
+    },
+    "name": "t131091d0000000138",
+    "isopen": true,
+    "url": "",
+    "notes": "災害時等の避難所・広域避難場所の情報",
+    "owner_org": "ee5ed3ad-76a9-4a49-aba7-3a63a457eb93",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "災害時等の避難所・広域避難場所",
+    "revision_id": "e50e7a1d-e115-4209-bed2-834234ac0a80"
+  }
+}

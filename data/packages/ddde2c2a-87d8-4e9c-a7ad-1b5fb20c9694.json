@@ -10,56 +10,55 @@
     "num_tags": 0,
     "id": "ddde2c2a-87d8-4e9c-a7ad-1b5fb20c9694",
     "metadata_created": "2021-06-16T02:24:37.830686",
-    "owner_org": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
     "metadata_modified": "2021-06-16T02:25:13.335803",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "【清瀬市】駐輪場の一覧です。",
+        "name": "駐輪場",
         "format": "CSV",
         "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/001/604/132217_bicyecle_parking.csv",
+        "cache_last_updated": null,
+        "package_id": "ddde2c2a-87d8-4e9c-a7ad-1b5fb20c9694",
         "created": "2021-03-05T00:43:00",
         "state": "active",
-        "package_id": "ddde2c2a-87d8-4e9c-a7ad-1b5fb20c9694",
+        "mimetype_inner": null,
         "last_modified": "2021-03-05T00:43:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "3de0727a-f28f-41e2-ad1c-e120bd51ac0a",
-        "size": null,
+        "url_type": null,
         "id": "e9399f2a-0b36-4d9e-a54e-6edb79f10259",
         "resource_type": null,
-        "name": "駐輪場"
+        "size": null
       },
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "【清瀬市】駐輪場の一覧です。",
+        "name": "駐輪場",
         "format": "XLSX",
         "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/001/604/132217_bicyecle_parking.xlsx",
+        "cache_last_updated": null,
+        "package_id": "ddde2c2a-87d8-4e9c-a7ad-1b5fb20c9694",
         "created": "2021-03-05T00:43:00",
         "state": "active",
-        "package_id": "ddde2c2a-87d8-4e9c-a7ad-1b5fb20c9694",
+        "mimetype_inner": null,
         "last_modified": "2021-03-05T00:43:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 1,
         "revision_id": "037946d1-7f76-4100-97e8-ea2b3fdeb857",
-        "size": null,
+        "url_type": null,
         "id": "d6a36799-a9bc-48e3-80d2-c8a8cd51a341",
         "resource_type": null,
-        "name": "駐輪場"
+        "size": null
       }
     ],
     "num_resources": 2,
@@ -68,39 +67,40 @@
       {
         "display_name": "交通情報",
         "description": "",
-        "title": "交通情報",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c013.png",
+        "title": "交通情報",
         "id": "38323541-753d-4230-b2dd-d9eb367ae5ed",
         "name": "c013"
       }
     ],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t132217d0000000034",
-    "isopen": true,
-    "url": "https://www.city.kiyose.lg.jp/opendata/opendataichiran/1001604.html",
-    "notes": "【清瀬市】駐輪場の一覧です。",
-    "title": "駐輪場",
-    "extras": [
-      {
-        "value": "変更の都度",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "https://www.city.kiyose.lg.jp/index.html",
-      "title": "清瀬市",
       "created": "2020-08-05T08:00:00.206131",
-      "approval_status": "approved",
+      "title": "清瀬市",
+      "name": "t132217",
       "is_organization": true,
       "state": "active",
       "image_url": "",
       "revision_id": "f8ef546d-d3f4-46e8-9741-39a6eec61618",
       "type": "organization",
       "id": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
-      "name": "t132217"
+      "approval_status": "approved"
     },
+    "name": "t132217d0000000034",
+    "isopen": true,
+    "url": "https://www.city.kiyose.lg.jp/opendata/opendataichiran/1001604.html",
+    "notes": "【清瀬市】駐輪場の一覧です。",
+    "owner_org": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "変更の都度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "駐輪場",
     "revision_id": "ae531ddf-4efa-487c-901f-038b0c00221d"
   }
 }

@@ -3,14 +3,14 @@
   "success": true,
   "result": {
     "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
-    "maintainer": "政策企画局政策調整部政策調整課 ",
+    "maintainer": "政策企画局戦略広報部広報広聴課",
     "relationships_as_object": [],
     "private": false,
     "maintainer_email": "",
     "num_tags": 0,
     "id": "825dc26e-7ee0-4531-b766-6147a31760e1",
     "metadata_created": "2020-05-11T07:34:34.676881",
-    "metadata_modified": "2021-12-17T01:07:13.614776",
+    "metadata_modified": "2022-08-22T00:36:02.077871",
     "author": "",
     "author_email": "",
     "state": "active",
@@ -25,19 +25,19 @@
         "description": "「東京都 新型コロナウイルス感染症 支援情報ナビ」(https://covid19.supportnavi.metro.tokyo.lg.jp/)で掲載している東京都の支援情報データです。\n\n※掲載時点の情報であり、「東京都 新型コロナウイルス感染症 支援情報ナビ」で公開中の最新情報と一部内容が異なる場合があります。\n\n※データのご利用にあたっては、「【東京都 新型コロナウイルス感染症 支援情報ナビ】データ項目説明資料」を参照してください。\n\n※2020年7月9日にデータ構造を変更しました。\n",
         "name": "東京都 新型コロナウイルス感染症　支援情報",
         "format": "CSV",
-        "url": "https://www.opendata.metro.tokyo.lg.jp/seisakukikaku/tokyo_covid19_supportnavi_202112161334.csv",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/seisakukikaku/tokyo_covid19_supportnavi_202208181335.csv",
         "cache_last_updated": null,
         "package_id": "825dc26e-7ee0-4531-b766-6147a31760e1",
-        "created": "2021-12-16T04:34:00",
+        "created": "2022-08-18T04:35:00",
         "state": "active",
         "mimetype_inner": null,
-        "last_modified": "2021-12-16T04:34:00",
+        "last_modified": "2022-08-18T04:35:00",
         "position": 0,
-        "revision_id": "0697abca-dff5-48b4-9514-3d6213a61e28",
+        "revision_id": "63ba479f-3ab5-4876-8b62-d761014823ed",
         "url_type": null,
-        "id": "5d937e66-eef6-4625-9879-eb6dcb9e860a",
+        "id": "192729e2-8aa8-439c-8ab0-50f0f85c7cc0",
         "resource_type": null,
-        "size": 237568
+        "size": 204800
       },
       {
         "mimetype": null,
@@ -54,7 +54,7 @@
         "mimetype_inner": null,
         "last_modified": "2020-07-09T04:00:00",
         "position": 1,
-        "revision_id": "0697abca-dff5-48b4-9514-3d6213a61e28",
+        "revision_id": "63ba479f-3ab5-4876-8b62-d761014823ed",
         "url_type": null,
         "id": "c06f8cc2-1ac5-4f05-a8fd-abb63bd466a1",
         "resource_type": null,
@@ -173,6 +173,6 @@
     ],
     "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "title": "東京都　新型コロナウイルス感染症　支援情報",
-    "revision_id": "265f4c7d-02ed-48b9-becd-a7942eb1e17f"
+    "revision_id": "df8ecfb1-bd01-4e70-819c-8cfc946fdbdd"
   }
 }

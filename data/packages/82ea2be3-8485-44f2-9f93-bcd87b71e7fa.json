@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "子ども未来部保育課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "82ea2be3-8485-44f2-9f93-bcd87b71e7fa",
+    "metadata_created": "2022-03-08T04:12:00.865310",
+    "metadata_modified": "2022-03-09T05:38:40.807587",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "令和3年度検査結果（5月10日～5月14日分）",
+        "name": "令和3年度検査結果（5月10日～5月14日分）",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/shinagawa/radioactive_hoiku_r3_5.csv",
+        "cache_last_updated": null,
+        "package_id": "82ea2be3-8485-44f2-9f93-bcd87b71e7fa",
+        "created": "2022-03-08T04:13:08.713653",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": null,
+        "position": 0,
+        "revision_id": "dc7501fb-8254-4ea3-b872-dd64d3f12314",
+        "url_type": null,
+        "id": "13dff4bc-eee6-4c09-8310-3123dc7890ce",
+        "resource_type": null,
+        "size": 1
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "令和3年度検査結果（7月5日～7月9日分）",
+        "name": "令和3年度検査結果（7月5日～7月9日分）",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/shinagawa/radioactive_hoiku_r3_7.csv",
+        "cache_last_updated": null,
+        "package_id": "82ea2be3-8485-44f2-9f93-bcd87b71e7fa",
+        "created": "2022-03-08T04:13:09.064028",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": null,
+        "position": 1,
+        "revision_id": "e06cce51-af14-4f92-a8a2-60bb7328ad71",
+        "url_type": null,
+        "id": "8866c462-efcf-41bc-b7be-d24c40a22b8e",
+        "resource_type": null,
+        "size": 1
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.shinagawa.tokyo.jp/",
+      "created": "2019-11-01T03:27:24.888527",
+      "title": "品川区",
+      "name": "t131091",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131091.png",
+      "revision_id": "a58c6889-2755-423e-bc8c-5146fb74ae73",
+      "type": "organization",
+      "id": "ee5ed3ad-76a9-4a49-aba7-3a63a457eb93",
+      "approval_status": "approved"
+    },
+    "name": "t131091d0000000056",
+    "isopen": true,
+    "url": "https://www.city.shinagawa.tokyo.jp/PC/kodomo/kodomo-hoyou/kodomo-hoyou-kyusyoku/reiwa3nenndokenskekka/20210520082714.html",
+    "notes": "令和3年度検査結果（5月10日～5月14日分）",
+    "owner_org": "ee5ed3ad-76a9-4a49-aba7-3a63a457eb93",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "令和3年度検査結果（5月10日～5月14日分）",
+    "revision_id": "08a7a733-9595-4cc9-b3a2-afa9ce39cd6f"
+  }
+}

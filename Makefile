@@ -8,9 +8,15 @@ all: \
 	$(DATADIR)/resource_url_list.csv \
 	$(DATADIR)/packages.txt \
 	$(DATADIR)/domains.txt \
+	data/packages/finished.txt
+
+clean:
+	rm data/packages/started.txt
+	rm data/packages/finished.txt
+
+more: \
 	$(DATADIR)/url_status_list.csv \
 	data/opendata_status.csv \
-	data/packages/finished.txt
 
 $(DATADIR):
 	mkdir -p $(DATADIR)
@@ -44,5 +50,5 @@ data/opendata_status.csv:
 data/packages/finished.txt:
 	mkdir -p data/packages
 	date '+%Y/%m/%d %H:%m:%S' > data/packages/started.txt
-	cat data/packages.txt | xargs -t -I{} sh -c 'curl -s "$(CATALOG_ENDPOINT)/action/package_show?id={}" | jq . > data/packages/{}.json'
+	cat $(DATADIR)/packages.txt | xargs -t -I{} sh -c 'curl -s "$(CATALOG_ENDPOINT)/action/package_show?id={}" | jq . > data/packages/{}.json'
 	date '+%Y/%m/%d %H:%m:%S' > data/packages/finished.txt

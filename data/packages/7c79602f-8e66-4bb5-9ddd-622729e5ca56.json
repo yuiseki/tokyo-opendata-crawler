@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "町田市総務部市政情報課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "7c79602f-8e66-4bb5-9ddd-622729e5ca56",
+    "metadata_created": "2022-03-16T02:15:06.737606",
+    "metadata_modified": "2022-03-16T02:15:09.146986",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "オープンデータとして公開している刊行物一覧",
+        "format": "XLSX",
+        "url": "https://www.city.machida.tokyo.jp/shisei/opendata/kankobutsu/kankoubutsuichiran.files/odkankoubutsulist.xlsx",
+        "cache_last_updated": null,
+        "package_id": "7c79602f-8e66-4bb5-9ddd-622729e5ca56",
+        "created": "2022-03-06T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2022-03-06T15:00:00",
+        "position": 0,
+        "revision_id": "dd887f82-fba9-41d9-a334-c673249e36f3",
+        "url_type": null,
+        "id": "2760f1f1-029d-472a-b13b-6c8ff47e6cbc",
+        "resource_type": null,
+        "size": 39936
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.machida.tokyo.jp/",
+      "created": "2019-11-01T03:27:26.775139",
+      "title": "町田市",
+      "name": "t132098",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t132098.png",
+      "revision_id": "afc39d6e-faf0-4358-90a5-a32d669724a1",
+      "type": "organization",
+      "id": "01ee6b09-cb58-4100-8d95-623ad6b238ef",
+      "approval_status": "approved"
+    },
+    "name": "t132098d0000000115",
+    "isopen": true,
+    "url": "",
+    "notes": "【町田市】市が作成した刊行物のうち、オープンデータとして公開しているものの一覧です。",
+    "owner_org": "01ee6b09-cb58-4100-8d95-623ad6b238ef",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "オープンデータとして公開している刊行物一覧",
+    "revision_id": "aecf1b57-c2f7-4723-9f55-2cc0d18d2cc6"
+  }
+}

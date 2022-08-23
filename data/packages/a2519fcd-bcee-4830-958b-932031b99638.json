@@ -10,35 +10,34 @@
     "num_tags": 0,
     "id": "a2519fcd-bcee-4830-958b-932031b99638",
     "metadata_created": "2021-11-04T00:59:29.400579",
-    "owner_org": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
     "metadata_modified": "2021-12-13T04:45:33.172937",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "",
+        "name": "保育所の在園児数",
         "format": "CSV",
         "url": "https://data.bodik.jp/dataset/dc4bae70-cc01-4620-91f9-89ef58a0423c/resource/390dfc07-e4a4-4f24-b2ba-e1c6acf3435d/download/131105_nersury_school_age.csv",
+        "cache_last_updated": null,
+        "package_id": "a2519fcd-bcee-4830-958b-932031b99638",
         "created": "2021-08-11T10:37:00",
         "state": "active",
-        "package_id": "a2519fcd-bcee-4830-958b-932031b99638",
+        "mimetype_inner": null,
         "last_modified": "2021-08-11T10:37:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "749b308a-88e9-499e-9d4b-1025ae5be188",
-        "size": 1209,
+        "url_type": null,
         "id": "993e6723-9f64-4c56-bf8d-f31198ad81a8",
         "resource_type": null,
-        "name": "保育所の在園児数"
+        "size": 1209
       }
     ],
     "num_resources": 1,
@@ -47,39 +46,40 @@
       {
         "display_name": "その他",
         "description": "",
-        "title": "その他",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
         "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
         "name": "c014"
       }
     ],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t131105d0000000013",
-    "isopen": true,
-    "url": "https://www.city.meguro.tokyo.jp/kurashi/kosodate/hoiku/index.html",
-    "notes": "保育所の年齢別園児数の年度別推移\n",
-    "title": "保育所の年齢別園児数",
-    "extras": [
-      {
-        "value": "1年",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "https://odcs.bodik.jp/131105/",
-      "title": "目黒区",
       "created": "2021-11-01T02:12:22.338293",
-      "approval_status": "approved",
+      "title": "目黒区",
+      "name": "t131105",
       "is_organization": true,
       "state": "active",
       "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131105.png",
       "revision_id": "e3dc243f-e3a2-4b2b-a319-4e145bb63383",
       "type": "organization",
       "id": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
-      "name": "t131105"
+      "approval_status": "approved"
     },
+    "name": "t131105d0000000013",
+    "isopen": true,
+    "url": "https://www.city.meguro.tokyo.jp/kurashi/kosodate/hoiku/index.html",
+    "notes": "保育所の年齢別園児数の年度別推移\n",
+    "owner_org": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "1年"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "保育所の年齢別園児数",
     "revision_id": "baf0d934-dddf-4c33-a55b-bbd3dbbb3e53"
   }
 }

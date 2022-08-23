@@ -3,14 +3,14 @@
   "success": true,
   "result": {
     "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
-    "maintainer": "防災課",
+    "maintainer": "防災まちづくり部防災課",
     "relationships_as_object": [],
     "private": false,
     "maintainer_email": null,
     "num_tags": 0,
     "id": "60765f32-5743-43dc-98b1-0ec56cc06b9a",
     "metadata_created": "2019-11-01T04:57:02.850880",
-    "metadata_modified": "2019-11-01T08:39:13.733016",
+    "metadata_modified": "2022-05-17T04:39:09.069846",
     "author": null,
     "author_email": null,
     "state": "active",
@@ -22,48 +22,56 @@
         "mimetype": null,
         "cache_url": null,
         "hash": "",
-        "description": "避難所の緯度経度等のｃｓｖファイル",
-        "name": "避難所csvデータ",
+        "description": "避難所の位置情報csvデータ",
+        "name": "避難所の位置情報(csv形式)",
         "format": "CSV",
-        "url": "http://www.city.shinagawa.tokyo.jp/ct/other000081500/hinansho.csv",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/shinagawa/2hinansho.csv",
         "cache_last_updated": null,
         "package_id": "60765f32-5743-43dc-98b1-0ec56cc06b9a",
-        "created": "2017-03-24T03:00:00",
+        "created": "2018-12-13T15:00:00",
         "state": "active",
         "mimetype_inner": null,
-        "last_modified": "2017-03-24T03:00:00",
+        "last_modified": "2018-12-13T15:00:00",
         "position": 0,
-        "revision_id": "8124e546-db4c-4131-a5e2-463f76474e53",
+        "revision_id": "8bf97736-cced-41ad-872c-98e62b2f9598",
         "url_type": null,
-        "id": "74c6cc7b-b68e-4ced-94b6-74e3563e6c7d",
+        "id": "b399b210-dcc0-447f-b3da-6c3ac8ac7b10",
         "resource_type": null,
-        "size": 21504
+        "size": 2
       },
       {
         "mimetype": null,
         "cache_url": null,
         "hash": "",
-        "description": "避難所の緯度経度等rdfファイル",
-        "name": "避難所rdfデータ",
+        "description": "避難所の位置情報rdfデータ",
+        "name": "避難所の位置情報(rdf形式)",
         "format": "RDF",
-        "url": "http://www.city.shinagawa.tokyo.jp/ct/other000081500/hinansho.rdf",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/shinagawa/2hinansho.rdf",
         "cache_last_updated": null,
         "package_id": "60765f32-5743-43dc-98b1-0ec56cc06b9a",
-        "created": "2017-03-24T03:00:00",
+        "created": "2018-12-13T15:00:00",
         "state": "active",
         "mimetype_inner": null,
-        "last_modified": "2017-03-24T03:00:00",
+        "last_modified": "2018-12-13T15:00:00",
         "position": 1,
-        "revision_id": "b08ce136-3fae-4e41-9057-6f2ca64b1955",
+        "revision_id": "8bf97736-cced-41ad-872c-98e62b2f9598",
         "url_type": null,
-        "id": "072621e9-30e3-4edd-89db-8ba84f78dc81",
+        "id": "c639c9be-0bfa-4dd2-9822-327c98fb673a",
         "resource_type": null,
-        "size": 123904
+        "size": 23
       }
     ],
     "num_resources": 2,
     "tags": [],
     "groups": [
+      {
+        "display_name": "環境",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c012.png",
+        "title": "環境",
+        "id": "427f3ee0-b28a-4fd2-b7dc-980507f154d2",
+        "name": "c012"
+      },
       {
         "display_name": "防災・災害計画",
         "description": "",
@@ -91,7 +99,7 @@
     "name": "t131091d0000000001",
     "isopen": true,
     "url": "",
-    "notes": "【品川区】　災害時等の避難所の位置情報",
+    "notes": "避難所の位置情報",
     "owner_org": "ee5ed3ad-76a9-4a49-aba7-3a63a457eb93",
     "extras": [
       {
@@ -101,6 +109,6 @@
     ],
     "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "title": "避難所",
-    "revision_id": "9b21de6b-3fe5-4b3e-8836-020ecb2d9c44"
+    "revision_id": "1f9d9a5f-c4fb-450c-88b6-b5f47b339638"
   }
 }

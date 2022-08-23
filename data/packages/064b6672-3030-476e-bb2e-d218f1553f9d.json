@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "産業経済部くらしと観光課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "064b6672-3030-476e-bb2e-d218f1553f9d",
+    "metadata_created": "2022-02-22T07:29:24.717111",
+    "metadata_modified": "2022-02-22T07:30:19.686558",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "高島平団地とけやき並木の写真です。",
+        "name": "高島平団地とけやき並木2",
+        "format": "JPEG",
+        "url": "https://storage.googleapis.com/storage.openphoto.jp/photos/66/original/cKsr8lfRs6819v9bJKxPSdE0SwfD3jxB0PIq7pAK.jpg",
+        "cache_last_updated": null,
+        "package_id": "064b6672-3030-476e-bb2e-d218f1553f9d",
+        "created": "2022-02-22T07:30:01.047733",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": null,
+        "position": 0,
+        "revision_id": "ca5d53aa-6ebd-4924-8681-544c4d2c1c45",
+        "url_type": null,
+        "id": "689ae55e-0803-4f14-85cc-6aeb583349e3",
+        "resource_type": null,
+        "size": 10214400
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.itabashi.tokyo.jp/",
+      "created": "2019-11-01T03:27:25.673886",
+      "title": "板橋区",
+      "name": "t131199",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131199.jpg",
+      "revision_id": "1a86d48e-188d-4655-9cc5-c9aedb102db4",
+      "type": "organization",
+      "id": "9354a576-4de5-44ab-9e62-18a92b40b5e7",
+      "approval_status": "approved"
+    },
+    "name": "t131199d0000006093",
+    "isopen": true,
+    "url": "https://openphoto.app/c/ita13119/photo/8260",
+    "notes": "【板橋区】高島平団地とけやき並木の写真です。",
+    "owner_org": "9354a576-4de5-44ab-9e62-18a92b40b5e7",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "高島平団地とけやき並木2",
+    "revision_id": "1cfac5e1-b34f-4649-8688-f6447c4fa399"
+  }
+}

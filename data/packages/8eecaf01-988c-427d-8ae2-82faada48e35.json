@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "防災まちづくり部土木管理課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "8eecaf01-988c-427d-8ae2-82faada48e35",
+    "metadata_created": "2022-03-08T04:34:45.158292",
+    "metadata_modified": "2022-03-09T06:03:29.735941",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "駅前放置自転車撤去情報（各駅ごと）",
+        "name": "駅前放置自転車撤去情報（各駅ごと）",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/shinagawa/tekkyojoukyo_ekigoto.csv",
+        "cache_last_updated": null,
+        "package_id": "8eecaf01-988c-427d-8ae2-82faada48e35",
+        "created": "2022-03-08T04:35:22.516807",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": null,
+        "position": 0,
+        "revision_id": "8c948f14-70f4-4d09-8ef0-c8743e2bf1a4",
+        "url_type": null,
+        "id": "6463b186-a832-43dd-88ee-816371b623d7",
+        "resource_type": null,
+        "size": 2
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "駅前放置自転車撤去情報（日付ごと）",
+        "name": "駅前放置自転車撤去情報（日付ごと）",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/shinagawa/tekkyojoukyo_hidukegoto.csv",
+        "cache_last_updated": null,
+        "package_id": "8eecaf01-988c-427d-8ae2-82faada48e35",
+        "created": "2022-03-08T04:35:22.879142",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": null,
+        "position": 1,
+        "revision_id": "7dd0946c-7e93-4fe1-84e8-a624085ba6d8",
+        "url_type": null,
+        "id": "d308bdb3-5bdc-45a4-96eb-747fd8058354",
+        "resource_type": null,
+        "size": 21
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.shinagawa.tokyo.jp/",
+      "created": "2019-11-01T03:27:24.888527",
+      "title": "品川区",
+      "name": "t131091",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131091.png",
+      "revision_id": "a58c6889-2755-423e-bc8c-5146fb74ae73",
+      "type": "organization",
+      "id": "ee5ed3ad-76a9-4a49-aba7-3a63a457eb93",
+      "approval_status": "approved"
+    },
+    "name": "t131091d0000000119",
+    "isopen": true,
+    "url": "https://www.city.shinagawa.tokyo.jp/PC/bosai/bosai-zitensyataisaku/bosai-zitensyataisaku-tekkyozyoho/hpg000001747.html",
+    "notes": "駅前放置自転車撤去情報（各駅ごと）",
+    "owner_org": "ee5ed3ad-76a9-4a49-aba7-3a63a457eb93",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "駅前放置自転車撤去情報（各駅ごと）",
+    "revision_id": "9eae2f7f-1c35-4ee6-9bde-843376ba28e4"
+  }
+}

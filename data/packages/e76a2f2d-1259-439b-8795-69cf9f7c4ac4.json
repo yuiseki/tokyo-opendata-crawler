@@ -10,7 +10,7 @@
     "num_tags": 0,
     "id": "e76a2f2d-1259-439b-8795-69cf9f7c4ac4",
     "metadata_created": "2019-11-01T04:57:52.155306",
-    "metadata_modified": "2019-11-01T08:44:33.246173",
+    "metadata_modified": "2022-04-26T01:48:27.674254",
     "author": null,
     "author_email": null,
     "state": "active",
@@ -38,9 +38,30 @@
         "id": "112507c6-cf3c-4e05-abb6-081232e4fb10",
         "resource_type": null,
         "size": 32768
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "農林業センサス（令和３年版練馬区統計書掲載分）",
+        "format": "XLSX",
+        "url": "https://www.city.nerima.tokyo.jp/kusei/tokei/opendata/opendatasite/sangyo/nouringyoucensus.files/r3_nouringyoucensus.xlsx",
+        "cache_last_updated": null,
+        "package_id": "e76a2f2d-1259-439b-8795-69cf9f7c4ac4",
+        "created": "2018-01-17T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2022-04-21T15:00:00",
+        "position": 1,
+        "revision_id": "b6a389a1-52f3-450f-8b26-6dffbbb7f887",
+        "url_type": null,
+        "id": "8c0f3c61-ffed-4cf7-bf34-659b3b68d6ed",
+        "resource_type": null,
+        "size": 20480
       }
     ],
-    "num_resources": 1,
+    "num_resources": 2,
     "tags": [],
     "groups": [
       {

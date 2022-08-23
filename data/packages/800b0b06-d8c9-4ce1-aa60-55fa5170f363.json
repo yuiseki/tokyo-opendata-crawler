@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "総合防災部防災管理課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "800b0b06-d8c9-4ce1-aa60-55fa5170f363",
+    "metadata_created": "2022-07-09T05:53:13.417463",
+    "metadata_modified": "2022-07-09T05:53:36.297247",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "島しょごとの地震津波状況",
+        "format": "CSV",
+        "url": "https://www.bousai.metro.tokyo.lg.jp/content/opendata/csv/1001270_1.csv",
+        "cache_last_updated": null,
+        "package_id": "800b0b06-d8c9-4ce1-aa60-55fa5170f363",
+        "created": "2018-04-12T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-04-12T15:00:00",
+        "position": 0,
+        "revision_id": "fe8474bc-2785-4141-80a0-077381ec72bc",
+        "url_type": null,
+        "id": "ec996c89-ab6a-4359-91ca-cd6c84736365",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "小笠原諸島（主に父島）での津波記録概要",
+        "format": "CSV",
+        "url": "https://www.bousai.metro.tokyo.lg.jp/content/opendata/csv/1001270_2.csv",
+        "cache_last_updated": null,
+        "package_id": "800b0b06-d8c9-4ce1-aa60-55fa5170f363",
+        "created": "2018-04-12T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-04-12T15:00:00",
+        "position": 1,
+        "revision_id": "c9a921c3-1cdd-4140-aaf0-8a3fe7d5ce51",
+        "url_type": null,
+        "id": "7df25ead-85b3-4d15-ad6f-bf88b9f2e0ee",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "防災・災害計画",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c001.png",
+        "title": "防災・災害計画",
+        "id": "8eb52f8e-0d10-44f4-8bb4-2a488d0f8465",
+        "name": "c001"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.soumu.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:19.763566",
+      "title": "東京都総務局",
+      "name": "t000003",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000003.png",
+      "revision_id": "c4e16dd4-cb3f-42dc-8be2-2eed0f9e0175",
+      "type": "organization",
+      "id": "5987f8a3-dfbe-4f96-b3cc-e1f3ea0a2717",
+      "approval_status": "approved"
+    },
+    "name": "t000003d1700000041",
+    "isopen": true,
+    "url": "",
+    "notes": "【東京都総務局】",
+    "owner_org": "5987f8a3-dfbe-4f96-b3cc-e1f3ea0a2717",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "地震対策_島しょごとの地震津波状況",
+    "revision_id": "570cf4ff-464c-43f2-92db-a612a5398d39"
+  }
+}

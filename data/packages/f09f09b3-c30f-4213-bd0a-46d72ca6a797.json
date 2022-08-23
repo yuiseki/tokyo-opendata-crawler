@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "情報システム課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "f09f09b3-c30f-4213-bd0a-46d72ca6a797",
+    "metadata_created": "2022-05-25T05:10:09.036202",
+    "metadata_modified": "2022-05-25T05:10:10.117924",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "【江東区】公衆無線LANアクセスポイント一覧です。",
+        "name": "公衆無線LANアクセスポイント一覧",
+        "format": "CSV",
+        "url": "https://www.city.koto.lg.jp/012107/documents/131083_kotocity_public_wireless_lan.csv",
+        "cache_last_updated": null,
+        "package_id": "f09f09b3-c30f-4213-bd0a-46d72ca6a797",
+        "created": "2019-04-02T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2020-12-06T15:00:00",
+        "position": 0,
+        "revision_id": "48f8d3ef-dac5-4d0c-ab00-274827edcba6",
+        "url_type": null,
+        "id": "9a73f2f0-5fde-45d5-b0f7-ca42afebff49",
+        "resource_type": null,
+        "size": 31
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "",
+      "created": "2021-08-04T07:19:55.726720",
+      "title": "江東区",
+      "name": "t131083",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131083.png",
+      "revision_id": "92ccdda8-5410-4c2a-b31c-b3b2e2fc2fc7",
+      "type": "organization",
+      "id": "171b04bf-0e62-4eaf-b72b-1a9d0a7813e0",
+      "approval_status": "approved"
+    },
+    "name": "t131083d0000000004",
+    "isopen": true,
+    "url": "https://www.city.koto.lg.jp/",
+    "notes": "【江東区】公衆無線LANアクセスポイント一覧です。",
+    "owner_org": "171b04bf-0e62-4eaf-b72b-1a9d0a7813e0",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "公衆無線LANアクセスポイント一覧",
+    "revision_id": "bb78fe5a-4bb9-4779-b54b-5c1935b3350a"
+  }
+}

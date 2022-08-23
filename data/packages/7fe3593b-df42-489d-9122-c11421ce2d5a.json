@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "教育委員会事務局指導課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "7fe3593b-df42-489d-9122-c11421ce2d5a",
+    "metadata_created": "2022-03-08T04:11:51.797632",
+    "metadata_modified": "2022-03-09T05:04:26.064590",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "各教科の特徴を記載したデータ",
+        "name": "品川区立学校教育要領（各教科の特徴）",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/shinagawa/shidou_kyouka_tokucyou.csv",
+        "cache_last_updated": null,
+        "package_id": "7fe3593b-df42-489d-9122-c11421ce2d5a",
+        "created": "2022-03-08T04:12:47.980641",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": null,
+        "position": 0,
+        "revision_id": "9bcec2bc-5478-4976-95f2-555c7deb7fd9",
+        "url_type": null,
+        "id": "cb843305-eb9f-4e5c-8157-a05df5f4a51f",
+        "resource_type": null,
+        "size": 2
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "各教科の標準時間数のデータ",
+        "name": "品川区立学校教育要領（各教科の標準授業時数）",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/shinagawa/shidou_kyouka_jisuu.csv",
+        "cache_last_updated": null,
+        "package_id": "7fe3593b-df42-489d-9122-c11421ce2d5a",
+        "created": "2022-03-08T04:12:48.363377",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": null,
+        "position": 1,
+        "revision_id": "0da43504-2955-49da-b685-95b52f71aa00",
+        "url_type": null,
+        "id": "4a39edc1-50ed-4ade-83da-4b9edf66a89c",
+        "resource_type": null,
+        "size": 2
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.shinagawa.tokyo.jp/",
+      "created": "2019-11-01T03:27:24.888527",
+      "title": "品川区",
+      "name": "t131091",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131091.png",
+      "revision_id": "a58c6889-2755-423e-bc8c-5146fb74ae73",
+      "type": "organization",
+      "id": "ee5ed3ad-76a9-4a49-aba7-3a63a457eb93",
+      "approval_status": "approved"
+    },
+    "name": "t131091d0000000024",
+    "isopen": true,
+    "url": "https://www.city.shinagawa.tokyo.jp/PC/kukyoi/kukyoi-sesaku/kukyoi-sesaku-ikkann/20181023111824.html",
+    "notes": "品川区立学校教育要領（各教科の特徴）",
+    "owner_org": "ee5ed3ad-76a9-4a49-aba7-3a63a457eb93",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "品川区立学校教育要領（各教科の特徴）",
+    "revision_id": "7f087880-5b87-4ef8-b857-b9fdd8b8a884"
+  }
+}

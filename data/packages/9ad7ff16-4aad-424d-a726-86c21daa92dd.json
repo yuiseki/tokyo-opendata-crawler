@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "障害者施策推進部計画課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "9ad7ff16-4aad-424d-a726-86c21daa92dd",
+    "metadata_created": "2019-11-01T04:54:04.327441",
+    "metadata_modified": "2022-02-22T01:54:40.245388",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "東京都障害者権利擁護センター窓口",
+        "format": "XLSX",
+        "url": "http://www.fukushihoken.metro.tokyo.jp/shougai/shougai_shisaku/gyakutai_kenriyougo/gyakutai_madoguchi.files/30ichiran.xlsx",
+        "cache_last_updated": null,
+        "package_id": "9ad7ff16-4aad-424d-a726-86c21daa92dd",
+        "created": "2018-08-30T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-08-30T15:00:00",
+        "position": 0,
+        "revision_id": "ece80637-b8c1-45a0-946c-58e1c985114c",
+        "url_type": null,
+        "id": "b6b3ba5c-01d0-4ef6-bf26-4d2d79163292",
+        "resource_type": null,
+        "size": 22528
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "東京都障害者権利擁護センター窓口（ＣＳＶ）",
+        "format": "CSV",
+        "url": "http://https://www.fukushihoken.metro.tokyo.lg.jp/shougai/shougai_shisaku/gyakutai_kenriyougo/gyakutai_madoguchi.files/gyakutai_madoguchi_2.csv",
+        "cache_last_updated": null,
+        "package_id": "9ad7ff16-4aad-424d-a726-86c21daa92dd",
+        "created": "2018-08-30T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-08-30T15:00:00",
+        "position": 1,
+        "revision_id": "88fcbd17-f8e3-4006-af83-60408d2ba0c9",
+        "url_type": null,
+        "id": "27c21f5e-f7d9-4ede-9603-03281e2bff5c",
+        "resource_type": null,
+        "size": 4096
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "医療・福祉",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c005.png",
+        "title": "医療・福祉",
+        "id": "0d3cd956-612c-45c5-b1ee-75c1a5835c0e",
+        "name": "c005"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.fukushihoken.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.864364",
+      "title": "東京都福祉保健局",
+      "name": "t000010",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000010.jpg",
+      "revision_id": "8d3da6a9-bfe7-4cd1-9d5d-9737b2293939",
+      "type": "organization",
+      "id": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+      "approval_status": "approved"
+    },
+    "name": "t000010d1700000024",
+    "isopen": true,
+    "url": "",
+    "notes": "【東京都福祉保健局】東京都障害者権利擁護センターの窓口を掲載しています。",
+    "owner_org": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "１年ごと"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "東京都障害者権利擁護センター窓口",
+    "revision_id": "700ab6e5-d8cd-4ec0-8573-7330780272bf"
+  }
+}

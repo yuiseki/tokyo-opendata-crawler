@@ -10,67 +10,67 @@
     "num_tags": 0,
     "id": "2aa7cdda-b7d7-4fa8-aed9-666b6339d8af",
     "metadata_created": "2021-10-14T00:57:50.965517",
-    "owner_org": "5e5b6123-ee7e-4097-9e26-dae0bcdb457c",
     "metadata_modified": "2021-12-15T00:22:58.271335",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "",
+        "name": "一時保育・短期特例保育実施保育園一覧",
         "format": "CSV",
         "url": "https://www.city.tokyo-nakano.lg.jp/dept/107000/d027582_d/fil/131148_ichijitanki.csv",
+        "cache_last_updated": null,
+        "package_id": "2aa7cdda-b7d7-4fa8-aed9-666b6339d8af",
         "created": "2021-03-16T15:00:00",
         "state": "active",
-        "package_id": "2aa7cdda-b7d7-4fa8-aed9-666b6339d8af",
+        "mimetype_inner": null,
         "last_modified": "2021-02-04T15:00:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "7368f6c4-8a36-42c8-87e7-ef78bc8a3a31",
-        "size": null,
+        "url_type": null,
         "id": "3036fd6f-0efb-478f-872f-4e76a0498ec4",
         "resource_type": null,
-        "name": "一時保育・短期特例保育実施保育園一覧"
+        "size": null
       }
     ],
     "num_resources": 1,
     "tags": [],
     "groups": [],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t131148d0000000032",
-    "isopen": true,
-    "url": "https://www.city.tokyo-nakano.lg.jp/dept/212500/d027582.html",
-    "notes": "中野区で一時保育・短期保育事業を実施している施設の一覧（一部を除く）です。",
-    "title": "一時保育・短期特例保育実施保育園一覧",
-    "extras": [
-      {
-        "value": "",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "https://www.city.tokyo-nakano.lg.jp/",
-      "title": "中野区",
       "created": "2019-11-01T03:27:25.195268",
-      "approval_status": "approved",
+      "title": "中野区",
+      "name": "t131148",
       "is_organization": true,
       "state": "active",
       "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131148.jpg",
       "revision_id": "6d6159b5-afb0-416b-b34f-be8cfa10c02c",
       "type": "organization",
       "id": "5e5b6123-ee7e-4097-9e26-dae0bcdb457c",
-      "name": "t131148"
+      "approval_status": "approved"
     },
+    "name": "t131148d0000000032",
+    "isopen": true,
+    "url": "https://www.city.tokyo-nakano.lg.jp/dept/212500/d027582.html",
+    "notes": "中野区で一時保育・短期保育事業を実施している施設の一覧（一部を除く）です。",
+    "owner_org": "5e5b6123-ee7e-4097-9e26-dae0bcdb457c",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": ""
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "一時保育・短期特例保育実施保育園一覧",
     "revision_id": "0ae1384c-30dc-48ec-9682-93cb819093e3"
   }
 }

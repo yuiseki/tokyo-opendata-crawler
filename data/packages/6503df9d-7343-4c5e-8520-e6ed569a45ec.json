@@ -10,35 +10,34 @@
     "num_tags": 0,
     "id": "6503df9d-7343-4c5e-8520-e6ed569a45ec",
     "metadata_created": "2020-05-29T07:48:08.696224",
-    "owner_org": "16d81025-a2ca-4002-8129-9906c94a4732",
     "metadata_modified": "2020-05-29T07:48:25.921535",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "",
+        "name": "「特に景観上重要な歴史的建造物等」既選定庭園の表記",
         "format": "CSV",
         "url": "https://www.opendata.metro.tokyo.lg.jp/toshiseibi/h31/juuyou_rekisitekikenzoubutu.csv",
+        "cache_last_updated": null,
+        "package_id": "6503df9d-7343-4c5e-8520-e6ed569a45ec",
         "created": "2020-03-30T15:00:00",
         "state": "active",
-        "package_id": "6503df9d-7343-4c5e-8520-e6ed569a45ec",
+        "mimetype_inner": null,
         "last_modified": "2020-03-30T15:00:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "4f90b07f-8d4e-4a7e-8770-4ac79483d8e7",
-        "size": null,
+        "url_type": null,
         "id": "54d3e3cc-0f2d-445d-9c4a-d13cb7d0361e",
         "resource_type": null,
-        "name": "「特に景観上重要な歴史的建造物等」既選定庭園の表記"
+        "size": null
       }
     ],
     "num_resources": 1,
@@ -47,39 +46,40 @@
       {
         "display_name": "まちづくり",
         "description": "",
-        "title": "まちづくり",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c003.png",
+        "title": "まちづくり",
         "id": "dc897c44-8153-4219-bfeb-6110fb85fb99",
         "name": "c003"
       }
     ],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t000008d1900000002",
-    "isopen": true,
-    "url": "https://www.toshiseibi.metro.tokyo.lg.jp/keikaku/keikan/shingikai-045.html",
-    "notes": "「特に景観上重要な歴史的建造物等」である庭園について、文化財としての名称・面積で表記した一覧表です。",
-    "title": "第45回東京都景観審議会（平成29年3月22日）　資料８　「特に景観上重要な歴史的建造物等」既選定庭園の表記",
-    "extras": [
-      {
-        "value": "不定期",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "http://www.toshiseibi.metro.tokyo.jp/\r\n\r\n所属:東京都",
-      "title": "東京都都市整備局",
       "created": "2019-11-01T03:27:20.560358",
-      "approval_status": "approved",
+      "title": "東京都都市整備局",
+      "name": "t000008",
       "is_organization": true,
       "state": "active",
       "image_url": "",
       "revision_id": "9c234f0e-ff7d-4e2d-8ba4-ea80f312405b",
       "type": "organization",
       "id": "16d81025-a2ca-4002-8129-9906c94a4732",
-      "name": "t000008"
+      "approval_status": "approved"
     },
+    "name": "t000008d1900000002",
+    "isopen": true,
+    "url": "https://www.toshiseibi.metro.tokyo.lg.jp/keikaku/keikan/shingikai-045.html",
+    "notes": "「特に景観上重要な歴史的建造物等」である庭園について、文化財としての名称・面積で表記した一覧表です。",
+    "owner_org": "16d81025-a2ca-4002-8129-9906c94a4732",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "第45回東京都景観審議会（平成29年3月22日）　資料８　「特に景観上重要な歴史的建造物等」既選定庭園の表記",
     "revision_id": "587c34a2-084f-4d01-a325-6504c3a343d3"
   }
 }

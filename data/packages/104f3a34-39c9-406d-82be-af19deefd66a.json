@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "政策経営部情報管理課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "104f3a34-39c9-406d-82be-af19deefd66a",
+    "metadata_created": "2022-04-12T23:23:17.240103",
+    "metadata_modified": "2022-04-12T23:23:20.969878",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "介護サービス事業所一覧",
+        "format": "CSV",
+        "url": "https://www.city.toshima.lg.jp/020/kuse/electronic/open-data/documents/r3_care_service.csv",
+        "cache_last_updated": null,
+        "package_id": "104f3a34-39c9-406d-82be-af19deefd66a",
+        "created": "2022-02-23T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2022-02-23T15:00:00",
+        "position": 0,
+        "revision_id": "e0c85ced-37c9-45b8-9b36-b8252a02e992",
+        "url_type": null,
+        "id": "403b3273-5b54-4f5c-947c-efe6974a42a8",
+        "resource_type": null,
+        "size": 76800
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "医療・福祉",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c005.png",
+        "title": "医療・福祉",
+        "id": "0d3cd956-612c-45c5-b1ee-75c1a5835c0e",
+        "name": "c005"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.toshima.lg.jp/",
+      "created": "2022-04-12T23:02:34.470693",
+      "title": "豊島区",
+      "name": "t131164",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131164.png",
+      "revision_id": "14fda01f-e105-4e1a-ac84-e5e4fc760deb",
+      "type": "organization",
+      "id": "d5b667a3-96db-44d7-a5d8-f03a94f5c51b",
+      "approval_status": "approved"
+    },
+    "name": "t131164d0000000004",
+    "isopen": true,
+    "url": "https://www.city.toshima.lg.jp/index.html",
+    "notes": "豊島区が公開しているデータ（オープンデータ）をご覧いただけます。",
+    "owner_org": "d5b667a3-96db-44d7-a5d8-f03a94f5c51b",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "年1回"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "介護サービス事業所一覧",
+    "revision_id": "a41e825f-06ca-43b1-9710-e694b5651f83"
+  }
+}

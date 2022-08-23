@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "政策経営部広聴広報課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "53a84268-597b-4f7e-a56f-c5299c5cf52a",
+    "metadata_created": "2022-02-22T07:29:05.241704",
+    "metadata_modified": "2022-02-22T07:30:12.419196",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "旧粕谷家住宅の写真です。",
+        "name": "旧粕谷家(東の隠居)住宅1",
+        "format": "JPEG",
+        "url": "https://storage.googleapis.com/storage.openphoto.jp/photos/66/original/yTBODAVK4ZMbpZpOFxxrfqK0fbqtw51N4zw4KKhx.jpg",
+        "cache_last_updated": null,
+        "package_id": "53a84268-597b-4f7e-a56f-c5299c5cf52a",
+        "created": "2022-02-22T07:29:35.256450",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": null,
+        "position": 0,
+        "revision_id": "2f859d86-e373-4edc-8be4-dc85b83db144",
+        "url_type": null,
+        "id": "c2884269-e373-4a77-a109-a5457cb30fdf",
+        "resource_type": null,
+        "size": 3026944
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.itabashi.tokyo.jp/",
+      "created": "2019-11-01T03:27:25.673886",
+      "title": "板橋区",
+      "name": "t131199",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131199.jpg",
+      "revision_id": "1a86d48e-188d-4655-9cc5-c9aedb102db4",
+      "type": "organization",
+      "id": "9354a576-4de5-44ab-9e62-18a92b40b5e7",
+      "approval_status": "approved"
+    },
+    "name": "t131199d0000006024",
+    "isopen": true,
+    "url": "https://openphoto.app/c/ita13119/photo/8187",
+    "notes": "【板橋区】旧粕谷家住宅の写真です。",
+    "owner_org": "9354a576-4de5-44ab-9e62-18a92b40b5e7",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "旧粕谷家(東の隠居)住宅1",
+    "revision_id": "44870ccd-1ad3-4af2-a2f5-a6b49848cd6f"
+  }
+}

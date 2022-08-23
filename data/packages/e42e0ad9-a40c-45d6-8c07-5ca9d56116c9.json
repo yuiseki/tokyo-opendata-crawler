@@ -10,7 +10,7 @@
     "num_tags": 0,
     "id": "e42e0ad9-a40c-45d6-8c07-5ca9d56116c9",
     "metadata_created": "2019-11-01T04:53:45.790499",
-    "metadata_modified": "2021-02-03T08:56:14.936746",
+    "metadata_modified": "2022-02-04T05:54:19.499771",
     "author": "",
     "author_email": "",
     "state": "active",
@@ -23,7 +23,7 @@
         "cache_url": null,
         "hash": "",
         "description": "",
-        "name": "埋立処分量内訳（平成１２年度～平成３１年度）",
+        "name": "埋立処分量内訳",
         "format": "XLSX",
         "url": "https://www.kankyo.metro.tokyo.lg.jp/resource/landfill/central_breakwater/disposal_volume.files/umetatesyobunryo.xlsx",
         "cache_last_updated": null,
@@ -33,7 +33,7 @@
         "mimetype_inner": null,
         "last_modified": "2017-06-29T15:00:00",
         "position": 0,
-        "revision_id": "2189b164-0539-4794-8b92-b3a03ece5de6",
+        "revision_id": "9779d75a-10be-407f-8afc-0233fd26943b",
         "url_type": null,
         "id": "da9d0127-3182-4a65-a935-eb3f6f0bee4c",
         "resource_type": null,
@@ -44,7 +44,7 @@
         "cache_url": null,
         "hash": "",
         "description": "",
-        "name": "埋立処分量内訳（平成１２年度～平成３１年度）",
+        "name": "埋立処分量内訳",
         "format": "CSV",
         "url": "https://www.kankyo.metro.tokyo.lg.jp/resource/landfill/central_breakwater/disposal_volume.files/umetatesyobunryo.csv",
         "cache_last_updated": null,
@@ -54,7 +54,7 @@
         "mimetype_inner": null,
         "last_modified": "2017-06-29T15:00:00",
         "position": 1,
-        "revision_id": "1dd9b5fa-52f1-4cb0-b5f9-b32e0cb4ce4d",
+        "revision_id": "d22d7317-f41d-47f6-a1e7-b6de843182d0",
         "url_type": null,
         "id": "e033d17e-431b-4995-9a8b-6bd196436548",
         "resource_type": null,
@@ -91,7 +91,7 @@
     "name": "t000009d0000000005",
     "isopen": true,
     "url": "",
-    "notes": "【東京都環境局】",
+    "notes": "【東京都環境局】東京都廃棄物埋立処分場の埋立処分量",
     "owner_org": "c8b93db3-9754-48d3-8b50-5cbe78d679e7",
     "extras": [
       {
@@ -100,7 +100,7 @@
       }
     ],
     "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
-    "title": "埋立処分量内訳（平成１２年度～平成３１年度）",
-    "revision_id": "dbbae9fa-fea4-40fa-bcfc-cd73f246a6c5"
+    "title": "埋立処分量内訳",
+    "revision_id": "f0e96c39-88bb-4187-86b0-871d8e70b354"
   }
 }

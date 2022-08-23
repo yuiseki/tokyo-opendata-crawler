@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "昭島市総務部防災課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "3a353c2e-6b60-4fff-8100-55cdbda426ba",
+    "metadata_created": "2022-01-25T02:53:41.853920",
+    "metadata_modified": "2022-01-25T02:53:42.770753",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "避難所一覧",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/akishima/132071_hinanjyo_itiran.csv",
+        "cache_last_updated": null,
+        "package_id": "3a353c2e-6b60-4fff-8100-55cdbda426ba",
+        "created": "2021-10-04T04:38:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-10-04T04:38:00",
+        "position": 0,
+        "revision_id": "b3da94dc-3bbf-43b5-96e5-810b652bde70",
+        "url_type": null,
+        "id": "af3b844e-df62-4a63-b7ca-c7f687dcb51e",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "避難所一覧",
+        "format": "XLSX",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/akishima/132071_hinanjyo_itiran.xlsx",
+        "cache_last_updated": null,
+        "package_id": "3a353c2e-6b60-4fff-8100-55cdbda426ba",
+        "created": "2021-10-04T10:37:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-10-04T10:37:00",
+        "position": 1,
+        "revision_id": "495d9414-50ff-4235-a4e7-24829479d81c",
+        "url_type": null,
+        "id": "2c08c17d-075e-4dbf-827e-cdac002531e4",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "防災・災害計画",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c001.png",
+        "title": "防災・災害計画",
+        "id": "8eb52f8e-0d10-44f4-8bb4-2a488d0f8465",
+        "name": "c001"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "",
+      "created": "2021-08-24T01:28:36.135062",
+      "title": "昭島市",
+      "name": "t132071",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t132071.png",
+      "revision_id": "1a9c019b-311b-4207-94ad-4ae370515f83",
+      "type": "organization",
+      "id": "f9f056fc-d7ea-4208-a7a0-ea94c8d379c7",
+      "approval_status": "approved"
+    },
+    "name": "t132071d0000000004",
+    "isopen": true,
+    "url": "",
+    "notes": "【昭島市】昭島市の避難所の一覧です。",
+    "owner_org": "f9f056fc-d7ea-4208-a7a0-ea94c8d379c7",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "年１回"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "避難所一覧",
+    "revision_id": "20808d6d-f03b-49be-a769-b59f7d8f8c15"
+  }
+}

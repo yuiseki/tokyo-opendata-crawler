@@ -10,35 +10,34 @@
     "num_tags": 0,
     "id": "051ecfb0-46e0-466f-bb81-8b28eba5596b",
     "metadata_created": "2020-06-26T06:20:54.730088",
-    "owner_org": "a80c46c5-d236-4d83-b4f9-656c25d0847d",
     "metadata_modified": "2020-06-26T06:22:21.974751",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "ex_1.csv　地震発生時の所在地\n\nex_2.csv　被災時の所在地（方面別）\n\nex_3.csv　被災時の所在地における形態（方面別）\n\nex_4.csv　被災後の行動回数\n\nex_5.csv　被災後の最初の移動先（動かない人を除く）\n\nex_6.csv　被災後の最初の交通手段\n\nex_7.csv　被災後に自動車を利用する理由\n\nex_8.csv　大震災発生時の交通規制の認知度\n\nex_9.csv　大震災発生時の自動車利用のお願いの認知度\n\nex_10.csv　大震災発生時の交通規制を知った媒体\n\nex_11.csv　大震災発生時の交通規制を伝えるための有効な媒体  \n\nなお、ZIPファイル内には一覧表となるテキストファイル1種を含みます。\n",
+        "name": "別紙2「大震災発生時における交通行動等の調査結果」参照　内の表（CSVファイル11種）",
         "format": "ZIP",
         "url": "https://www.keishicho.metro.tokyo.jp/kurashi/saigai/shinsai_kisei/kekka.files/ex2.zip",
+        "cache_last_updated": null,
+        "package_id": "051ecfb0-46e0-466f-bb81-8b28eba5596b",
         "created": "2018-02-18T15:00:00",
         "state": "active",
-        "package_id": "051ecfb0-46e0-466f-bb81-8b28eba5596b",
+        "mimetype_inner": null,
         "last_modified": "2018-02-18T15:00:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "6bf53529-b57c-43ae-b2d8-dc632fd2296a",
-        "size": 2048,
+        "url_type": null,
         "id": "d62af989-8917-4491-99a4-5db93a225658",
         "resource_type": null,
-        "name": "別紙2「大震災発生時における交通行動等の調査結果」参照　内の表（CSVファイル11種）"
+        "size": 2048
       }
     ],
     "num_resources": 1,
@@ -47,55 +46,56 @@
       {
         "display_name": "交通情報",
         "description": "",
-        "title": "交通情報",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c013.png",
+        "title": "交通情報",
         "id": "38323541-753d-4230-b2dd-d9eb367ae5ed",
         "name": "c013"
       },
       {
         "display_name": "治安",
         "description": "",
-        "title": "治安",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c002.png",
+        "title": "治安",
         "id": "de8273ac-2339-4309-ad15-2800b751b45e",
         "name": "c002"
       },
       {
         "display_name": "防災・災害計画",
         "description": "",
-        "title": "防災・災害計画",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c001.png",
+        "title": "防災・災害計画",
         "id": "8eb52f8e-0d10-44f4-8bb4-2a488d0f8465",
         "name": "c001"
       }
     ],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t000022d1700000006",
-    "isopen": true,
-    "url": "https://www.keishicho.metro.tokyo.jp/kurashi/saigai/shinsai_kisei/kekka.html",
-    "notes": "【警視庁】　別紙2「大震災発生時における交通行動等の調査結果」参照内の表CSVファイル11種",
-    "title": "大震災発生時における交通行動等の調査結果",
-    "extras": [
-      {
-        "value": "随時",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "http://www.keishicho.metro.tokyo.jp/\r\n\r\n所属:東京都",
-      "title": "警視庁",
       "created": "2019-11-01T03:27:22.754561",
-      "approval_status": "approved",
+      "title": "警視庁",
+      "name": "t000022",
       "is_organization": true,
       "state": "active",
       "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000022.jpg",
       "revision_id": "6ec2a37b-87b3-4747-ac28-2a6800716699",
       "type": "organization",
       "id": "a80c46c5-d236-4d83-b4f9-656c25d0847d",
-      "name": "t000022"
+      "approval_status": "approved"
     },
+    "name": "t000022d1700000006",
+    "isopen": true,
+    "url": "https://www.keishicho.metro.tokyo.jp/kurashi/saigai/shinsai_kisei/kekka.html",
+    "notes": "【警視庁】　別紙2「大震災発生時における交通行動等の調査結果」参照内の表CSVファイル11種",
+    "owner_org": "a80c46c5-d236-4d83-b4f9-656c25d0847d",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "大震災発生時における交通行動等の調査結果",
     "revision_id": "01bfb9fd-7a84-4dc6-b9ca-cebf877bf5ca"
   }
 }

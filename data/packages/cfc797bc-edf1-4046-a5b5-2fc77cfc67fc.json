@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "防災まちづくり部防災課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "cfc797bc-edf1-4046-a5b5-2fc77cfc67fc",
+    "metadata_created": "2022-03-08T04:34:50.084324",
+    "metadata_modified": "2022-03-08T04:35:45.233478",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "徒歩帰宅支援対象道路の位置情報geojsonデータ",
+        "name": "徒歩帰宅支援対象道路の位置情報(geojson形式)",
+        "format": "GeoJSON",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/shinagawa/tohokitakushiendoro.geojson",
+        "cache_last_updated": null,
+        "package_id": "cfc797bc-edf1-4046-a5b5-2fc77cfc67fc",
+        "created": "2018-12-13T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-12-13T15:00:00",
+        "position": 0,
+        "revision_id": "14dffa00-0a2a-480e-9e74-03f0d903d830",
+        "url_type": null,
+        "id": "0f7e901a-ee69-4c95-9227-cc97e4ab1418",
+        "resource_type": null,
+        "size": 8
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "徒歩帰宅支援対象道路の位置情報zipデータ",
+        "name": "徒歩帰宅支援対象道路の位置情報(zip形式)",
+        "format": "ZIP",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/shinagawa/tohokitakushiendoro.zip",
+        "cache_last_updated": null,
+        "package_id": "cfc797bc-edf1-4046-a5b5-2fc77cfc67fc",
+        "created": "2018-12-13T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-12-13T15:00:00",
+        "position": 1,
+        "revision_id": "fa5eeec5-b223-43cc-92f1-8276bfe791d9",
+        "url_type": null,
+        "id": "4df074ca-bbbe-41ba-9058-900a328bcb67",
+        "resource_type": null,
+        "size": 3
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "環境",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c012.png",
+        "title": "環境",
+        "id": "427f3ee0-b28a-4fd2-b7dc-980507f154d2",
+        "name": "c012"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.shinagawa.tokyo.jp/",
+      "created": "2019-11-01T03:27:24.888527",
+      "title": "品川区",
+      "name": "t131091",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131091.png",
+      "revision_id": "a58c6889-2755-423e-bc8c-5146fb74ae73",
+      "type": "organization",
+      "id": "ee5ed3ad-76a9-4a49-aba7-3a63a457eb93",
+      "approval_status": "approved"
+    },
+    "name": "t131091d0000000136",
+    "isopen": true,
+    "url": "",
+    "notes": "徒歩帰宅支援対象道路の位置情報",
+    "owner_org": "ee5ed3ad-76a9-4a49-aba7-3a63a457eb93",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "徒歩帰宅支援対象道路",
+    "revision_id": "19018a08-5db1-4a8b-b9ec-318833da09b7"
+  }
+}

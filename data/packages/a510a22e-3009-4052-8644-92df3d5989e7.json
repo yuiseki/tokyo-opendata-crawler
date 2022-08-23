@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "清瀬市都市整備部道路交通課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "a510a22e-3009-4052-8644-92df3d5989e7",
+    "metadata_created": "2022-05-27T07:22:56.796028",
+    "metadata_modified": "2022-05-27T07:23:42.311893",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "【清瀬市】放置された自転車等の移送状況について",
+        "name": "放置自転車等の移送状況",
+        "format": "CSV",
+        "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/010/480/132217_illegally_parked_bicycle.csv",
+        "cache_last_updated": null,
+        "package_id": "a510a22e-3009-4052-8644-92df3d5989e7",
+        "created": "2022-03-31T08:27:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2022-03-31T08:27:00",
+        "position": 0,
+        "revision_id": "174deaaa-734b-48b4-8df7-44d15d19f6ee",
+        "url_type": null,
+        "id": "8cf694ac-35d5-4edd-9e13-5ad1915787eb",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "【清瀬市】放置された自転車等の移送状況について",
+        "name": "放置自転車等の移送状況",
+        "format": "XLSX",
+        "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/010/480/132217_illegally_parked_bicycle.xlsx",
+        "cache_last_updated": null,
+        "package_id": "a510a22e-3009-4052-8644-92df3d5989e7",
+        "created": "2022-03-31T08:27:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2022-03-31T08:27:00",
+        "position": 1,
+        "revision_id": "f2b7653c-b631-431f-8eb6-9c885f68a63a",
+        "url_type": null,
+        "id": "222c35ae-e869-4afa-adcf-5fc8d25823c7",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "まちづくり",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c003.png",
+        "title": "まちづくり",
+        "id": "dc897c44-8153-4219-bfeb-6110fb85fb99",
+        "name": "c003"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.kiyose.lg.jp/index.html",
+      "created": "2020-08-05T08:00:00.206131",
+      "title": "清瀬市",
+      "name": "t132217",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "f8ef546d-d3f4-46e8-9741-39a6eec61618",
+      "type": "organization",
+      "id": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
+      "approval_status": "approved"
+    },
+    "name": "t132217d0000000069",
+    "isopen": true,
+    "url": "https://www.city.kiyose.lg.jp/opendata/opendataichiran/1010480.html",
+    "notes": "【清瀬市】放置された自転車等の移送状況について",
+    "owner_org": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "年1回"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "放置自転車等の移送状況",
+    "revision_id": "3ed09e7d-9884-4786-a617-6f2f8e560c45"
+  }
+}

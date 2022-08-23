@@ -99,12 +99,12 @@
     "organization": {
       "description": "所属:東京都",
       "created": "2019-11-01T03:27:23.895580",
-      "title": "東京都戦略政策情報推進本部",
+      "title": "東京都デジタルサービス局",
       "name": "t000029",
       "is_organization": true,
       "state": "active",
-      "image_url": "",
-      "revision_id": "76ef158c-5fab-4b86-9f91-1a3a7371aee4",
+      "image_url": "https://www.digitalservice.metro.tokyo.lg.jp/images/logo.png",
+      "revision_id": "6f0a3e84-39eb-4b71-a006-8585de2d0f10",
       "type": "organization",
       "id": "366cc7cd-3038-4e5b-b0a1-170690d29024",
       "approval_status": "approved"

@@ -10,35 +10,34 @@
     "num_tags": 0,
     "id": "12aa6fdc-5ea4-475f-b704-512c0dab6651",
     "metadata_created": "2021-10-07T05:32:06.398663",
-    "owner_org": "dae20c75-717a-45a5-91e9-ca6e6530178c",
     "metadata_modified": "2021-10-07T05:32:46.675747",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "新宿区の 図書館登録者(町丁別図書館登録者数・登録率)です。",
+        "name": " 図書館登録者(町丁別図書館登録者数・登録率)",
         "format": "ZIP",
         "url": "https://www.city.shinjuku.lg.jp/content/000262842.zip",
+        "cache_last_updated": null,
+        "package_id": "12aa6fdc-5ea4-475f-b704-512c0dab6651",
         "created": "2019-06-05T15:00:00",
         "state": "active",
-        "package_id": "12aa6fdc-5ea4-475f-b704-512c0dab6651",
+        "mimetype_inner": null,
         "last_modified": "2019-06-05T15:00:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "cb507573-7d50-4ea4-a9ec-76cd3661e1d4",
-        "size": 76800,
+        "url_type": null,
         "id": "f6b286fb-4291-4dd6-a706-431bfe30d421",
         "resource_type": null,
-        "name": " 図書館登録者(町丁別図書館登録者数・登録率)"
+        "size": 76800
       }
     ],
     "num_resources": 1,
@@ -47,39 +46,40 @@
       {
         "display_name": "生活",
         "description": "",
-        "title": "生活",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
         "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
         "name": "c006"
       }
     ],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t131041d0000000049",
-    "isopen": true,
-    "url": "",
-    "notes": "【新宿区】図書館に関するGISデータです。",
-    "title": "新宿区の図書館登録者(町丁別図書館登録者数・登録率)",
-    "extras": [
-      {
-        "value": "随時",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "",
-      "title": "新宿区",
       "created": "2019-11-01T03:27:24.390617",
-      "approval_status": "approved",
+      "title": "新宿区",
+      "name": "t131041",
       "is_organization": true,
       "state": "active",
       "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131041.jpg",
       "revision_id": "32114732-e02e-4a21-95ea-57f0bde433bb",
       "type": "organization",
       "id": "dae20c75-717a-45a5-91e9-ca6e6530178c",
-      "name": "t131041"
+      "approval_status": "approved"
     },
+    "name": "t131041d0000000049",
+    "isopen": true,
+    "url": "",
+    "notes": "【新宿区】図書館に関するGISデータです。",
+    "owner_org": "dae20c75-717a-45a5-91e9-ca6e6530178c",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "新宿区の図書館登録者(町丁別図書館登録者数・登録率)",
     "revision_id": "cb507573-7d50-4ea4-a9ec-76cd3661e1d4"
   }
 }

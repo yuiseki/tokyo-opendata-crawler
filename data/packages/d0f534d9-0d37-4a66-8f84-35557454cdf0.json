@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "子ども未来部子育て応援課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "d0f534d9-0d37-4a66-8f84-35557454cdf0",
+    "metadata_created": "2022-03-08T04:11:55.859435",
+    "metadata_modified": "2022-03-09T05:18:16.383237",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "ひとり親家庭のための休養ホーム",
+        "name": "ひとり親家庭のための休養ホーム",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/shinagawa/hitorioya_home.csv",
+        "cache_last_updated": null,
+        "package_id": "d0f534d9-0d37-4a66-8f84-35557454cdf0",
+        "created": "2022-03-08T04:12:56.251992",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": null,
+        "position": 0,
+        "revision_id": "f6a10bfe-fb4e-4d01-9587-888fc6d6b046",
+        "url_type": null,
+        "id": "828b38ca-6582-4c97-ae5c-4974472fc37d",
+        "resource_type": null,
+        "size": 1
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.shinagawa.tokyo.jp/",
+      "created": "2019-11-01T03:27:24.888527",
+      "title": "品川区",
+      "name": "t131091",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131091.png",
+      "revision_id": "a58c6889-2755-423e-bc8c-5146fb74ae73",
+      "type": "organization",
+      "id": "ee5ed3ad-76a9-4a49-aba7-3a63a457eb93",
+      "approval_status": "approved"
+    },
+    "name": "t131091d0000000039",
+    "isopen": true,
+    "url": "https://www.city.shinagawa.tokyo.jp/PC/kodomo/kodomo-hitorioya/hpg000016379.html",
+    "notes": "ひとり親家庭のための休養ホーム",
+    "owner_org": "ee5ed3ad-76a9-4a49-aba7-3a63a457eb93",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "ひとり親家庭のための休養ホーム",
+    "revision_id": "ca2e4ee4-c062-4694-80a6-9a99fd33197e"
+  }
+}

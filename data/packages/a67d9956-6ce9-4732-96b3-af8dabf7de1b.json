@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "清瀬市福祉・子ども部子育て支援課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "a67d9956-6ce9-4732-96b3-af8dabf7de1b",
+    "metadata_created": "2022-05-27T07:22:55.944085",
+    "metadata_modified": "2022-05-27T07:23:41.731463",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "【清瀬市】ひとり親家庭等への児童扶養手当の受給状況について",
+        "name": "児童扶養手当事業(ひとり親家庭等)",
+        "format": "CSV",
+        "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/008/690/132217_child_rearing_allowance_hitorioyakateitou.csv",
+        "cache_last_updated": null,
+        "package_id": "a67d9956-6ce9-4732-96b3-af8dabf7de1b",
+        "created": "2022-03-31T08:26:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2022-03-31T08:26:00",
+        "position": 0,
+        "revision_id": "3fb8f759-a5a8-4204-adc7-3509e813117f",
+        "url_type": null,
+        "id": "1740bf59-97ca-4ae4-aa60-9310f586da58",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "【清瀬市】ひとり親家庭等への児童扶養手当の受給状況について",
+        "name": "児童扶養手当事業(ひとり親家庭等)",
+        "format": "XLSX",
+        "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/008/690/132217_child_rearing_allowance_hitorioyakateitou.xlsx",
+        "cache_last_updated": null,
+        "package_id": "a67d9956-6ce9-4732-96b3-af8dabf7de1b",
+        "created": "2022-03-31T08:26:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2022-03-31T08:26:00",
+        "position": 1,
+        "revision_id": "8108213a-7499-4cda-910c-87a974f32d1d",
+        "url_type": null,
+        "id": "57f24de2-5eac-4768-bedc-0f26a55a5b2e",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.kiyose.lg.jp/index.html",
+      "created": "2020-08-05T08:00:00.206131",
+      "title": "清瀬市",
+      "name": "t132217",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "f8ef546d-d3f4-46e8-9741-39a6eec61618",
+      "type": "organization",
+      "id": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
+      "approval_status": "approved"
+    },
+    "name": "t132217d0000000066",
+    "isopen": true,
+    "url": "https://www.city.kiyose.lg.jp/opendata/opendataichiran/1008690.html",
+    "notes": "【清瀬市】ひとり親家庭等への児童扶養手当の受給状況について",
+    "owner_org": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "年1回"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "児童扶養手当事業(ひとり親家庭等)",
+    "revision_id": "1d665f1a-5636-4d23-865d-b91829952c34"
+  }
+}

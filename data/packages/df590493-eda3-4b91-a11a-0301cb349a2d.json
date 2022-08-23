@@ -10,67 +10,67 @@
     "num_tags": 0,
     "id": "df590493-eda3-4b91-a11a-0301cb349a2d",
     "metadata_created": "2021-03-18T07:38:19.051679",
-    "owner_org": "9354a576-4de5-44ab-9e62-18a92b40b5e7",
     "metadata_modified": "2021-03-18T07:38:49.783697",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "図書館に関するデータです。",
+        "name": "板橋区の図書館",
         "format": "CSV",
         "url": "https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/010/224/tosyokan.csv",
+        "cache_last_updated": null,
+        "package_id": "df590493-eda3-4b91-a11a-0301cb349a2d",
         "created": "2021-03-18T07:38:45.355917",
         "state": "active",
-        "package_id": "df590493-eda3-4b91-a11a-0301cb349a2d",
+        "mimetype_inner": null,
         "last_modified": null,
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "65ac8926-e9a8-4d98-b2f1-77f0cd1f135a",
-        "size": null,
+        "url_type": null,
         "id": "81734445-ec05-47c7-9fa4-0495af2d030a",
         "resource_type": null,
-        "name": "板橋区の図書館"
+        "size": null
       }
     ],
     "num_resources": 1,
     "tags": [],
     "groups": [],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t131199d0000001381",
-    "isopen": true,
-    "url": "https://www.city.itabashi.tokyo.jp/kyoikuiinkai/shisetsu/toxhokan/1010224.html",
-    "notes": "【板橋区】図書館に関するデータを掲載しています。",
-    "title": "板橋区の図書館",
-    "extras": [
-      {
-        "value": "随時",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "http://www.city.itabashi.tokyo.jp/",
-      "title": "板橋区",
       "created": "2019-11-01T03:27:25.673886",
-      "approval_status": "approved",
+      "title": "板橋区",
+      "name": "t131199",
       "is_organization": true,
       "state": "active",
       "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131199.jpg",
       "revision_id": "1a86d48e-188d-4655-9cc5-c9aedb102db4",
       "type": "organization",
       "id": "9354a576-4de5-44ab-9e62-18a92b40b5e7",
-      "name": "t131199"
+      "approval_status": "approved"
     },
+    "name": "t131199d0000001381",
+    "isopen": true,
+    "url": "https://www.city.itabashi.tokyo.jp/kyoikuiinkai/shisetsu/toxhokan/1010224.html",
+    "notes": "【板橋区】図書館に関するデータを掲載しています。",
+    "owner_org": "9354a576-4de5-44ab-9e62-18a92b40b5e7",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "板橋区の図書館",
     "revision_id": "6020abce-6ee1-4785-bd98-2fffdcfe5c32"
   }
 }

@@ -1,0 +1,114 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "防災まちづくり部防災課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "9b301daa-7db3-4da4-bc57-61bd2e149aa2",
+    "metadata_created": "2022-03-08T04:34:47.147807",
+    "metadata_modified": "2022-03-08T04:35:26.782071",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "消火器（粉末）の位置情報csvデータ",
+        "name": "消火器（粉末）の位置情報(csv形式)",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/shinagawa/shokaki(funmatsu).csv",
+        "cache_last_updated": null,
+        "package_id": "9b301daa-7db3-4da4-bc57-61bd2e149aa2",
+        "created": "2017-07-30T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-07-30T15:00:00",
+        "position": 0,
+        "revision_id": "8288a95e-82ce-4022-8712-c0c56aa16a95",
+        "url_type": null,
+        "id": "6709cf2f-4786-438e-907a-099ca95f8bd5",
+        "resource_type": null,
+        "size": 367
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "消火器（粉末）の位置情報rdfデータ",
+        "name": "消火器（粉末）の位置情報(rdf形式)",
+        "format": "RDF",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/shinagawa/shokaki(funmatsu).rdf",
+        "cache_last_updated": null,
+        "package_id": "9b301daa-7db3-4da4-bc57-61bd2e149aa2",
+        "created": "2017-07-30T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-07-30T15:00:00",
+        "position": 1,
+        "revision_id": "72f88a32-8391-47e8-bc20-ee69fafeb913",
+        "url_type": null,
+        "id": "471d3167-3cbb-4a1c-aaa9-4ff0704c0bf4",
+        "resource_type": null,
+        "size": 4303
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "環境",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c012.png",
+        "title": "環境",
+        "id": "427f3ee0-b28a-4fd2-b7dc-980507f154d2",
+        "name": "c012"
+      },
+      {
+        "display_name": "防災・災害計画",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c001.png",
+        "title": "防災・災害計画",
+        "id": "8eb52f8e-0d10-44f4-8bb4-2a488d0f8465",
+        "name": "c001"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.shinagawa.tokyo.jp/",
+      "created": "2019-11-01T03:27:24.888527",
+      "title": "品川区",
+      "name": "t131091",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131091.png",
+      "revision_id": "a58c6889-2755-423e-bc8c-5146fb74ae73",
+      "type": "organization",
+      "id": "ee5ed3ad-76a9-4a49-aba7-3a63a457eb93",
+      "approval_status": "approved"
+    },
+    "name": "t131091d0000000126",
+    "isopen": true,
+    "url": "",
+    "notes": "消火器（粉末）の位置情報",
+    "owner_org": "ee5ed3ad-76a9-4a49-aba7-3a63a457eb93",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "消火器（粉末）",
+    "revision_id": "d6d8051a-8e3f-4bac-a1c7-20b148234a0e"
+  }
+}

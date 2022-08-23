@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "清瀬市企画部財政課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "fb37e0a9-502d-41e9-a95e-cbec82e03eab",
+    "metadata_created": "2022-05-27T07:22:48.032367",
+    "metadata_modified": "2022-05-27T07:23:34.618495",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "【清瀬市】清瀬市の歳入の予算です。",
+        "name": "予算（歳入）",
+        "format": "CSV",
+        "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/001/611/2021_sainyuuyosan.csv",
+        "cache_last_updated": null,
+        "package_id": "fb37e0a9-502d-41e9-a95e-cbec82e03eab",
+        "created": "2020-01-15T06:03:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-11-18T02:34:00",
+        "position": 0,
+        "revision_id": "a83f0a1d-1e8f-4493-8dd0-5d27786abbea",
+        "url_type": null,
+        "id": "c8bb39f3-d564-41eb-9db8-ce14f9e6b23f",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "【清瀬市】清瀬市の歳入の予算です。",
+        "name": "予算（歳入）",
+        "format": "XLSX",
+        "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/001/611/2021_sainyuuyosan.xlsx",
+        "cache_last_updated": null,
+        "package_id": "fb37e0a9-502d-41e9-a95e-cbec82e03eab",
+        "created": "2020-01-15T00:36:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-09-20T02:44:00",
+        "position": 1,
+        "revision_id": "bdbc1405-c42e-43f8-a56a-1022edc185a9",
+        "url_type": null,
+        "id": "d42d6caa-dd6d-42be-83d1-ad3016377981",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "税金",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c007.png",
+        "title": "税金",
+        "id": "bb8a1d8b-5217-44c2-8eca-81addb671f0e",
+        "name": "c007"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.kiyose.lg.jp/index.html",
+      "created": "2020-08-05T08:00:00.206131",
+      "title": "清瀬市",
+      "name": "t132217",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "f8ef546d-d3f4-46e8-9741-39a6eec61618",
+      "type": "organization",
+      "id": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
+      "approval_status": "approved"
+    },
+    "name": "t132217d0000000018",
+    "isopen": true,
+    "url": "https://www.city.kiyose.lg.jp/opendata/opendataichiran/1001611.html",
+    "notes": "【清瀬市】歳入の予算です。",
+    "owner_org": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "年１回"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "予算（歳入）",
+    "revision_id": "6ad02013-319c-4773-9f55-2ccd69705613"
+  }
+}

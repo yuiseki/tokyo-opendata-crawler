@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "企画部広報広聴課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "ca8174f7-3c7d-4d7b-9709-43a198f3676e",
+    "metadata_created": "2022-03-08T04:11:50.312625",
+    "metadata_modified": "2022-03-09T05:01:13.792242",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "附属機関一覧",
+        "name": "附属機関一覧",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/shinagawa/huzokukikann.csv",
+        "cache_last_updated": null,
+        "package_id": "ca8174f7-3c7d-4d7b-9709-43a198f3676e",
+        "created": "2022-03-08T04:12:19.560338",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": null,
+        "position": 0,
+        "revision_id": "43c9e6f4-04dc-497e-ad9d-8901110e7d72",
+        "url_type": null,
+        "id": "ac7f8e9b-7b0c-4bfd-abed-927997a2a5be",
+        "resource_type": null,
+        "size": 2
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "審議会・委員会等のスケジュール",
+        "name": "審議会・委員会等のスケジュール",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/shinagawa/huzokukikann_skd.csv",
+        "cache_last_updated": null,
+        "package_id": "ca8174f7-3c7d-4d7b-9709-43a198f3676e",
+        "created": "2022-03-08T04:12:19.919094",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": null,
+        "position": 1,
+        "revision_id": "7c55cc41-282b-47b3-af0d-42749423f6c7",
+        "url_type": null,
+        "id": "d376c315-bf4f-4e13-84de-f7ad83cb86fd",
+        "resource_type": null,
+        "size": 4
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.shinagawa.tokyo.jp/",
+      "created": "2019-11-01T03:27:24.888527",
+      "title": "品川区",
+      "name": "t131091",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131091.png",
+      "revision_id": "a58c6889-2755-423e-bc8c-5146fb74ae73",
+      "type": "organization",
+      "id": "ee5ed3ad-76a9-4a49-aba7-3a63a457eb93",
+      "approval_status": "approved"
+    },
+    "name": "t131091d0000000019",
+    "isopen": true,
+    "url": "https://www.city.shinagawa.tokyo.jp/PC/kuseizyoho/kuseizyoho-siryo/kuseizyoho-siryo-huzokukikan/kuseizyoho-siryo-huzokukikan-ichiran/index.html",
+    "notes": "品川区の附属機関の情報",
+    "owner_org": "ee5ed3ad-76a9-4a49-aba7-3a63a457eb93",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "附属機関",
+    "revision_id": "40581822-0bb6-4156-9b11-a8392c430d88"
+  }
+}

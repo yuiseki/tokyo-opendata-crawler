@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "立川市産業文化スポーツ部産業観光課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "53efeb7b-bb4b-4bcf-9c59-adba1b8adf75",
+    "metadata_created": "2021-10-11T02:27:17.057408",
+    "metadata_modified": "2021-10-11T02:27:26.751536",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "中小企業事業資金　資金別、業種別あっせん状況",
+        "format": "CSV",
+        "url": "https://www.city.tachikawa.lg.jp/somu/opendate/koukai/nennpou/jinnkou/documents/3tyuusyoukigyouzigyousikinsikinbetugyousyubetuassenzyoukyou.csv",
+        "cache_last_updated": null,
+        "package_id": "53efeb7b-bb4b-4bcf-9c59-adba1b8adf75",
+        "created": "2020-06-30T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2020-06-30T15:00:00",
+        "position": 0,
+        "revision_id": "f38bac89-a539-4887-86c4-c0122334dbee",
+        "url_type": null,
+        "id": "04149ba9-666c-435f-ad59-c931c78b190a",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "中小企業事業資金　資金別、業種別あっせん状況",
+        "format": "XLS",
+        "url": "https://www.city.tachikawa.lg.jp/somu/opendate/koukai/nennpou/jinnkou/documents/3-5-2chushokigyozigyoushikinbetsugyoushubetsuassenjokyo.xlsx",
+        "cache_last_updated": null,
+        "package_id": "53efeb7b-bb4b-4bcf-9c59-adba1b8adf75",
+        "created": "2020-06-30T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2020-06-30T15:00:00",
+        "position": 1,
+        "revision_id": "6506b275-3407-4f98-8568-c7bb8a4810c1",
+        "url_type": null,
+        "id": "35e2c59e-8466-491c-9698-bfd8e2d24122",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.tachikawa.lg.jp/",
+      "created": "2021-09-21T02:50:23.993914",
+      "title": "立川市",
+      "name": "t132021",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t132021.png",
+      "revision_id": "0d0568c2-ecb1-4a75-9d57-aa0b99213e01",
+      "type": "organization",
+      "id": "cc7a01da-dd01-4fb4-8fb9-5fb2b503c1ce",
+      "approval_status": "approved"
+    },
+    "name": "t132021d0000000015",
+    "isopen": true,
+    "url": "https://www.city.tachikawa.lg.jp/somu/opendate/koukai/nennpou/jinnkou/sangyou-kinnyuu.html",
+    "notes": "【立川市】立川市における中小企業事業者向け事業資金の資金別、業種別のあっせん件数及びあっせん金額の内訳です。",
+    "owner_org": "cc7a01da-dd01-4fb4-8fb9-5fb2b503c1ce",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "立川市の中小企業事業資金　資金別、業種別あっせん状況",
+    "revision_id": "7df3b73d-f4d8-42f7-8d16-a99b556e21bf"
+  }
+}

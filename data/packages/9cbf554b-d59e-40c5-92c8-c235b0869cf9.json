@@ -10,56 +10,55 @@
     "num_tags": 0,
     "id": "9cbf554b-d59e-40c5-92c8-c235b0869cf9",
     "metadata_created": "2020-05-28T09:48:27.195881",
-    "owner_org": "d9a3e421-d822-4377-83e8-30729a913e81",
     "metadata_modified": "2020-05-28T09:48:34.791257",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "",
+        "name": "患者紹介率",
         "format": "CSV",
         "url": "https://www.opendata.metro.tokyo.lg.jp/byouin/h31csv/01_kanjasyoukairitu.csv",
+        "cache_last_updated": null,
+        "package_id": "9cbf554b-d59e-40c5-92c8-c235b0869cf9",
         "created": "2020-03-30T15:00:00",
         "state": "active",
-        "package_id": "9cbf554b-d59e-40c5-92c8-c235b0869cf9",
+        "mimetype_inner": null,
         "last_modified": "2020-03-30T15:00:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "d2f7bff8-ad15-458b-ae72-cb6490424633",
-        "size": null,
+        "url_type": null,
         "id": "e204f556-ae6e-4072-a057-a6481ac1a3cc",
         "resource_type": null,
-        "name": "患者紹介率"
+        "size": null
       },
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "",
+        "name": "返送・逆紹介率",
         "format": "CSV",
         "url": "https://www.opendata.metro.tokyo.lg.jp/byouin/h31csv/02_hensou_gyakusyoukai.csv",
+        "cache_last_updated": null,
+        "package_id": "9cbf554b-d59e-40c5-92c8-c235b0869cf9",
         "created": "2020-03-30T15:00:00",
         "state": "active",
-        "package_id": "9cbf554b-d59e-40c5-92c8-c235b0869cf9",
+        "mimetype_inner": null,
         "last_modified": "2020-03-30T15:00:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 1,
         "revision_id": "c76ee39c-b703-4579-8d34-3d3cb84ea5ba",
-        "size": null,
+        "url_type": null,
         "id": "da2307d4-d6f2-4add-87a0-734e7e827193",
         "resource_type": null,
-        "name": "返送・逆紹介率"
+        "size": null
       }
     ],
     "num_resources": 2,
@@ -68,39 +67,40 @@
       {
         "display_name": "医療・福祉",
         "description": "",
-        "title": "医療・福祉",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c005.png",
+        "title": "医療・福祉",
         "id": "0d3cd956-612c-45c5-b1ee-75c1a5835c0e",
         "name": "c005"
       }
     ],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t000011d1900000002",
-    "isopen": true,
-    "url": "http://www.byouin.metro.tokyo.jp/hokoku/kaigi/keieiryoku01_290517.html",
-    "notes": "",
-    "title": "報告書　都立病院経営委員会_（資料5）都立病院経営委員会「今後の都立病院の担うべき医療の方向性」に関する検討部会中間報告",
-    "extras": [
-      {
-        "value": "不定期",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "http://www.byouin.metro.tokyo.jp/\r\n\r\n所属:東京都",
-      "title": "東京都病院経営本部",
       "created": "2019-11-01T03:27:21.016626",
-      "approval_status": "approved",
+      "title": "東京都病院経営本部",
+      "name": "t000011",
       "is_organization": true,
       "state": "active",
       "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000011.png",
       "revision_id": "77340b90-8479-4008-bb88-d62c96ed0980",
       "type": "organization",
       "id": "d9a3e421-d822-4377-83e8-30729a913e81",
-      "name": "t000011"
+      "approval_status": "approved"
     },
+    "name": "t000011d1900000002",
+    "isopen": true,
+    "url": "http://www.byouin.metro.tokyo.jp/hokoku/kaigi/keieiryoku01_290517.html",
+    "notes": "",
+    "owner_org": "d9a3e421-d822-4377-83e8-30729a913e81",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "報告書　都立病院経営委員会_（資料5）都立病院経営委員会「今後の都立病院の担うべき医療の方向性」に関する検討部会中間報告",
     "revision_id": "d2f7bff8-ad15-458b-ae72-cb6490424633"
   }
 }

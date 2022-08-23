@@ -3,14 +3,14 @@
   "success": true,
   "result": {
     "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
-    "maintainer": "農業委員会事務局",
+    "maintainer": "都市農業担当部都市農業課",
     "relationships_as_object": [],
     "private": false,
     "maintainer_email": null,
     "num_tags": 0,
     "id": "09e70602-2cb1-4067-8412-637c4355db8b",
     "metadata_created": "2019-11-01T04:57:52.350822",
-    "metadata_modified": "2019-11-01T08:44:35.189920",
+    "metadata_modified": "2022-04-26T01:47:36.238791",
     "author": null,
     "author_email": null,
     "state": "active",
@@ -206,6 +206,6 @@
     ],
     "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "title": "農業経営実態調査",
-    "revision_id": "204edc7c-7dbd-4bc0-9553-036212f450e2"
+    "revision_id": "b3078b3b-230c-4879-867a-bb3e1e32ec3f"
   }
 }

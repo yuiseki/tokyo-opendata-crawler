@@ -10,56 +10,55 @@
     "num_tags": 0,
     "id": "5fcb71ba-4cd5-4245-a47f-86d7832df17e",
     "metadata_created": "2021-06-16T02:24:39.782918",
-    "owner_org": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
     "metadata_modified": "2021-06-16T02:25:17.842118",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "【清瀬市】令和元年度に行った選挙の投票率です。",
+        "name": "清瀬市長選挙",
         "format": "CSV",
         "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/008/692/132217_r1_election2.csv",
+        "cache_last_updated": null,
+        "package_id": "5fcb71ba-4cd5-4245-a47f-86d7832df17e",
         "created": "2021-03-15T01:14:00",
         "state": "active",
-        "package_id": "5fcb71ba-4cd5-4245-a47f-86d7832df17e",
+        "mimetype_inner": null,
         "last_modified": "2021-03-15T01:14:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "b8763260-a6e4-4b77-a22a-85c332a815f9",
-        "size": null,
+        "url_type": null,
         "id": "c4e7b97b-9975-4d2f-99e9-f08a667c5693",
         "resource_type": null,
-        "name": "清瀬市長選挙"
+        "size": null
       },
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "【清瀬市】令和元年度に行った選挙の投票率です。",
+        "name": "清瀬市長選挙",
         "format": "XLSX",
         "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/008/692/132217_r1_election2.xlsx",
+        "cache_last_updated": null,
+        "package_id": "5fcb71ba-4cd5-4245-a47f-86d7832df17e",
         "created": "2021-03-18T06:51:00",
         "state": "active",
-        "package_id": "5fcb71ba-4cd5-4245-a47f-86d7832df17e",
+        "mimetype_inner": null,
         "last_modified": "2021-03-18T06:51:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 1,
         "revision_id": "4e57de8b-39db-4aff-8c11-8dbc55b0829e",
-        "size": null,
+        "url_type": null,
         "id": "ab3e8ecc-9e5f-401d-94a6-5a3d97b9ad7b",
         "resource_type": null,
-        "name": "清瀬市長選挙"
+        "size": null
       }
     ],
     "num_resources": 2,
@@ -68,39 +67,40 @@
       {
         "display_name": "その他",
         "description": "",
-        "title": "その他",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
         "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
         "name": "c014"
       }
     ],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t132217d0000000041",
-    "isopen": true,
-    "url": "https://www.city.kiyose.lg.jp/opendata/opendataichiran/1008692.html",
-    "notes": "【清瀬市】令和元年度に行った市長選挙の投票率です。",
-    "title": "清瀬市長選挙",
-    "extras": [
-      {
-        "value": "変更の都度",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "https://www.city.kiyose.lg.jp/index.html",
-      "title": "清瀬市",
       "created": "2020-08-05T08:00:00.206131",
-      "approval_status": "approved",
+      "title": "清瀬市",
+      "name": "t132217",
       "is_organization": true,
       "state": "active",
       "image_url": "",
       "revision_id": "f8ef546d-d3f4-46e8-9741-39a6eec61618",
       "type": "organization",
       "id": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
-      "name": "t132217"
+      "approval_status": "approved"
     },
+    "name": "t132217d0000000041",
+    "isopen": true,
+    "url": "https://www.city.kiyose.lg.jp/opendata/opendataichiran/1008692.html",
+    "notes": "【清瀬市】令和元年度に行った市長選挙の投票率です。",
+    "owner_org": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "変更の都度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "清瀬市長選挙",
     "revision_id": "a327ec82-62c4-4d48-8273-f630f13b48b4"
   }
 }

@@ -10,67 +10,67 @@
     "num_tags": 0,
     "id": "42d59bea-0850-4b29-a8c9-0bc0e387ad09",
     "metadata_created": "2019-11-01T04:58:41.115669",
-    "owner_org": "01ee6b09-cb58-4100-8d95-623ad6b238ef",
     "metadata_modified": "2020-05-22T09:03:46.737718",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "区域調査時期：2019年6月",
+        "name": "町内会・自治会区域図",
         "format": "ZIP",
         "url": "https://www.city.machida.tokyo.jp/shisei/opendata/chizujoho/chounaikai.files/chounaikaijichikai.zip",
+        "cache_last_updated": null,
+        "package_id": "42d59bea-0850-4b29-a8c9-0bc0e387ad09",
         "created": "2017-03-19T15:00:00",
         "state": "active",
-        "package_id": "42d59bea-0850-4b29-a8c9-0bc0e387ad09",
+        "mimetype_inner": null,
         "last_modified": "2017-12-06T15:00:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "7f16f214-964b-4bf8-ac60-8394af2778aa",
-        "size": 297984,
+        "url_type": null,
         "id": "6e4eed21-4137-4c2f-9611-4a868213d8d7",
         "resource_type": null,
-        "name": "町内会・自治会区域図"
+        "size": 297984
       }
     ],
     "num_resources": 1,
     "tags": [],
     "groups": [],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t132098d0000000022",
-    "isopen": true,
-    "url": "",
-    "notes": "【町田市】区域は町田市が定めているものではありません。町内会・自治会の区域は、加入世帯の増減や開発等により、区域が変動する可能性があります。区域の細部については、各町内会・自治会への確認が必要な場合があります。\n",
-    "title": "町内会・自治会区域図",
-    "extras": [
-      {
-        "value": "随時",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "https://www.city.machida.tokyo.jp/",
-      "title": "町田市",
       "created": "2019-11-01T03:27:26.775139",
-      "approval_status": "approved",
+      "title": "町田市",
+      "name": "t132098",
       "is_organization": true,
       "state": "active",
       "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t132098.png",
       "revision_id": "afc39d6e-faf0-4358-90a5-a32d669724a1",
       "type": "organization",
       "id": "01ee6b09-cb58-4100-8d95-623ad6b238ef",
-      "name": "t132098"
+      "approval_status": "approved"
     },
+    "name": "t132098d0000000022",
+    "isopen": true,
+    "url": "",
+    "notes": "【町田市】区域は町田市が定めているものではありません。町内会・自治会の区域は、加入世帯の増減や開発等により、区域が変動する可能性があります。区域の細部については、各町内会・自治会への確認が必要な場合があります。\n",
+    "owner_org": "01ee6b09-cb58-4100-8d95-623ad6b238ef",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "町内会・自治会区域図",
     "revision_id": "f9d91ede-b868-46a6-b1f6-41f217553dad"
   }
 }

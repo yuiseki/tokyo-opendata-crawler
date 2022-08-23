@@ -6,15 +6,15 @@
     "maintainer": "生活福祉部保護課保護担当",
     "relationships_as_object": [],
     "private": false,
-    "maintainer_email": null,
+    "maintainer_email": "",
     "num_tags": 0,
     "id": "6a3ef77f-dda0-42d3-bd30-1346586f0e6a",
     "metadata_created": "2019-11-01T04:54:30.214328",
-    "metadata_modified": "2019-11-01T06:10:56.232652",
-    "author": null,
-    "author_email": null,
+    "metadata_modified": "2022-02-22T05:16:13.261789",
+    "author": "",
+    "author_email": "",
     "state": "active",
-    "version": null,
+    "version": "",
     "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
@@ -25,7 +25,7 @@
         "description": "",
         "name": "福祉事務所一覧",
         "format": "CSV",
-        "url": "http://www.fukushihoken.metro.tokyo.jp/seikatsu/shisetsu/fukushi.files/fukushi.csv",
+        "url": "https://www.fukushihoken.metro.tokyo.lg.jp/seikatsu/shisetsu/fukushi.files/fukushi021224.csv",
         "cache_last_updated": null,
         "package_id": "6a3ef77f-dda0-42d3-bd30-1346586f0e6a",
         "created": "2019-06-17T15:00:00",
@@ -33,7 +33,7 @@
         "mimetype_inner": null,
         "last_modified": "2019-06-17T15:00:00",
         "position": 0,
-        "revision_id": "55cf3f02-b799-44df-bae8-a7a4ce89dc8f",
+        "revision_id": "bc8990ea-6135-4db8-b294-a840cb5427fb",
         "url_type": null,
         "id": "58b57609-183d-40d0-b366-28e1ee3cb537",
         "resource_type": null,
@@ -80,6 +80,6 @@
     ],
     "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "title": "福祉事務所一覧",
-    "revision_id": "c05e40fd-a864-41dc-a4a8-d0aad68a0869"
+    "revision_id": "3f0c3a7d-33b5-4221-83e3-aa15b55c6ee7"
   }
 }

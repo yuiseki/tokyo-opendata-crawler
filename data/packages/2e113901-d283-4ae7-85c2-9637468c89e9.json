@@ -607,8 +607,8 @@
       "name": "t131075",
       "is_organization": true,
       "state": "active",
-      "image_url": "",
-      "revision_id": "f67005c0-e31a-47df-87af-cf1859f3e09b",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131075.png",
+      "revision_id": "42e38919-ad11-47c9-b8fe-29f803963c1e",
       "type": "organization",
       "id": "724ce337-ffb8-4df6-8c3c-eb302e46f786",
       "approval_status": "approved"

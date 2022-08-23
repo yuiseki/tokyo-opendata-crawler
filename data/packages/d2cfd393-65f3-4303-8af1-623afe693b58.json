@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "東京都環境局資源循環推進部 産業廃棄物対策課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "d2cfd393-65f3-4303-8af1-623afe693b58",
+    "metadata_created": "2021-06-03T03:00:39.255079",
+    "metadata_modified": "2021-06-03T03:00:44.181963",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "３ 廃棄物別排出量_平成２９年度 産業廃棄物排出割合 （％）",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/kankyo/R3/shukei_koufu_29_1.csv",
+        "cache_last_updated": null,
+        "package_id": "d2cfd393-65f3-4303-8af1-623afe693b58",
+        "created": "2021-04-12T05:29:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2021-04-12T05:29:00",
+        "position": 0,
+        "revision_id": "3f4c9283-79c0-44b5-b101-87d34c901aae",
+        "url_type": null,
+        "id": "d3e8ffc2-9714-4338-9386-c1bbb50253b8",
+        "resource_type": null,
+        "size": 310
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.kankyo.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.710014",
+      "title": "東京都環境局",
+      "name": "t000009",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "a0bf6c30-64dc-48fe-9782-e38ae248a38d",
+      "type": "organization",
+      "id": "c8b93db3-9754-48d3-8b50-5cbe78d679e7",
+      "approval_status": "approved"
+    },
+    "name": "t000009d2000000027",
+    "isopen": true,
+    "url": "https://www.kankyo.metro.tokyo.lg.jp/resource/industrial_waste/notification/summary_delivery_status.files/shukei_koufu_29.pdf",
+    "notes": "",
+    "owner_org": "c8b93db3-9754-48d3-8b50-5cbe78d679e7",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "都内における産業廃棄物管理票交付等状況報告書集計結果(平成29年度報告)",
+    "revision_id": "0320465e-cea0-4b5d-a7d1-2dd667edc5a9"
+  }
+}

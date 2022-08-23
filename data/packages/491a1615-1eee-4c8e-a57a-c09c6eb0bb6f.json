@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "清瀬市市民環境部環境課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "491a1615-1eee-4c8e-a57a-c09c6eb0bb6f",
+    "metadata_created": "2022-05-27T07:22:55.242167",
+    "metadata_modified": "2022-05-27T07:23:41.167589",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "【清瀬市】年度ごとのごみ収集の実績です。",
+        "name": "ごみ収集実績",
+        "format": "CSV",
+        "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/001/613/132217_garbage_collection.csv",
+        "cache_last_updated": null,
+        "package_id": "491a1615-1eee-4c8e-a57a-c09c6eb0bb6f",
+        "created": "2022-03-31T08:27:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2022-03-31T08:27:00",
+        "position": 0,
+        "revision_id": "20a21f9c-a48d-4ad5-9457-2857f516cdb3",
+        "url_type": null,
+        "id": "92eeadda-e815-4f90-98fc-61b4d656f13e",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "【清瀬市】年度ごとのごみ収集の実績です。",
+        "name": "ごみ収集実績",
+        "format": "XLSX",
+        "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/001/613/132217_garbage_collection.xlsx",
+        "cache_last_updated": null,
+        "package_id": "491a1615-1eee-4c8e-a57a-c09c6eb0bb6f",
+        "created": "2022-03-31T08:27:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2022-03-31T08:27:00",
+        "position": 1,
+        "revision_id": "ed0799b7-3689-4c5e-bb9f-35d923525c78",
+        "url_type": null,
+        "id": "73b8f09e-e307-4a85-97ec-413faa4b7c1d",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "環境",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c012.png",
+        "title": "環境",
+        "id": "427f3ee0-b28a-4fd2-b7dc-980507f154d2",
+        "name": "c012"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.kiyose.lg.jp/index.html",
+      "created": "2020-08-05T08:00:00.206131",
+      "title": "清瀬市",
+      "name": "t132217",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "f8ef546d-d3f4-46e8-9741-39a6eec61618",
+      "type": "organization",
+      "id": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
+      "approval_status": "approved"
+    },
+    "name": "t132217d0000000063",
+    "isopen": true,
+    "url": "https://www.city.kiyose.lg.jp/opendata/opendataichiran/1001613.html",
+    "notes": "【清瀬市】年度ごとのごみ収集の実績です。",
+    "owner_org": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "年1回"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "ごみ収集実績",
+    "revision_id": "5a4821db-b5d8-4dcb-a017-3bf0d86cf852"
+  }
+}

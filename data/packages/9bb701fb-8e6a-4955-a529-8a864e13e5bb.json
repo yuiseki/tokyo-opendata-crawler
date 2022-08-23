@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "清瀬市教育部生涯学習スポーツ課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "9bb701fb-8e6a-4955-a529-8a864e13e5bb",
+    "metadata_created": "2022-05-27T07:22:57.117280",
+    "metadata_modified": "2022-05-27T07:23:36.380751",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "【清瀬市】運動ができる施設の詳細情報",
+        "name": "運動施設一覧",
+        "format": "CSV",
+        "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/001/604/132217_sports_facility.csv",
+        "cache_last_updated": null,
+        "package_id": "9bb701fb-8e6a-4955-a529-8a864e13e5bb",
+        "created": "2022-03-31T08:31:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2022-03-31T08:31:00",
+        "position": 0,
+        "revision_id": "d92552b9-8acd-4f63-8420-58483a4c1b02",
+        "url_type": null,
+        "id": "2a3ef7c3-2327-4179-bccd-27366105d7c0",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "【清瀬市】運動ができる施設の詳細情報",
+        "name": "運動施設一覧",
+        "format": "XLSX",
+        "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/001/604/132217_sports_facility.xlsx",
+        "cache_last_updated": null,
+        "package_id": "9bb701fb-8e6a-4955-a529-8a864e13e5bb",
+        "created": "2022-03-31T08:30:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2022-03-31T08:30:00",
+        "position": 1,
+        "revision_id": "f56b8f42-753a-46f0-9be9-7ee8fc62c0c9",
+        "url_type": null,
+        "id": "462f0e06-8cc7-4a82-bf28-4216b2669b6e",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.kiyose.lg.jp/index.html",
+      "created": "2020-08-05T08:00:00.206131",
+      "title": "清瀬市",
+      "name": "t132217",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "f8ef546d-d3f4-46e8-9741-39a6eec61618",
+      "type": "organization",
+      "id": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
+      "approval_status": "approved"
+    },
+    "name": "t132217d0000000070",
+    "isopen": true,
+    "url": "https://www.city.kiyose.lg.jp/opendata/opendataichiran/1001604.html",
+    "notes": "【清瀬市】運動ができる施設の詳細情報",
+    "owner_org": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "変更の都度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "運動施設一覧",
+    "revision_id": "ac19ffde-da2a-4228-86f8-8cc017594b1d"
+  }
+}

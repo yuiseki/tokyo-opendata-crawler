@@ -6,15 +6,15 @@
     "maintainer": "土木部工事課",
     "relationships_as_object": [],
     "private": false,
-    "maintainer_email": null,
+    "maintainer_email": "",
     "num_tags": 0,
     "id": "32d84cb4-4da8-4c51-a70b-239d3de98528",
     "metadata_created": "2021-03-18T07:38:18.323063",
-    "metadata_modified": "2021-04-26T23:08:57.159155",
-    "author": null,
-    "author_email": null,
+    "metadata_modified": "2022-02-17T00:03:06.442762",
+    "author": "",
+    "author_email": "",
     "state": "active",
-    "version": null,
+    "version": "",
     "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
@@ -25,7 +25,7 @@
         "description": "土のうステーションに関するデータです。",
         "name": "土のうステーションオープンデータ",
         "format": "CSV",
-        "url": "https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/005/714/opendata.csv",
+        "url": "https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/005/714/donostation-s/opendata.csv",
         "cache_last_updated": null,
         "package_id": "32d84cb4-4da8-4c51-a70b-239d3de98528",
         "created": "2021-04-26T05:57:28.388326",
@@ -33,7 +33,7 @@
         "mimetype_inner": null,
         "last_modified": null,
         "position": 0,
-        "revision_id": "51e74787-8547-41b0-80be-f612b515806d",
+        "revision_id": "e7ddf83d-74c7-4518-8344-7327ac8dbc00",
         "url_type": null,
         "id": "59fd0e56-a92c-4323-bf12-057423505750",
         "resource_type": null,
@@ -71,6 +71,6 @@
     ],
     "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "title": "土のうステーション",
-    "revision_id": "d703daad-1f67-4634-8559-e591e442f287"
+    "revision_id": "57e6975d-64dd-4b36-a75e-43e8fb485e48"
   }
 }

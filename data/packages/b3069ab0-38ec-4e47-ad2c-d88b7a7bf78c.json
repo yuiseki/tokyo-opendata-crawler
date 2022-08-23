@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "子ども家庭支援部　保育政策課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "b3069ab0-38ec-4e47-ad2c-d88b7a7bf78c",
+    "metadata_created": "2022-08-08T02:09:58.835217",
+    "metadata_modified": "2022-08-08T02:10:33.459804",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "就学前児童に対する子育て支援検討に当たってのアンケート調査票です。",
+        "name": "[港区]就学前児童に対する子育て支援検討に当たってのアンケート調査票",
+        "format": "PDF",
+        "url": "https://opendata.city.minato.tokyo.jp/dataset/db680ba7-4e06-463f-bf86-ec1ea9653415/resource/72d34506-a310-49ad-8d4e-78121511ee8b/download/kosodate_anketo_hyo.pdf",
+        "cache_last_updated": null,
+        "package_id": "b3069ab0-38ec-4e47-ad2c-d88b7a7bf78c",
+        "created": "2022-07-03T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2022-07-03T15:00:00",
+        "position": 0,
+        "revision_id": "c7197b51-eda6-46b4-acbb-50fcb8544f66",
+        "url_type": null,
+        "id": "665b3520-51cc-4066-b645-a4ef739015e6",
+        "resource_type": null,
+        "size": 1187840
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "就学前児童に対する子育て支援検討に当たってのアンケート調査結果です。",
+        "name": "[港区]就学前児童に対する子育て支援検討に当たってのアンケート調査結果",
+        "format": "CSV",
+        "url": "https://opendata.city.minato.tokyo.jp/dataset/db680ba7-4e06-463f-bf86-ec1ea9653415/resource/9852f92f-b1f7-4949-be96-c4f822ed78f9/download/kosodate_anketo_kekka.csv",
+        "cache_last_updated": null,
+        "package_id": "b3069ab0-38ec-4e47-ad2c-d88b7a7bf78c",
+        "created": "2022-07-03T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2022-07-03T15:00:00",
+        "position": 1,
+        "revision_id": "7bb6ad0e-b8a7-4273-b9f9-5bc06e200658",
+        "url_type": null,
+        "id": "d2e1f579-9489-45a2-b6fd-62833bc61300",
+        "resource_type": null,
+        "size": 1443840
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.minato.tokyo.jp/",
+      "created": "2019-11-01T03:27:24.220357",
+      "title": "港区",
+      "name": "t131032",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131032.jpg",
+      "revision_id": "8f5676eb-3316-4cc6-b26a-4f7e1b39e109",
+      "type": "organization",
+      "id": "6adece4f-1ee9-416a-a7e7-856b8d5fb050",
+      "approval_status": "approved"
+    },
+    "name": "t131032d0000000125",
+    "isopen": true,
+    "url": "",
+    "notes": "[港区]就学前児童に対する子育て支援検討に当たってのアンケート調査票です。",
+    "owner_org": "6adece4f-1ee9-416a-a7e7-856b8d5fb050",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "更新無"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "港区の就学前児童に対する子育て支援検討に当たってのアンケート調査",
+    "revision_id": "a0cde8f1-e564-4d30-b9a2-f2c740fa3709"
+  }
+}

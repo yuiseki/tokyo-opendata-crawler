@@ -6,71 +6,71 @@
     "maintainer": "政策経営部IT推進課",
     "relationships_as_object": [],
     "private": false,
-    "maintainer_email": null,
+    "maintainer_email": "",
     "num_tags": 0,
     "id": "edf8adb6-c895-4b22-af2e-3d544ea9b4e7",
     "metadata_created": "2021-03-18T07:38:08.812937",
-    "owner_org": "9354a576-4de5-44ab-9e62-18a92b40b5e7",
-    "metadata_modified": "2021-03-18T07:38:46.867268",
-    "author": null,
-    "author_email": null,
+    "metadata_modified": "2022-02-17T02:43:32.930307",
+    "author": "",
+    "author_email": "",
     "state": "active",
-    "version": null,
-    "license_id": "CC-BY-4.0",
+    "version": "",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "公衆無線LANアクセスポイント設置施設の一覧に関するデータです。",
+        "name": "公衆無線LANアクセスポイント一覧",
         "format": "CSV",
-        "url": "https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/010/232/attach_96082.csv",
+        "url": "https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/010/232/attach_96085.csv",
+        "cache_last_updated": null,
+        "package_id": "edf8adb6-c895-4b22-af2e-3d544ea9b4e7",
         "created": "2021-03-18T07:38:34.227434",
         "state": "active",
-        "package_id": "edf8adb6-c895-4b22-af2e-3d544ea9b4e7",
+        "mimetype_inner": null,
         "last_modified": null,
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
-        "revision_id": "e81afd68-fc44-4e13-8cb6-42c93d7a9d71",
-        "size": 7475,
+        "revision_id": "9d887219-2215-43ef-b6cd-356c8cbb81ad",
+        "url_type": null,
         "id": "d1cb6843-812f-42c3-9b95-cccf280f2493",
         "resource_type": null,
-        "name": "公衆無線LANアクセスポイント一覧"
+        "size": 7475
       }
     ],
     "num_resources": 1,
     "tags": [],
     "groups": [],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t131199d0000000157",
-    "isopen": true,
-    "url": "https://www.city.itabashi.tokyo.jp/kusei/joho/wifi/1010232.html",
-    "notes": "【板橋区】公衆無線LANアクセスポイント設置場所について、データを掲載しています。",
-    "title": "公衆無線LANアクセスポイント一覧",
-    "extras": [
-      {
-        "value": "随時",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "http://www.city.itabashi.tokyo.jp/",
-      "title": "板橋区",
       "created": "2019-11-01T03:27:25.673886",
-      "approval_status": "approved",
+      "title": "板橋区",
+      "name": "t131199",
       "is_organization": true,
       "state": "active",
       "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131199.jpg",
       "revision_id": "1a86d48e-188d-4655-9cc5-c9aedb102db4",
       "type": "organization",
       "id": "9354a576-4de5-44ab-9e62-18a92b40b5e7",
-      "name": "t131199"
+      "approval_status": "approved"
     },
-    "revision_id": "42956918-c5ad-4f4a-876d-1bba71bbfe63"
+    "name": "t131199d0000000157",
+    "isopen": true,
+    "url": "https://www.city.itabashi.tokyo.jp/kusei/joho/wifi/1010232.html",
+    "notes": "【板橋区】公衆無線LANアクセスポイント設置場所について、データを掲載しています。",
+    "owner_org": "9354a576-4de5-44ab-9e62-18a92b40b5e7",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "公衆無線LANアクセスポイント一覧",
+    "revision_id": "969fe6b8-495d-45e5-a3f0-becff711ce43"
   }
 }

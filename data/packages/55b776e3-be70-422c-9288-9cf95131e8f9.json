@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "清瀬市市民環境部市民課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "55b776e3-be70-422c-9288-9cf95131e8f9",
+    "metadata_created": "2022-05-27T07:22:45.977596",
+    "metadata_modified": "2022-05-27T07:23:33.432896",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "【清瀬市】消防水利施設の一覧です。",
+        "name": "地域・年齢別人口",
+        "format": "CSV",
+        "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/001/606/132217_population_20220501.csv",
+        "cache_last_updated": null,
+        "package_id": "55b776e3-be70-422c-9288-9cf95131e8f9",
+        "created": "2022-05-27T07:23:05.025482",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2022-05-06T05:44:00",
+        "position": 0,
+        "revision_id": "e3cf8113-f34c-4293-a3af-fb55624ac905",
+        "url_type": null,
+        "id": "7b53c3c5-602a-4739-9446-8b720418eefd",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "【清瀬市】地域ごとの年齢別人口です。",
+        "name": "地域・年齢別人口",
+        "format": "XLSX",
+        "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/001/606/132217_population_20220501.xlsx",
+        "cache_last_updated": null,
+        "package_id": "55b776e3-be70-422c-9288-9cf95131e8f9",
+        "created": "2022-05-27T07:23:05.426985",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2022-05-06T05:55:00",
+        "position": 1,
+        "revision_id": "3cdcfda7-11fa-47ed-8414-d3b1b89c362d",
+        "url_type": null,
+        "id": "9350d95d-a541-47b1-852d-e3deaf3b3e83",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "人口減少・少子高齢化",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c004.png",
+        "title": "人口減少・少子高齢化",
+        "id": "802d7d18-3543-4e8b-a8f5-82b5f1aa752e",
+        "name": "c004"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.kiyose.lg.jp/index.html",
+      "created": "2020-08-05T08:00:00.206131",
+      "title": "清瀬市",
+      "name": "t132217",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "f8ef546d-d3f4-46e8-9741-39a6eec61618",
+      "type": "organization",
+      "id": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
+      "approval_status": "approved"
+    },
+    "name": "t132217d0000000012",
+    "isopen": true,
+    "url": "https://www.city.kiyose.lg.jp/opendata/opendataichiran/1001606.html",
+    "notes": "【清瀬市】地域ごとの年齢別人口です。",
+    "owner_org": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "月1回"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "地域・年齢別人口",
+    "revision_id": "03495ae2-e38f-4c0a-858c-c83a87989b72"
+  }
+}

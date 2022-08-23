@@ -10,56 +10,55 @@
     "num_tags": 0,
     "id": "1cf91476-4e50-4487-bd94-35b184c40ef1",
     "metadata_created": "2020-05-14T08:02:13.127733",
-    "owner_org": "6adece4f-1ee9-416a-a7e7-856b8d5fb050",
     "metadata_modified": "2020-05-14T08:08:10.234778",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "国勢調査による総合支所別・町丁目別面積、昼夜間人口等です。",
+        "name": "国勢調査による総合支所別・町丁目別面積、昼夜間人口等：総合支所別",
         "format": "CSV",
         "url": "https://opendata.city.minato.tokyo.jp/dataset/0521ce2e-fbf8-4f48-870f-0be06fe85ba2/resource/df2c3493-8bcc-4645-bb28-f7e488ea3f43/download/kokuseichosa_chikubetsu.csv",
+        "cache_last_updated": null,
+        "package_id": "1cf91476-4e50-4487-bd94-35b184c40ef1",
         "created": "2015-10-29T15:00:00",
         "state": "active",
-        "package_id": "1cf91476-4e50-4487-bd94-35b184c40ef1",
+        "mimetype_inner": null,
         "last_modified": "2018-09-11T15:00:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "3e4258c2-174b-4fff-845d-7d8556950f1f",
-        "size": 1024,
+        "url_type": null,
         "id": "12f6978a-d086-4440-aacf-9e5aaf776090",
         "resource_type": null,
-        "name": "国勢調査による総合支所別・町丁目別面積、昼夜間人口等：総合支所別"
+        "size": 1024
       },
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "国勢調査による総合支所別・町丁目別面積、昼夜間人口等です。",
+        "name": "国勢調査による総合支所別・町丁目別面積、昼夜間人口等：町丁目別",
         "format": "CSV",
         "url": "https://opendata.city.minato.tokyo.jp/dataset/0521ce2e-fbf8-4f48-870f-0be06fe85ba2/resource/27e2843c-16de-404c-a9de-43fe64dcf22b/download/kokuseichosa_chochomokubetsu.csv",
+        "cache_last_updated": null,
+        "package_id": "1cf91476-4e50-4487-bd94-35b184c40ef1",
         "created": "2015-10-29T15:00:00",
         "state": "active",
-        "package_id": "1cf91476-4e50-4487-bd94-35b184c40ef1",
+        "mimetype_inner": null,
         "last_modified": "2018-09-11T15:00:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 1,
         "revision_id": "fbc93e96-32ee-4544-92fd-140692941013",
-        "size": 21504,
+        "url_type": null,
         "id": "555772b3-393e-4e85-8d2c-9134ade3291a",
         "resource_type": null,
-        "name": "国勢調査による総合支所別・町丁目別面積、昼夜間人口等：町丁目別"
+        "size": 21504
       }
     ],
     "num_resources": 2,
@@ -68,39 +67,40 @@
       {
         "display_name": "人口減少・少子高齢化",
         "description": "",
-        "title": "人口減少・少子高齢化",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c004.png",
+        "title": "人口減少・少子高齢化",
         "id": "802d7d18-3543-4e8b-a8f5-82b5f1aa752e",
         "name": "c004"
       }
     ],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t131032d0000000020",
-    "isopen": true,
-    "url": "https://www.city.minato.tokyo.jp/toukeichousa/kuse/toke/jinko/kokusechosa/index.html",
-    "notes": "【港区】国勢調査に基づく情報です。",
-    "title": "国勢調査による総合支所別・町丁目別面積、昼夜間人口等",
-    "extras": [
-      {
-        "value": "5年ごと",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "http://www.city.minato.tokyo.jp/",
-      "title": "港区",
       "created": "2019-11-01T03:27:24.220357",
-      "approval_status": "approved",
+      "title": "港区",
+      "name": "t131032",
       "is_organization": true,
       "state": "active",
       "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131032.jpg",
       "revision_id": "8f5676eb-3316-4cc6-b26a-4f7e1b39e109",
       "type": "organization",
       "id": "6adece4f-1ee9-416a-a7e7-856b8d5fb050",
-      "name": "t131032"
+      "approval_status": "approved"
     },
+    "name": "t131032d0000000020",
+    "isopen": true,
+    "url": "https://www.city.minato.tokyo.jp/toukeichousa/kuse/toke/jinko/kokusechosa/index.html",
+    "notes": "【港区】国勢調査に基づく情報です。",
+    "owner_org": "6adece4f-1ee9-416a-a7e7-856b8d5fb050",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "5年ごと"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "国勢調査による総合支所別・町丁目別面積、昼夜間人口等",
     "revision_id": "70753a6e-f1a0-4842-8c15-6a83ac6b4ef7"
   }
 }

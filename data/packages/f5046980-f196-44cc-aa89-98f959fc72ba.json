@@ -3,63 +3,60 @@
   "success": true,
   "result": {
     "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
-    "maintainer": "清瀬市企画部秘書広報課",
+    "maintainer": "清瀬市企画部シティプロモーション課",
     "relationships_as_object": [],
     "private": false,
     "maintainer_email": null,
     "num_tags": 0,
     "id": "f5046980-f196-44cc-aa89-98f959fc72ba",
     "metadata_created": "2020-11-10T01:37:10.068711",
-    "owner_org": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
-    "metadata_modified": "2021-06-16T02:25:11.021903",
+    "metadata_modified": "2022-05-27T07:23:33.617673",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "【清瀬市】設置している公衆無線LANアクセスポイントの一覧です。",
         "format": "CSV",
         "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/001/609/132217_public_wireless_lan.csv",
-        "created": "2018-06-18T02:16:00",
-        "state": "active",
+        "cache_last_updated": null,
         "package_id": "f5046980-f196-44cc-aa89-98f959fc72ba",
+        "name": "公衆無線LANアクセスポイント一覧",
+        "state": "active",
+        "mimetype_inner": null,
         "last_modified": "2020-01-21T06:36:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
-        "revision_id": "0cbd486b-0e57-4e60-b727-90d49f3b1ed5",
-        "size": 2048,
+        "revision_id": "efda8b69-0fbd-4221-afd3-6d3d12d01d17",
+        "url_type": null,
         "id": "22dba6df-b978-46a6-98f1-2adf5d612f64",
         "resource_type": null,
-        "name": "公衆無線LANアクセスポイント一覧"
+        "size": 2048
       },
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "【清瀬市】設置している公衆無線LANアクセスポイントの一覧です。",
         "format": "XLSX",
         "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/001/609/132217_public_wireless_lan.xlsx",
-        "created": "2018-06-18T02:16:00",
-        "state": "active",
+        "cache_last_updated": null,
         "package_id": "f5046980-f196-44cc-aa89-98f959fc72ba",
+        "name": "公衆無線LANアクセスポイント一覧",
+        "state": "active",
+        "mimetype_inner": null,
         "last_modified": "2019-12-27T03:39:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 1,
-        "revision_id": "0e4dee10-988c-42a1-a2fd-066abfaa07ad",
-        "size": 2048,
+        "revision_id": "1c9ce2e4-9a99-4685-8169-5f1e1d6013fb",
+        "url_type": null,
         "id": "6582f14e-818e-49e0-ab90-01fc6b8b8f03",
         "resource_type": null,
-        "name": "公衆無線LANアクセスポイント一覧"
+        "size": 2048
       }
     ],
     "num_resources": 2,
@@ -68,39 +65,40 @@
       {
         "display_name": "観光",
         "description": "",
-        "title": "観光",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c008.png",
+        "title": "観光",
         "id": "420fd8d6-2bde-4746-9354-6344ec19ba93",
         "name": "c008"
       }
     ],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t132217d0000000015",
-    "isopen": true,
-    "url": "https://www.city.kiyose.lg.jp/opendata/opendataichiran/1001609.html",
-    "notes": "【清瀬市】設置する公衆無線LANアクセスポイントの一覧です。",
-    "title": "公衆無線LANアクセスポイント一覧",
-    "extras": [
-      {
-        "value": "変更の都度",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "https://www.city.kiyose.lg.jp/index.html",
-      "title": "清瀬市",
       "created": "2020-08-05T08:00:00.206131",
-      "approval_status": "approved",
+      "title": "清瀬市",
+      "name": "t132217",
       "is_organization": true,
       "state": "active",
       "image_url": "",
       "revision_id": "f8ef546d-d3f4-46e8-9741-39a6eec61618",
       "type": "organization",
       "id": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
-      "name": "t132217"
+      "approval_status": "approved"
     },
-    "revision_id": "27d9e597-a8aa-454c-9c92-7dba67f735f7"
+    "name": "t132217d0000000015",
+    "isopen": true,
+    "url": "https://www.city.kiyose.lg.jp/opendata/opendataichiran/1001609.html",
+    "notes": "【清瀬市】設置する公衆無線LANアクセスポイントの一覧です。",
+    "owner_org": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "変更の都度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "公衆無線LANアクセスポイント一覧",
+    "revision_id": "c049be73-d12e-4a83-86c2-76ee13f87526"
   }
 }

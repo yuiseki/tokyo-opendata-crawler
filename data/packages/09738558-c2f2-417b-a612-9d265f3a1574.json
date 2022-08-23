@@ -10,35 +10,34 @@
     "num_tags": 0,
     "id": "09738558-c2f2-417b-a612-9d265f3a1574",
     "metadata_created": "2020-06-26T06:21:03.274129",
-    "owner_org": "a80c46c5-d236-4d83-b4f9-656c25d0847d",
     "metadata_modified": "2020-06-26T06:22:21.846530",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "万引き被疑者等に関する実態調査分析報告書(平成27年度調査)より抜粋",
+        "name": "万引きを諦める要因",
         "format": "CSV",
         "url": "https://www.keishicho.metro.tokyo.jp/kurashi/anzen/manbiki/mizenboushi.files/mizenboushi.csv",
+        "cache_last_updated": null,
+        "package_id": "09738558-c2f2-417b-a612-9d265f3a1574",
         "created": "2019-01-22T15:00:00",
         "state": "active",
-        "package_id": "09738558-c2f2-417b-a612-9d265f3a1574",
+        "mimetype_inner": null,
         "last_modified": "2019-01-22T15:00:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "b6477ff2-dbee-416f-af5c-d361878f9991",
-        "size": null,
+        "url_type": null,
         "id": "b83727a0-e86b-44c6-b8ef-c1ae7f9643e0",
         "resource_type": null,
-        "name": "万引きを諦める要因"
+        "size": null
       }
     ],
     "num_resources": 1,
@@ -47,39 +46,40 @@
       {
         "display_name": "治安",
         "description": "",
-        "title": "治安",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c002.png",
+        "title": "治安",
         "id": "de8273ac-2339-4309-ad15-2800b751b45e",
         "name": "c002"
       }
     ],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t000022d1800000011",
-    "isopen": true,
-    "url": "https://www.keishicho.metro.tokyo.jp/kurashi/anzen/manbiki/mizenboushi.html",
-    "notes": "【警視庁】万引き被疑者等に関する実態調査(平成27年度調査)分析報告書から",
-    "title": "万引きを諦める要因の分析",
-    "extras": [
-      {
-        "value": "不定期",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "http://www.keishicho.metro.tokyo.jp/\r\n\r\n所属:東京都",
-      "title": "警視庁",
       "created": "2019-11-01T03:27:22.754561",
-      "approval_status": "approved",
+      "title": "警視庁",
+      "name": "t000022",
       "is_organization": true,
       "state": "active",
       "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000022.jpg",
       "revision_id": "6ec2a37b-87b3-4747-ac28-2a6800716699",
       "type": "organization",
       "id": "a80c46c5-d236-4d83-b4f9-656c25d0847d",
-      "name": "t000022"
+      "approval_status": "approved"
     },
+    "name": "t000022d1800000011",
+    "isopen": true,
+    "url": "https://www.keishicho.metro.tokyo.jp/kurashi/anzen/manbiki/mizenboushi.html",
+    "notes": "【警視庁】万引き被疑者等に関する実態調査(平成27年度調査)分析報告書から",
+    "owner_org": "a80c46c5-d236-4d83-b4f9-656c25d0847d",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "万引きを諦める要因の分析",
     "revision_id": "a0a5ff9a-c408-4e4f-9f7d-04acb9fad58b"
   }
 }

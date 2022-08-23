@@ -10,35 +10,34 @@
     "num_tags": 0,
     "id": "ffbbd480-161c-46c9-94f9-b5fecfe7b148",
     "metadata_created": "2021-11-04T00:59:30.663113",
-    "owner_org": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
     "metadata_modified": "2021-12-13T04:47:03.199434",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "",
+        "name": "ごみの収集量と搬入先処理状況の推移",
         "format": "CSV",
         "url": "https://data.bodik.jp/dataset/4af08507-9558-4049-ac77-e9e79ebe5d7c/resource/afc8a67d-cc39-4b48-8fbc-f6998a27d2a4/download/131105_garbage_collection_amount.csv",
+        "cache_last_updated": null,
+        "package_id": "ffbbd480-161c-46c9-94f9-b5fecfe7b148",
         "created": "2021-08-11T08:17:00",
         "state": "active",
-        "package_id": "ffbbd480-161c-46c9-94f9-b5fecfe7b148",
+        "mimetype_inner": null,
         "last_modified": "2021-08-11T08:17:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "546c2c30-e3d0-48df-9e53-78e1e7e897e3",
-        "size": 928,
+        "url_type": null,
         "id": "1f411036-8e14-45a8-be57-5644f0641ebd",
         "resource_type": null,
-        "name": "ごみの収集量と搬入先処理状況の推移"
+        "size": 928
       }
     ],
     "num_resources": 1,
@@ -47,39 +46,40 @@
       {
         "display_name": "環境",
         "description": "",
-        "title": "環境",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c012.png",
+        "title": "環境",
         "id": "427f3ee0-b28a-4fd2-b7dc-980507f154d2",
         "name": "c012"
       }
     ],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t131105d0000000019",
-    "isopen": true,
-    "url": "https://www.city.meguro.tokyo.jp/kurashimenu/gomi/index.html",
-    "notes": "目黒区内のごみ収集量と搬入先処理状況の年度別推移",
-    "title": "ごみの収集量と搬入先処理状況の推移",
-    "extras": [
-      {
-        "value": "1年",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "https://odcs.bodik.jp/131105/",
-      "title": "目黒区",
       "created": "2021-11-01T02:12:22.338293",
-      "approval_status": "approved",
+      "title": "目黒区",
+      "name": "t131105",
       "is_organization": true,
       "state": "active",
       "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131105.png",
       "revision_id": "e3dc243f-e3a2-4b2b-a319-4e145bb63383",
       "type": "organization",
       "id": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
-      "name": "t131105"
+      "approval_status": "approved"
     },
+    "name": "t131105d0000000019",
+    "isopen": true,
+    "url": "https://www.city.meguro.tokyo.jp/kurashimenu/gomi/index.html",
+    "notes": "目黒区内のごみ収集量と搬入先処理状況の年度別推移",
+    "owner_org": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "1年"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "ごみの収集量と搬入先処理状況の推移",
     "revision_id": "82a65d20-20e5-44f6-8175-32e2ff00c24c"
   }
 }

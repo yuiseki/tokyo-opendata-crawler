@@ -10,56 +10,55 @@
     "num_tags": 0,
     "id": "e89bd00a-2330-4075-bb2e-4e765ed015e4",
     "metadata_created": "2020-03-26T02:09:30.460188",
-    "owner_org": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
     "metadata_modified": "2020-03-26T02:09:36.797830",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "",
+        "name": "平成30年度における魚介類の検査対象農薬一覧 ",
         "format": "CSV",
         "url": "https://www.opendata.metro.tokyo.lg.jp/fukushihoken/itiba/H30/H30suisannouyaku_list.csv",
+        "cache_last_updated": null,
+        "package_id": "e89bd00a-2330-4075-bb2e-4e765ed015e4",
         "created": "2020-03-26T02:09:34.783856",
         "state": "active",
-        "package_id": "e89bd00a-2330-4075-bb2e-4e765ed015e4",
+        "mimetype_inner": null,
         "last_modified": null,
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "26057a83-81b5-4192-a295-ddf158910819",
-        "size": null,
+        "url_type": null,
         "id": "c20e0c20-07bd-45b3-aaa6-d8c6cf3bf9f7",
         "resource_type": null,
-        "name": "平成30年度における魚介類の検査対象農薬一覧 "
+        "size": null
       },
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "",
+        "name": "平成30年度　魚介類の残留農薬検査結果 ",
         "format": "CSV",
         "url": "https://www.opendata.metro.tokyo.lg.jp/fukushihoken/itiba/H30/H30suisannouyaku-sakana.csv",
+        "cache_last_updated": null,
+        "package_id": "e89bd00a-2330-4075-bb2e-4e765ed015e4",
         "created": "2020-03-26T02:09:35.009119",
         "state": "active",
-        "package_id": "e89bd00a-2330-4075-bb2e-4e765ed015e4",
+        "mimetype_inner": null,
         "last_modified": null,
-        "mimetype": null,
-        "url_type": null,
         "position": 1,
         "revision_id": "0a1e6c76-6293-4db1-992d-f37c4584e854",
-        "size": null,
+        "url_type": null,
         "id": "51e5f46b-1d7f-4283-a2f8-81fc9700a51f",
         "resource_type": null,
-        "name": "平成30年度　魚介類の残留農薬検査結果 "
+        "size": null
       }
     ],
     "num_resources": 2,
@@ -68,39 +67,40 @@
       {
         "display_name": "医療・福祉",
         "description": "",
-        "title": "医療・福祉",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c005.png",
+        "title": "医療・福祉",
         "id": "0d3cd956-612c-45c5-b1ee-75c1a5835c0e",
         "name": "c005"
       }
     ],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t000010d0000000079",
-    "isopen": true,
-    "url": "https://www.fukushihoken.metro.tokyo.lg.jp/itiba/kekka/rikagaku/nouyaku/30nouyaku_s.html",
-    "notes": "【東京都福祉保健局】",
-    "title": "残留農薬検査結果_平成30年度　魚介類の残留農薬検査結果",
-    "extras": [
-      {
-        "value": "1年ごと",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "http://www.fukushihoken.metro.tokyo.jp/\r\n\r\n所属:東京都",
-      "title": "東京都福祉保健局",
       "created": "2019-11-01T03:27:20.864364",
-      "approval_status": "approved",
+      "title": "東京都福祉保健局",
+      "name": "t000010",
       "is_organization": true,
       "state": "active",
       "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000010.jpg",
       "revision_id": "8d3da6a9-bfe7-4cd1-9d5d-9737b2293939",
       "type": "organization",
       "id": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
-      "name": "t000010"
+      "approval_status": "approved"
     },
+    "name": "t000010d0000000079",
+    "isopen": true,
+    "url": "https://www.fukushihoken.metro.tokyo.lg.jp/itiba/kekka/rikagaku/nouyaku/30nouyaku_s.html",
+    "notes": "【東京都福祉保健局】",
+    "owner_org": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "1年ごと"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "残留農薬検査結果_平成30年度　魚介類の残留農薬検査結果",
     "revision_id": "0921d748-8d94-4c9c-a316-e2353ad1e7c6"
   }
 }

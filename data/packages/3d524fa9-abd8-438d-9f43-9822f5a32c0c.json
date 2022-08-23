@@ -10,35 +10,34 @@
     "num_tags": 0,
     "id": "3d524fa9-abd8-438d-9f43-9822f5a32c0c",
     "metadata_created": "2021-11-04T00:38:23.439667",
-    "owner_org": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
     "metadata_modified": "2021-12-13T06:15:09.329085",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "避難所の一覧",
+        "name": "指定緊急避難所",
         "format": "CSV",
         "url": "https://data.bodik.jp/dataset/ca5cf1d5-ed5d-4445-96df-3d60f9ed0eac/resource/2eab6c3a-520d-4cc4-99f2-5ac306c86da0/download/131105_evacuation_space_20210401.csv",
+        "cache_last_updated": null,
+        "package_id": "3d524fa9-abd8-438d-9f43-9822f5a32c0c",
         "created": "2021-08-11T00:42:00",
         "state": "active",
-        "package_id": "3d524fa9-abd8-438d-9f43-9822f5a32c0c",
+        "mimetype_inner": null,
         "last_modified": "2021-08-11T00:42:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "0e6f67b9-3031-4e3f-aa2d-46b927962735",
-        "size": 6114,
+        "url_type": null,
         "id": "54232414-1f23-4636-8ad8-4e6a415080b7",
         "resource_type": null,
-        "name": "指定緊急避難所"
+        "size": 6114
       }
     ],
     "num_resources": 1,
@@ -47,39 +46,40 @@
       {
         "display_name": "防災・災害計画",
         "description": "",
-        "title": "防災・災害計画",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c001.png",
+        "title": "防災・災害計画",
         "id": "8eb52f8e-0d10-44f4-8bb4-2a488d0f8465",
         "name": "c001"
       }
     ],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t131105d0000000028",
-    "isopen": true,
-    "url": "https://www.city.meguro.tokyo.jp/kurashi/anzen/bosai/type/earthquake/jishin/hinan/index.html",
-    "notes": "地震、水害、土砂災害等における目黒区内の避難所の一覧",
-    "title": "地域避難所",
-    "extras": [
-      {
-        "value": "1年",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "https://odcs.bodik.jp/131105/",
-      "title": "目黒区",
       "created": "2021-11-01T02:12:22.338293",
-      "approval_status": "approved",
+      "title": "目黒区",
+      "name": "t131105",
       "is_organization": true,
       "state": "active",
       "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131105.png",
       "revision_id": "e3dc243f-e3a2-4b2b-a319-4e145bb63383",
       "type": "organization",
       "id": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
-      "name": "t131105"
+      "approval_status": "approved"
     },
+    "name": "t131105d0000000028",
+    "isopen": true,
+    "url": "https://www.city.meguro.tokyo.jp/kurashi/anzen/bosai/type/earthquake/jishin/hinan/index.html",
+    "notes": "地震、水害、土砂災害等における目黒区内の避難所の一覧",
+    "owner_org": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "1年"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "地域避難所",
     "revision_id": "ffd11aa5-de8f-4a88-a36b-8400f63d0e86"
   }
 }

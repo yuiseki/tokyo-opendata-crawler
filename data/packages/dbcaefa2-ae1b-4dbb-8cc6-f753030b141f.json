@@ -10,35 +10,34 @@
     "num_tags": 0,
     "id": "dbcaefa2-ae1b-4dbb-8cc6-f753030b141f",
     "metadata_created": "2019-11-01T04:55:13.704830",
-    "owner_org": "de6428eb-03c5-4658-9bf8-80f7c5f554d9",
     "metadata_modified": "2021-08-26T04:09:35.043642",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "",
+        "name": "会計管理局の予算",
         "format": "CSV",
         "url": "http://www.kaikeikanri.metro.tokyo.jp/kaikeikanri.csv",
+        "cache_last_updated": null,
+        "package_id": "dbcaefa2-ae1b-4dbb-8cc6-f753030b141f",
         "created": "2018-03-01T15:00:00",
         "state": "active",
-        "package_id": "dbcaefa2-ae1b-4dbb-8cc6-f753030b141f",
+        "mimetype_inner": null,
         "last_modified": "2018-03-01T15:00:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "d2c48480-df07-4859-bcc6-0a3e32f8c91e",
-        "size": null,
+        "url_type": null,
         "id": "d02e0ddc-8c85-4eaf-bc20-435d24d70e7d",
         "resource_type": null,
-        "name": "会計管理局の予算"
+        "size": null
       }
     ],
     "num_resources": 1,
@@ -47,39 +46,40 @@
       {
         "display_name": "税金",
         "description": "",
-        "title": "税金",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c007.png",
+        "title": "税金",
         "id": "bb8a1d8b-5217-44c2-8eca-81addb671f0e",
         "name": "c007"
       }
     ],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t000016d1700000001",
-    "isopen": true,
-    "url": "http://www.kaikeikanri.metro.tokyo.jp/annai.htm",
-    "notes": "【東京都会計管理局】",
-    "title": "会計管理局の予算",
-    "extras": [
-      {
-        "value": "1年ごと",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "http://www.kaikeikanri.metro.tokyo.jp/\r\n\r\n所属:東京都",
-      "title": "東京都会計管理局",
       "created": "2019-11-01T03:27:21.811618",
-      "approval_status": "approved",
+      "title": "東京都会計管理局",
+      "name": "t000016",
       "is_organization": true,
       "state": "active",
       "image_url": "",
       "revision_id": "437d2e05-a454-4728-83e8-010b35b1110b",
       "type": "organization",
       "id": "de6428eb-03c5-4658-9bf8-80f7c5f554d9",
-      "name": "t000016"
+      "approval_status": "approved"
     },
+    "name": "t000016d1700000001",
+    "isopen": true,
+    "url": "http://www.kaikeikanri.metro.tokyo.jp/annai.htm",
+    "notes": "【東京都会計管理局】",
+    "owner_org": "de6428eb-03c5-4658-9bf8-80f7c5f554d9",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "1年ごと"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "会計管理局の予算",
     "revision_id": "9531db3e-af64-4759-a76e-554cd2b08f8b"
   }
 }

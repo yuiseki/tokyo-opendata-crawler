@@ -10,56 +10,55 @@
     "num_tags": 0,
     "id": "3c1e45b0-6e76-45d6-89c3-5d310ddc14bf",
     "metadata_created": "2020-11-10T01:37:08.859390",
-    "owner_org": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
-    "metadata_modified": "2021-06-16T02:25:10.253405",
+    "metadata_modified": "2022-05-27T07:23:32.827849",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "【清瀬市】配備されているAEDの設置場所と個数です。",
+        "name": "消防水利施設一覧",
         "format": "CSV",
         "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/001/605/132217_fire_hydrant.csv",
+        "cache_last_updated": null,
+        "package_id": "3c1e45b0-6e76-45d6-89c3-5d310ddc14bf",
         "created": "2018-06-18T02:20:00",
         "state": "active",
-        "package_id": "3c1e45b0-6e76-45d6-89c3-5d310ddc14bf",
+        "mimetype_inner": null,
         "last_modified": "2018-06-18T02:20:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "6d3f5f37-4287-4d3d-9a94-fa5c38fa76f8",
-        "size": 46080,
+        "url_type": null,
         "id": "0173c09b-10fb-466c-9da7-525f4392b93d",
         "resource_type": null,
-        "name": "消防水利施設一覧"
+        "size": 46080
       },
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "【清瀬市】消防水利施設の一覧です。",
+        "name": "消防水利施設一覧",
         "format": "XLSX",
         "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/001/605/132217_fire_hydrant.xlsx",
+        "cache_last_updated": null,
+        "package_id": "3c1e45b0-6e76-45d6-89c3-5d310ddc14bf",
         "created": "2018-06-18T02:46:00",
         "state": "active",
-        "package_id": "3c1e45b0-6e76-45d6-89c3-5d310ddc14bf",
+        "mimetype_inner": null,
         "last_modified": "2018-06-18T02:46:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 1,
         "revision_id": "05268c89-ebea-4edf-b8ed-506f5fe4b671",
-        "size": 56320,
+        "url_type": null,
         "id": "e48954c1-dd77-469d-9be1-7ef12de5b77e",
         "resource_type": null,
-        "name": "消防水利施設一覧"
+        "size": 56320
       }
     ],
     "num_resources": 2,
@@ -68,39 +67,40 @@
       {
         "display_name": "防災・災害計画",
         "description": "",
-        "title": "防災・災害計画",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c001.png",
+        "title": "防災・災害計画",
         "id": "8eb52f8e-0d10-44f4-8bb4-2a488d0f8465",
         "name": "c001"
       }
     ],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t132217d0000000011",
-    "isopen": true,
-    "url": "https://www.city.kiyose.lg.jp/opendata/opendataichiran/1001605.html",
-    "notes": "【清瀬市】消防水利施設の一覧です。",
-    "title": "消防水利施設一覧",
-    "extras": [
-      {
-        "value": "変更の都度",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "https://www.city.kiyose.lg.jp/index.html",
-      "title": "清瀬市",
       "created": "2020-08-05T08:00:00.206131",
-      "approval_status": "approved",
+      "title": "清瀬市",
+      "name": "t132217",
       "is_organization": true,
       "state": "active",
       "image_url": "",
       "revision_id": "f8ef546d-d3f4-46e8-9741-39a6eec61618",
       "type": "organization",
       "id": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
-      "name": "t132217"
+      "approval_status": "approved"
     },
+    "name": "t132217d0000000011",
+    "isopen": true,
+    "url": "https://www.city.kiyose.lg.jp/opendata/opendataichiran/1001605.html",
+    "notes": "【清瀬市】消防水利施設の一覧です。",
+    "owner_org": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "変更の都度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "消防水利施設一覧",
     "revision_id": "145c7fa4-af8c-439e-ac00-60dd5f6d06a6"
   }
 }

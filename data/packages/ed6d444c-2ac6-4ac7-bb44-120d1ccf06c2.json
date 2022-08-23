@@ -10,56 +10,55 @@
     "num_tags": 0,
     "id": "ed6d444c-2ac6-4ac7-bb44-120d1ccf06c2",
     "metadata_created": "2021-02-24T02:10:29.739597",
-    "owner_org": "58af0f89-950c-449c-8b5f-195590be8dad",
     "metadata_modified": "2021-02-24T02:10:32.956361",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "令和元年定例監査の指摘事項、意見・要望事項の局別件数です。 ",
+        "name": "指摘事項、意見・要望事項の局別件数",
         "format": "CSV",
         "url": "https://www.opendata.metro.tokyo.lg.jp/kansa/02teirei/02teirei_1.csv",
+        "cache_last_updated": null,
+        "package_id": "ed6d444c-2ac6-4ac7-bb44-120d1ccf06c2",
         "created": "2021-02-18T09:51:02",
         "state": "active",
-        "package_id": "ed6d444c-2ac6-4ac7-bb44-120d1ccf06c2",
+        "mimetype_inner": null,
         "last_modified": "2021-02-17T05:51:57",
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "fb86b8c7-0e41-4007-abcc-7c9b9954d074",
-        "size": 1024,
+        "url_type": null,
         "id": "56c515a6-5987-4b49-9637-28880c86f985",
         "resource_type": null,
-        "name": "指摘事項、意見・要望事項の局別件数"
+        "size": 1024
       },
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "令和元年定例監査の指摘事項、意見・要望事項の局別件数です。 ",
+        "name": "指摘事項、意見・要望事項の区分別件数",
         "format": "CSV",
         "url": "https://www.opendata.metro.tokyo.lg.jp/kansa/02teirei/02teirei_2.csv",
+        "cache_last_updated": null,
+        "package_id": "ed6d444c-2ac6-4ac7-bb44-120d1ccf06c2",
         "created": "2021-02-18T09:51:02",
         "state": "active",
-        "package_id": "ed6d444c-2ac6-4ac7-bb44-120d1ccf06c2",
+        "mimetype_inner": null,
         "last_modified": "2021-02-17T05:52:28",
-        "mimetype": null,
-        "url_type": null,
         "position": 1,
         "revision_id": "9e0b7993-16a4-4958-9be7-d6416b4dc31b",
-        "size": 1024,
+        "url_type": null,
         "id": "e2549f19-24fe-4ee2-a117-9cdd91c9bd14",
         "resource_type": null,
-        "name": "指摘事項、意見・要望事項の区分別件数"
+        "size": 1024
       }
     ],
     "num_resources": 2,
@@ -68,39 +67,40 @@
       {
         "display_name": "その他",
         "description": "",
-        "title": "その他",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
         "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
         "name": "c014"
       }
     ],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t000025d0000000016",
-    "isopen": true,
-    "url": "https://www.kansa.metro.tokyo.lg.jp/",
-    "notes": "【東京都監査事務局】令和２年定例監査について、監査結果を掲載しています。",
-    "title": "令和２年定例監査報告書",
-    "extras": [
-      {
-        "value": "公開時のみ",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "http://www.kansa.metro.tokyo.jp/\r\n\r\n所属:東京都",
-      "title": "東京都監査事務局",
       "created": "2019-11-01T03:27:23.229013",
-      "approval_status": "approved",
+      "title": "東京都監査事務局",
+      "name": "t000025",
       "is_organization": true,
       "state": "active",
       "image_url": "",
       "revision_id": "4f31c163-f672-452d-8506-4f40300e694f",
       "type": "organization",
       "id": "58af0f89-950c-449c-8b5f-195590be8dad",
-      "name": "t000025"
+      "approval_status": "approved"
     },
+    "name": "t000025d0000000016",
+    "isopen": true,
+    "url": "https://www.kansa.metro.tokyo.lg.jp/",
+    "notes": "【東京都監査事務局】令和２年定例監査について、監査結果を掲載しています。",
+    "owner_org": "58af0f89-950c-449c-8b5f-195590be8dad",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "公開時のみ"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "令和２年定例監査報告書",
     "revision_id": "fb86b8c7-0e41-4007-abcc-7c9b9954d074"
   }
 }

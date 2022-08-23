@@ -10,56 +10,55 @@
     "num_tags": 0,
     "id": "50ce2c7f-28bd-46f2-a771-0747e5fb7edc",
     "metadata_created": "2020-05-29T07:48:12.361028",
-    "owner_org": "16d81025-a2ca-4002-8129-9906c94a4732",
     "metadata_modified": "2020-05-29T07:48:25.647094",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "",
+        "name": "申請等所管行政庁一覧（建設地・所在地が特別区・島しょの地域）",
         "format": "CSV",
         "url": "https://www.opendata.metro.tokyo.lg.jp/toshiseibi/h31/tokubetuku_tousyo.csv",
+        "cache_last_updated": null,
+        "package_id": "50ce2c7f-28bd-46f2-a771-0747e5fb7edc",
         "created": "2020-03-30T15:00:00",
         "state": "active",
-        "package_id": "50ce2c7f-28bd-46f2-a771-0747e5fb7edc",
+        "mimetype_inner": null,
         "last_modified": "2020-03-30T15:00:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "ddb84387-1b6e-4305-901b-658911c14e0e",
-        "size": null,
+        "url_type": null,
         "id": "a2eda928-afa2-46ee-9a18-deed8129ba31",
         "resource_type": null,
-        "name": "申請等所管行政庁一覧（建設地・所在地が特別区・島しょの地域）"
+        "size": null
       },
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "",
+        "name": "申請等所管行政庁一覧（建設地・所在地が多摩の地域）",
         "format": "CSV",
         "url": "https://www.opendata.metro.tokyo.lg.jp/toshiseibi/h31/tamaku.csv",
+        "cache_last_updated": null,
+        "package_id": "50ce2c7f-28bd-46f2-a771-0747e5fb7edc",
         "created": "2020-03-30T15:00:00",
         "state": "active",
-        "package_id": "50ce2c7f-28bd-46f2-a771-0747e5fb7edc",
+        "mimetype_inner": null,
         "last_modified": "2020-03-30T15:00:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 1,
         "revision_id": "f3520256-ce39-4d36-ab32-723d23d72049",
-        "size": null,
+        "url_type": null,
         "id": "2796a93a-514f-47e5-8e4b-4bb575fe1fff",
         "resource_type": null,
-        "name": "申請等所管行政庁一覧（建設地・所在地が多摩の地域）"
+        "size": null
       }
     ],
     "num_resources": 2,
@@ -68,39 +67,40 @@
       {
         "display_name": "まちづくり",
         "description": "",
-        "title": "まちづくり",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c003.png",
+        "title": "まちづくり",
         "id": "dc897c44-8153-4219-bfeb-6110fb85fb99",
         "name": "c003"
       }
     ],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t000008d1900000014",
-    "isopen": true,
-    "url": "http://www.toshiseibi.metro.tokyo.jp/kenchiku/kenchikubutsu/index.html",
-    "notes": "",
-    "title": "建築物のエネルギー消費性能の向上に関する法律　申請等所管行政庁一覧⑭",
-    "extras": [
-      {
-        "value": "不定期",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "http://www.toshiseibi.metro.tokyo.jp/\r\n\r\n所属:東京都",
-      "title": "東京都都市整備局",
       "created": "2019-11-01T03:27:20.560358",
-      "approval_status": "approved",
+      "title": "東京都都市整備局",
+      "name": "t000008",
       "is_organization": true,
       "state": "active",
       "image_url": "",
       "revision_id": "9c234f0e-ff7d-4e2d-8ba4-ea80f312405b",
       "type": "organization",
       "id": "16d81025-a2ca-4002-8129-9906c94a4732",
-      "name": "t000008"
+      "approval_status": "approved"
     },
+    "name": "t000008d1900000014",
+    "isopen": true,
+    "url": "http://www.toshiseibi.metro.tokyo.jp/kenchiku/kenchikubutsu/index.html",
+    "notes": "",
+    "owner_org": "16d81025-a2ca-4002-8129-9906c94a4732",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "建築物のエネルギー消費性能の向上に関する法律　申請等所管行政庁一覧⑭",
     "revision_id": "d99f0528-331e-48fa-a6a5-a8d3bbda9064"
   }
 }

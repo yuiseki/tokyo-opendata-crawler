@@ -10,56 +10,55 @@
     "num_tags": 0,
     "id": "3e07f9e5-97f8-4509-a504-66413acf4f21",
     "metadata_created": "2021-07-12T02:21:03.116830",
-    "owner_org": "1a30d830-0e5f-4e5a-acd1-e4189276b560",
-    "metadata_modified": "2021-07-12T02:21:04.142058",
+    "metadata_modified": "2022-04-25T01:49:16.866476",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
-        "cache_url": null,
-        "mimetype_inner": null,
-        "hash": "",
-        "description": "新型コロナウイルス感染予防対策ガイドライン等に基づく対策実行支援事業 採択者一覧（R3.5.31時点）",
-        "format": "CSV",
-        "url": "https://www.opendata.metro.tokyo.lg.jp/sangyouroudou/tokyo_guideline/131001_tokyo_guidline.csv",
-        "created": "2021-06-09T00:18:00",
-        "state": "active",
-        "package_id": "3e07f9e5-97f8-4509-a504-66413acf4f21",
-        "last_modified": "2021-06-09T00:18:00",
         "mimetype": null,
-        "url_type": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "新型コロナウイルス感染予防対策ガイドライン等に基づく対策実行支援事業 採択者一覧（R4.3.9時点）",
+        "name": "新型コロナウイルス感染予防対策ガイドライン等に基づく対策実行支援事業 採択者一覧",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/sangyouroudou/R4/131001_tokyo_guidline.csv",
+        "cache_last_updated": null,
+        "package_id": "3e07f9e5-97f8-4509-a504-66413acf4f21",
+        "created": "2022-04-20T13:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2022-04-20T13:00:00",
         "position": 0,
-        "revision_id": "b115b8b8-3d8e-47a5-997c-439f68c1adf0",
-        "size": 388096,
-        "id": "68e7ae3b-4acc-4d9c-b3b7-55c83cb687c8",
+        "revision_id": "ca1217aa-85c6-4db9-a36d-6b1100bfafc8",
+        "url_type": null,
+        "id": "60eb3c57-d4f3-405c-af3a-f79313228e4a",
         "resource_type": null,
-        "name": "新型コロナウイルス感染予防対策ガイドライン等に基づく対策実行支援事業 採択者一覧"
+        "size": 82944
       },
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "新型コロナウイルス感染予防対策ガイドライン等に基づく対策実行支援事業 採択者一覧のデータ定義書",
+        "name": "新型コロナウイルス感染予防対策ガイドライン等に基づく対策実行支援事業 採択者一覧データ定義書",
         "format": "XLSX",
         "url": "https://www.opendata.metro.tokyo.lg.jp/sangyouroudou/tokyo_guideline/131001_tokyo_guidline_spec.xlsx",
+        "cache_last_updated": null,
+        "package_id": "3e07f9e5-97f8-4509-a504-66413acf4f21",
         "created": "2021-06-09T00:18:00",
         "state": "active",
-        "package_id": "3e07f9e5-97f8-4509-a504-66413acf4f21",
+        "mimetype_inner": null,
         "last_modified": "2021-06-09T00:18:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 1,
-        "revision_id": "f3bfcf95-fd86-4ac8-ba6c-5c1de248c68d",
-        "size": null,
+        "revision_id": "ca1217aa-85c6-4db9-a36d-6b1100bfafc8",
+        "url_type": null,
         "id": "a02cfc2a-37b6-4373-b93f-d9373d9b0402",
         "resource_type": null,
-        "name": "新型コロナウイルス感染予防対策ガイドライン等に基づく対策実行支援事業 採択者一覧データ定義書"
+        "size": null
       }
     ],
     "num_resources": 2,
@@ -68,39 +67,40 @@
       {
         "display_name": "産業雇用創出",
         "description": "",
-        "title": "産業雇用創出",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c011.png",
+        "title": "産業雇用創出",
         "id": "bb1c42ce-dc7e-48cf-91d4-05cab59db4bd",
         "name": "c011"
       }
     ],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t000012d0000000045",
-    "isopen": true,
-    "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/kansentaisaku.html",
-    "notes": "【東京都産業労働局】 東京都が実施する新型コロナウイルス感染予防対策ガイドライン等に基づく対策実行支援事業（募集時期：令和2年6月18日～同年12月28日）の採択者一覧です。\n\n採択者のうち、オープンデータ化にあたり許諾をいただいた事業者の情報のみ公開しています。\n",
-    "title": "新型コロナウイルス感染予防対策ガイドライン等に基づく対策実行支援事業 採択者一覧",
-    "extras": [
-      {
-        "value": "随時",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "http://www.sangyo-rodo.metro.tokyo.jp/\r\n\r\n所属:東京都",
-      "title": "東京都産業労働局",
       "created": "2019-11-01T03:27:21.167827",
-      "approval_status": "approved",
+      "title": "東京都産業労働局",
+      "name": "t000012",
       "is_organization": true,
       "state": "active",
       "image_url": "",
       "revision_id": "a8e9fbd3-ce2a-40ce-ae97-99bf0055157e",
       "type": "organization",
       "id": "1a30d830-0e5f-4e5a-acd1-e4189276b560",
-      "name": "t000012"
+      "approval_status": "approved"
     },
-    "revision_id": "ba651b35-03d6-4926-814b-e6adf4a1f6bb"
+    "name": "t000012d0000000045",
+    "isopen": true,
+    "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/guideline.html",
+    "notes": "【東京都産業労働局】 東京都が実施する新型コロナウイルス感染予防対策ガイドライン等に基づく対策実行支援事業（募集時期：令和2年6月18日～同年12月28日）の採択者一覧です。\n\n採択者のうち、オープンデータ化にあたり許諾をいただいた事業者の情報のみ公開しています。\n",
+    "owner_org": "1a30d830-0e5f-4e5a-acd1-e4189276b560",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "新型コロナウイルス感染予防対策ガイドライン等に基づく対策実行支援事業 採択者一覧",
+    "revision_id": "c86a3bd3-10ff-4d76-9d6d-e67ae8798522"
   }
 }

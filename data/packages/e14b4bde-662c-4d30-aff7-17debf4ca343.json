@@ -10,7 +10,7 @@
     "num_tags": 0,
     "id": "e14b4bde-662c-4d30-aff7-17debf4ca343",
     "metadata_created": "2019-11-01T04:53:59.463484",
-    "metadata_modified": "2019-11-01T05:59:36.528454",
+    "metadata_modified": "2022-02-22T00:30:34.018529",
     "author": null,
     "author_email": null,
     "state": "active",
@@ -38,30 +38,9 @@
         "id": "f14cfea9-b230-4cfb-bbb1-d95f8944cb91",
         "resource_type": null,
         "size": null
-      },
-      {
-        "mimetype": null,
-        "cache_url": null,
-        "hash": "",
-        "description": "",
-        "name": "東京都有料老人ホーム重要事項説明書一覧",
-        "format": "CSV",
-        "url": "http://www.fukushihoken.metro.tokyo.jp/kourei/shisetsu/gaiyo/osagashi.files/yuryoujusetsu.csv",
-        "cache_last_updated": null,
-        "package_id": "e14b4bde-662c-4d30-aff7-17debf4ca343",
-        "created": "2018-08-30T15:00:00",
-        "state": "active",
-        "mimetype_inner": null,
-        "last_modified": "2018-08-30T15:00:00",
-        "position": 1,
-        "revision_id": "bfbd6f08-0519-40dd-a66d-36de78ff64f9",
-        "url_type": null,
-        "id": "7aa390b6-2734-428e-8d03-1dcfc3c7eec2",
-        "resource_type": null,
-        "size": 49152
       }
     ],
-    "num_resources": 2,
+    "num_resources": 1,
     "tags": [],
     "groups": [
       {

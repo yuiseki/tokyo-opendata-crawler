@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "行政部振興企画課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "8f691251-39f7-4527-8c16-bc85e831ff38",
+    "metadata_created": "2022-07-09T08:08:00.134814",
+    "metadata_modified": "2022-07-09T08:08:05.793612",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "平成27年度公害対策決算表　1.事業別事業費内訳",
+        "format": "CSV",
+        "url": "https://www.soumu.metro.tokyo.lg.jp/05gyousei/opendata/300124_opendata_1/27kessanbon-shi-11_1.csv",
+        "cache_last_updated": null,
+        "package_id": "8f691251-39f7-4527-8c16-bc85e831ff38",
+        "created": "2018-02-18T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-02-18T15:00:00",
+        "position": 0,
+        "revision_id": "88866578-1065-4cf3-88e1-490d3657dfbc",
+        "url_type": null,
+        "id": "d8afec74-07c5-47ec-91dc-7ab02cd3a9ef",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "平成27年度公害対策決算表　2.公害防止事業債の現在高調",
+        "format": "CSV",
+        "url": "https://www.soumu.metro.tokyo.lg.jp/05gyousei/opendata/300124_opendata_1/27kessanbon-shi-11_2.csv",
+        "cache_last_updated": null,
+        "package_id": "8f691251-39f7-4527-8c16-bc85e831ff38",
+        "created": "2018-02-18T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2018-02-18T15:00:00",
+        "position": 1,
+        "revision_id": "838c1c3a-49ac-4655-a9cf-78d52877acd0",
+        "url_type": null,
+        "id": "76be7bc2-6bf4-49fa-bcd4-767fc70b81bf",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "税金",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c007.png",
+        "title": "税金",
+        "id": "bb8a1d8b-5217-44c2-8eca-81addb671f0e",
+        "name": "c007"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.soumu.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:19.763566",
+      "title": "東京都総務局",
+      "name": "t000003",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000003.png",
+      "revision_id": "c4e16dd4-cb3f-42dc-8be2-2eed0f9e0175",
+      "type": "organization",
+      "id": "5987f8a3-dfbe-4f96-b3cc-e1f3ea0a2717",
+      "approval_status": "approved"
+    },
+    "name": "t000003d1700000093",
+    "isopen": true,
+    "url": "http://www.soumu.metro.tokyo.jp/05gyousei/27nend.html",
+    "notes": "【東京都総務局】　平成27年度市町村決算状況調査結果",
+    "owner_org": "5987f8a3-dfbe-4f96-b3cc-e1f3ea0a2717",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "1年ごと"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "東京都区市町村の財政情報（平成27年度　４　公害対策決算）",
+    "revision_id": "fa259948-a3f4-4863-a7dc-ca9a93702115"
+  }
+}

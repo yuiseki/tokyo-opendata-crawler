@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "東京都健康安全研究センター企画調整部健康危機管理情報課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "991aea32-73a5-4be9-afa9-2b087d26ead9",
+    "metadata_created": "2022-06-06T02:53:33.206347",
+    "metadata_modified": "2022-06-06T02:53:33.790460",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "調査(消費者)",
+        "name": "調査(消費者)",
+        "format": "CSV",
+        "url": "https://www.fukushihoken.metro.tokyo.lg.jp/shokuhin/hyouka/houkoku/files/report-r4nama-syouhi.CSV",
+        "cache_last_updated": null,
+        "package_id": "991aea32-73a5-4be9-afa9-2b087d26ead9",
+        "created": "2022-03-28T06:12:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2022-03-30T15:00:00",
+        "position": 0,
+        "revision_id": "dcb88f6c-51e1-41dc-9218-f6b7c013749b",
+        "url_type": null,
+        "id": "9b7d7810-b5a3-43cf-b5a2-8dfa00d7d124",
+        "resource_type": null,
+        "size": 834560
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "調査(飲食店従事者)",
+        "name": "調査(飲食店従事者)",
+        "format": "CSV",
+        "url": "https://www.fukushihoken.metro.tokyo.lg.jp/shokuhin/hyouka/houkoku/files/report-r4nama-insyoku.CSV",
+        "cache_last_updated": null,
+        "package_id": "991aea32-73a5-4be9-afa9-2b087d26ead9",
+        "created": "2022-03-28T06:17:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2022-03-30T15:00:00",
+        "position": 1,
+        "revision_id": "08803fef-8673-495c-8003-fea30d949184",
+        "url_type": null,
+        "id": "4d43c30d-fa7c-4a72-afda-3664795ea838",
+        "resource_type": null,
+        "size": 235520
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "医療・福祉",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c005.png",
+        "title": "医療・福祉",
+        "id": "0d3cd956-612c-45c5-b1ee-75c1a5835c0e",
+        "name": "c005"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.fukushihoken.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.864364",
+      "title": "東京都福祉保健局",
+      "name": "t000010",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000010.jpg",
+      "revision_id": "8d3da6a9-bfe7-4cd1-9d5d-9737b2293939",
+      "type": "organization",
+      "id": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+      "approval_status": "approved"
+    },
+    "name": "t000010d0000000101",
+    "isopen": true,
+    "url": "https://www.fukushihoken.metro.tokyo.lg.jp/shokuhin/hyouka/houkoku/index.html",
+    "notes": "【東京都福祉保健局】",
+    "owner_org": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "公開時のみ"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "食肉の生食等に関する実態調査報告書（令和4年3月）",
+    "revision_id": "76b99840-05d0-4753-90b0-e8bf8d96301b"
+  }
+}

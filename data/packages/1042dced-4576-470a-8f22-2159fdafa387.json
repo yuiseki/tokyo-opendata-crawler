@@ -6,15 +6,15 @@
     "maintainer": "産業・地域振興支援部地域振興課",
     "relationships_as_object": [],
     "private": false,
-    "maintainer_email": null,
+    "maintainer_email": "",
     "num_tags": 0,
     "id": "1042dced-4576-470a-8f22-2159fdafa387",
     "metadata_created": "2020-05-14T08:02:16.625248",
-    "metadata_modified": "2021-09-10T00:21:08.739238",
-    "author": null,
-    "author_email": null,
+    "metadata_modified": "2022-08-08T02:10:12.843100",
+    "author": "",
+    "author_email": "",
     "state": "active",
-    "version": null,
+    "version": "",
     "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
@@ -430,16 +430,37 @@
         "created": "2021-07-31T15:00:00",
         "state": "active",
         "mimetype_inner": null,
-        "last_modified": "2021-08-12T15:00:00",
+        "last_modified": "2021-12-13T15:00:00",
         "position": 19,
-        "revision_id": "5e719899-7f66-4cf6-9d7f-d4fb857d5212",
+        "revision_id": "1d7f9aa2-2c23-4278-8738-529a8a80f931",
         "url_type": null,
         "id": "6ca62919-d094-4dfa-af48-7ea28462c14a",
         "resource_type": null,
-        "size": 71680
+        "size": 107520
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "町丁目別人口・世帯数（住民基本台帳に基づく）2022年",
+        "name": "町丁目別人口・世帯数（住民基本台帳に基づく）2022年",
+        "format": "CSV",
+        "url": "https://opendata.city.minato.tokyo.jp/dataset/213a32cd-85de-4c30-aaf9-7164c5bf06c9/resource/bc0beb3f-ca1d-45a3-87ea-8e190bb34d27/download/chomokubetsu_2022.csv",
+        "cache_last_updated": null,
+        "package_id": "1042dced-4576-470a-8f22-2159fdafa387",
+        "created": "2022-01-11T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2022-07-18T15:00:00",
+        "position": 20,
+        "revision_id": "8e0bcfa4-0a6d-48f9-ac47-621a00a6f083",
+        "url_type": null,
+        "id": "3c1c9d23-91fb-4aa8-9109-f1b5ba24f675",
+        "resource_type": null,
+        "size": 18432
       }
     ],
-    "num_resources": 20,
+    "num_resources": 21,
     "tags": [],
     "groups": [
       {
@@ -474,11 +495,11 @@
     "extras": [
       {
         "key": "更新頻度",
-        "value": "随時"
+        "value": "月次"
       }
     ],
     "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "title": "港区の町丁目別人口・世帯数（住民基本台帳に基づく）",
-    "revision_id": "05c6ce4b-a2cd-48dc-aecc-d2f245017a46"
+    "revision_id": "4b9921da-9c0c-4bf9-a0da-26b9fcd23d8b"
   }
 }

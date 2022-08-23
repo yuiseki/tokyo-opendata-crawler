@@ -10,35 +10,34 @@
     "num_tags": 0,
     "id": "c8d7d71a-91f0-4b5d-83ff-2eba223b77ea",
     "metadata_created": "2021-11-04T00:59:29.634569",
-    "owner_org": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
     "metadata_modified": "2021-12-13T04:47:02.285700",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "",
+        "name": "遊び場・防災広場等",
         "format": "CSV",
         "url": "https://data.bodik.jp/dataset/52cd2c4e-6154-43d3-a625-032d71e41dc1/resource/54b3bbc5-5319-46b0-a52c-110e2645aaea/download/131105_playground_and_disaster_prevebtion_square_20210401.csv",
+        "cache_last_updated": null,
+        "package_id": "c8d7d71a-91f0-4b5d-83ff-2eba223b77ea",
         "created": "2021-08-13T13:39:00",
         "state": "active",
-        "package_id": "c8d7d71a-91f0-4b5d-83ff-2eba223b77ea",
+        "mimetype_inner": null,
         "last_modified": "2021-08-13T13:39:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "4341c0dd-8892-4da0-b388-8411293d1d9c",
-        "size": 893,
+        "url_type": null,
         "id": "59367752-1734-4818-af8a-56ac6956182d",
         "resource_type": null,
-        "name": "遊び場・防災広場等"
+        "size": 893
       }
     ],
     "num_resources": 1,
@@ -47,39 +46,40 @@
       {
         "display_name": "防災・災害計画",
         "description": "",
-        "title": "防災・災害計画",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c001.png",
+        "title": "防災・災害計画",
         "id": "8eb52f8e-0d10-44f4-8bb4-2a488d0f8465",
         "name": "c001"
       }
     ],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t131105d0000000014",
-    "isopen": true,
-    "url": "https://www.city.meguro.tokyo.jp/kurashi/sports_koen_yoka/koen/index.html",
-    "notes": "目黒区内の遊び場、防災広場等の一覧\n",
-    "title": "遊び場・防災広場等",
-    "extras": [
-      {
-        "value": "1年",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "https://odcs.bodik.jp/131105/",
-      "title": "目黒区",
       "created": "2021-11-01T02:12:22.338293",
-      "approval_status": "approved",
+      "title": "目黒区",
+      "name": "t131105",
       "is_organization": true,
       "state": "active",
       "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131105.png",
       "revision_id": "e3dc243f-e3a2-4b2b-a319-4e145bb63383",
       "type": "organization",
       "id": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
-      "name": "t131105"
+      "approval_status": "approved"
     },
+    "name": "t131105d0000000014",
+    "isopen": true,
+    "url": "https://www.city.meguro.tokyo.jp/kurashi/sports_koen_yoka/koen/index.html",
+    "notes": "目黒区内の遊び場、防災広場等の一覧\n",
+    "owner_org": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "1年"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "遊び場・防災広場等",
     "revision_id": "80633ff6-97a1-4a9a-a43f-2971f6f9ea04"
   }
 }

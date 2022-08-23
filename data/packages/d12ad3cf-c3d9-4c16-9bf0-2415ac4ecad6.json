@@ -10,7 +10,7 @@
     "num_tags": 0,
     "id": "d12ad3cf-c3d9-4c16-9bf0-2415ac4ecad6",
     "metadata_created": "2019-11-01T04:55:15.131447",
-    "metadata_modified": "2019-11-01T08:07:15.103258",
+    "metadata_modified": "2022-03-01T04:19:34.827823",
     "author": null,
     "author_email": null,
     "state": "active",
@@ -25,17 +25,17 @@
         "description": "東京消防庁の本部庁舎、消防方面本部及び消防署の所在及び電話番号一覧",
         "name": " 東京消防庁　本部及び消防署所在一覧",
         "format": "CSV",
-        "url": "http://www.tfd.metro.tokyo.jp/ichiran.csv",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/shoubou/2021/tokyoshouboutyoutyousyaichiran.csv",
         "cache_last_updated": null,
         "package_id": "d12ad3cf-c3d9-4c16-9bf0-2415ac4ecad6",
-        "created": "2017-03-24T03:00:00",
+        "created": "2022-03-01T04:11:31.061004",
         "state": "active",
         "mimetype_inner": null,
-        "last_modified": "2017-03-24T03:00:00",
+        "last_modified": null,
         "position": 0,
-        "revision_id": "d569d716-1e2e-4bb5-9379-74278d7a6ef0",
+        "revision_id": "6b382ee8-10e3-4c95-9980-01058292b3eb",
         "url_type": null,
-        "id": "5e5cedf1-e3ba-4df7-a62a-adf5820aa907",
+        "id": "115adbba-712f-403c-88ca-2e88bed0b456",
         "resource_type": null,
         "size": 6144
       }
@@ -70,7 +70,7 @@
     "name": "t000017d0000000001",
     "isopen": true,
     "url": "",
-    "notes": "【東京消防庁】　東京消防庁の本部庁舎、消防方面本部及び消防署の所在及び電話番号一覧",
+    "notes": "【東京消防庁】　東京消防庁の本部庁舎、消防方面本部、消防署の所在及び電話番号一覧",
     "owner_org": "7270d173-e93e-4056-9b29-4b00ec036c81",
     "extras": [
       {
@@ -80,6 +80,6 @@
     ],
     "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "title": "東京消防庁　本部及び消防署所在一覧",
-    "revision_id": "dbe53b60-fc8b-480c-9471-e3ea42437193"
+    "revision_id": "fbaad654-bfe6-4f5b-8c77-5594cb681dc6"
   }
 }

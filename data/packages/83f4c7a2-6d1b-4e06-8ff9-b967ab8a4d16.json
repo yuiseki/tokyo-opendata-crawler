@@ -6,71 +6,71 @@
     "maintainer": "福祉部障がい政策課",
     "relationships_as_object": [],
     "private": false,
-    "maintainer_email": null,
+    "maintainer_email": "",
     "num_tags": 0,
     "id": "83f4c7a2-6d1b-4e06-8ff9-b967ab8a4d16",
     "metadata_created": "2021-03-18T07:38:15.133179",
-    "owner_org": "9354a576-4de5-44ab-9e62-18a92b40b5e7",
-    "metadata_modified": "2021-03-18T07:38:50.859223",
-    "author": null,
-    "author_email": null,
+    "metadata_modified": "2022-02-17T02:30:30.400673",
+    "author": "",
+    "author_email": "",
     "state": "active",
-    "version": null,
-    "license_id": "CC-BY-4.0",
+    "version": "",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "郵便局に関するデータです。",
+        "name": "郵便局",
         "format": "CSV",
-        "url": "https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/006/127/open04.csv",
+        "url": "https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/006/127/yuubin.csv",
+        "cache_last_updated": null,
+        "package_id": "83f4c7a2-6d1b-4e06-8ff9-b967ab8a4d16",
         "created": "2021-03-18T07:38:40.688334",
         "state": "active",
-        "package_id": "83f4c7a2-6d1b-4e06-8ff9-b967ab8a4d16",
+        "mimetype_inner": null,
         "last_modified": null,
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
-        "revision_id": "e57db57d-5b23-48c2-a984-48d76770b485",
-        "size": 20889,
+        "revision_id": "c935c310-6012-4058-a5b9-a810c537c64d",
+        "url_type": null,
         "id": "c3f4b8e8-abf1-45d8-b4f8-2f3d88b2ae38",
         "resource_type": null,
-        "name": "郵便局"
+        "size": 20889
       }
     ],
     "num_resources": 1,
     "tags": [],
     "groups": [],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t131199d0000000764",
-    "isopen": true,
-    "url": "https://www.city.itabashi.tokyo.jp/bousai/universal/design/1006127.html",
-    "notes": "【板橋区】郵便局に関するデータを掲載しています。",
-    "title": "どこでも誰でもおでかけマップオープンデータ（郵便局）",
-    "extras": [
-      {
-        "value": "随時",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "http://www.city.itabashi.tokyo.jp/",
-      "title": "板橋区",
       "created": "2019-11-01T03:27:25.673886",
-      "approval_status": "approved",
+      "title": "板橋区",
+      "name": "t131199",
       "is_organization": true,
       "state": "active",
       "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131199.jpg",
       "revision_id": "1a86d48e-188d-4655-9cc5-c9aedb102db4",
       "type": "organization",
       "id": "9354a576-4de5-44ab-9e62-18a92b40b5e7",
-      "name": "t131199"
+      "approval_status": "approved"
     },
-    "revision_id": "fd457ca4-a374-432c-b867-b52f152b445d"
+    "name": "t131199d0000000764",
+    "isopen": true,
+    "url": "https://www.city.itabashi.tokyo.jp/bousai/universal/design/1006127.html",
+    "notes": "【板橋区】郵便局に関するデータを掲載しています。",
+    "owner_org": "9354a576-4de5-44ab-9e62-18a92b40b5e7",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "どこでも誰でもおでかけマップオープンデータ（郵便局）",
+    "revision_id": "8e12723e-d933-4b1b-98d1-b566d83a2f3c"
   }
 }

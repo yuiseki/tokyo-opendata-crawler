@@ -10,56 +10,55 @@
     "num_tags": 0,
     "id": "fb44f047-c1b5-42e7-9e4b-354704fceef8",
     "metadata_created": "2020-11-10T01:37:13.822671",
-    "owner_org": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
     "metadata_modified": "2021-06-16T02:25:14.377494",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "清瀬市の公園の一覧です。",
+        "name": "公園一覧",
         "format": "CSV",
         "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/001/604/10_park.csv",
+        "cache_last_updated": null,
+        "package_id": "fb44f047-c1b5-42e7-9e4b-354704fceef8",
         "created": "2019-12-26T06:35:00",
         "state": "active",
-        "package_id": "fb44f047-c1b5-42e7-9e4b-354704fceef8",
+        "mimetype_inner": null,
         "last_modified": "2019-12-26T06:35:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "ae2c50c8-ddd8-483b-9241-534ce6efe554",
-        "size": 15360,
+        "url_type": null,
         "id": "ec30f518-ec2d-49c5-8559-2b6b2a1ddc75",
         "resource_type": null,
-        "name": "公園一覧"
+        "size": 15360
       },
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "【清瀬市】公園の一覧です。",
+        "name": "公園一覧",
         "format": "XLSX",
         "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/001/604/10_park.xlsx",
+        "cache_last_updated": null,
+        "package_id": "fb44f047-c1b5-42e7-9e4b-354704fceef8",
         "created": "2019-12-25T00:31:00",
         "state": "active",
-        "package_id": "fb44f047-c1b5-42e7-9e4b-354704fceef8",
+        "mimetype_inner": null,
         "last_modified": "2019-12-25T00:31:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 1,
         "revision_id": "6ff2a45b-bb0e-41f1-b271-d55e54ed5c08",
-        "size": 24576,
+        "url_type": null,
         "id": "926285b9-ea95-4939-8db1-200c54df594a",
         "resource_type": null,
-        "name": "公園一覧"
+        "size": 24576
       }
     ],
     "num_resources": 2,
@@ -68,39 +67,40 @@
       {
         "display_name": "環境",
         "description": "",
-        "title": "環境",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c012.png",
+        "title": "環境",
         "id": "427f3ee0-b28a-4fd2-b7dc-980507f154d2",
         "name": "c012"
       }
     ],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t132217d0000000027",
-    "isopen": true,
-    "url": "https://www.city.kiyose.lg.jp/opendata/opendataichiran/1001604.html",
-    "notes": "【清瀬市】公園の一覧です。",
-    "title": "公園一覧",
-    "extras": [
-      {
-        "value": "変更の都度",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "https://www.city.kiyose.lg.jp/index.html",
-      "title": "清瀬市",
       "created": "2020-08-05T08:00:00.206131",
-      "approval_status": "approved",
+      "title": "清瀬市",
+      "name": "t132217",
       "is_organization": true,
       "state": "active",
       "image_url": "",
       "revision_id": "f8ef546d-d3f4-46e8-9741-39a6eec61618",
       "type": "organization",
       "id": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
-      "name": "t132217"
+      "approval_status": "approved"
     },
+    "name": "t132217d0000000027",
+    "isopen": true,
+    "url": "https://www.city.kiyose.lg.jp/opendata/opendataichiran/1001604.html",
+    "notes": "【清瀬市】公園の一覧です。",
+    "owner_org": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "変更の都度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "公園一覧",
     "revision_id": "d6f5911a-b6b3-44f7-a01b-74ff25893b68"
   }
 }

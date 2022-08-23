@@ -10,67 +10,67 @@
     "num_tags": 0,
     "id": "70e97034-fa8e-4929-99a7-8b945d9dcfe2",
     "metadata_created": "2021-10-14T00:57:52.722394",
-    "owner_org": "5e5b6123-ee7e-4097-9e26-dae0bcdb457c",
     "metadata_modified": "2021-12-15T00:23:00.660170",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "",
+        "name": "食品等営業許可・届出一覧",
         "format": "CSV",
         "url": "https://www.city.tokyo-nakano.lg.jp/dept/107000/d027582_d/fil/131148_food_business_all.csv",
+        "cache_last_updated": null,
+        "package_id": "70e97034-fa8e-4929-99a7-8b945d9dcfe2",
         "created": "2021-07-26T15:00:00",
         "state": "active",
-        "package_id": "70e97034-fa8e-4929-99a7-8b945d9dcfe2",
+        "mimetype_inner": null,
         "last_modified": "2021-07-26T15:00:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "c6c73ea6-eb5c-4364-b000-2cb86999308e",
-        "size": null,
+        "url_type": null,
         "id": "0b6ad54e-9c89-40a1-bcb1-41204a2ee255",
         "resource_type": null,
-        "name": "食品等営業許可・届出一覧"
+        "size": null
       }
     ],
     "num_resources": 1,
     "tags": [],
     "groups": [],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t131148d0000000040",
-    "isopen": true,
-    "url": "https://www.city.tokyo-nakano.lg.jp/dept/212500/d027582.html",
-    "notes": "中野区において食品営業許可を取得した施設等の一覧です。",
-    "title": "食品等営業許可・届出一覧",
-    "extras": [
-      {
-        "value": "",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "https://www.city.tokyo-nakano.lg.jp/",
-      "title": "中野区",
       "created": "2019-11-01T03:27:25.195268",
-      "approval_status": "approved",
+      "title": "中野区",
+      "name": "t131148",
       "is_organization": true,
       "state": "active",
       "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131148.jpg",
       "revision_id": "6d6159b5-afb0-416b-b34f-be8cfa10c02c",
       "type": "organization",
       "id": "5e5b6123-ee7e-4097-9e26-dae0bcdb457c",
-      "name": "t131148"
+      "approval_status": "approved"
     },
+    "name": "t131148d0000000040",
+    "isopen": true,
+    "url": "https://www.city.tokyo-nakano.lg.jp/dept/212500/d027582.html",
+    "notes": "中野区において食品営業許可を取得した施設等の一覧です。",
+    "owner_org": "5e5b6123-ee7e-4097-9e26-dae0bcdb457c",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": ""
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "食品等営業許可・届出一覧",
     "revision_id": "e5cf3d7d-4ea0-4b4a-9cf6-d4e11cbcfbf6"
   }
 }

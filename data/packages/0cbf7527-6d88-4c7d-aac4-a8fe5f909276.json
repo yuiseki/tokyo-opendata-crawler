@@ -10,7 +10,7 @@
     "num_tags": 0,
     "id": "0cbf7527-6d88-4c7d-aac4-a8fe5f909276",
     "metadata_created": "2019-11-01T04:58:51.167454",
-    "metadata_modified": "2021-08-24T23:48:31.472849",
+    "metadata_modified": "2022-01-19T23:23:02.487228",
     "author": null,
     "author_email": null,
     "state": "active",
@@ -109,7 +109,7 @@
         "description": "",
         "name": "山崎町1314-2_七国山小学校",
         "format": "PDF",
-        "url": "http://www.machida.city.tokyo.jp/shisei/opendata/chishitsuchosa/yamasakimachi.files/yamasakimachi1314-2.pdf",
+        "url": "https://www.city.machida.tokyo.jp/shisei/opendata/chishitsuchosa/yamasakimachi.files/yamasakimachi1314-2.pdf",
         "cache_last_updated": null,
         "package_id": "0cbf7527-6d88-4c7d-aac4-a8fe5f909276",
         "created": "2017-09-19T15:00:00",
@@ -117,11 +117,11 @@
         "mimetype_inner": null,
         "last_modified": "2017-09-19T15:00:00",
         "position": 4,
-        "revision_id": "7ce10d91-33c1-4ebd-ba4a-10e75c66ea66",
+        "revision_id": "aff1f7f0-bfaa-4e07-94fa-37637e99a0f5",
         "url_type": null,
-        "id": "bdc05887-797b-41fe-91a6-ed4397882a4d",
+        "id": "8fd3c5ad-24fd-4c71-b16b-5698a187f4ef",
         "resource_type": null,
-        "size": 43201331
+        "size": 42991616
       }
     ],
     "num_resources": 5,

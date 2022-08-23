@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "総務部総務課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "aa5fbffb-9cf4-468d-b841-ea0a77149fbf",
+    "metadata_created": "2022-06-03T07:48:44.761276",
+    "metadata_modified": "2022-06-03T07:49:06.562984",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "令和3年度板橋区の統計の土地・人口に関するデータです。",
+        "name": "1　土地・人口",
+        "format": "ZIP",
+        "url": "https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/038/631/1.totizinkou.zip",
+        "cache_last_updated": null,
+        "package_id": "aa5fbffb-9cf4-468d-b841-ea0a77149fbf",
+        "created": "2022-06-03T07:48:53.138965",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": null,
+        "position": 0,
+        "revision_id": "3db3ff68-d18c-4837-b504-cd1ecec4a68e",
+        "url_type": null,
+        "id": "2b58583e-c0c0-4671-bc12-9611aea30b5b",
+        "resource_type": null,
+        "size": 43008
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.itabashi.tokyo.jp/",
+      "created": "2019-11-01T03:27:25.673886",
+      "title": "板橋区",
+      "name": "t131199",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131199.jpg",
+      "revision_id": "1a86d48e-188d-4655-9cc5-c9aedb102db4",
+      "type": "organization",
+      "id": "9354a576-4de5-44ab-9e62-18a92b40b5e7",
+      "approval_status": "approved"
+    },
+    "name": "t131199d0000000245",
+    "isopen": true,
+    "url": "https://www.city.itabashi.tokyo.jp/cgi-opd/opendata_detail.cgi?id=b099d28559a4822f388cb7653106a55f675054a6",
+    "notes": "【板橋区】令和3年度板橋区の統計の土地・人口に関するデータを掲載しています。",
+    "owner_org": "9354a576-4de5-44ab-9e62-18a92b40b5e7",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "公開時のみ"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "令和3年度　土地・人口",
+    "revision_id": "3db3ff68-d18c-4837-b504-cd1ecec4a68e"
+  }
+}

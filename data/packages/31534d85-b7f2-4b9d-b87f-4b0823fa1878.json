@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "選挙管理委員会事務局",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "31534d85-b7f2-4b9d-b87f-4b0823fa1878",
+    "metadata_created": "2022-05-27T07:22:51.421597",
+    "metadata_modified": "2022-05-27T07:23:36.015217",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "【清瀬市】投票所の一覧です。",
+        "name": "投票所一覧",
+        "format": "CSV",
+        "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/001/604/13_pollingplace.csv",
+        "cache_last_updated": null,
+        "package_id": "31534d85-b7f2-4b9d-b87f-4b0823fa1878",
+        "created": "2019-12-26T06:36:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-12-26T06:36:00",
+        "position": 0,
+        "revision_id": "f261fea9-b0e0-4e18-b243-8ce908180b58",
+        "url_type": null,
+        "id": "79d1abb6-85fc-451c-bb9e-bba4fc2fd37f",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "【清瀬市】投票所の一覧です。",
+        "name": "投票所一覧",
+        "format": "XLSX",
+        "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/001/604/13_pollingplace.xlsx",
+        "cache_last_updated": null,
+        "package_id": "31534d85-b7f2-4b9d-b87f-4b0823fa1878",
+        "created": "2019-12-11T03:07:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2019-12-11T03:07:00",
+        "position": 1,
+        "revision_id": "7cf1243f-d354-4b9b-83dc-83066da5d157",
+        "url_type": null,
+        "id": "34900629-14aa-4244-b0c5-cfdaba209c6d",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.kiyose.lg.jp/index.html",
+      "created": "2020-08-05T08:00:00.206131",
+      "title": "清瀬市",
+      "name": "t132217",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "f8ef546d-d3f4-46e8-9741-39a6eec61618",
+      "type": "organization",
+      "id": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
+      "approval_status": "approved"
+    },
+    "name": "t132217d0000000049",
+    "isopen": true,
+    "url": "https://www.city.kiyose.lg.jp/opendata/opendataichiran/1001604.html",
+    "notes": "【清瀬市】投票所の一覧です。",
+    "owner_org": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "変更の都度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "投票所一覧",
+    "revision_id": "78546fe4-510f-4d3c-b286-cb62deda84c4"
+  }
+}

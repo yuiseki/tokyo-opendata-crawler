@@ -10,56 +10,55 @@
     "num_tags": 0,
     "id": "5109f6ed-8083-4ce2-a43f-37714b5ab205",
     "metadata_created": "2020-06-26T06:20:58.088417",
-    "owner_org": "a80c46c5-d236-4d83-b4f9-656c25d0847d",
     "metadata_modified": "2020-06-26T06:22:19.532469",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "",
+        "name": "ストーカー相談件数",
         "format": "CSV",
         "url": "https://www.keishicho.metro.tokyo.jp/about_mpd/jokyo_tokei/kakushu/stalker.files/stalker_1.csv",
+        "cache_last_updated": null,
+        "package_id": "5109f6ed-8083-4ce2-a43f-37714b5ab205",
         "created": "2018-02-18T15:00:00",
         "state": "active",
-        "package_id": "5109f6ed-8083-4ce2-a43f-37714b5ab205",
+        "mimetype_inner": null,
         "last_modified": "2018-02-18T15:00:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "0975fc83-2f41-4fb7-96e5-8ae8c9149154",
-        "size": null,
+        "url_type": null,
         "id": "3ed8b312-9b3f-4a21-9956-dd48a5323db6",
         "resource_type": null,
-        "name": "ストーカー相談件数"
+        "size": null
       },
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "",
+        "name": "ストーカー規制法の検挙等",
         "format": "CSV",
         "url": "https://www.keishicho.metro.tokyo.jp/about_mpd/jokyo_tokei/kakushu/stalker.files/stalker_2.csv",
+        "cache_last_updated": null,
+        "package_id": "5109f6ed-8083-4ce2-a43f-37714b5ab205",
         "created": "2018-02-18T15:00:00",
         "state": "active",
-        "package_id": "5109f6ed-8083-4ce2-a43f-37714b5ab205",
+        "mimetype_inner": null,
         "last_modified": "2018-02-18T15:00:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 1,
         "revision_id": "bf74b5dd-0bf4-4536-895a-2f35674ff7c6",
-        "size": null,
+        "url_type": null,
         "id": "b8af24e6-5010-47ef-9107-35145705615f",
         "resource_type": null,
-        "name": "ストーカー規制法の検挙等"
+        "size": null
       }
     ],
     "num_resources": 2,
@@ -68,47 +67,48 @@
       {
         "display_name": "治安",
         "description": "",
-        "title": "治安",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c002.png",
+        "title": "治安",
         "id": "de8273ac-2339-4309-ad15-2800b751b45e",
         "name": "c002"
       },
       {
         "display_name": "生活",
         "description": "",
-        "title": "生活",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
         "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
         "name": "c006"
       }
     ],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t000022d1700000004",
-    "isopen": true,
-    "url": "https://www.keishicho.metro.tokyo.jp/about_mpd/jokyo_tokei/kakushu/stalker.html",
-    "notes": "【警視庁】",
-    "title": "ストーカー事案の概況①",
-    "extras": [
-      {
-        "value": "随時",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "http://www.keishicho.metro.tokyo.jp/\r\n\r\n所属:東京都",
-      "title": "警視庁",
       "created": "2019-11-01T03:27:22.754561",
-      "approval_status": "approved",
+      "title": "警視庁",
+      "name": "t000022",
       "is_organization": true,
       "state": "active",
       "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000022.jpg",
       "revision_id": "6ec2a37b-87b3-4747-ac28-2a6800716699",
       "type": "organization",
       "id": "a80c46c5-d236-4d83-b4f9-656c25d0847d",
-      "name": "t000022"
+      "approval_status": "approved"
     },
+    "name": "t000022d1700000004",
+    "isopen": true,
+    "url": "https://www.keishicho.metro.tokyo.jp/about_mpd/jokyo_tokei/kakushu/stalker.html",
+    "notes": "【警視庁】",
+    "owner_org": "a80c46c5-d236-4d83-b4f9-656c25d0847d",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "ストーカー事案の概況①",
     "revision_id": "f692cfe3-1995-4e74-b937-eb12037987fa"
   }
 }

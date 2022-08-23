@@ -10,35 +10,34 @@
     "num_tags": 0,
     "id": "ddc4c656-1925-4c80-9d8a-e3e9061ecfcb",
     "metadata_created": "2019-11-01T04:55:10.749771",
-    "owner_org": "de6428eb-03c5-4658-9bf8-80f7c5f554d9",
     "metadata_modified": "2021-08-26T04:08:07.554864",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "",
+        "name": "東京都公金を納付できる金融機関一覧（平成３１年４月１日現在）",
         "format": "CSV",
         "url": "http://www.kaikeikanri.metro.tokyo.jp/op20190401_koukinwonouhudekirukinyuukikan_2019_0401.csv",
+        "cache_last_updated": null,
+        "package_id": "ddc4c656-1925-4c80-9d8a-e3e9061ecfcb",
         "created": "2019-01-29T15:00:00",
         "state": "active",
-        "package_id": "ddc4c656-1925-4c80-9d8a-e3e9061ecfcb",
+        "mimetype_inner": null,
         "last_modified": "2019-01-29T15:00:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "65335e88-5ee0-413d-baf0-a41399e89682",
-        "size": null,
+        "url_type": null,
         "id": "4f3ddfe9-b8ad-4fd1-8423-7a33771a98ca",
         "resource_type": null,
-        "name": "東京都公金を納付できる金融機関一覧（平成３１年４月１日現在）"
+        "size": null
       }
     ],
     "num_resources": 1,
@@ -47,39 +46,40 @@
       {
         "display_name": "税金",
         "description": "",
-        "title": "税金",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c007.png",
+        "title": "税金",
         "id": "bb8a1d8b-5217-44c2-8eca-81addb671f0e",
         "name": "c007"
       }
     ],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t000016d0000000002",
-    "isopen": true,
-    "url": "http://www.kaikeikanri.metro.tokyo.jp/koukinshuunou.htm",
-    "notes": "【東京都会計管理局】",
-    "title": "東京都公金を納付できる金融機関一覧",
-    "extras": [
-      {
-        "value": "随時",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "http://www.kaikeikanri.metro.tokyo.jp/\r\n\r\n所属:東京都",
-      "title": "東京都会計管理局",
       "created": "2019-11-01T03:27:21.811618",
-      "approval_status": "approved",
+      "title": "東京都会計管理局",
+      "name": "t000016",
       "is_organization": true,
       "state": "active",
       "image_url": "",
       "revision_id": "437d2e05-a454-4728-83e8-010b35b1110b",
       "type": "organization",
       "id": "de6428eb-03c5-4658-9bf8-80f7c5f554d9",
-      "name": "t000016"
+      "approval_status": "approved"
     },
+    "name": "t000016d0000000002",
+    "isopen": true,
+    "url": "http://www.kaikeikanri.metro.tokyo.jp/koukinshuunou.htm",
+    "notes": "【東京都会計管理局】",
+    "owner_org": "de6428eb-03c5-4658-9bf8-80f7c5f554d9",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "東京都公金を納付できる金融機関一覧",
     "revision_id": "eab69be3-3ffa-4b2a-98f5-e384514ea4a0"
   }
 }

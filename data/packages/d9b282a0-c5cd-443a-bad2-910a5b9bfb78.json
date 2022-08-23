@@ -10,7 +10,7 @@
     "num_tags": 0,
     "id": "d9b282a0-c5cd-443a-bad2-910a5b9bfb78",
     "metadata_created": "2019-11-01T04:59:00.624702",
-    "metadata_modified": "2021-10-06T08:07:07.084672",
+    "metadata_modified": "2022-06-17T01:36:38.972645",
     "author": null,
     "author_email": null,
     "state": "active",
@@ -49,16 +49,16 @@
         "url": "https://www.city.inagi.tokyo.jp/shisei/gyosei/opendata/opendata_catalogpage/zei.files/033.csv",
         "cache_last_updated": null,
         "package_id": "d9b282a0-c5cd-443a-bad2-910a5b9bfb78",
-        "created": "2021-10-04T00:58:30.982877",
+        "created": "2021-10-04T00:58:00",
         "state": "active",
         "mimetype_inner": null,
         "last_modified": null,
         "position": 1,
-        "revision_id": "e9e71b3e-2631-4e7f-9a59-674712e074b6",
+        "revision_id": "78652a5b-c962-4dc4-a176-5cca9f84e723",
         "url_type": null,
         "id": "7b951279-295e-4322-bf65-1116ce76db3a",
         "resource_type": null,
-        "size": 6144
+        "size": 7168
       }
     ],
     "num_resources": 2,

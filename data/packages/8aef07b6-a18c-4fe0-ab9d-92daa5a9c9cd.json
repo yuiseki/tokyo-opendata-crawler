@@ -6,15 +6,15 @@
     "maintainer": "東京都総務局復興支援対策部",
     "relationships_as_object": [],
     "private": false,
-    "maintainer_email": null,
+    "maintainer_email": "",
     "num_tags": 0,
     "id": "8aef07b6-a18c-4fe0-ab9d-92daa5a9c9cd",
     "metadata_created": "2021-05-20T05:50:00.768175",
-    "metadata_modified": "2021-05-20T05:51:46.580693",
-    "author": null,
-    "author_email": null,
+    "metadata_modified": "2022-07-09T13:01:24.068571",
+    "author": "",
+    "author_email": "",
     "state": "active",
-    "version": null,
+    "version": "",
     "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
@@ -70,7 +70,7 @@
       }
     ],
     "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
-    "title": "都内避難者支援の取組_各種相談窓口一覧（PDF）",
-    "revision_id": "04763705-5922-444b-956e-79021f262465"
+    "title": "都内避難者支援の取組_各種相談窓口一覧",
+    "revision_id": "58682e3a-58d3-4997-8925-e4522b20946a"
   }
 }

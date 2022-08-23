@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "昭島市市民部市民課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "6d34c0d0-5ebc-407d-bfac-4c77fb15b3f0",
+    "metadata_created": "2022-06-30T23:55:06.218469",
+    "metadata_modified": "2022-06-30T23:55:06.761801",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "令和４年度年齢別人口（令和４年６月１日現在）",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/akishima/132071_population_20220601.csv",
+        "cache_last_updated": null,
+        "package_id": "6d34c0d0-5ebc-407d-bfac-4c77fb15b3f0",
+        "created": "2022-06-13T05:47:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2022-06-13T05:47:00",
+        "position": 0,
+        "revision_id": "71becfb0-5346-45b1-b9a3-d6efe90a65ad",
+        "url_type": null,
+        "id": "bc20133f-3a2a-4143-ae4a-773e9ae74085",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "人口減少・少子高齢化",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c004.png",
+        "title": "人口減少・少子高齢化",
+        "id": "802d7d18-3543-4e8b-a8f5-82b5f1aa752e",
+        "name": "c004"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "",
+      "created": "2021-08-24T01:28:36.135062",
+      "title": "昭島市",
+      "name": "t132071",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t132071.png",
+      "revision_id": "1a9c019b-311b-4207-94ad-4ae370515f83",
+      "type": "organization",
+      "id": "f9f056fc-d7ea-4208-a7a0-ea94c8d379c7",
+      "approval_status": "approved"
+    },
+    "name": "t132071d0000000006",
+    "isopen": true,
+    "url": "",
+    "notes": "【昭島市】住民基本台帳による年齢別人口です。",
+    "owner_org": "f9f056fc-d7ea-4208-a7a0-ea94c8d379c7",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "月１回"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "年齢別人口",
+    "revision_id": "967d0f29-76d0-4d7f-837c-c5a3fa71ee17"
+  }
+}

@@ -6,15 +6,15 @@
     "maintainer": "健康安全部食品監視課",
     "relationships_as_object": [],
     "private": false,
-    "maintainer_email": null,
+    "maintainer_email": "",
     "num_tags": 0,
     "id": "f8f6164b-c051-4c43-b1c6-9d04a2989454",
     "metadata_created": "2019-11-01T04:54:08.586842",
-    "metadata_modified": "2019-11-01T06:04:22.548985",
-    "author": null,
-    "author_email": null,
+    "metadata_modified": "2022-02-22T02:00:15.027450",
+    "author": "",
+    "author_email": "",
     "state": "active",
-    "version": null,
+    "version": "",
     "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
@@ -25,7 +25,7 @@
         "description": "",
         "name": "食品安全推進計画_全文",
         "format": "PDF",
-        "url": "http://www.fukushihoken.metro.tokyo.jp/shokuhin/jourei/files/keikaku_3/zenbun.pdf",
+        "url": "https://www.fukushihoken.metro.tokyo.lg.jp/shokuhin/jourei/files/R3-7_keikaku.pdf",
         "cache_last_updated": null,
         "package_id": "f8f6164b-c051-4c43-b1c6-9d04a2989454",
         "created": "2018-08-30T15:00:00",
@@ -33,7 +33,7 @@
         "mimetype_inner": null,
         "last_modified": "2018-08-30T15:00:00",
         "position": 0,
-        "revision_id": "74e3bf05-e8cc-4dc3-8006-9f3a1dca0ecd",
+        "revision_id": "18c97675-b25b-4da1-a108-f41c5fbadad8",
         "url_type": null,
         "id": "71ca7bf8-b8f1-4361-a035-093df7be2de4",
         "resource_type": null,
@@ -206,6 +206,6 @@
     ],
     "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "title": "食品安全推進計画_全文",
-    "revision_id": "344f3481-85b4-437c-b89c-fda87df7475a"
+    "revision_id": "7405eb15-9893-4944-8d79-ad652211b2cc"
   }
 }

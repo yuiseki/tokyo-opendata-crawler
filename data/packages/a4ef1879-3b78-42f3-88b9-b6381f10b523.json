@@ -10,67 +10,67 @@
     "num_tags": 0,
     "id": "a4ef1879-3b78-42f3-88b9-b6381f10b523",
     "metadata_created": "2019-11-01T04:58:38.708930",
-    "owner_org": "01ee6b09-cb58-4100-8d95-623ad6b238ef",
     "metadata_modified": "2020-05-22T09:03:42.414615",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "データ時点：2017年4月現在。本データは地図作成上の誤差を含んでおります。",
+        "name": "保育園・幼稚園",
         "format": "CSV",
         "url": "https://www.city.machida.tokyo.jp/shisei/opendata/shisetsu/hoikuenyouchien.files/hoikuenyouchien.csv",
+        "cache_last_updated": null,
+        "package_id": "a4ef1879-3b78-42f3-88b9-b6381f10b523",
         "created": "2017-06-19T15:00:00",
         "state": "active",
-        "package_id": "a4ef1879-3b78-42f3-88b9-b6381f10b523",
+        "mimetype_inner": null,
         "last_modified": "2017-06-19T15:00:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "3229bda1-ce7d-426e-ab33-d11e46fabbc3",
-        "size": 20480,
+        "url_type": null,
         "id": "98c13b00-43ce-4775-8487-2c24fa78a411",
         "resource_type": null,
-        "name": "保育園・幼稚園"
+        "size": 20480
       }
     ],
     "num_resources": 1,
     "tags": [],
     "groups": [],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t132098d0000000010",
-    "isopen": true,
-    "url": "",
-    "notes": "【町田市】",
-    "title": "保育園・幼稚園",
-    "extras": [
-      {
-        "value": "随時",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "https://www.city.machida.tokyo.jp/",
-      "title": "町田市",
       "created": "2019-11-01T03:27:26.775139",
-      "approval_status": "approved",
+      "title": "町田市",
+      "name": "t132098",
       "is_organization": true,
       "state": "active",
       "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t132098.png",
       "revision_id": "afc39d6e-faf0-4358-90a5-a32d669724a1",
       "type": "organization",
       "id": "01ee6b09-cb58-4100-8d95-623ad6b238ef",
-      "name": "t132098"
+      "approval_status": "approved"
     },
+    "name": "t132098d0000000010",
+    "isopen": true,
+    "url": "",
+    "notes": "【町田市】",
+    "owner_org": "01ee6b09-cb58-4100-8d95-623ad6b238ef",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "保育園・幼稚園",
     "revision_id": "b03ae99a-f3fd-4ce2-bc43-c31730aad69e"
   }
 }

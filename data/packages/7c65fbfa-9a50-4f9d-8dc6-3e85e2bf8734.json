@@ -10,56 +10,55 @@
     "num_tags": 0,
     "id": "7c65fbfa-9a50-4f9d-8dc6-3e85e2bf8734",
     "metadata_created": "2020-05-29T07:48:10.683026",
-    "owner_org": "16d81025-a2ca-4002-8129-9906c94a4732",
     "metadata_modified": "2020-05-29T07:48:25.323758",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "",
+        "name": "建設地が23区内及び島しょ",
         "format": "CSV",
         "url": "https://www.opendata.metro.tokyo.lg.jp/toshiseibi/h31/soudanmadoguti_23ku_tousyo.csv",
+        "cache_last_updated": null,
+        "package_id": "7c65fbfa-9a50-4f9d-8dc6-3e85e2bf8734",
         "created": "2020-03-30T15:00:00",
         "state": "active",
-        "package_id": "7c65fbfa-9a50-4f9d-8dc6-3e85e2bf8734",
+        "mimetype_inner": null,
         "last_modified": "2020-03-30T15:00:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "c4898484-fa13-49d3-8c4d-0816322f112c",
-        "size": null,
+        "url_type": null,
         "id": "24683e2f-042c-4700-9ee6-b0039f04fe94",
         "resource_type": null,
-        "name": "建設地が23区内及び島しょ"
+        "size": null
       },
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "",
+        "name": "建設地が市町",
         "format": "CSV",
         "url": "https://www.opendata.metro.tokyo.lg.jp/toshiseibi/h31/soudanmadoguti_sityou.csv",
+        "cache_last_updated": null,
+        "package_id": "7c65fbfa-9a50-4f9d-8dc6-3e85e2bf8734",
         "created": "2020-03-30T15:00:00",
         "state": "active",
-        "package_id": "7c65fbfa-9a50-4f9d-8dc6-3e85e2bf8734",
+        "mimetype_inner": null,
         "last_modified": "2020-03-30T15:00:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 1,
         "revision_id": "74dd76db-afab-482c-9d22-6ee262271f5e",
-        "size": null,
+        "url_type": null,
         "id": "9387afde-adc8-4d56-a0bb-ce20a23cb1e0",
         "resource_type": null,
-        "name": "建設地が市町"
+        "size": null
       }
     ],
     "num_resources": 2,
@@ -68,39 +67,40 @@
       {
         "display_name": "まちづくり",
         "description": "",
-        "title": "まちづくり",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c003.png",
+        "title": "まちづくり",
         "id": "dc897c44-8153-4219-bfeb-6110fb85fb99",
         "name": "c003"
       }
     ],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t000008d1900000008",
-    "isopen": true,
-    "url": "http://www.toshiseibi.metro.tokyo.jp/kenchiku/kijun/kn_k15.htm",
-    "notes": "",
-    "title": "構造計算適合性判定の対象の合理化について　各行政庁",
-    "extras": [
-      {
-        "value": "不定期",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "http://www.toshiseibi.metro.tokyo.jp/\r\n\r\n所属:東京都",
-      "title": "東京都都市整備局",
       "created": "2019-11-01T03:27:20.560358",
-      "approval_status": "approved",
+      "title": "東京都都市整備局",
+      "name": "t000008",
       "is_organization": true,
       "state": "active",
       "image_url": "",
       "revision_id": "9c234f0e-ff7d-4e2d-8ba4-ea80f312405b",
       "type": "organization",
       "id": "16d81025-a2ca-4002-8129-9906c94a4732",
-      "name": "t000008"
+      "approval_status": "approved"
     },
+    "name": "t000008d1900000008",
+    "isopen": true,
+    "url": "http://www.toshiseibi.metro.tokyo.jp/kenchiku/kijun/kn_k15.htm",
+    "notes": "",
+    "owner_org": "16d81025-a2ca-4002-8129-9906c94a4732",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "構造計算適合性判定の対象の合理化について　各行政庁",
     "revision_id": "47844e94-9d0b-4c8d-861e-b9bb461b3543"
   }
 }

@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "東京都環境局地球環境エネルギー部総量削減課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "a9491d61-9a7f-43d5-82e6-1eccdaeaf3c0",
+    "metadata_created": "2022-05-26T08:16:38.895632",
+    "metadata_modified": "2022-06-15T01:19:56.756479",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "2022年3月末時点での特定テナント事業所の評価（A以上）一覧のデータです。",
+        "name": "特定テナント等事業者における地球温暖化の対策に係る取組の評価・公表",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/kankyo/R4/kankyoukyoku_tokuteitenannto_hyoukaseido.csv",
+        "cache_last_updated": null,
+        "package_id": "a9491d61-9a7f-43d5-82e6-1eccdaeaf3c0",
+        "created": "2022-05-17T04:06:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2022-05-25T02:53:00",
+        "position": 0,
+        "revision_id": "2b2ccdb8-4ce1-42a3-b6ce-9df42a99b638",
+        "url_type": null,
+        "id": "ccc7aa65-83f6-4955-988b-8421c516ac01",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "環境",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c012.png",
+        "title": "環境",
+        "id": "427f3ee0-b28a-4fd2-b7dc-980507f154d2",
+        "name": "c012"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.kankyo.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:20.710014",
+      "title": "東京都環境局",
+      "name": "t000009",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "a0bf6c30-64dc-48fe-9782-e38ae248a38d",
+      "type": "organization",
+      "id": "c8b93db3-9754-48d3-8b50-5cbe78d679e7",
+      "approval_status": "approved"
+    },
+    "name": "t000009d0000000027",
+    "isopen": true,
+    "url": "https://www.kankyo.metro.tokyo.lg.jp/climate/large_scale/tenant/tenant_karte.html",
+    "notes": "【東京都環境局】提出された特定テナント等地球温暖化対策計画書において、総合評価が「A」以上となった特定テナント事業所のうち、希望される事業者を優良事業者として公表します。",
+    "owner_org": "c8b93db3-9754-48d3-8b50-5cbe78d679e7",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "特定テナント等事業者における地球温暖化の対策に係る取組の評価・公表",
+    "revision_id": "3aecfd74-b5b1-44ea-bd74-923dbbe54e50"
+  }
+}

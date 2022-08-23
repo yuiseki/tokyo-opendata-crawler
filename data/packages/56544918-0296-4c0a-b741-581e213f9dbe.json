@@ -10,56 +10,55 @@
     "num_tags": 0,
     "id": "56544918-0296-4c0a-b741-581e213f9dbe",
     "metadata_created": "2021-08-25T02:13:31.316763",
-    "owner_org": "5987f8a3-dfbe-4f96-b3cc-e1f3ea0a2717",
     "metadata_modified": "2021-08-26T01:57:09.049623",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "",
+        "name": "熊本地震における被災建築物応急危険度判定件数一覧（熊本県内）",
         "format": "CSV",
         "url": "https://www.bousai.metro.tokyo.lg.jp/content/opendata/csv/4syou_10.csv",
+        "cache_last_updated": null,
+        "package_id": "56544918-0296-4c0a-b741-581e213f9dbe",
         "created": "2018-04-12T15:00:00",
         "state": "active",
-        "package_id": "56544918-0296-4c0a-b741-581e213f9dbe",
+        "mimetype_inner": null,
         "last_modified": "2018-04-12T15:00:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "e0172cd1-5393-46c3-b0e8-93067860e319",
-        "size": null,
+        "url_type": null,
         "id": "5b80a59c-3527-4981-8e95-2d79c58ef93e",
         "resource_type": null,
-        "name": "熊本地震における被災建築物応急危険度判定件数一覧（熊本県内）"
+        "size": null
       },
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "① 平成７年の阪神・淡路大震災で最も被害が大きかった神戸地区では、地中化された 電話回線ケーブルの被災率が 0.03％に留まったのに対し、架空線は 2.4％と大きな被 害を受けた。 なお、東日本大震災の被災状況は津波による被害が大半となっているため、掲載してい ない。",
+        "name": "過去の震災時の電力・通信施設被害状況",
         "format": "CSV",
         "url": "https://www.bousai.metro.tokyo.lg.jp/content/opendata/csv/4syou_12.csv",
+        "cache_last_updated": null,
+        "package_id": "56544918-0296-4c0a-b741-581e213f9dbe",
         "created": "2018-04-12T15:00:00",
         "state": "active",
-        "package_id": "56544918-0296-4c0a-b741-581e213f9dbe",
+        "mimetype_inner": null,
         "last_modified": "2018-04-12T15:00:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 1,
         "revision_id": "f6fd3809-d54b-4eed-a8d7-23837c35a933",
-        "size": null,
+        "url_type": null,
         "id": "447911d7-d0d9-43d3-9d4f-1f3934a4c155",
         "resource_type": null,
-        "name": "過去の震災時の電力・通信施設被害状況"
+        "size": null
       }
     ],
     "num_resources": 2,
@@ -68,39 +67,40 @@
       {
         "display_name": "防災・災害計画",
         "description": "",
-        "title": "防災・災害計画",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c001.png",
+        "title": "防災・災害計画",
         "id": "8eb52f8e-0d10-44f4-8bb4-2a488d0f8465",
         "name": "c001"
       }
     ],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t000003d1700000011",
-    "isopen": true,
-    "url": "",
-    "notes": "【東京都総務局】",
-    "title": "平成28年熊本地震　支援の記録～都の防災対策の実効性向上に向けて～_【第4章】平成28年熊本地震の支援の経験等から得られた防災上の教訓",
-    "extras": [
-      {
-        "value": "不定期",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "http://www.soumu.metro.tokyo.jp/\r\n\r\n所属:東京都",
-      "title": "東京都総務局",
       "created": "2019-11-01T03:27:19.763566",
-      "approval_status": "approved",
+      "title": "東京都総務局",
+      "name": "t000003",
       "is_organization": true,
       "state": "active",
       "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000003.png",
       "revision_id": "c4e16dd4-cb3f-42dc-8be2-2eed0f9e0175",
       "type": "organization",
       "id": "5987f8a3-dfbe-4f96-b3cc-e1f3ea0a2717",
-      "name": "t000003"
+      "approval_status": "approved"
     },
+    "name": "t000003d1700000011",
+    "isopen": true,
+    "url": "",
+    "notes": "【東京都総務局】",
+    "owner_org": "5987f8a3-dfbe-4f96-b3cc-e1f3ea0a2717",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "平成28年熊本地震　支援の記録～都の防災対策の実効性向上に向けて～_【第4章】平成28年熊本地震の支援の経験等から得られた防災上の教訓",
     "revision_id": "d1e5475c-8d03-4c59-bfad-7744d3570418"
   }
 }

@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "防災まちづくり部公園課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "0de13579-d84c-4018-aad0-4aa043a8fc12",
+    "metadata_created": "2022-03-08T04:34:44.024221",
+    "metadata_modified": "2022-03-08T04:35:46.397824",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "接道部分布情報zipデータ",
+        "name": "接道部分布情報(zip形式)",
+        "format": "ZIP",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/shinagawa/setsudobubunpu.zip",
+        "cache_last_updated": null,
+        "package_id": "0de13579-d84c-4018-aad0-4aa043a8fc12",
+        "created": "2017-07-30T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-07-30T15:00:00",
+        "position": 0,
+        "revision_id": "000103c1-18d0-4ef5-87f2-f466a5f89a2e",
+        "url_type": null,
+        "id": "bff23c15-f3ab-4e48-b03e-ad819578fb65",
+        "resource_type": null,
+        "size": 4388
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "接道部分布情報geojsonデータ",
+        "name": "接道部分布情報(geojson形式)",
+        "format": "GeoJSON",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/shinagawa/setsudobubunpu.geojson",
+        "cache_last_updated": null,
+        "package_id": "0de13579-d84c-4018-aad0-4aa043a8fc12",
+        "created": "2017-07-30T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-07-30T15:00:00",
+        "position": 1,
+        "revision_id": "47973d68-4267-415f-a623-2fa4997a8f8b",
+        "url_type": null,
+        "id": "3a7d2258-4f8f-4f0f-b035-b10ce5a490aa",
+        "resource_type": null,
+        "size": 52837
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "環境",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c012.png",
+        "title": "環境",
+        "id": "427f3ee0-b28a-4fd2-b7dc-980507f154d2",
+        "name": "c012"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.shinagawa.tokyo.jp/",
+      "created": "2019-11-01T03:27:24.888527",
+      "title": "品川区",
+      "name": "t131091",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131091.png",
+      "revision_id": "a58c6889-2755-423e-bc8c-5146fb74ae73",
+      "type": "organization",
+      "id": "ee5ed3ad-76a9-4a49-aba7-3a63a457eb93",
+      "approval_status": "approved"
+    },
+    "name": "t131091d0000000115",
+    "isopen": true,
+    "url": "",
+    "notes": "接道部分布情報",
+    "owner_org": "ee5ed3ad-76a9-4a49-aba7-3a63a457eb93",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "接道部分布",
+    "revision_id": "9c13899c-fd38-4107-8e93-013de8fe040a"
+  }
+}

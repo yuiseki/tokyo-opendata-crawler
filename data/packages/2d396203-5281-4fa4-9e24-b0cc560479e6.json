@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "昭島市保健福祉部介護福祉課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "2d396203-5281-4fa4-9e24-b0cc560479e6",
+    "metadata_created": "2022-01-25T05:20:27.297499",
+    "metadata_modified": "2022-01-25T05:20:28.225448",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "地域包括支援センター一覧",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/akishima/132071_center.csv",
+        "cache_last_updated": null,
+        "package_id": "2d396203-5281-4fa4-9e24-b0cc560479e6",
+        "created": "2022-01-13T09:54:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2022-01-24T00:35:00",
+        "position": 0,
+        "revision_id": "d3ab7a9e-9b90-445d-adfa-45381f55444d",
+        "url_type": null,
+        "id": "c6910707-6078-4af2-ae5a-dcdfd880ca76",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "地域包括支援センター一覧",
+        "format": "XLSX",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/akishima/132071_center.xlsx",
+        "cache_last_updated": null,
+        "package_id": "2d396203-5281-4fa4-9e24-b0cc560479e6",
+        "created": "2022-01-13T08:16:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2022-01-24T00:34:00",
+        "position": 1,
+        "revision_id": "8a8f45ea-d9d2-47f7-8911-29a8cc5058aa",
+        "url_type": null,
+        "id": "00d2e702-5218-4386-b0cf-296fc9dd283b",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "医療・福祉",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c005.png",
+        "title": "医療・福祉",
+        "id": "0d3cd956-612c-45c5-b1ee-75c1a5835c0e",
+        "name": "c005"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "",
+      "created": "2021-08-24T01:28:36.135062",
+      "title": "昭島市",
+      "name": "t132071",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t132071.png",
+      "revision_id": "1a9c019b-311b-4207-94ad-4ae370515f83",
+      "type": "organization",
+      "id": "f9f056fc-d7ea-4208-a7a0-ea94c8d379c7",
+      "approval_status": "approved"
+    },
+    "name": "t132071d0000000005",
+    "isopen": true,
+    "url": "",
+    "notes": "【昭島市】昭島市の地域包括支援センターの一覧です。",
+    "owner_org": "f9f056fc-d7ea-4208-a7a0-ea94c8d379c7",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "年１回"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "地域包括支援センター一覧",
+    "revision_id": "aa6dca79-527c-4aa6-9976-275505c989de"
+  }
+}

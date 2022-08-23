@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "清瀬市企画部未来創造課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "12d16f3b-7f7b-4550-bdfb-342cf6acad61",
+    "metadata_created": "2022-05-27T07:22:46.710613",
+    "metadata_modified": "2022-05-27T07:23:33.807922",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "【清瀬市】主催・共催するイベント情報の一覧です。",
+        "name": "イベント一覧",
+        "format": "CSV",
+        "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/001/608/132217_eventr4_2.csv",
+        "cache_last_updated": null,
+        "package_id": "12d16f3b-7f7b-4550-bdfb-342cf6acad61",
+        "created": "2018-06-18T01:57:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2022-05-24T08:13:00",
+        "position": 0,
+        "revision_id": "7f075090-6801-4bfa-8c26-d2e31ced2706",
+        "url_type": null,
+        "id": "46521abd-5bb5-42e2-89ff-d94cef849eb3",
+        "resource_type": null,
+        "size": null
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "【清瀬市】主催・共催するイベント情報の一覧です。",
+        "name": "イベント一覧",
+        "format": "XLSX",
+        "url": "https://www.city.kiyose.lg.jp/_res/projects/default_project/_page_/001/001/608/132217_eventr4_2.xlsx",
+        "cache_last_updated": null,
+        "package_id": "12d16f3b-7f7b-4550-bdfb-342cf6acad61",
+        "created": "2018-06-18T02:16:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2022-05-24T07:33:00",
+        "position": 1,
+        "revision_id": "be02758d-791f-4737-9257-271053f8696e",
+        "url_type": null,
+        "id": "8ba173c9-923b-43c5-af0a-9c6aa436b2a1",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "観光",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c008.png",
+        "title": "観光",
+        "id": "420fd8d6-2bde-4746-9354-6344ec19ba93",
+        "name": "c008"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.kiyose.lg.jp/index.html",
+      "created": "2020-08-05T08:00:00.206131",
+      "title": "清瀬市",
+      "name": "t132217",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "f8ef546d-d3f4-46e8-9741-39a6eec61618",
+      "type": "organization",
+      "id": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
+      "approval_status": "approved"
+    },
+    "name": "t132217d0000000014",
+    "isopen": true,
+    "url": "https://www.city.kiyose.lg.jp/opendata/opendataichiran/1001608.html",
+    "notes": "【清瀬市】主催・共催するイベント情報の一覧です。",
+    "owner_org": "2b56daa3-c41e-4e40-9ea7-0de9566cb780",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "年１回"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "イベント一覧",
+    "revision_id": "fbe46a00-2a05-4b0d-b238-4dfc3a1449c8"
+  }
+}

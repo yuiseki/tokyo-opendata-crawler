@@ -6,71 +6,71 @@
     "maintainer": "選挙管理委員会事務局",
     "relationships_as_object": [],
     "private": false,
-    "maintainer_email": null,
+    "maintainer_email": "",
     "num_tags": 0,
     "id": "a15faf04-8959-4513-bcce-720b01895503",
     "metadata_created": "2021-03-18T07:38:19.672183",
-    "owner_org": "9354a576-4de5-44ab-9e62-18a92b40b5e7",
-    "metadata_modified": "2021-03-18T07:38:49.629458",
-    "author": null,
-    "author_email": null,
+    "metadata_modified": "2022-02-17T00:05:28.984337",
+    "author": "",
+    "author_email": "",
     "state": "active",
-    "version": null,
-    "license_id": "CC-BY-4.0",
+    "version": "",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "期日前投票所に関するデータです。",
+        "name": "期日前投票所",
         "format": "CSV",
         "url": "https://www.city.itabashi.tokyo.jp/_res/projects/default_project/_page_/001/010/380/attach_67764_2.csv",
+        "cache_last_updated": null,
+        "package_id": "a15faf04-8959-4513-bcce-720b01895503",
         "created": "2021-03-18T07:38:45.970414",
         "state": "active",
-        "package_id": "a15faf04-8959-4513-bcce-720b01895503",
+        "mimetype_inner": null,
         "last_modified": null,
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "8c60d39f-690f-4616-b857-ba90baf78f5f",
-        "size": null,
+        "url_type": null,
         "id": "77f15fb1-a46c-4db4-bbce-9a5f1b9778f3",
         "resource_type": null,
-        "name": "期日前投票所"
+        "size": null
       }
     ],
     "num_resources": 1,
     "tags": [],
     "groups": [],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t131199d0000001412",
-    "isopen": true,
-    "url": "https://www.city.itabashi.tokyo.jp/kusei/senkyo/touhyo/1010380.html",
-    "notes": "【板橋区】期日前投票所に関するデータを掲載しています。",
-    "title": "期日前投票所",
-    "extras": [
-      {
-        "value": "随時",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "http://www.city.itabashi.tokyo.jp/",
-      "title": "板橋区",
       "created": "2019-11-01T03:27:25.673886",
-      "approval_status": "approved",
+      "title": "板橋区",
+      "name": "t131199",
       "is_organization": true,
       "state": "active",
       "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131199.jpg",
       "revision_id": "1a86d48e-188d-4655-9cc5-c9aedb102db4",
       "type": "organization",
       "id": "9354a576-4de5-44ab-9e62-18a92b40b5e7",
-      "name": "t131199"
+      "approval_status": "approved"
     },
-    "revision_id": "01c5e826-4c1c-413c-9d6d-10cde8f07d25"
+    "name": "t131199d0000001412",
+    "isopen": true,
+    "url": "https://www.city.itabashi.tokyo.jp/kusei/senkyo/touhyo/1010380.html",
+    "notes": "【板橋区】期日前投票所に関するデータを掲載しています。",
+    "owner_org": "9354a576-4de5-44ab-9e62-18a92b40b5e7",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "期日前投票所",
+    "revision_id": "4f639cbc-ce70-44f0-8428-41866d48e0cc"
   }
 }

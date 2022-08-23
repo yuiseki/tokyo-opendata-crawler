@@ -10,35 +10,34 @@
     "num_tags": 0,
     "id": "b9961150-9fe7-4060-83f0-ee5f30b12c6f",
     "metadata_created": "2021-11-04T00:38:22.721547",
-    "owner_org": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
     "metadata_modified": "2021-12-13T06:15:03.934891",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "",
+        "name": "年度別介護サービス給付費",
         "format": "CSV",
         "url": "https://data.bodik.jp/dataset/40630aff-2373-4a4a-ac9c-62fe305c92f6/resource/7181fded-dcc9-4a47-8023-cb3280247a31/download/131105_care_service_kyuhu_kingaku_20210401.csv",
+        "cache_last_updated": null,
+        "package_id": "b9961150-9fe7-4060-83f0-ee5f30b12c6f",
         "created": "2021-08-11T08:06:00",
         "state": "active",
-        "package_id": "b9961150-9fe7-4060-83f0-ee5f30b12c6f",
+        "mimetype_inner": null,
         "last_modified": "2021-08-11T08:06:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "0b9fb17c-d675-46b2-be1b-e32a04b8e671",
-        "size": 2372,
+        "url_type": null,
         "id": "9434172a-b3a0-4841-9a63-d8ce85a9274a",
         "resource_type": null,
-        "name": "年度別介護サービス給付費"
+        "size": 2372
       }
     ],
     "num_resources": 1,
@@ -47,39 +46,40 @@
       {
         "display_name": "医療・福祉",
         "description": "",
-        "title": "医療・福祉",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c005.png",
+        "title": "医療・福祉",
         "id": "0d3cd956-612c-45c5-b1ee-75c1a5835c0e",
         "name": "c005"
       }
     ],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t131105d0000000025",
-    "isopen": true,
-    "url": "https://www.city.meguro.tokyo.jp/kurashi/kaigo/index.html",
-    "notes": "年度別の介護サービス給付費",
-    "title": "介護保険介護サービス給付費",
-    "extras": [
-      {
-        "value": "1年",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "https://odcs.bodik.jp/131105/",
-      "title": "目黒区",
       "created": "2021-11-01T02:12:22.338293",
-      "approval_status": "approved",
+      "title": "目黒区",
+      "name": "t131105",
       "is_organization": true,
       "state": "active",
       "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131105.png",
       "revision_id": "e3dc243f-e3a2-4b2b-a319-4e145bb63383",
       "type": "organization",
       "id": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
-      "name": "t131105"
+      "approval_status": "approved"
     },
+    "name": "t131105d0000000025",
+    "isopen": true,
+    "url": "https://www.city.meguro.tokyo.jp/kurashi/kaigo/index.html",
+    "notes": "年度別の介護サービス給付費",
+    "owner_org": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "1年"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "介護保険介護サービス給付費",
     "revision_id": "2dc77836-27c5-45c9-ae8f-16343fda82b8"
   }
 }

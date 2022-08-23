@@ -10,35 +10,34 @@
     "num_tags": 0,
     "id": "07698e63-53b0-45c8-aa91-bb1635e6a70e",
     "metadata_created": "2020-05-29T07:48:10.232218",
-    "owner_org": "16d81025-a2ca-4002-8129-9906c94a4732",
     "metadata_modified": "2020-05-29T07:48:26.486390",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "",
+        "name": "事業化計画の検討対象",
         "format": "CSV",
         "url": "https://www.opendata.metro.tokyo.lg.jp/toshiseibi/h31/jigyoukakeikaku_kentou.csv",
+        "cache_last_updated": null,
+        "package_id": "07698e63-53b0-45c8-aa91-bb1635e6a70e",
         "created": "2020-03-30T15:00:00",
         "state": "active",
-        "package_id": "07698e63-53b0-45c8-aa91-bb1635e6a70e",
+        "mimetype_inner": null,
         "last_modified": "2020-03-30T15:00:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "4b4ad86d-4b02-4d3b-b00d-cdcb225b72ca",
-        "size": null,
+        "url_type": null,
         "id": "9d21d584-cc5a-4f29-ae06-c556b75b30ff",
         "resource_type": null,
-        "name": "事業化計画の検討対象"
+        "size": null
       }
     ],
     "num_resources": 1,
@@ -47,39 +46,40 @@
       {
         "display_name": "環境",
         "description": "",
-        "title": "環境",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c012.png",
+        "title": "環境",
         "id": "427f3ee0-b28a-4fd2-b7dc-980507f154d2",
         "name": "c012"
       }
     ],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t000008d1900000006",
-    "isopen": true,
-    "url": "http://www.toshiseibi.metro.tokyo.jp/kiban/midori_guideline/topi033-1.htm",
-    "notes": "",
-    "title": "みどりの新戦略ガイドライン【本文】　２ 章 みどりづくりの推進に向けて",
-    "extras": [
-      {
-        "value": "不定期",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "http://www.toshiseibi.metro.tokyo.jp/\r\n\r\n所属:東京都",
-      "title": "東京都都市整備局",
       "created": "2019-11-01T03:27:20.560358",
-      "approval_status": "approved",
+      "title": "東京都都市整備局",
+      "name": "t000008",
       "is_organization": true,
       "state": "active",
       "image_url": "",
       "revision_id": "9c234f0e-ff7d-4e2d-8ba4-ea80f312405b",
       "type": "organization",
       "id": "16d81025-a2ca-4002-8129-9906c94a4732",
-      "name": "t000008"
+      "approval_status": "approved"
     },
+    "name": "t000008d1900000006",
+    "isopen": true,
+    "url": "http://www.toshiseibi.metro.tokyo.jp/kiban/midori_guideline/topi033-1.htm",
+    "notes": "",
+    "owner_org": "16d81025-a2ca-4002-8129-9906c94a4732",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "不定期"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "みどりの新戦略ガイドライン【本文】　２ 章 みどりづくりの推進に向けて",
     "revision_id": "2392ac99-70a2-425a-bd0e-28124d66de2c"
   }
 }

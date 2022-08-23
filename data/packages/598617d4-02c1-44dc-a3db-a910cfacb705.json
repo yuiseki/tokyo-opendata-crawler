@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "情報通信企画部企画課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "598617d4-02c1-44dc-a3db-a910cfacb705",
+    "metadata_created": "2022-07-08T07:06:41.329838",
+    "metadata_modified": "2022-07-08T07:07:10.880421",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "平成26年度　電子申請受付実施手続一覧",
+        "format": "PDF",
+        "url": "https://www.soumu.metro.tokyo.lg.jp/13it/pdf/shinsei-h26all.pdf",
+        "cache_last_updated": null,
+        "package_id": "598617d4-02c1-44dc-a3db-a910cfacb705",
+        "created": "2017-03-24T03:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-03-24T03:00:00",
+        "position": 0,
+        "revision_id": "83423cff-a34d-4d1d-b7f7-fcab65cad4c0",
+        "url_type": null,
+        "id": "78d04dbb-3438-4e9b-9010-aed4b8cb9403",
+        "resource_type": null,
+        "size": 413696
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "平成26年度　電子申請利用実績（主な利用実績）",
+        "format": "CSV",
+        "url": "https://www.soumu.metro.tokyo.lg.jp/13it/csv/shinsei-h26_number_of_app.csv",
+        "cache_last_updated": null,
+        "package_id": "598617d4-02c1-44dc-a3db-a910cfacb705",
+        "created": "2017-03-24T03:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-03-24T03:00:00",
+        "position": 1,
+        "revision_id": "34a7ab68-0107-4158-a09f-20db5205ca15",
+        "url_type": null,
+        "id": "d9223a31-1b42-475c-beb5-05c674160dc7",
+        "resource_type": null,
+        "size": 1024
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "その他",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c014.png",
+        "title": "その他",
+        "id": "18f4d1ca-5593-4a0e-af50-c2e03125c850",
+        "name": "c014"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.soumu.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:19.763566",
+      "title": "東京都総務局",
+      "name": "t000003",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t000003.png",
+      "revision_id": "c4e16dd4-cb3f-42dc-8be2-2eed0f9e0175",
+      "type": "organization",
+      "id": "5987f8a3-dfbe-4f96-b3cc-e1f3ea0a2717",
+      "approval_status": "approved"
+    },
+    "name": "t000003d0000000019",
+    "isopen": true,
+    "url": "",
+    "notes": "【東京都総務局】",
+    "owner_org": "5987f8a3-dfbe-4f96-b3cc-e1f3ea0a2717",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "1年ごと"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "東京都電子申請の利用　平成26年度",
+    "revision_id": "1e9f0d2c-a34d-44c9-8ea0-d1f9c202671a"
+  }
+}

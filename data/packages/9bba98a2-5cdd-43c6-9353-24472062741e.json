@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "企画財政部情報政策課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "9bba98a2-5cdd-43c6-9353-24472062741e",
+    "metadata_created": "2022-03-18T04:06:50.647327",
+    "metadata_modified": "2022-04-28T00:59:38.755007",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "台東区の公衆浴場（銭湯）の施設一覧です",
+        "name": "銭湯",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/taitou/20220427_taito_public_bath.csv",
+        "cache_last_updated": null,
+        "package_id": "9bba98a2-5cdd-43c6-9353-24472062741e",
+        "created": "2018-02-14T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2022-04-26T15:00:00",
+        "position": 0,
+        "revision_id": "7d21e67a-2c0f-400c-bd65-c1e400f53f8b",
+        "url_type": null,
+        "id": "dc39e3fc-9a56-4513-94e6-d4dd0909dfdf",
+        "resource_type": null,
+        "size": 6144
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "観光",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c008.png",
+        "title": "観光",
+        "id": "420fd8d6-2bde-4746-9354-6344ec19ba93",
+        "name": "c008"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.taito.lg.jp/",
+      "created": "2019-11-01T03:27:24.733512",
+      "title": "台東区",
+      "name": "t131067",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131067.png",
+      "revision_id": "0166c313-a6d1-4eee-9282-f9bacc692e27",
+      "type": "organization",
+      "id": "72ddc2e3-f5ca-4fae-aca0-2e299cc0a94a",
+      "approval_status": "approved"
+    },
+    "name": "t131067d0000000065",
+    "isopen": true,
+    "url": "https://www.city.taito.lg.jp/kusei/shisetsu/life/publicbath.html",
+    "notes": "",
+    "owner_org": "72ddc2e3-f5ca-4fae-aca0-2e299cc0a94a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "年1回"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "銭湯",
+    "revision_id": "130ad66c-2732-4048-8b25-b3bea3f91582"
+  }
+}

@@ -10,35 +10,34 @@
     "num_tags": 0,
     "id": "de23dbb8-1260-4fe4-a093-88504436dc17",
     "metadata_created": "2021-11-04T00:38:24.705322",
-    "owner_org": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
     "metadata_modified": "2021-12-13T06:15:05.263219",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "",
+        "name": "小学校数・学級数・教員数・学年別児童数",
         "format": "CSV",
         "url": "https://data.bodik.jp/dataset/a9e57c2d-3ddd-4079-b70c-b823511f952a/resource/e236ca7a-b254-4e12-bccd-aeaeb2e2256e/download/131105_elementary_school.csv",
+        "cache_last_updated": null,
+        "package_id": "de23dbb8-1260-4fe4-a093-88504436dc17",
         "created": "2021-08-11T08:35:00",
         "state": "active",
-        "package_id": "de23dbb8-1260-4fe4-a093-88504436dc17",
+        "mimetype_inner": null,
         "last_modified": "2021-08-11T08:35:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "2ca1b510-dfd9-4bc8-b8c6-349f8cd99c91",
-        "size": 5215,
+        "url_type": null,
         "id": "18004e2e-60e9-4615-8b69-b4f77c0171e6",
         "resource_type": null,
-        "name": "小学校数・学級数・教員数・学年別児童数"
+        "size": 5215
       }
     ],
     "num_resources": 1,
@@ -47,39 +46,40 @@
       {
         "display_name": "生活",
         "description": "",
-        "title": "生活",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
         "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
         "name": "c006"
       }
     ],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t131105d0000000034",
-    "isopen": true,
-    "url": "https://www.city.meguro.tokyo.jp/kurashi/gakko/index.html",
-    "notes": "目黒区内の公立・私立の小学校の学校数・学級数・教員数・学年別男女別児童数",
-    "title": "小学校数・学級数・教員数・児童数",
-    "extras": [
-      {
-        "value": "1年",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "https://odcs.bodik.jp/131105/",
-      "title": "目黒区",
       "created": "2021-11-01T02:12:22.338293",
-      "approval_status": "approved",
+      "title": "目黒区",
+      "name": "t131105",
       "is_organization": true,
       "state": "active",
       "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131105.png",
       "revision_id": "e3dc243f-e3a2-4b2b-a319-4e145bb63383",
       "type": "organization",
       "id": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
-      "name": "t131105"
+      "approval_status": "approved"
     },
+    "name": "t131105d0000000034",
+    "isopen": true,
+    "url": "https://www.city.meguro.tokyo.jp/kurashi/gakko/index.html",
+    "notes": "目黒区内の公立・私立の小学校の学校数・学級数・教員数・学年別男女別児童数",
+    "owner_org": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "1年"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "小学校数・学級数・教員数・児童数",
     "revision_id": "7ea48672-792c-45c9-ba09-fe88df7e59bb"
   }
 }

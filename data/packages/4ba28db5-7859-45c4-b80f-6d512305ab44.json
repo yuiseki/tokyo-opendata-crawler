@@ -1,0 +1,76 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "経営企画部経営企画課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "4ba28db5-7859-45c4-b80f-6d512305ab44",
+    "metadata_created": "2021-11-03T22:55:55.959171",
+    "metadata_modified": "2021-11-03T22:56:01.874665",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "保育施設の一覧です。",
+        "name": "保育施設一覧",
+        "format": "CSV",
+        "url": "https://www.city.shibuya.tokyo.jp/assets/mng/131130_child-rearing_facility.csv",
+        "cache_last_updated": null,
+        "package_id": "4ba28db5-7859-45c4-b80f-6d512305ab44",
+        "created": "2021-11-03T22:55:57.566136",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": null,
+        "position": 0,
+        "revision_id": "2daae6f5-70a5-4464-beb5-077aa7a349d3",
+        "url_type": null,
+        "id": "98a6dc33-1f7e-4885-a342-63066fac56f8",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.shibuya.tokyo.jp/",
+      "created": "2021-11-01T02:13:29.409173",
+      "title": "渋谷区",
+      "name": "t131130",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131130.jpg",
+      "revision_id": "d9cbbd18-4310-4c7d-b653-f1c6b8f59468",
+      "type": "organization",
+      "id": "00d1c6b0-b2cc-4a47-a50c-84db3b091fe2",
+      "approval_status": "approved"
+    },
+    "name": "t131130d0000000001",
+    "isopen": true,
+    "url": "",
+    "notes": "子育て・教育についての情報です。",
+    "owner_org": "00d1c6b0-b2cc-4a47-a50c-84db3b091fe2",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "子育て・教育",
+    "revision_id": "9759853c-0422-42aa-bbc8-752c53790774"
+  }
+}

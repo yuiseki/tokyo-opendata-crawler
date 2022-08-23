@@ -10,35 +10,34 @@
     "num_tags": 0,
     "id": "420d91d7-023e-4d5c-a40e-dd64d88d57a8",
     "metadata_created": "2021-11-04T00:38:29.410793",
-    "owner_org": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
     "metadata_modified": "2021-12-13T06:14:53.697281",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "",
+        "name": "認可保育園",
         "format": "CSV",
         "url": "https://data.bodik.jp/dataset/851089ee-ab53-40e6-8d95-885f77290478/resource/f5791a89-e937-4d0e-82b6-66fd3fa3313d/download/131105_nersury_school_20210401.csv",
+        "cache_last_updated": null,
+        "package_id": "420d91d7-023e-4d5c-a40e-dd64d88d57a8",
         "created": "2021-08-11T10:15:00",
         "state": "active",
-        "package_id": "420d91d7-023e-4d5c-a40e-dd64d88d57a8",
+        "mimetype_inner": null,
         "last_modified": "2021-08-17T06:02:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "9d51db62-72f9-464e-82ef-9a1bbfe752a7",
-        "size": 40234,
+        "url_type": null,
         "id": "d5aa6129-7af3-4c69-bfc0-dedfbe3f9f85",
         "resource_type": null,
-        "name": "認可保育園"
+        "size": 40234
       }
     ],
     "num_resources": 1,
@@ -47,39 +46,40 @@
       {
         "display_name": "人口減少・少子高齢化",
         "description": "",
-        "title": "人口減少・少子高齢化",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c004.png",
+        "title": "人口減少・少子高齢化",
         "id": "802d7d18-3543-4e8b-a8f5-82b5f1aa752e",
         "name": "c004"
       }
     ],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t131105d0000000055",
-    "isopen": true,
-    "url": "https://www.city.meguro.tokyo.jp/kurashi/kosodate/hoiku/ninka/index.html",
-    "notes": "目黒区内の認可保育所の所在地、定員、開所時間、運営者等",
-    "title": "認可保育園",
-    "extras": [
-      {
-        "value": "1年",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "https://odcs.bodik.jp/131105/",
-      "title": "目黒区",
       "created": "2021-11-01T02:12:22.338293",
-      "approval_status": "approved",
+      "title": "目黒区",
+      "name": "t131105",
       "is_organization": true,
       "state": "active",
       "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131105.png",
       "revision_id": "e3dc243f-e3a2-4b2b-a319-4e145bb63383",
       "type": "organization",
       "id": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
-      "name": "t131105"
+      "approval_status": "approved"
     },
+    "name": "t131105d0000000055",
+    "isopen": true,
+    "url": "https://www.city.meguro.tokyo.jp/kurashi/kosodate/hoiku/ninka/index.html",
+    "notes": "目黒区内の認可保育所の所在地、定員、開所時間、運営者等",
+    "owner_org": "a4ba4bc1-ec80-48d6-ad20-d58e71176d0e",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "1年"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "認可保育園",
     "revision_id": "04f1087a-6959-448d-a774-18daffe2664d"
   }
 }

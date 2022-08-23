@@ -10,7 +10,7 @@
     "num_tags": 0,
     "id": "2ec7f9a5-dca5-4e80-b5d7-3a9fc19dd566",
     "metadata_created": "2020-05-14T08:20:11.981328",
-    "metadata_modified": "2021-09-09T23:34:47.959013",
+    "metadata_modified": "2022-08-08T02:10:03.252616",
     "author": null,
     "author_email": null,
     "state": "active",
@@ -31,18 +31,27 @@
         "created": "2021-08-31T15:00:00",
         "state": "active",
         "mimetype_inner": null,
-        "last_modified": "2021-09-01T15:00:00",
+        "last_modified": "2022-07-21T15:00:00",
         "position": 0,
-        "revision_id": "8d446519-9be3-4bac-b791-c4de9929580d",
+        "revision_id": "5684c7f4-4cf8-4e10-a864-830aa763a5fd",
         "url_type": null,
         "id": "ad313aa0-a12e-4f18-b84a-6b149506f7be",
         "resource_type": null,
-        "size": 657408
+        "size": 743424
       }
     ],
     "num_resources": 1,
     "tags": [],
-    "groups": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
     "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
     "organization": {

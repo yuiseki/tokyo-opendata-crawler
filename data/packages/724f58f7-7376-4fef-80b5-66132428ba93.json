@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "商工部経営支援課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "724f58f7-7376-4fef-80b5-66132428ba93",
+    "metadata_created": "2022-03-09T07:28:43.172427",
+    "metadata_modified": "2022-08-01T04:59:41.560600",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "中小企業等による感染症対策助成事業 採択者一覧（R4.7.28時点）",
+        "name": "中小企業等による感染症対策助成事業　採択者一覧",
+        "format": "CSV",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/sangyouroudou/R4/131001_grants_kansentaisaku.csv",
+        "cache_last_updated": null,
+        "package_id": "724f58f7-7376-4fef-80b5-66132428ba93",
+        "created": "2022-07-28T09:01:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2022-07-28T09:01:00",
+        "position": 0,
+        "revision_id": "b5e087a3-aa39-4122-a63f-e1be26ddba15",
+        "url_type": null,
+        "id": "019f6bb2-e3f9-444a-b80a-1b7d40a56210",
+        "resource_type": null,
+        "size": 467968
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "産業雇用創出",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c011.png",
+        "title": "産業雇用創出",
+        "id": "bb1c42ce-dc7e-48cf-91d4-05cab59db4bd",
+        "name": "c011"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.sangyo-rodo.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:21.167827",
+      "title": "東京都産業労働局",
+      "name": "t000012",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "a8e9fbd3-ce2a-40ce-ae97-99bf0055157e",
+      "type": "organization",
+      "id": "1a30d830-0e5f-4e5a-acd1-e4189276b560",
+      "approval_status": "approved"
+    },
+    "name": "t000012d0000000046",
+    "isopen": true,
+    "url": "https://www.tokyo-kosha.or.jp/support/josei/jigyo/kansentaisaku.html",
+    "notes": "【東京都産業労働局】 東京都が実施する新型コロナウイルス感染予防対策ガイドライン等に基づく対策実行支援事業（募集時期：令和3年1月4日～令和3年12月31日）の採択者一覧です。\n\n採択者のうち、オープンデータ化にあたり許諾をいただいた事業者の情報のみ公開しています。\n",
+    "owner_org": "1a30d830-0e5f-4e5a-acd1-e4189276b560",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "中小企業等による感染症対策助成事業　採択者一覧",
+    "revision_id": "110c6122-3900-4f74-9916-4bef09cd81f6"
+  }
+}

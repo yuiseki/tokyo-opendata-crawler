@@ -6,15 +6,15 @@
     "maintainer": "生活福祉部保護課保護担当",
     "relationships_as_object": [],
     "private": false,
-    "maintainer_email": null,
+    "maintainer_email": "",
     "num_tags": 0,
     "id": "c9f30383-1e7a-450d-a6db-883dcaa20b3b",
     "metadata_created": "2019-11-01T04:54:30.008776",
-    "metadata_modified": "2019-11-01T06:10:55.955148",
-    "author": null,
-    "author_email": null,
+    "metadata_modified": "2022-02-22T05:14:40.142797",
+    "author": "",
+    "author_email": "",
     "state": "active",
-    "version": null,
+    "version": "",
     "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
@@ -25,7 +25,7 @@
         "description": "",
         "name": "福祉事務所",
         "format": "CSV",
-        "url": "http://www.fukushihoken.metro.tokyo.jp/seikatsu/shisetsu/fukushi.files/fukushi.csv",
+        "url": "https://www.fukushihoken.metro.tokyo.lg.jp/seikatsu/shisetsu/fukushi.files/fukushi021224.csv",
         "cache_last_updated": null,
         "package_id": "c9f30383-1e7a-450d-a6db-883dcaa20b3b",
         "created": "2019-06-17T15:00:00",
@@ -33,7 +33,7 @@
         "mimetype_inner": null,
         "last_modified": "2019-06-17T15:00:00",
         "position": 0,
-        "revision_id": "77852a53-2bb6-4123-b272-d0846503eabc",
+        "revision_id": "7f1f030e-7c57-48cb-95c9-59b1a535be5c",
         "url_type": null,
         "id": "93b62551-370d-4a3a-a69e-fbdcace4135b",
         "resource_type": null,
@@ -69,7 +69,7 @@
     },
     "name": "t000010d1800000027",
     "isopen": true,
-    "url": "http://www.fukushihoken.metro.tokyo.jp/seikatsu/index.html",
+    "url": "https://www.fukushihoken.metro.tokyo.lg.jp/kodomo/dvsoudan/dvshien.html",
     "notes": "配偶者からの暴力（ＤＶ）で悩んでいる方への支援_区市町村の配偶者暴力相談窓口",
     "owner_org": "78dce3df-d79a-4379-97d1-6f6b8b25039a",
     "extras": [
@@ -80,6 +80,6 @@
     ],
     "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "title": "配偶者からの暴力（ＤＶ）で悩んでいる方への支援_区市町村の配偶者暴力相談窓口",
-    "revision_id": "4d7fbede-01ea-4ad9-a212-b48052834379"
+    "revision_id": "b26a1b6e-654b-49d7-9c5a-febe1d14233d"
   }
 }

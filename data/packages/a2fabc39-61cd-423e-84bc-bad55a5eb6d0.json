@@ -10,7 +10,7 @@
     "num_tags": 0,
     "id": "a2fabc39-61cd-423e-84bc-bad55a5eb6d0",
     "metadata_created": "2019-11-01T04:57:04.939207",
-    "metadata_modified": "2021-07-29T02:40:06.946641",
+    "metadata_modified": "2022-06-28T06:10:10.198002",
     "author": null,
     "author_email": null,
     "state": "active",
@@ -28,28 +28,28 @@
         "url": "https://www.opendata.metro.tokyo.lg.jp/ootaku/131113_public_wireless_lan.csv",
         "cache_last_updated": null,
         "package_id": "a2fabc39-61cd-423e-84bc-bad55a5eb6d0",
-        "created": "2021-03-01T08:12:00",
+        "created": "2022-06-10T02:50:00",
         "state": "active",
         "mimetype_inner": null,
-        "last_modified": "2021-03-22T06:56:00",
+        "last_modified": "2022-06-23T06:04:00",
         "position": 0,
-        "revision_id": "20386363-c14f-42e1-aba8-8f836731c1f8",
+        "revision_id": "b3da7f1f-d430-4356-9ae1-2f68f67e45b7",
         "url_type": null,
-        "id": "bfd905f7-f6ae-4a36-b39e-36e83d77dfc1",
+        "id": "b365f00c-af84-47eb-bb9d-d2eed2731bde",
         "resource_type": null,
-        "size": 4096
+        "size": null
       }
     ],
     "num_resources": 1,
     "tags": [],
     "groups": [
       {
-        "display_name": "観光",
+        "display_name": "生活",
         "description": "",
-        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c008.png",
-        "title": "観光",
-        "id": "420fd8d6-2bde-4746-9354-6344ec19ba93",
-        "name": "c008"
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
       }
     ],
     "license_id": "CC-BY-4.0",
@@ -69,17 +69,17 @@
     },
     "name": "t131113d0000000001",
     "isopen": true,
-    "url": "http://www.city.ota.tokyo.jp/kanko/ota_city_free_wi-fi.html",
+    "url": "https://www.city.ota.tokyo.jp/kuseijoho/opendata/open-data.html",
     "notes": "【大田区】大田区が設置する公衆無線LANアクセスポイントの一覧です。",
     "owner_org": "0ed84aa5-79d2-4db1-bf8d-3f4ec71815f2",
     "extras": [
       {
         "key": "更新頻度",
-        "value": "年１回（３月頃）"
+        "value": "年１回"
       }
     ],
     "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "title": "公衆無線LANアクセスポイント一覧",
-    "revision_id": "1d825534-8652-4ab5-b3fa-0415c8b265c7"
+    "revision_id": "18bca99d-07a9-4690-8aa6-91f05957f152"
   }
 }

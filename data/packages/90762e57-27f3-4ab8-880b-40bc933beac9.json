@@ -10,56 +10,55 @@
     "num_tags": 0,
     "id": "90762e57-27f3-4ab8-880b-40bc933beac9",
     "metadata_created": "2020-05-14T08:11:17.445407",
-    "owner_org": "6adece4f-1ee9-416a-a7e7-856b8d5fb050",
     "metadata_modified": "2020-05-14T08:11:56.323047",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "平成23年度のごみ収集量、資源回収量です。",
+        "name": "平成23年度ごみ収集量、資源回収量【速報値】",
         "format": "CSV",
         "url": "https://opendata.city.minato.tokyo.jp/dataset/4ad18ceb-38fe-4391-b69e-047f7dcd136c/resource/d9dfe7ef-69d4-4e7a-925a-be638d193f9a/download/gomishushu_shigenkaishu_23nendo.csv",
+        "cache_last_updated": null,
+        "package_id": "90762e57-27f3-4ab8-880b-40bc933beac9",
         "created": "2012-03-30T15:00:00",
         "state": "active",
-        "package_id": "90762e57-27f3-4ab8-880b-40bc933beac9",
+        "mimetype_inner": null,
         "last_modified": "2018-09-02T15:00:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 0,
         "revision_id": "8a08dd89-2909-4655-b07a-320b93935486",
-        "size": 4096,
+        "url_type": null,
         "id": "fa965d48-90a8-47d4-b962-3dc6a778b9fc",
         "resource_type": null,
-        "name": "平成23年度ごみ収集量、資源回収量【速報値】"
+        "size": 4096
       },
       {
-        "cache_last_updated": null,
+        "mimetype": null,
         "cache_url": null,
-        "mimetype_inner": null,
         "hash": "",
         "description": "平成24年度のごみ収集量、資源回収量です。",
+        "name": "平成24年度ごみ収集量、資源回収量【速報値】",
         "format": "CSV",
         "url": "https://opendata.city.minato.tokyo.jp/dataset/4ad18ceb-38fe-4391-b69e-047f7dcd136c/resource/dd5f1b76-88b7-4844-9ff9-2aaf8743a46e/download/gomishushu_shigenkaishu_24nendo.csv",
+        "cache_last_updated": null,
+        "package_id": "90762e57-27f3-4ab8-880b-40bc933beac9",
         "created": "2013-03-30T15:00:00",
         "state": "active",
-        "package_id": "90762e57-27f3-4ab8-880b-40bc933beac9",
+        "mimetype_inner": null,
         "last_modified": "2018-09-02T15:00:00",
-        "mimetype": null,
-        "url_type": null,
         "position": 1,
         "revision_id": "d23072b5-da8e-4fa6-9058-19c6c80ce570",
-        "size": 4096,
+        "url_type": null,
         "id": "6ccdff6e-c632-4b0b-bff7-a5260d0f18ef",
         "resource_type": null,
-        "name": "平成24年度ごみ収集量、資源回収量【速報値】"
+        "size": 4096
       }
     ],
     "num_resources": 2,
@@ -68,39 +67,40 @@
       {
         "display_name": "環境",
         "description": "",
-        "title": "環境",
         "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c012.png",
+        "title": "環境",
         "id": "427f3ee0-b28a-4fd2-b7dc-980507f154d2",
         "name": "c012"
       }
     ],
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "relationships_as_subject": [],
-    "name": "t131032d0000000057",
-    "isopen": true,
-    "url": "https://www.city.minato.tokyo.jp/jigyoukeikaku/kurashi/gomi/seso/toke/seso/2011.html",
-    "notes": "【港区】ごみ収集量、資源回収量に関する情報です。",
-    "title": "港区のごみ収集量、資源回収量",
-    "extras": [
-      {
-        "value": "更新無",
-        "key": "更新頻度"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "http://www.city.minato.tokyo.jp/",
-      "title": "港区",
       "created": "2019-11-01T03:27:24.220357",
-      "approval_status": "approved",
+      "title": "港区",
+      "name": "t131032",
       "is_organization": true,
       "state": "active",
       "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131032.jpg",
       "revision_id": "8f5676eb-3316-4cc6-b26a-4f7e1b39e109",
       "type": "organization",
       "id": "6adece4f-1ee9-416a-a7e7-856b8d5fb050",
-      "name": "t131032"
+      "approval_status": "approved"
     },
+    "name": "t131032d0000000057",
+    "isopen": true,
+    "url": "https://www.city.minato.tokyo.jp/jigyoukeikaku/kurashi/gomi/seso/toke/seso/2011.html",
+    "notes": "【港区】ごみ収集量、資源回収量に関する情報です。",
+    "owner_org": "6adece4f-1ee9-416a-a7e7-856b8d5fb050",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "更新無"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "港区のごみ収集量、資源回収量",
     "revision_id": "3020a915-a245-4404-b2ff-3cd4c921e0ab"
   }
 }

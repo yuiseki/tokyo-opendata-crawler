@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "区民部戸籍住民サービス課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "d0c8f3c2-7ec9-4366-87a8-240fac636f99",
+    "metadata_created": "2022-03-18T04:06:52.022191",
+    "metadata_modified": "2022-03-18T04:07:11.123218",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "台東区の町丁名別世帯・人口数の一覧です",
+        "name": "町丁名別世帯・人口数（毎月１日現在）",
+        "format": "HTML",
+        "url": "https://www.city.taito.lg.jp/kusei/online/opendata/seikatu/setaijinnko.html",
+        "cache_last_updated": null,
+        "package_id": "d0c8f3c2-7ec9-4366-87a8-240fac636f99",
+        "created": "2021-12-31T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": null,
+        "position": 0,
+        "revision_id": "42647c51-1744-4933-89c4-7a5f0a6f1154",
+        "url_type": null,
+        "id": "b54215dd-54ea-48dc-9527-9383c918f3f1",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.taito.lg.jp/",
+      "created": "2019-11-01T03:27:24.733512",
+      "title": "台東区",
+      "name": "t131067",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131067.png",
+      "revision_id": "0166c313-a6d1-4eee-9282-f9bacc692e27",
+      "type": "organization",
+      "id": "72ddc2e3-f5ca-4fae-aca0-2e299cc0a94a",
+      "approval_status": "approved"
+    },
+    "name": "t131067d0000000070",
+    "isopen": true,
+    "url": "https://www.city.taito.lg.jp/kusei/shokai/tokei/setai/index.html",
+    "notes": "",
+    "owner_org": "72ddc2e3-f5ca-4fae-aca0-2e299cc0a94a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "月1回"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "町丁名別世帯・人口数",
+    "revision_id": "19f25a5b-f040-43eb-90f5-4cfe5d891d38"
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "大田区環境清掃部\n清掃事業課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "c5cf8c08-4834-43fa-9f8a-783b8d7031ab",
+    "metadata_created": "2022-02-21T02:49:29.878890",
+    "metadata_modified": "2022-02-21T02:49:32.191469",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "資源の回収量",
+        "format": "XLS",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/ootaku/131113_shigenkaisyuu.xls",
+        "cache_last_updated": null,
+        "package_id": "c5cf8c08-4834-43fa-9f8a-783b8d7031ab",
+        "created": "2022-02-21T02:49:32.231599",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2022-02-16T08:51:00",
+        "position": 0,
+        "revision_id": "fe83ad6d-a9ae-41cb-b1d7-98b9444bc7b6",
+        "url_type": null,
+        "id": "8821b09a-e577-46a0-b1aa-db355d20e499",
+        "resource_type": null,
+        "size": 49152
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "環境",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c012.png",
+        "title": "環境",
+        "id": "427f3ee0-b28a-4fd2-b7dc-980507f154d2",
+        "name": "c012"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "https://www.city.ota.tokyo.jp/",
+      "created": "2019-11-01T03:27:25.037394",
+      "title": "大田区",
+      "name": "t131113",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131113.jpg",
+      "revision_id": "03b46cf2-2118-4e53-855d-1025be9188ae",
+      "type": "organization",
+      "id": "0ed84aa5-79d2-4db1-bf8d-3f4ec71815f2",
+      "approval_status": "approved"
+    },
+    "name": "t131113d0000000027",
+    "isopen": true,
+    "url": "https://www.city.ota.tokyo.jp/seikatsu/gomi/keikaku_jisseki/kakushu.html",
+    "notes": "【大田区】平成12年度以降の資源の回収量です（単位：トン）。",
+    "owner_org": "0ed84aa5-79d2-4db1-bf8d-3f4ec71815f2",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "年１回"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "資源の回収量",
+    "revision_id": "ef540651-9a2a-4190-8aaa-530ef7f3f465"
+  }
+}
