@@ -9,6 +9,7 @@ all: \
 	$(DATADIR)/packages.txt \
 	$(DATADIR)/domains.txt \
 	data/packages/finished.txt \
+	data/groups.txt \
 	data/title.csv
 
 clean:
@@ -53,6 +54,9 @@ data/packages/finished.txt:
 	date '+%Y/%m/%d %H:%m:%S' > data/packages/started.txt
 	cat $(DATADIR)/packages.txt | xargs -t -I{} sh -c 'curl -s "$(CATALOG_ENDPOINT)/action/package_show?id={}" | jq . > data/packages/{}.json'
 	date '+%Y/%m/%d %H:%m:%S' > data/packages/finished.txt
+
+data/groups.txt:
+	ls -t -1 data/packages/*.json | xargs cat | jq -r '.result.groups[].display_name' | sort | uniq > data/groups.txt
 
 data/titles.csv:
 	ls -t -1 data/packages/*.json | xargs cat | jq -r '[.result.title, .result.resources[].name] | @csv' > data/titles.csv
