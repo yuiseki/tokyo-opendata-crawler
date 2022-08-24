@@ -59,4 +59,7 @@ data/groups.txt:
 	ls -t -1 data/packages/*.json | xargs cat | jq -r '.result.groups[].display_name' | sort | uniq > data/groups.txt
 
 data/titles.csv:
-	ls -t -1 data/packages/*.json | xargs cat | jq -r '[.result.title, .result.resources[].name] | @csv' > data/titles.csv
+	ls -t -1 data/packages/*.json | xargs cat | jq -r '.result.title as $$title | [.result.resources[] | [ $$title, .name, .description]] | .[] | @csv' > data/titles.csv
+
+data/words.json:
+	cat data/titles.csv | ginzame -s C | grep 名詞 | cut -f 1 | sort | uniq -c | sort -nr | awk '{ print $$2 }' | sed '/[^a-zA-Z0-9]/!d' | head -n300 | jq -nR '[inputs | select(length>1)]' > data/words.json
