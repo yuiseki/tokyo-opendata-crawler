@@ -6,15 +6,15 @@
     "maintainer": "資源循環推進部",
     "relationships_as_object": [],
     "private": false,
-    "maintainer_email": null,
+    "maintainer_email": "",
     "num_tags": 0,
     "id": "e6c34021-d653-4f65-afc6-00cab2325c05",
     "metadata_created": "2021-12-19T07:31:02.742930",
-    "metadata_modified": "2021-12-19T07:34:00.896492",
-    "author": null,
-    "author_email": null,
+    "metadata_modified": "2022-09-02T05:27:28.190395",
+    "author": "",
+    "author_email": "",
     "state": "active",
-    "version": null,
+    "version": "",
     "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
@@ -2296,7 +2296,7 @@
     "name": "t000009d1900000021",
     "isopen": true,
     "url": "https://www.kankyo.metro.tokyo.lg.jp/resource/industrial_waste/notification/investigation.html",
-    "notes": "https://www.kankyo.metro.tokyo.lg.jp/resource/industrial_waste/notification/investigation.files/H26houkokusyo.pdf",
+    "notes": "",
     "owner_org": "c8b93db3-9754-48d3-8b50-5cbe78d679e7",
     "extras": [
       {
@@ -2306,6 +2306,6 @@
     ],
     "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "title": "産業廃棄物経年変化実態調査報告書（平成26年度実績）",
-    "revision_id": "831bd172-6a6e-47ad-91d1-bfb1b42bc5d7"
+    "revision_id": "98726e2d-134c-4775-9d09-de58da20aaa5"
   }
 }

@@ -1,0 +1,106 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "農林水産部森林課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "4869cb78-89bb-4ab9-84ec-7ad0604eeb4e",
+    "metadata_created": "2019-11-01T04:54:41.095043",
+    "metadata_modified": "2019-11-01T06:12:18.632166",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "林産物生産額（東京都　1997～2012年）（PDFデータ）",
+        "format": "PDF",
+        "url": "http://www.sangyo-rodo.metro.tokyo.jp/toukei/nourin/pdf/v-3-1.pdf",
+        "cache_last_updated": null,
+        "package_id": "4869cb78-89bb-4ab9-84ec-7ad0604eeb4e",
+        "created": "2017-03-24T03:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-03-24T03:00:00",
+        "position": 0,
+        "revision_id": "058904dd-0c12-4788-bd74-f78298bd59ae",
+        "url_type": null,
+        "id": "067dbff4-4f0f-474a-8174-f18331cd7c05",
+        "resource_type": null,
+        "size": 63488
+      },
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "",
+        "name": "林産物生産額（東京都　1997～2012年）（CSVデータ）",
+        "format": "CSV",
+        "url": "http://www.sangyo-rodo.metro.tokyo.jp/toukei/nourin/rinsanbutuseisangaku.csv",
+        "cache_last_updated": null,
+        "package_id": "4869cb78-89bb-4ab9-84ec-7ad0604eeb4e",
+        "created": "2017-03-24T03:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2017-03-24T03:00:00",
+        "position": 1,
+        "revision_id": "74ef55bd-b3e5-4e44-b115-14cde8da6516",
+        "url_type": null,
+        "id": "1e80c187-04a0-4384-bab7-edfeac1d6a5d",
+        "resource_type": null,
+        "size": 1024
+      }
+    ],
+    "num_resources": 2,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "産業雇用創出",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c011.png",
+        "title": "産業雇用創出",
+        "id": "bb1c42ce-dc7e-48cf-91d4-05cab59db4bd",
+        "name": "c011"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.sangyo-rodo.metro.tokyo.jp/\r\n\r\n所属:東京都",
+      "created": "2019-11-01T03:27:21.167827",
+      "title": "東京都産業労働局",
+      "name": "t000012",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "",
+      "revision_id": "a8e9fbd3-ce2a-40ce-ae97-99bf0055157e",
+      "type": "organization",
+      "id": "1a30d830-0e5f-4e5a-acd1-e4189276b560",
+      "approval_status": "approved"
+    },
+    "name": "t000012d0000000011",
+    "isopen": true,
+    "url": "",
+    "notes": "【東京都産業労働局】　1997年からの東京都における島嶼を含んだ、林業分野での生産物の生産額年推移データ",
+    "owner_org": "1a30d830-0e5f-4e5a-acd1-e4189276b560",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "随時"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "林産物生産額（東京都　1997～2012年）",
+    "revision_id": "5c628d26-66ff-4273-9df3-b658217ec800"
+  }
+}

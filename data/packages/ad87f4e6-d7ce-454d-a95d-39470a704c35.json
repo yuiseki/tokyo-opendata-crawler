@@ -3,14 +3,14 @@
   "success": true,
   "result": {
     "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
-    "maintainer": "政策経営部情報管理課",
+    "maintainer": "",
     "relationships_as_object": [],
     "private": false,
     "maintainer_email": null,
     "num_tags": 0,
     "id": "ad87f4e6-d7ce-454d-a95d-39470a704c35",
     "metadata_created": "2022-04-12T23:23:17.778175",
-    "metadata_modified": "2022-04-12T23:23:24.587207",
+    "metadata_modified": "2022-08-24T00:01:07.866281",
     "author": null,
     "author_email": null,
     "state": "active",
@@ -25,17 +25,17 @@
         "description": "",
         "name": "イベント一覧（地方公共団体にて開催されるイベントの一覧）",
         "format": "CSV",
-        "url": "https://www.city.toshima.lg.jp/020/kuse/electronic/open-data/documents/r3_event.csv",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/toyoshima/R4_event.csv",
         "cache_last_updated": null,
         "package_id": "ad87f4e6-d7ce-454d-a95d-39470a704c35",
-        "created": "2022-02-23T15:00:00",
+        "created": "2022-04-12T23:23:00",
         "state": "active",
         "mimetype_inner": null,
-        "last_modified": "2022-02-23T15:00:00",
+        "last_modified": "2022-08-21T15:00:00",
         "position": 0,
-        "revision_id": "7bb38e0e-a667-4758-acfc-033892f1be59",
+        "revision_id": "7eeaf134-1ba9-42c1-adb1-6941e1c89541",
         "url_type": null,
-        "id": "4baa8169-8711-4e27-88b6-6c4ce4f6588e",
+        "id": "9237abd9-f802-46b9-8d4b-dfb1ae32fe17",
         "resource_type": null,
         "size": 13312
       }
@@ -69,17 +69,17 @@
     },
     "name": "t131164d0000000006",
     "isopen": true,
-    "url": "https://www.city.toshima.lg.jp/index.html",
+    "url": "",
     "notes": "豊島区が公開しているデータ（オープンデータ）をご覧いただけます。",
     "owner_org": "d5b667a3-96db-44d7-a5d8-f03a94f5c51b",
     "extras": [
       {
         "key": "更新頻度",
-        "value": "年1回"
+        "value": "1年に1回"
       }
     ],
     "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "title": "イベント一覧（地方公共団体にて開催されるイベントの一覧）",
-    "revision_id": "2cb3b2f4-e1a8-4e17-9a95-77dcd588f697"
+    "revision_id": "1d55e89c-d672-4b64-b149-004d266da8d4"
   }
 }

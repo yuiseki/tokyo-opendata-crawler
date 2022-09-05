@@ -10,7 +10,7 @@
     "num_tags": 0,
     "id": "65aa00f0-c1dd-4160-9850-7ef39930e06b",
     "metadata_created": "2021-04-28T00:59:17.574126",
-    "metadata_modified": "2022-04-28T05:34:42.610133",
+    "metadata_modified": "2022-08-30T01:45:08.241025",
     "author": null,
     "author_email": null,
     "state": "active",
@@ -24,16 +24,16 @@
         "hash": "",
         "description": "",
         "name": "AED設置場所一覧（区管理分）",
-        "format": "XLSX",
+        "format": "XLS",
         "url": "https://www.opendata.metro.tokyo.lg.jp/ootaku/131113_aed.xlsx",
         "cache_last_updated": null,
         "package_id": "65aa00f0-c1dd-4160-9850-7ef39930e06b",
         "created": "2021-03-22T06:23:00",
         "state": "active",
         "mimetype_inner": null,
-        "last_modified": "2022-04-25T06:09:00",
+        "last_modified": "2021-03-26T02:24:00",
         "position": 0,
-        "revision_id": "9b9fdf8d-5546-44aa-9a58-5b2d0fd83f3b",
+        "revision_id": "0237cd68-d6ea-43ae-886b-912e91ee446a",
         "url_type": null,
         "id": "0811cc3e-6c05-46ca-9794-23e85150af35",
         "resource_type": null,
@@ -75,7 +75,7 @@
     "extras": [
       {
         "key": "更新頻度",
-        "value": "年１回（３月頃）"
+        "value": "年１回"
       }
     ],
     "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",

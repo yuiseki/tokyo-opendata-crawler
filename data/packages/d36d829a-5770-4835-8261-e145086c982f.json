@@ -3,14 +3,14 @@
   "success": true,
   "result": {
     "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
-    "maintainer": "政策経営部情報管理課",
+    "maintainer": "",
     "relationships_as_object": [],
     "private": false,
     "maintainer_email": null,
     "num_tags": 0,
     "id": "d36d829a-5770-4835-8261-e145086c982f",
     "metadata_created": "2022-04-12T23:23:18.037511",
-    "metadata_modified": "2022-04-12T23:23:21.959554",
+    "metadata_modified": "2022-08-24T00:00:29.431185",
     "author": null,
     "author_email": null,
     "state": "active",
@@ -25,19 +25,19 @@
         "description": "",
         "name": "文化財一覧（国もしくは地方公共団体が指定、登録、選定等行った文化財の一覧）",
         "format": "CSV",
-        "url": "https://www.city.toshima.lg.jp/020/kuse/electronic/open-data/documents/r3_cultural_property.csv",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/toyoshima/R4_cultural_property.csv",
         "cache_last_updated": null,
         "package_id": "d36d829a-5770-4835-8261-e145086c982f",
-        "created": "2022-02-23T15:00:00",
+        "created": "2022-04-12T23:23:00",
         "state": "active",
         "mimetype_inner": null,
-        "last_modified": "2022-02-23T15:00:00",
+        "last_modified": "2022-08-21T15:00:00",
         "position": 0,
-        "revision_id": "27fccb31-59fd-49b2-9f70-af2a2afa6676",
+        "revision_id": "4c71783e-5ad1-4f75-8218-c6bd5d9dc69a",
         "url_type": null,
-        "id": "81fb712a-dc95-4f89-a50e-1a89558d7dba",
+        "id": "f7ef6da5-f210-4d47-bb9b-e4907be9dda5",
         "resource_type": null,
-        "size": 135168
+        "size": 79872
       }
     ],
     "num_resources": 1,
@@ -69,17 +69,17 @@
     },
     "name": "t131164d0000000007",
     "isopen": true,
-    "url": "https://www.city.toshima.lg.jp/index.html",
+    "url": "",
     "notes": "豊島区が公開しているデータ（オープンデータ）をご覧いただけます。",
     "owner_org": "d5b667a3-96db-44d7-a5d8-f03a94f5c51b",
     "extras": [
       {
         "key": "更新頻度",
-        "value": "年1回"
+        "value": "1年に1回"
       }
     ],
     "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "title": "文化財一覧（国もしくは地方公共団体が指定、登録、選定等行った文化財の一覧）",
-    "revision_id": "6385bcb2-f10f-4d5f-ac1e-472357ddc234"
+    "revision_id": "fc15a72f-8c60-4cac-a8b6-9c4b3bcac532"
   }
 }

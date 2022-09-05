@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "台東保健所　生活衛生課環境衛生担当",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "048e0d95-e286-4cf3-842c-3d1597619a16",
+    "metadata_created": "2022-08-30T06:58:59.223597",
+    "metadata_modified": "2022-08-30T06:59:04.543929",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "理容所施設一覧です",
+        "name": "理容所施設一覧",
+        "format": "HTML",
+        "url": "https://www.city.taito.lg.jp/kenchiku/jutaku/eisei/kankyoeisei/20190410cleaning.html",
+        "cache_last_updated": null,
+        "package_id": "048e0d95-e286-4cf3-842c-3d1597619a16",
+        "created": "2022-07-10T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2022-07-12T15:00:00",
+        "position": 0,
+        "revision_id": "49b31650-c614-4b4b-8fbb-8fb7d1161be3",
+        "url_type": null,
+        "id": "dc3f9a63-017d-4f44-831d-3d66985d8ca5",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "生活",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
+        "title": "生活",
+        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
+        "name": "c006"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.taito.lg.jp/",
+      "created": "2019-11-01T03:27:24.733512",
+      "title": "台東区",
+      "name": "t131067",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131067.png",
+      "revision_id": "0166c313-a6d1-4eee-9282-f9bacc692e27",
+      "type": "organization",
+      "id": "72ddc2e3-f5ca-4fae-aca0-2e299cc0a94a",
+      "approval_status": "approved"
+    },
+    "name": "t131067d0000000121",
+    "isopen": true,
+    "url": "https://www.city.taito.lg.jp/kenchiku/jutaku/eisei/kankyoeisei/20190410cleaning.html",
+    "notes": "",
+    "owner_org": "72ddc2e3-f5ca-4fae-aca0-2e299cc0a94a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "月1回"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "理容所施設一覧",
+    "revision_id": "e79d7529-b342-4359-9dcd-ced4791d665b"
+  }
+}

@@ -10,7 +10,7 @@
     "num_tags": 0,
     "id": "9c4400db-3d8c-4fe9-a928-152bc120db29",
     "metadata_created": "2022-02-21T02:49:30.798354",
-    "metadata_modified": "2022-02-21T02:49:33.284162",
+    "metadata_modified": "2022-08-30T01:45:18.897857",
     "author": null,
     "author_email": null,
     "state": "active",
@@ -28,12 +28,12 @@
         "url": "https://www.opendata.metro.tokyo.lg.jp/ootaku/131113_nenreibetu_20220101.csv",
         "cache_last_updated": null,
         "package_id": "9c4400db-3d8c-4fe9-a928-152bc120db29",
-        "created": "2022-02-21T02:49:33.323614",
+        "created": "2022-02-17T01:46:00",
         "state": "active",
         "mimetype_inner": null,
-        "last_modified": "2022-02-17T08:51:00",
+        "last_modified": "2022-02-17T01:46:00",
         "position": 0,
-        "revision_id": "37d3a3db-9ea2-4929-b389-bd564d3a23ab",
+        "revision_id": "44256768-d7f0-4bdd-85ce-cdc0df56e1eb",
         "url_type": null,
         "id": "199b501e-b744-4769-beb2-3c76619da7c9",
         "resource_type": null,
@@ -44,12 +44,12 @@
     "tags": [],
     "groups": [
       {
-        "display_name": "生活",
+        "display_name": "人口減少・少子高齢化",
         "description": "",
-        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
-        "title": "生活",
-        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
-        "name": "c006"
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c004.png",
+        "title": "人口減少・少子高齢化",
+        "id": "802d7d18-3543-4e8b-a8f5-82b5f1aa752e",
+        "name": "c004"
       }
     ],
     "license_id": "CC-BY-4.0",

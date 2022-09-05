@@ -3,14 +3,14 @@
   "success": true,
   "result": {
     "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
-    "maintainer": "政策経営部情報管理課",
+    "maintainer": "",
     "relationships_as_object": [],
     "private": false,
     "maintainer_email": null,
     "num_tags": 0,
     "id": "1e22e87f-92f6-457a-8853-e5448d6824f1",
     "metadata_created": "2022-04-12T23:23:16.672693",
-    "metadata_modified": "2022-04-12T23:23:24.943389",
+    "metadata_modified": "2022-08-24T00:02:11.491898",
     "author": null,
     "author_email": null,
     "state": "active",
@@ -25,17 +25,17 @@
         "description": "",
         "name": "消防水利施設一覧",
         "format": "CSV",
-        "url": "https://www.city.toshima.lg.jp/020/kuse/electronic/open-data/documents/r3_fire_hydrant.csv",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/toyoshima/R4_fire_hydrant.csv",
         "cache_last_updated": null,
         "package_id": "1e22e87f-92f6-457a-8853-e5448d6824f1",
-        "created": "2022-02-23T15:00:00",
+        "created": "2022-04-12T23:23:00",
         "state": "active",
         "mimetype_inner": null,
-        "last_modified": "2022-02-23T15:00:00",
+        "last_modified": "2022-08-21T15:00:00",
         "position": 0,
-        "revision_id": "6b54c446-a816-4eaf-a9e9-54694a063c0d",
+        "revision_id": "2508672d-1c1d-45fb-a1fb-a0939076d018",
         "url_type": null,
-        "id": "06ae5be8-2aba-485b-975b-e51432849c3e",
+        "id": "9a73600f-2e9d-466a-8988-8e3ca93ca882",
         "resource_type": null,
         "size": 1024
       }
@@ -69,17 +69,17 @@
     },
     "name": "t131164d0000000002",
     "isopen": true,
-    "url": "https://www.city.toshima.lg.jp/index.html",
+    "url": "",
     "notes": "豊島区が公開しているデータ（オープンデータ）をご覧いただけます。",
     "owner_org": "d5b667a3-96db-44d7-a5d8-f03a94f5c51b",
     "extras": [
       {
         "key": "更新頻度",
-        "value": "年1回"
+        "value": "1年に1回"
       }
     ],
     "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "title": "消防水利施設一覧",
-    "revision_id": "0ebbf35b-c83c-4e25-a3ae-3b322a506d33"
+    "revision_id": "edde967c-5a52-48c0-9541-a7c9f87eba78"
   }
 }

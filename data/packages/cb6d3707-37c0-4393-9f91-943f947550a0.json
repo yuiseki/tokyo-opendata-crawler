@@ -10,7 +10,7 @@
     "num_tags": 0,
     "id": "cb6d3707-37c0-4393-9f91-943f947550a0",
     "metadata_created": "2021-04-28T00:59:15.638898",
-    "metadata_modified": "2022-04-28T05:34:42.973852",
+    "metadata_modified": "2022-08-30T02:39:36.166981",
     "author": null,
     "author_email": null,
     "state": "active",
@@ -33,44 +33,23 @@
         "mimetype_inner": null,
         "last_modified": "2021-03-02T08:57:00",
         "position": 0,
-        "revision_id": "14e07f53-83c1-4363-ae25-a9b0f1a1b72f",
+        "revision_id": "bc61e83e-b6b3-4870-8945-22e7ffb180f3",
         "url_type": null,
-        "id": "05520dbe-7714-49e3-ba63-97e9a131a8a7",
+        "id": "a7519fcb-96e8-4373-95c4-d54ff52625a6",
         "resource_type": null,
         "size": null
-      },
-      {
-        "mimetype": null,
-        "cache_url": null,
-        "hash": "",
-        "description": "",
-        "name": "住民基本台帳による年齢別人口",
-        "format": "XLS",
-        "url": "https://www.opendata.metro.tokyo.lg.jp/ootaku/131113_nennreibetu.xls",
-        "cache_last_updated": null,
-        "package_id": "cb6d3707-37c0-4393-9f91-943f947550a0",
-        "created": "2021-03-02T07:23:00",
-        "state": "active",
-        "mimetype_inner": null,
-        "last_modified": "2022-04-08T07:23:00",
-        "position": 1,
-        "revision_id": "a1d6e901-8d4e-456b-b6f7-77a468d8d9c0",
-        "url_type": null,
-        "id": "c0449416-c38b-4bfa-b1a0-9d8899ca1263",
-        "resource_type": null,
-        "size": 75776
       }
     ],
-    "num_resources": 2,
+    "num_resources": 1,
     "tags": [],
     "groups": [
       {
-        "display_name": "生活",
+        "display_name": "人口減少・少子高齢化",
         "description": "",
-        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
-        "title": "生活",
-        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
-        "name": "c006"
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c004.png",
+        "title": "人口減少・少子高齢化",
+        "id": "802d7d18-3543-4e8b-a8f5-82b5f1aa752e",
+        "name": "c004"
       }
     ],
     "license_id": "CC-BY-4.0",
@@ -90,7 +69,7 @@
     },
     "name": "t131113d0000000002",
     "isopen": true,
-    "url": "",
+    "url": "https://www.city.ota.tokyo.jp/kuseijoho/suuji/jinkou/nennreibetujinnkou.html",
     "notes": "【大田区】住民基本台帳による年齢別人口です。",
     "owner_org": "0ed84aa5-79d2-4db1-bf8d-3f4ec71815f2",
     "extras": [
@@ -100,7 +79,7 @@
       }
     ],
     "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
-    "title": "住民基本台帳による年齢別人口",
-    "revision_id": "490b1d50-afe3-4662-9caa-b84876e71ea5"
+    "title": "地域・年齢別人口（令和３年１月１日現在）",
+    "revision_id": "4125c121-ef03-4098-a77c-9380a5794cea"
   }
 }

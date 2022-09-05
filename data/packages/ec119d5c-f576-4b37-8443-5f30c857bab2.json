@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "環境清掃部環境課",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "ec119d5c-f576-4b37-8443-5f30c857bab2",
+    "metadata_created": "2022-08-30T06:58:55.031315",
+    "metadata_modified": "2022-08-30T06:59:00.551587",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "台東区の公衆喫煙所（区設置分）の施設一覧です",
+        "name": "公衆喫煙所（区設置分）",
+        "format": "CSV",
+        "url": "https://www.city.taito.lg.jp/kusei/online/opendata/seikatu/shisethutizujouhou.files/20220805kosyukituenzyo.csv",
+        "cache_last_updated": null,
+        "package_id": "ec119d5c-f576-4b37-8443-5f30c857bab2",
+        "created": "2020-10-07T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2022-08-04T15:00:00",
+        "position": 0,
+        "revision_id": "b51b509a-d4d4-4fac-b343-5b9b88521cf3",
+        "url_type": null,
+        "id": "0e69a5e5-90dc-4eb3-971a-026ba11c8e02",
+        "resource_type": null,
+        "size": 3072
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "環境",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c012.png",
+        "title": "環境",
+        "id": "427f3ee0-b28a-4fd2-b7dc-980507f154d2",
+        "name": "c012"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.taito.lg.jp/",
+      "created": "2019-11-01T03:27:24.733512",
+      "title": "台東区",
+      "name": "t131067",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131067.png",
+      "revision_id": "0166c313-a6d1-4eee-9282-f9bacc692e27",
+      "type": "organization",
+      "id": "72ddc2e3-f5ca-4fae-aca0-2e299cc0a94a",
+      "approval_status": "approved"
+    },
+    "name": "t131067d0000000110",
+    "isopen": true,
+    "url": "https://www.city.taito.lg.jp/kenchiku/machibika/kosyu/webmap.html",
+    "notes": "",
+    "owner_org": "72ddc2e3-f5ca-4fae-aca0-2e299cc0a94a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "年1回"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "公衆喫煙所（区設置分）",
+    "revision_id": "4d196f3b-f262-4914-b824-d8aa3edaa792"
+  }
+}

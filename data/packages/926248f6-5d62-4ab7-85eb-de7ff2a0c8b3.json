@@ -3,14 +3,14 @@
   "success": true,
   "result": {
     "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
-    "maintainer": "政策経営部情報管理課",
+    "maintainer": "",
     "relationships_as_object": [],
     "private": false,
     "maintainer_email": null,
     "num_tags": 0,
     "id": "926248f6-5d62-4ab7-85eb-de7ff2a0c8b3",
     "metadata_created": "2022-04-12T23:23:19.185460",
-    "metadata_modified": "2022-04-12T23:23:23.275586",
+    "metadata_modified": "2022-08-24T00:01:33.588603",
     "author": null,
     "author_email": null,
     "state": "active",
@@ -23,19 +23,19 @@
         "cache_url": null,
         "hash": "",
         "description": "",
-        "name": "公衆無線LANアクセスポイント一覧(利用可能範囲)",
+        "name": "公衆無線LANアクセスポイント一覧 (利用可能範囲)",
         "format": "CSV",
-        "url": "https://www.city.toshima.lg.jp/020/kuse/electronic/open-data/documents/r3_public_wireless_lan.csv",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/toyoshima/R4_public_wireless_lan.csv",
         "cache_last_updated": null,
         "package_id": "926248f6-5d62-4ab7-85eb-de7ff2a0c8b3",
-        "created": "2022-02-23T15:00:00",
+        "created": "2022-04-12T23:23:00",
         "state": "active",
         "mimetype_inner": null,
-        "last_modified": "2022-02-23T15:00:00",
+        "last_modified": "2022-08-21T15:00:00",
         "position": 0,
-        "revision_id": "5046118f-b8e1-416a-89d6-8f6a1730dc85",
+        "revision_id": "4a9a4ac5-bf65-4ee4-9496-784d45119dd8",
         "url_type": null,
-        "id": "3709d64c-f65e-4f45-9c9d-5ed8c055b999",
+        "id": "e771b1ad-c960-4bca-bc46-7946dc46c8b0",
         "resource_type": null,
         "size": 17408
       }
@@ -69,17 +69,17 @@
     },
     "name": "t131164d0000000011",
     "isopen": true,
-    "url": "https://www.city.toshima.lg.jp/index.html",
+    "url": "",
     "notes": "豊島区が公開しているデータ（オープンデータ）をご覧いただけます。",
     "owner_org": "d5b667a3-96db-44d7-a5d8-f03a94f5c51b",
     "extras": [
       {
         "key": "更新頻度",
-        "value": "年1回"
+        "value": "1年に1回"
       }
     ],
     "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
-    "title": "公衆無線LANアクセスポイント一覧(利用可能範囲)",
-    "revision_id": "f5cf393f-40ce-4465-b2e4-d44445303cee"
+    "title": "公衆無線LANアクセスポイント一覧 (利用可能範囲)",
+    "revision_id": "1a4a0d0e-8a25-4153-be9b-789a636d35d6"
   }
 }

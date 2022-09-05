@@ -3,14 +3,14 @@
   "success": true,
   "result": {
     "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
-    "maintainer": "政策経営部情報管理課",
+    "maintainer": "",
     "relationships_as_object": [],
     "private": false,
     "maintainer_email": null,
     "num_tags": 0,
     "id": "a62f2bac-588f-4fb0-a85f-a77c0c497145",
     "metadata_created": "2022-04-12T23:23:19.705025",
-    "metadata_modified": "2022-04-12T23:23:25.418885",
+    "metadata_modified": "2022-08-24T00:03:44.891391",
     "author": null,
     "author_email": null,
     "state": "active",
@@ -25,17 +25,17 @@
         "description": "",
         "name": "オープンデータ一覧",
         "format": "CSV",
-        "url": "https://www.city.toshima.lg.jp/020/kuse/electronic/open-data/documents/r3_open_data_list.csv",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/toyoshima/R4_open_data_list.csv",
         "cache_last_updated": null,
         "package_id": "a62f2bac-588f-4fb0-a85f-a77c0c497145",
-        "created": "2022-02-23T15:00:00",
+        "created": "2022-04-12T23:23:00",
         "state": "active",
         "mimetype_inner": null,
-        "last_modified": "2022-02-23T15:00:00",
+        "last_modified": "2022-08-21T15:00:00",
         "position": 0,
-        "revision_id": "4b16bbe7-b014-414f-8e38-0d37279b3ae5",
+        "revision_id": "9279a545-4af5-4a43-a3d7-7b8077fbaf7f",
         "url_type": null,
-        "id": "cda7da88-0cdd-4aa5-8d08-dd70456c704d",
+        "id": "03dceea7-f160-4fab-b0b7-5601d1bac92f",
         "resource_type": null,
         "size": 2048
       }
@@ -69,17 +69,17 @@
     },
     "name": "t131164d0000000013",
     "isopen": true,
-    "url": "https://www.city.toshima.lg.jp/index.html",
+    "url": "",
     "notes": "豊島区が公開しているデータ（オープンデータ）をご覧いただけます。",
     "owner_org": "d5b667a3-96db-44d7-a5d8-f03a94f5c51b",
     "extras": [
       {
         "key": "更新頻度",
-        "value": "年1回"
+        "value": "1年に1回"
       }
     ],
     "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "title": "オープンデータ一覧",
-    "revision_id": "12b4147d-0f8b-4e91-afe3-71625b076081"
+    "revision_id": "3de3da1e-9e1e-48e6-9ebb-c575d5665ae5"
   }
 }

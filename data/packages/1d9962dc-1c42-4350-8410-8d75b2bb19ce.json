@@ -10,76 +10,76 @@
     "num_tags": 0,
     "id": "1d9962dc-1c42-4350-8410-8d75b2bb19ce",
     "metadata_created": "2022-01-04T00:25:50.031384",
-    "metadata_modified": "2022-01-04T00:25:51.118203",
+    "owner_org": "0ed84aa5-79d2-4db1-bf8d-3f4ec71815f2",
+    "metadata_modified": "2022-08-30T01:45:14.941059",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "type": "dataset",
     "resources": [
       {
-        "mimetype": null,
+        "cache_last_updated": null,
         "cache_url": null,
+        "mimetype_inner": null,
         "hash": "",
         "description": "",
-        "name": "地域・年齢別人口（令和３年10月１日現在）",
         "format": "CSV",
         "url": "https://www.opendata.metro.tokyo.lg.jp/ootaku/131113_nenreibetu_20211001.csv",
-        "cache_last_updated": null,
-        "package_id": "1d9962dc-1c42-4350-8410-8d75b2bb19ce",
         "created": "2021-12-23T09:15:00",
         "state": "active",
-        "mimetype_inner": null,
+        "package_id": "1d9962dc-1c42-4350-8410-8d75b2bb19ce",
         "last_modified": "2021-12-24T00:39:00",
+        "mimetype": null,
+        "url_type": null,
         "position": 0,
         "revision_id": "eacb0d27-e718-48d1-83ab-a75eaa993715",
-        "url_type": null,
+        "size": 1024,
         "id": "2b86c0b3-f1c0-4128-98df-440361a2949f",
         "resource_type": null,
-        "size": 1024
+        "name": "地域・年齢別人口（令和３年10月１日現在）"
       }
     ],
     "num_resources": 1,
     "tags": [],
     "groups": [
       {
-        "display_name": "生活",
+        "display_name": "人口減少・少子高齢化",
         "description": "",
-        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
-        "title": "生活",
-        "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
-        "name": "c006"
+        "title": "人口減少・少子高齢化",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c004.png",
+        "id": "802d7d18-3543-4e8b-a8f5-82b5f1aa752e",
+        "name": "c004"
       }
     ],
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "relationships_as_subject": [],
+    "name": "t131113d0000000023",
+    "isopen": true,
+    "url": "https://www.city.ota.tokyo.jp/kuseijoho/suuji/jinkou/nennreibetujinnkou.html",
+    "notes": "【大田区】住民基本台帳による年齢別人口です。",
+    "title": "地域・年齢別人口（令和３年10月１日現在）",
+    "extras": [
+      {
+        "value": "年４回",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "https://www.city.ota.tokyo.jp/",
-      "created": "2019-11-01T03:27:25.037394",
       "title": "大田区",
-      "name": "t131113",
+      "created": "2019-11-01T03:27:25.037394",
+      "approval_status": "approved",
       "is_organization": true,
       "state": "active",
       "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131113.jpg",
       "revision_id": "03b46cf2-2118-4e53-855d-1025be9188ae",
       "type": "organization",
       "id": "0ed84aa5-79d2-4db1-bf8d-3f4ec71815f2",
-      "approval_status": "approved"
+      "name": "t131113"
     },
-    "name": "t131113d0000000023",
-    "isopen": true,
-    "url": "https://www.city.ota.tokyo.jp/kuseijoho/suuji/jinkou/nennreibetujinnkou.html",
-    "notes": "【大田区】住民基本台帳による年齢別人口です。",
-    "owner_org": "0ed84aa5-79d2-4db1-bf8d-3f4ec71815f2",
-    "extras": [
-      {
-        "key": "更新頻度",
-        "value": "年３回"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
-    "title": "地域・年齢別人口（令和３年10月１日現在）",
     "revision_id": "ebe918df-62cc-4a2f-be6d-b772871eedc6"
   }
 }

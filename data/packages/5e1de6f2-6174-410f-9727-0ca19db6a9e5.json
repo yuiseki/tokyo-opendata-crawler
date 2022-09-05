@@ -10,7 +10,7 @@
     "num_tags": 0,
     "id": "5e1de6f2-6174-410f-9727-0ca19db6a9e5",
     "metadata_created": "2019-11-01T04:53:31.590275",
-    "metadata_modified": "2019-11-01T05:45:42.216131",
+    "metadata_modified": "2022-09-01T00:11:39.649132",
     "author": null,
     "author_email": null,
     "state": "active",
@@ -23,21 +23,21 @@
         "cache_url": null,
         "hash": "",
         "description": "避難場所等に関するパンフレットです。",
-        "name": "震災火災における避難場所・地区内残留地区等の指定",
+        "name": "震災時火災における避難場所・地区内残留地区等の指定",
         "format": "PDF",
-        "url": "http://www.toshiseibi.metro.tokyo.jp/bosai/hinan/pdf/pamphlet.pdf",
+        "url": "https://www.toshiseibi.metro.tokyo.lg.jp/bosai/hinan/pdf/pamphlet_09.pdf",
         "cache_last_updated": null,
         "package_id": "5e1de6f2-6174-410f-9727-0ca19db6a9e5",
-        "created": "2018-06-08T05:00:00",
+        "created": "2022-09-01T00:06:39.332523",
         "state": "active",
         "mimetype_inner": null,
-        "last_modified": "2018-06-08T05:00:00",
+        "last_modified": null,
         "position": 0,
-        "revision_id": "a841a2ec-5b9b-42bf-9934-b33f8b84848f",
+        "revision_id": "3c3cbf27-1b99-4546-919e-7142fdfcefb8",
         "url_type": null,
-        "id": "0b0120df-cc6d-4c26-a679-cce7e5d72e4e",
+        "id": "2a86bf74-b431-4a19-a3c6-71bc1e0ecd21",
         "resource_type": null,
-        "size": 3145728
+        "size": 6312427
       }
     ],
     "num_resources": 1,
@@ -70,7 +70,7 @@
     "name": "t000008d0000000025",
     "isopen": true,
     "url": "http://www.toshiseibi.metro.tokyo.jp/bosai/hinan/index.htm",
-    "notes": "【東京都都市整備局】",
+    "notes": "",
     "owner_org": "16d81025-a2ca-4002-8129-9906c94a4732",
     "extras": [
       {
@@ -80,6 +80,6 @@
     ],
     "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "title": "避難場所等に関するパンフレット",
-    "revision_id": "1924e43e-41e9-4534-8a3e-505ba55ba8db"
+    "revision_id": "f36965ac-8ec5-4a2e-b545-cfb3dfae1d58"
   }
 }

@@ -10,7 +10,7 @@
     "num_tags": 0,
     "id": "8edbd316-d499-4ac8-a015-a0bb80ce1a4a",
     "metadata_created": "2021-04-28T00:59:17.875647",
-    "metadata_modified": "2022-03-18T01:26:33.564270",
+    "metadata_modified": "2022-08-30T01:45:08.655177",
     "author": null,
     "author_email": null,
     "state": "active",
@@ -31,9 +31,9 @@
         "created": "2022-03-17T04:31:00",
         "state": "active",
         "mimetype_inner": null,
-        "last_modified": "2022-03-17T04:31:00",
+        "last_modified": "2022-03-17T04:36:00",
         "position": 0,
-        "revision_id": "93e7d140-09d1-4f36-98e2-333fb05e04e5",
+        "revision_id": "9c18a432-2947-4988-a85e-36a1aedd1b64",
         "url_type": null,
         "id": "3b609ffe-4c0b-4cff-96ef-9f24c904fbe6",
         "resource_type": null,
@@ -75,7 +75,7 @@
     "extras": [
       {
         "key": "更新頻度",
-        "value": "年１回（３月頃）"
+        "value": "年１回"
       }
     ],
     "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",

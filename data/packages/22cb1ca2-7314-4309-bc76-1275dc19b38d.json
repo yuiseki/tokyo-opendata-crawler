@@ -1,0 +1,85 @@
+{
+  "help": "https://catalog.data.metro.tokyo.lg.jp/api/3/action/help_show?name=package_show",
+  "success": true,
+  "result": {
+    "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
+    "maintainer": "台東保健所　生活衛生課医務薬事衛生担当",
+    "relationships_as_object": [],
+    "private": false,
+    "maintainer_email": null,
+    "num_tags": 0,
+    "id": "22cb1ca2-7314-4309-bc76-1275dc19b38d",
+    "metadata_created": "2022-08-30T06:58:57.741189",
+    "metadata_modified": "2022-08-30T06:59:03.121072",
+    "author": null,
+    "author_email": null,
+    "state": "active",
+    "version": null,
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "type": "dataset",
+    "resources": [
+      {
+        "mimetype": null,
+        "cache_url": null,
+        "hash": "",
+        "description": "薬局の一覧です",
+        "name": "薬局一覧",
+        "format": "HTML",
+        "url": "https://www.city.taito.lg.jp/kenkohukusi/kenkokikikanrieisei/imuyakujieisei/iryoshisetsu_ichiran.html",
+        "cache_last_updated": null,
+        "package_id": "22cb1ca2-7314-4309-bc76-1275dc19b38d",
+        "created": "2022-06-23T15:00:00",
+        "state": "active",
+        "mimetype_inner": null,
+        "last_modified": "2022-06-27T15:00:00",
+        "position": 0,
+        "revision_id": "571672a1-1f69-40a3-a9a1-13d1e1bb1208",
+        "url_type": null,
+        "id": "ef95eb34-2523-457d-b9f1-879d908b3d02",
+        "resource_type": null,
+        "size": null
+      }
+    ],
+    "num_resources": 1,
+    "tags": [],
+    "groups": [
+      {
+        "display_name": "医療・福祉",
+        "description": "",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c005.png",
+        "title": "医療・福祉",
+        "id": "0d3cd956-612c-45c5-b1ee-75c1a5835c0e",
+        "name": "c005"
+      }
+    ],
+    "license_id": "CC-BY-4.0",
+    "relationships_as_subject": [],
+    "organization": {
+      "description": "http://www.city.taito.lg.jp/",
+      "created": "2019-11-01T03:27:24.733512",
+      "title": "台東区",
+      "name": "t131067",
+      "is_organization": true,
+      "state": "active",
+      "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131067.png",
+      "revision_id": "0166c313-a6d1-4eee-9282-f9bacc692e27",
+      "type": "organization",
+      "id": "72ddc2e3-f5ca-4fae-aca0-2e299cc0a94a",
+      "approval_status": "approved"
+    },
+    "name": "t131067d0000000117",
+    "isopen": true,
+    "url": "https://www.city.taito.lg.jp/kenkohukusi/kenkokikikanrieisei/imuyakujieisei/iryoshisetsu_ichiran.html",
+    "notes": "",
+    "owner_org": "72ddc2e3-f5ca-4fae-aca0-2e299cc0a94a",
+    "extras": [
+      {
+        "key": "更新頻度",
+        "value": "月1回"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
+    "title": "薬局一覧",
+    "revision_id": "e4a7c93a-3b09-4067-bea4-ea04d81c9b7a"
+  }
+}

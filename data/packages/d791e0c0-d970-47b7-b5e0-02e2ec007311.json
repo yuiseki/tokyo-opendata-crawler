@@ -3,18 +3,18 @@
   "success": true,
   "result": {
     "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
-    "maintainer": "大田区健康政策部\n感染症対策課",
+    "maintainer": "大田区健康政策部感染症対策課",
     "relationships_as_object": [],
     "private": false,
-    "maintainer_email": null,
+    "maintainer_email": "",
     "num_tags": 0,
     "id": "d791e0c0-d970-47b7-b5e0-02e2ec007311",
     "metadata_created": "2022-02-21T02:49:30.196432",
-    "metadata_modified": "2022-06-28T06:10:10.521681",
-    "author": null,
-    "author_email": null,
+    "metadata_modified": "2022-08-30T02:30:13.033993",
+    "author": "",
+    "author_email": "",
     "state": "active",
-    "version": null,
+    "version": "",
     "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "type": "dataset",
     "resources": [
@@ -28,12 +28,12 @@
         "url": "https://www.opendata.metro.tokyo.lg.jp/ootaku/131113_hibetsukansen.xlsx",
         "cache_last_updated": null,
         "package_id": "d791e0c0-d970-47b7-b5e0-02e2ec007311",
-        "created": "2022-06-07T02:26:00",
+        "created": "2022-08-11T23:41:00",
         "state": "active",
         "mimetype_inner": null,
-        "last_modified": "2022-06-23T06:07:00",
+        "last_modified": "2022-08-11T23:41:00",
         "position": 0,
-        "revision_id": "40ff7709-98f8-4d7c-ae64-259e36bd4aa5",
+        "revision_id": "1cd0ee9c-b84a-43a6-a25a-bcb75426f912",
         "url_type": null,
         "id": "effed11a-b6b1-4b5f-8fae-5048372b028c",
         "resource_type": null,
@@ -79,7 +79,7 @@
       }
     ],
     "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
-    "title": "新型コロナウイルス感染症感染者数（日別）（令和４年６月２日時点）",
-    "revision_id": "7186be02-c464-4222-9a57-28944fe6842d"
+    "title": "新型コロナウイルス感染症感染者数（日別）（令和４年8月1日時点）",
+    "revision_id": "1ffc7377-bcd6-4d5f-bbfb-c723c8bc1fd6"
   }
 }

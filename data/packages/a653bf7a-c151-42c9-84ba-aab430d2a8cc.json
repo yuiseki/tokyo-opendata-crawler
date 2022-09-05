@@ -3,14 +3,14 @@
   "success": true,
   "result": {
     "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
-    "maintainer": "政策経営部情報管理課",
+    "maintainer": "",
     "relationships_as_object": [],
     "private": false,
     "maintainer_email": null,
     "num_tags": 0,
     "id": "a653bf7a-c151-42c9-84ba-aab430d2a8cc",
     "metadata_created": "2022-04-12T23:23:18.920908",
-    "metadata_modified": "2022-04-12T23:23:22.952503",
+    "metadata_modified": "2022-08-24T00:03:02.994691",
     "author": null,
     "author_email": null,
     "state": "active",
@@ -25,19 +25,19 @@
         "description": "",
         "name": "公共施設一覧",
         "format": "CSV",
-        "url": "https://www.city.toshima.lg.jp/020/kuse/electronic/open-data/documents/r3_public_facility.csv",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/toyoshima/R4_public_facility.csv",
         "cache_last_updated": null,
         "package_id": "a653bf7a-c151-42c9-84ba-aab430d2a8cc",
-        "created": "2022-02-23T15:00:00",
+        "created": "2022-04-12T23:23:00",
         "state": "active",
         "mimetype_inner": null,
-        "last_modified": "2022-02-23T15:00:00",
+        "last_modified": "2022-08-21T15:00:00",
         "position": 0,
-        "revision_id": "27320e69-2293-4048-b914-0b9703bd1021",
+        "revision_id": "c023ab59-d24b-4098-a60f-e68e699a98ab",
         "url_type": null,
-        "id": "677a49fe-5473-47ed-8309-ee9046b9d600",
+        "id": "472e6a97-b350-4909-a939-76530a570324",
         "resource_type": null,
-        "size": 73728
+        "size": 78848
       }
     ],
     "num_resources": 1,
@@ -69,17 +69,17 @@
     },
     "name": "t131164d0000000010",
     "isopen": true,
-    "url": "https://www.city.toshima.lg.jp/index.html",
+    "url": "",
     "notes": "豊島区が公開しているデータ（オープンデータ）をご覧いただけます。",
     "owner_org": "d5b667a3-96db-44d7-a5d8-f03a94f5c51b",
     "extras": [
       {
         "key": "更新頻度",
-        "value": "年1回"
+        "value": "1年に1回"
       }
     ],
     "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "title": "公共施設一覧",
-    "revision_id": "2e3a5240-d123-498f-83e8-d32ecf1dd56c"
+    "revision_id": "61d07791-232f-4c14-8682-b412af6c508d"
   }
 }

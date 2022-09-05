@@ -10,34 +10,35 @@
     "num_tags": 0,
     "id": "fb7fc1fd-5a4a-4ec6-8e04-8df98b2a95dd",
     "metadata_created": "2021-06-10T01:43:19.005831",
-    "metadata_modified": "2021-06-10T01:43:24.675627",
+    "owner_org": "0ed84aa5-79d2-4db1-bf8d-3f4ec71815f2",
+    "metadata_modified": "2022-08-30T01:45:09.604155",
     "author": null,
     "author_email": null,
     "state": "active",
     "version": null,
-    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
+    "license_id": "CC-BY-4.0",
     "type": "dataset",
     "resources": [
       {
-        "mimetype": null,
+        "cache_last_updated": null,
         "cache_url": null,
+        "mimetype_inner": null,
         "hash": "",
         "description": "",
-        "name": "区立小学校一覧",
         "format": "xisx",
         "url": "https://www.opendata.metro.tokyo.lg.jp/ootaku/131113_shougakkou.xlsx",
-        "cache_last_updated": null,
-        "package_id": "fb7fc1fd-5a4a-4ec6-8e04-8df98b2a95dd",
         "created": "2021-05-24T05:37:00",
         "state": "active",
-        "mimetype_inner": null,
+        "package_id": "fb7fc1fd-5a4a-4ec6-8e04-8df98b2a95dd",
         "last_modified": "2021-05-27T00:32:00",
+        "mimetype": null,
+        "url_type": null,
         "position": 0,
         "revision_id": "bf947957-142c-4df2-bfde-6576422a7b14",
-        "url_type": null,
+        "size": 18432,
         "id": "c7590de2-d840-47e3-b202-4782a0d7a937",
         "resource_type": null,
-        "size": 18432
+        "name": "区立小学校一覧"
       }
     ],
     "num_resources": 1,
@@ -46,40 +47,39 @@
       {
         "display_name": "生活",
         "description": "",
-        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
         "title": "生活",
+        "image_display_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/group/c006.png",
         "id": "7cdfb7bf-a63a-45d1-aece-25fb83aec4f0",
         "name": "c006"
       }
     ],
-    "license_id": "CC-BY-4.0",
+    "creator_user_id": "759cdcb3-5319-491c-838e-590e17c52b90",
     "relationships_as_subject": [],
+    "name": "t131113d0000000011",
+    "isopen": true,
+    "url": "https://www.city.ota.tokyo.jp/shisetsu/shougakkou/index.html",
+    "notes": "【大田区】大田区立小学校の一覧です。",
+    "title": "区立小学校一覧",
+    "extras": [
+      {
+        "value": "年１回",
+        "key": "更新頻度"
+      }
+    ],
+    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "organization": {
       "description": "https://www.city.ota.tokyo.jp/",
-      "created": "2019-11-01T03:27:25.037394",
       "title": "大田区",
-      "name": "t131113",
+      "created": "2019-11-01T03:27:25.037394",
+      "approval_status": "approved",
       "is_organization": true,
       "state": "active",
       "image_url": "https://catalog.data.metro.tokyo.lg.jp/tokyo_od_theme/images/organization/t131113.jpg",
       "revision_id": "03b46cf2-2118-4e53-855d-1025be9188ae",
       "type": "organization",
       "id": "0ed84aa5-79d2-4db1-bf8d-3f4ec71815f2",
-      "approval_status": "approved"
+      "name": "t131113"
     },
-    "name": "t131113d0000000011",
-    "isopen": true,
-    "url": "https://www.city.ota.tokyo.jp/shisetsu/shougakkou/index.html",
-    "notes": "【大田区】大田区立小学校の一覧です。",
-    "owner_org": "0ed84aa5-79d2-4db1-bf8d-3f4ec71815f2",
-    "extras": [
-      {
-        "key": "更新頻度",
-        "value": "年１回"
-      }
-    ],
-    "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
-    "title": "区立小学校一覧",
     "revision_id": "3e89e6e2-ea68-47b5-a902-42cfc5ecb5c1"
   }
 }

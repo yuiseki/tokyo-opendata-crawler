@@ -3,14 +3,14 @@
   "success": true,
   "result": {
     "license_title": "クリエイティブ・コモンズ 表示（CC BY）",
-    "maintainer": "政策経営部情報管理課",
+    "maintainer": "",
     "relationships_as_object": [],
     "private": false,
     "maintainer_email": null,
     "num_tags": 0,
     "id": "104f3a34-39c9-406d-82be-af19deefd66a",
     "metadata_created": "2022-04-12T23:23:17.240103",
-    "metadata_modified": "2022-04-12T23:23:20.969878",
+    "metadata_modified": "2022-08-24T00:00:01.160872",
     "author": null,
     "author_email": null,
     "state": "active",
@@ -25,19 +25,19 @@
         "description": "",
         "name": "介護サービス事業所一覧",
         "format": "CSV",
-        "url": "https://www.city.toshima.lg.jp/020/kuse/electronic/open-data/documents/r3_care_service.csv",
+        "url": "https://www.opendata.metro.tokyo.lg.jp/toyoshima/R4_care_service.csv",
         "cache_last_updated": null,
         "package_id": "104f3a34-39c9-406d-82be-af19deefd66a",
-        "created": "2022-02-23T15:00:00",
+        "created": "2022-04-12T23:23:00",
         "state": "active",
         "mimetype_inner": null,
-        "last_modified": "2022-02-23T15:00:00",
+        "last_modified": "2022-08-21T15:00:00",
         "position": 0,
-        "revision_id": "e0c85ced-37c9-45b8-9b36-b8252a02e992",
+        "revision_id": "0403162c-65f0-42b9-835a-438505e2319c",
         "url_type": null,
-        "id": "403b3273-5b54-4f5c-947c-efe6974a42a8",
+        "id": "585ebda6-b335-46ae-aa2e-43fb7bef197f",
         "resource_type": null,
-        "size": 76800
+        "size": 74752
       }
     ],
     "num_resources": 1,
@@ -69,17 +69,17 @@
     },
     "name": "t131164d0000000004",
     "isopen": true,
-    "url": "https://www.city.toshima.lg.jp/index.html",
+    "url": "",
     "notes": "豊島区が公開しているデータ（オープンデータ）をご覧いただけます。",
     "owner_org": "d5b667a3-96db-44d7-a5d8-f03a94f5c51b",
     "extras": [
       {
         "key": "更新頻度",
-        "value": "年1回"
+        "value": "1年に1回"
       }
     ],
     "license_url": "https://creativecommons.org/licenses/by/4.0/deed.ja",
     "title": "介護サービス事業所一覧",
-    "revision_id": "a41e825f-06ca-43b1-9710-e694b5651f83"
+    "revision_id": "482671d1-0a40-45c6-9068-06757a2b2408"
   }
 }
