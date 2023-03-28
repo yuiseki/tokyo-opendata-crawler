@@ -10,7 +10,7 @@ all: \
 	$(DATADIR)/domains.txt \
 	data/packages/finished.txt \
 	data/groups.txt \
-	data/title.csv
+	data/titles.csv
 
 clean:
 	rm data/packages/started.txt
